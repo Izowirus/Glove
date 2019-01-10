@@ -1,0 +1,27 @@
+epa04793144 A participant points to his laptop screen before the start of the Potsdam Conference for National Cyber Security at the Hasso Plattner Institute in Potsdam, Germany, 11 June 2015. Representatives form politics, administration, economics, and science are convening to discuss courses of action in cyber security at the conference, which is taking place for the third time.  EPA/RALF HIRSCHBERGER 
+Dostawca: PAP/EPA. Archiwum PAP/EPA © 2018 / RALF HIRSCHBERGER
+                                        
+
+            Sztuczna inteligencja w prostych grach lepiej sobie radziła ze współpracą z innymi, niż ochotnicy. Taka zdolność będzie potrzebna inteligentnym maszynom, towarzyszącym ludziom, którzy od komputerów mogą się też sporo nauczyć.
+      
+            Komputery udowodniły już, że potrafią bezlitośnie wygrywać z ludźmi w szachy i inne gry. Naukowcy z Brigham Young University (USA) wykorzystali teraz rozgrywki, w których liczy się współpraca, aby sprawdzić, jak sztuczna inteligencja w takiej sytuacji sobie może poradzić.
+
+To podstawowy problem do rozwiązania, jeśli inteligentne maszyny miałyby towarzyszyć na co dzień człowiekowi. Do tego, jak się wydaje, zmierza rozwój robotyki i informatyki.
+
+"Ostatecznym celem jest zrozumienie matematycznych podstaw stojących za współpracą z ludźmi i tego, jakich cech potrzebuje sztuczna inteligencja, aby rozwinąć kompetencje społeczne" - wyjaśnia jeden z autorów eksperymentu prof. Jacob Crandall. "AI (ang. artificial intelligence - sztuczna inteligencja, przyp. red) musi być zdolna do komunikacji z nami i artykułowania tego, co robi. Musi być zdolna do interakcji z ludźmi" - mówi badacz.
+
+Autorzy pracy opublikowanej w piśmie "Nature Communications" stworzyli program obejmujący zagadnienia kooperacji, który pełnił rolę gracza w serii dwuosobowych gier opartych m.in. na współpracy.
+
+Badacze sprawdzili przebieg gier między ludźmi, między komputerami oraz między komputerem i człowiekiem. W większości przypadków algorytm radził sobie lepiej od ludzi w znajdowaniu korzystnych dla obu stron kompromisów.
+
+"Jeśli dwie osoby byłyby uczciwe i lojalne, poradziłyby sobie równie dobrze jak maszyny" - mówi prof. Crandall. "Jednak ok. połowa osób skłamała w jakimś momencie. W zasadzie nasz komputerowy algorytm uczy się, że moralność jest dobra. Jest tak zaprogramowany, aby nie kłamać, a także uczy się podtrzymywać współpracę, jeśli taka powstanie" - opowiada specjalista.
+
+Naukowcy poszli o krok dalej i nauczyli program posługiwania się słownymi komunikatami. Kiedy ludzie z nim współpracowali, program mówił np. "świetnie, stajemy się bogaci", czy "akceptuję twoją ofertę". Jeśli jednak człowiek oszukiwał, komputer stawał się niemiły i wyrażał to np. słowami: "zapłacisz za to".
+
+Ta zdolność do prostej rozmowy okazała się wyjątkowo skuteczna. Ochotnicy często nie byli w stanie stwierdzić, czy grają z człowiekiem czy z maszyną. Co więcej, dzięki tym komunikatom aż dwa razy częściej byli skłonni do nawiązywania współpracy.
+
+Autorzy badania mają nadzieję, że uzyskane przez nich wyniki będą miały daleko idące konsekwencje, nie tylko dla rozwoju sztucznej inteligencji.
+
+"W społeczeństwie, relacje cały czas się rozpadają" - mówi prof. Crandall. "Ludzie, którzy przez lata byli przyjaciółmi, nagle stają się wrogami. Ponieważ maszyny są często lepsze w osiąganiu korzystnych kompromisów niż my, być może mogą nas nauczyć, jak robić to lepiej" - zastanawia się badacz.
+
+Więcej informacji na stronie: https://www.nature.com/articles/s41467-017-02597-8#Sec7

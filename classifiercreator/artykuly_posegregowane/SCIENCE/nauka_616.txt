@@ -1,0 +1,21 @@
+Przeznaczony do precyzyjnych oprysków robot rolniczy Żukbot m. in. dzięki systemowi kamer i bardzo dużej bazie danych zdrowych i chorych liści jest w stanie odróżnić chwast od pożytecznej rośliny - powiedział PAP jego współkonstruktor Mateusz Dyrda ze Stowarzyszenia Robotyków SKALP.
+
+      
+            Żukbot to pojazd autonomiczny, korzystający z lokalizacji GPS, przeznaczony do precyzyjnych oprysków. Skonstruowali go studenci Politechniki Gdańskiej z myślą o udziale w międzynarodowych zawodach robotów studenckich.
+
+Robot zajął 1. miejsce w kategorii precyzyjnego oprysku podczas Field Robot Event organizowanego na Harper Adams University w Wielkiej Brytanii.
+
+"Jest wyposażony w serię kamer, czujników odległości i laserowych - dzięki temu wie, gdzie jest, wie, gdzie patrzy i dzięki temu jest w stanie odróżnić chwast od pożytecznej rośliny" - powiedział PAP współkonstruktor robota Mateusz Dyrda.
+
+"Podczas planowania robota postanowiliśmy, że należy wykorzystać najnowsze technologie, czyli m.in. zastosować głębokie uczenie maszynowe" - mówił Dyrda.
+ 
+
+Jak tłumaczył: "dzięki przetwarzaniu obrazu z kamer i dzięki bardzo dużej bazie danych zdrowych i chorych liści jesteśmy w stanie utworzyć model matematyczny tych cech chorych roślin, które następnie może wykryć program komputerowy".
+
+"Żukbot to przyszłość rolnictwa" – stwierdził Dyrda. I dodał: "przyszłe rolnictwo to coś precyzyjnego, to rolnictwo bardzo wydajne, które nie musi używać dużej ilości chemikaliów".
+
+Jego zdaniem "to rolnictwo, które dzięki zaawansowanych technologiom, dzięki rozpoznawaniu obrazu jest w stanie w szybki, skuteczny i ekologiczny sposób produkować żywność".
+
+Sukces Żukbota skłonił jego konstruktorów do założenia własnego, niezależnego Stowarzyszenia Robotyków SKALP. Zespół liczy na możliwość udoskonalenia robota i podjęcia komercyjnej jego produkcji. Inne ich udane konstrukcje to autonomiczny pojazd podwodny i łazik marsjański, który wziął już udział w wielu zawodach robotów studenckich.
+
+"Największym marzeniem naszego zespołu jest zobaczyć za kilka, kilkanaście lat serię takich Żukbotów jeżdżących po polu, zajmujących się małymi roślinkami" – powiedział Dyrda.

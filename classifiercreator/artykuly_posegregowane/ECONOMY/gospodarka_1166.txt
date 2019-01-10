@@ -1,0 +1,21 @@
+epa05960672 A programer shows a sample of decrypting source code in Taipei, Taiwan, 13 May, 2017. According to news reports, a 'WannaCry' ransomware cyber attack hits thousands of computers in 99 countries encrypting files from affected computer units and demanding 300 US dollars through bitcoin to decrypt the files.  EPA/RITCHIE B. TONGO 
+Dostawca: PAP/EPA. Archiwum PAP/EPA © 2018 / RITCHIE B. TONGO
+                                        
+
+            Nawet dobrze zabezpieczona potężna firma czy instytucja może paść ofiarą hakerów - coraz częściej włamują się oni do nich nie bezpośrednio, lecz za pośrednictwem słabiej chronionych partnerów biznesowych - przestrzegają informatycy śledczy.
+      
+            Podkreślają, że "hakowanie na trzeciego" to coraz poważniejszy problem.
+
+Według szacunków brytyjskiej firmy ubezpieczeniowej Beazley, w pierwszej połowie ubiegłego roku około 30 proc. wszystkich wycieków danych było związanych z takim działaniem. Z kolei według badania amerykańskiej firmy Soha Systems wynika, aż 63 proc. ankietowanych firm wskazało bezpośrednio lub pośrednio na ten rodzaj ataków jako przyczynę wycieku danych.
+
+Ofiarami hakerów padły m.in. sieć handlowa Target, Philips, Netflix, czy Amerykański Urząd Podatkowy. Także w Polsce zdarzyło się, że poprzez zainfekowanie serwerów Komisji Nadzoru Finansowego cyberprzestępcy prawdopodobnie próbowali włamać się do polskich banków.
+
+Rynek cyberbezpieczeństwa w 2017 roku wart był - według szacunkowych danych - około 120 miliardów dolarów. Duże firmy i korporacje starają jak najlepiej zabezpieczyć się przed cyberatakami. Z kolei cyberprzestępcy stale szukają jak najłatwiejszej drogi realizacji swoich działań. Skoro nie mogą włamać się bezpośrednio do firmy mającej być ofiarą ataku, robią to poprzez zewnętrznych dostawców. Są to zwykle mniejsze przedsiębiorstwa i nie są tak dobrze chronione.
+
+"Obecne cyberataki poprzedzone są wielotygodniowym cybernetycznym rozpoznaniem celu i to zarówno systemów bezpieczeństwa, jak i jego otoczenia biznesowego, a nawet poszczególnych pracowników" - wyjaśnił Sebastian Małycha, prezes laboratorium Mediarecovery, które wykonuje badania na zlecenie organów ścigania, firm i osób prywatnych.
+
+Bezpieczeństwo IT skupia się przede wszystkim na zagrożeniach zewnętrznych. To na tego typu systemy jest wydawanych najwięcej pieniędzy, a i sami specjaliści uznają je za najbardziej możliwe. Według informatyków śledczych, nie odpowiada to jednak współczesnym zagrożeniom. Jak obrazowo mówią specjaliści, przypomina to budowę potężnej twierdzy, z murami obronnymi i fosą, a jednocześnie brakiem kontroli wozów dostarczających zaopatrzenie.
+
+W opinii specjalistów, także przed tym można się obronić, korzystając z rozwiązań, które pozwalają monitorować, kontrolować i rejestrować każde działanie w ramach systemów informatycznych prowadzone przez zewnętrznych kooperantów w tzw. sesjach zdalnych.
+
+"Systemy takie, jak Wheel Systems Fudo, pozwalają wręcz na podgląd w czasie rzeczywistym wszystkich operacji wykonywanych przez współpracowników zewnętrznych" - wyjaśnił Małycha. Dzięki temu w każdej chwili można przerwać "hakowanie na trzeciego", jeśli osoby odpowiedzialne za bezpieczeństwo uznają, że mają do czynienia z cyberatakiem.

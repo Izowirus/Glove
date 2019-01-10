@@ -1,0 +1,25 @@
+epa06053461 A mirror reflects a computer screen displaying binary code in Taipei, Taiwan, 28 June 2017. Kaspersky Lab reported that the malware, despite resembling 'Petya' malware that affected computers last year, is believed to be a new type of ransomware, which the cybersecurity company called 'ExPetr'. The ransomware has reportedly affected mostly Ukraine and Russia and several cases were also found in Poland, Italy, Britain, Germany, France, the US and several other countries, with around 2,000 cases reported so far. The ransomware has reportedly affected US pharmaceutical giant Merck, Russia's oil producer Rosneft, Ukrainian central bank, Spanish food company Mondelez, Australia's Cadbury chocolate factory and French shipping company TNT, among other global companies.  EPA/RITCHIE B. TONGO 
+Dostawca: PAP/EPA. Archiwum PAP/EPA © 2018 / RITCHIE B. TONGO
+                                        
+
+            54,5 proc. firm doświadczyło cyberataku, ale tylko 33,6 proc. ocenia, że ma prawidłowy poziom zabezpieczeń, choć dla 85 proc. kwestia zabezpieczania firmowych danych jest istotna - wynika z raportu "Cyberbezpieczeństwo polskich firm 2018", przygotowanego przez firmę VECTO.
+      
+            W raporcie napisano, że choć polskie firmy przyglądają się kwestiom zabezpieczeń przed nowymi zagrożeniami z cyfrowej przestrzeni, to jedynie 33,6 proc. ankietowanych oceniło poziom zabezpieczeń w swoich firmach, jako prawidłowy.
+
+"Przeciwnego zdania było aż 38 proc. respondentów. Podczas, gdy na świecie firmy bardzo szybko zwiększają wydatki na modernizację systemów informatycznych i wszelkiego rodzaju zabezpieczeń, w Polsce niestety dominuje postawa oczekiwania" - napisano w raporcie.
+
+Zdaniem autorów raportu, to praktyka bardzo nierozsądna, bowiem wskutek ataku hackera można stracić kontrolę nad zasobami lub całym procesem produkcyjnym. Paraliż operacyjny może skutkować ogromnymi kosztami, a utrata wszystkich danych unicestwić marzenia o biznesowym sukcesie.
+
+"Zdaniem ponad 83 proc. ankietowanych, atak cyberprzestępców na system informatyczny może wpłynąć na funkcjonowanie przedsiębiorstwa. Tymczasem 61 proc. z nich stwierdziło, że nie korzysta z usług specjalistów od bezpieczeństwa. Widać zatem zadziwiającą niekonsekwencję i igranie z ogniem. Takie podejście można oczywiście tłumaczyć oszczędnościami, ale w przypadku - zwłaszcza firm dużych - to także przykład niefrasobliwości i niedoceniania zagrożenia" – ocenia cytowany w raporcie Jakub Wychowański z VECTO.
+
+W dokumencie zwrócono uwagę, że coraz częstszym źródłem problemów jest nieostrożne korzystanie ze smartfonów i tabletów, które przez wielu użytkowników traktowane są jako podręczne komputery. Zauważono, że chronimy nasze służbowe komputery, czy serwery, jednak 72 proc. z wszystkich wykrytych w 2017 roku zagrożeń dotyczyło urządzeń mobilnych. Wskazano, że co 10 sekund pojawia się nowa odmiana złośliwego oprogramowania atakującego system Android, zwiększając niebezpieczeństwo zainfekowania o 50 proc. względem ubiegłego roku.
+
+"Przeprowadzane przez VECTO audyty wskazują, że większość polskich firm wciąż nie rozumie, że telefon podłączony do firmowej sieci wi-fi może stanowić furtkę, przez którą cyberprzestępcy dokonują ingerencji w system IT, kradną lub szyfrują dane, niszczą zasoby informatyczne" – przestrzega Wychowański.
+
+Autorzy badania zapytali ankietowanych m.in. o biznesowe konsekwencje ewentualnych ataków hackerskich. Najwyższej ocenioną odpowiedzią (4,2 pkt) była obawa o znaczne osłabienie wizerunku oraz zaufania. Nieco niższy wynik (4,1 pkt.) uzyskała odpowiedź wskazująca, że atak może doprowadzić do strat finansowych firmy.
+
+Według autorów raportu, taki rozkład odpowiedzi – choć różnice są wciąż niewielkie – pokazuje, że w mentalności polskich przedsiębiorstw doszło do poważnej przemiany. Potencjalne straty wizerunkowe ocenione zostały bowiem jako bardziej dotkliwe, niż spadek przychodów.
+
+"Widać, że zarówno przedsiębiorcy, jak i pracownicy zrozumieli już, że straty finansowe można odrobić łatwiej, niż pozbyć się rys na wizerunku i zaufaniu klientów i partnerów biznesowych" - oceniono.
+
+Jak wyjaśniono w raporcie, badanie było przeprowadzone od kwietnia do końca września 2017 r. na próbie niemal 430 przedsiębiorstw. Największa próba poddana została badaniu w formie kwestionariusza internetowego, stosowane były też ankiety w formie papierowej oraz e-mailowej. Dominowali przedstawiciele firm średnich i dużych. Przedsiębiorstwa zatrudniające 6-10 osób stanowiły 28,4 proc. ogółu badanych, zatrudniające 11-50 osób – 26,8 proc. Co czwarta ankietowana firma była reprezentantem firm małych, z zatrudnieniem do 5 osób, a firmy największe z ponad 50-osbowymi zespołami stanowiły 21,2 proc. badanych przedsiębiorstw.

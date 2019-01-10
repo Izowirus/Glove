@@ -1,0 +1,19 @@
+Wizualizacje wnętrz w wirtualnej rzeczywistości umożliwiają spacer po projektowanych domach, mieszkaniach czy dużych inwestycjach przemysłowych. Dają możliwość np. zmiany kolorów ścian czy elementów wyposażenia wnętrza podczas jego oglądania.
+      
+            Jedną z pierwszych firm w Polsce, która wdraża wizualizacje wnętrz w wirtualnej rzeczywistości jest InPlanner, założona przez absolwentów Politechniki Łódzkiej, która działa w Inkubatorze Technologicznym łódzkiego Technoparku.
+
+Jak podkreślają przedstawiciele firmy, aranżacji wnętrz od zawsze towarzyszy problem przedstawienia zamysłu projektanta w sposób zrozumiały dla większości osób, a stosowane obecnie fotorealistyczne wizualizacje mają szereg wad - przede wszystkim brak głębi. Łódzka firma tworzy wizualizacje architektoniczne w wirtualnej rzeczywistości, wykorzystując do tego najnowsze elementy techniki, czyli m.in. gogle VR.
+
+"Dzięki takim sposobom wizualizacji przede wszystkim jest lepsze poczucie głębi, skali obiektu, możemy zwiedzić każdy zakątek mieszkania, obejrzeć go z bliska i z daleka, z różnych perspektyw, prawie dotknąć" - powiedział PAP szef firmy Adam Preś.
+
+
+
+Jak dodał, praca nad wizualizacją zaczyna się od pozyskania modelu, bądź stworzenia go indywidualnie. "Następnie nakładamy tekstury na taki model, pracujemy nad tym, aby wyglądały one możliwie realistycznie, aby była ich odpowiednia połyskliwość, chropowatość i później dopracowujemy kwestię wizualną ustawiając odpowiednio światła" - dodał.
+
+Spacer po wirtualnym mieszkaniu jest możliwy przy pomocy gogli VR oraz dwóch kontrolerów. Jak wyjaśnił Paweł Romanowski, ruchy użytkownika wykonywane w świecie realnym, zostają odzwierciedlone w wirtualnej rzeczywistości. Dodatkowo przy pomocy kontrolerów istnieje możliwość teleportacji na większe odległości, np. na wyższe kondygnacje.
+
+Spacer - zdaniem twórców wirtualnych projektów - daje ogromne możliwości prezentacji i aranżacji. Możliwa jest na przykład zmiana koloru ścian, czy elementów wyposażenia w trakcie oglądania. Podczas spaceru można także otwierać i zamykać drzwi, przemieszczać przedmioty czy zapalać i gasić światła.
+
+"Dzięki temu w przypadku, kiedy architekt ma kilka koncepcji odnośnie danego projektu, klient w czasie rzeczywistym może sobie zmienić np. kolor ścian, płytki na podłodze i zdecydować się na tę aranżację, która ostatecznie mu pasuje" - dodał Romanowski.
+
+Spacery po wirtualnych wnętrzach możliwe są nie tylko za pomocą gogli VR, ale także na komputerach w formie gry oraz smartfonach za pomocą cardboardów. Odbiorcami takich wirtualnych wizualizacji - zdaniem autorów - mogą być nie tylko architekci, czy indywidualni klienci, ale także inwestorzy i deweloperzy, którzy mogą przedstawić swoje obiekty w sposób niestandardowy i np. ograniczyć do minimum liczbę tzw. mieszkań pokazowych.

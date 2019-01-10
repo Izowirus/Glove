@@ -1,0 +1,27 @@
+Student medycyny Uniwersytetu Jagiellońskiego Jan Witowski opracował innowacyjną, prawdopodobnie najtańszą na świecie metodę druku modeli wątroby 3D. Wydrukowane egzemplarze już pomagają operować pojedynczych pacjentów.
+      
+            Operacje z wykorzystaniem wydrukowanych modeli wątroby 3D są rzadkością. Przeszkodą są przede wszystkim koszty. Student z Krakowa liczy na to, że dzięki jego metodzie uda się spopularyzować druki wątroby 3D, które przysłużą się medycynie i będą pomagać podczas operacji.
+
+Druki 3D modeli narządów, ułatwiające diagnozę i operację chorego, coraz częściej znajdują zastosowanie w medycynie. Jednak druki wątroby należą do rzadkości. „Wątroba to skomplikowany anatomicznie narząd i wydrukowanie go jest również koszt produkcji jednego modelu to 400-500 zł, podczas gdy pozostałych, zagranicznych modeli – kilkanaście tys. zł” – mówi Jan Witowski.
+
+Młody naukowiec jako jeden z nielicznych na świecie, i jako jedyny Polak, opracował metodę druku wątroby 3D; jego rozwiązanie jest prawdopodobnie najtańsze na świecie.
+
+Niskie koszty produkcji schematu narządu według polskiego projektu wynikają przede wszystkim z możliwości druku w przeciętnej drukarce 3D. Zagraniczne modele są tak skonstruowane, że do ich wydruku potrzebna jest specjalistyczna, droga maszyna.
+
+Drogie drukarki wykorzystują do druku przede wszystkim żywice (przezroczyste, kolorowe, elastyczne) – dzięki temu modele wychodzą całe z drukarki. Zgodnie z projektem Witowskiego plastikowe elementy modelu (odpowiedniki wnętrza wątroby) drukowane są osobno, a później „zalewane” odpowiednim silikonem (który przybiera kształt wątroby).
+
+
+
+Polskiemu naukowcowi udało się znaleźć materiał, który będzie przezroczysty (model wątroby musi być przezroczysty, by było widać wewnętrzną strukturę narządu) i będzie zastępował przezroczystą żywicę w drogich drukarkach. „Wybrany przez nas silikon świetnie się sprawdza, więc możemy ominąć bardzo drogie maszyny i używać zwykłych drukarek, które można dosłownie postawić na biurku” – wyjaśnia młody konstruktor.
+
+„Nasze rozwiązanie nie jest w niczym gorsze niż to wielokrotnie droższe, proponowane za granicą” - zapewnia.
+
+Na razie model Witowskiego znajduje zastosowanie w Szpitalu Uniwersyteckim w Krakowie, jednak zainteresowanie tym schematem rośnie wśród chirurgów polskich i zagranicznych. O wynalazku pisze już specjalistyczna prasa zagraniczna.
+
+Model wątroby 3D dokładnie odwzorowuje strukturę chorego narządu, dzięki czemu pozwala lekarzom w trakcie operacji bardziej precyzyjnie niż tomografia komputerowa znaleźć lokalizację zmienionych tkanek, w tym guzów, których położenie bywa ciężkie do wykrycia przy pomocy standardowych metod obrazowania.
+
+"Z ogromnym entuzjazmem podchodzimy do tego typu modeli, bo pozwalają przedoperacyjnie wyjaśnić niektóre zawiłości anatomiczne, które mogą nas zaskoczyć w czasie operacji. Dzięki takim wydrukom wiemy, jaką strukturę ma narząd, co ułatwia planowanie i przebieg operacji” – mówi chirurg w Szpitalu Uniwersyteckim w Krakowie, dr hab. Michał Pędziwiatr.
+
+Jak wyjaśnił, głównym wskazaniem do operacji wątroby są przerzuty innych nowotworów (głównie raka jelita grubego) do tego narządu. Lekarz dodał, że nie ma wielu ośrodków w Polsce, które zajmują się operacjami wątroby i w związku z tym „wydaje się, że liczba pacjentów wymagających operacji jest większa niż liczba miejsc, w których można te operacje wykonać”.
+
+Beata Kołodziej

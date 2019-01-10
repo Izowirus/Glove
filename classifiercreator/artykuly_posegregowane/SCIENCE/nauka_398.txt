@@ -1,0 +1,30 @@
+„Chrząszcz” to autonomiczny robot, który potrafi omijać przeszkody i samodzielnie znaleźć drogę do celu. Skonstruowali go studenci z Politechniki Wrocławskiej. Pod koniec kwietnia robot wystartuje w międzynarodowych zawodach w Dolinie Krzemowej (USA).
+
+      
+            Jak opisał w rozmowie z PAP Mateusz Michalak, prezes Koła Naukowego Robotyków „KoNaR” na Politechnice Wrocławskiej, „Chrząszcz” ma przede wszystkim przemieszczać się w przestrzeni zewnętrznej.
+
+„Jego innowacyjność polega na tym, że on musi się sam odnaleźć w tej przestrzeni, wykryć np., że idzie człowiek, że ma przeszkodę, kałużę i ominąć to, albo w jakiś inny sposób zareagować i dotrzeć do wyznaczonego celu” - wyjaśnił Michalak.
+
+Ważący 6 kg robot został zbudowany na platformie zdalnie sterowanego samochodu, w którym studenci całkowicie zmodyfikowali elektronikę.
+
+ 
+
+„Robot na początku był sterowany pilotem, obecnie jest wyposażony przez nas w superkomputer, a także trzy płytki, których jesteśmy autorami" - wyjaśnił prezes KoNaR-u.
+
+Jedna z zaprojektowanych przez studentów płytek steruje zasilaniem, ponieważ pojazd ma różne źródła i poziomy napięć, kolejna odbiera sygnały od komputera i steruje silnikami. Trzecia jest płytką typowo czujnikową obsługującą przede wszystkim czujnik AHRS, czyli połączenie żyroskopu, akcelerometru i magnetometru.
+
+Każde koło pojazdu ma niezależne zawieszenie i napęd. Na platformie studenci zamontowali także m.in. odbiornik GPS oraz lidar, czyli urządzenie przypominające radar, ale wykorzystujące światło zamiast mikrofal.
+
+„Robot odbiera sygnał GPS, więc ma pozycję, gdzie się znajduje. Ma na sobie lidar, który wykrywa przeszkody w jego bliższym otoczeniu. I na podstawie tych danych, a także zadanej pozycji, planuje sobie trasę i wybiera najkrótszą ścieżkę, żeby dojechać do zadanego punktu, z ominięciem przeszkód, które wykrywa na bieżąco” -opisał Michalak.
+
+Robot będzie miał też specjalną obudowę, która ma go chronić przed opadami i uszkodzeniami mechanicznymi. Zmodyfikowane baterie wystarczają na niemal dwie godziny jazdy, co daje zasięg nawet kilkudziesięciu kilometrów.
+
+„Chrząszcz” powstał na międzynarodowe zawody robotów RoboGames, które pod koniec kwietnia odbędą się pod San Francisco w Dolinie Krzemowej.
+
+„Konkurencja, w której wystartujemy, nazywa się Robomagellan. Polega ona na tym, że dostajemy koordynaty GPS, w których znajduje się pachołek drogowy. Robot, omijając różne przeszkody, np. drzewa czy wysokie krawężniki, ma dojechać do pachołka i go dotknąć” - wyjaśnił współtwórca robota Łukasz Chojnacki.
+
+Jednym z nowatorskich elementów robota jest wizja za pomocą kamery stereowizyjnej, dzięki której robot wykrywa, gdzie aktualnie znajduje się miejsce, do którego docelowo ma dojechać. "Zastosowaliśmy w tym przypadku algorytmy sztucznej inteligencji, maszynowego uczenia i za pomocą tych algorytmów robot jest w stanie wykryć pachołek, wskazać, pod jakim kątem od niego się znajduje i dzięki temu do niego dojechać” - dodał.
+
+Rozwiązania i technologie zastosowane przez wrocławskich studentów są wykorzystywane m.in. w konstruowaniu samochodów autonomicznych oraz robotów, które same muszą zlokalizować swoje położenie.
+
+„Technologię, którą rozwijamy w tej platformie, możemy bez problemu zastosować w różnych pojazdach autonomicznych, w tym w samochodach autonomicznych. Mam nadzieję, że w przyszłości we Wrocławiu taki pojazd będzie jeździł” - podsumował Chojnacki.

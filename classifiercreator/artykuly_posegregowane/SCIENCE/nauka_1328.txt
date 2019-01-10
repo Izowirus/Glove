@@ -1,0 +1,29 @@
+Inteligentną koszulkę tekstylną do pomiaru EKG, przeznaczoną dla pacjentów w trakcie rehabilitacji kardiologicznej, opracowała łódzka firma Inovatica. Wyniki pomiarów można odczytać na smartfonie lub tablecie, a dzięki podłączeniu do internetu lekarze mogą stale, zdalnie monitorować pacjentów.
+      
+            "Jest to urządzenie służące do rehabilitacji kardiologicznej pacjentów, którzy powinni być cały czas monitorowani” - powiedział PAP szef firmy Inovatica Bogumił Zięba.
+
+Koszulka EKG to projekt firmy Inovatica, zrealizowany przy współpracy z Politechniką Łódzką i Uniwersytetem Medycznym w Łodzi. Ten interdyscyplinarny projekt - według Zięby - ma wypełniać niszę pomiędzy medycznymi holterami, które mierzą EKG, ale które są niewygodne i mało funkcjonalne, a popularnymi pulsometrami.
+
+Firma stworzyła oprogramowanie dla całego systemu, natomiast wkładem specjalistów z Politechniki była tzw. tekstronika, czyli połączenie koszulki tekstylnej z sensorami pomiarowymi. Kardiolodzy z Uniwersytetu Medycznego pomogli zaś zwalidować i zweryfikować sygnały otrzymywane z systemu pomiarowego.
+
+Powstała koszulka tekstylna z wbudowanymi tzw. inteligentnymi mechanizmami mierzącymi EKG. "Projekt polegał na stworzeniu systemu pomiarowego, który będzie zintegrowany z materiałem koszulki w ten sposób, żeby mogła ona podlegać praniu, wycieraniu, normalnemu użytkowaniu. Cała trudność polegała na tym, w jaki sposób połączyć system z elektrodami pomiarowymi, który jest normalnie stosowany w systemach holterowskich, z włókienniczym wyrobem jakim jest koszulka" - opowiadał Zięba.
+
+Zięba: dotąd nie ma produkcyjnego, komercyjnie dostępnego takiego rozwiązania
+
+Koszulka za pomocą bluetooth może łączyć się z urządzeniami mobilnymi - smartfonem czy tabletem. Dzięki podłączeniu do internetu prezentuje pomiary EKG w czasie rzeczywistym na urządzeniach mobilnych, a także przesyła je do lekarzy zdalnie monitorujących pacjentów.
+
+"Cała trudność polegała na tym, w jaki sposób sygnał, który jest zbierany, odfiltrować, odszumić, ustabilizować i przesłać do telefonu komórkowego przy pomocy bezprzewodowego, bezpiecznego protokołu komunikacyjnego z pomocą systemu bluetooth. Później była to już inżynierska praca polegająca na napisaniu oprogramowania dla telefonu komórkowego i serwera, który będzie przesyłał i wyświetlał dane dla lekarzy, zdalnie monitorujących pacjentów” - wyjaśnił.
+
+
+
+Według niego jest to nowatorskie rozwiązanie w Polsce; dotąd nie ma produkcyjnego, komercyjnie dostępnego takiego rozwiązania. "Wiem, że są prowadzone podobne prace w różnych instytucjach. My liczymy na jakiś sukces komercyjny tego produktu” - dodał.
+
+Firma Inovatica, która zajmuje się aplikacjami internetowymi, geolokalizacją wewnątrz budynków i wdrażaniem Internetu Rzeczy (IoT), udostępniła licencję już pierwszym klientom, którzy są zainteresowani wdrożeniem tego rozwiązania wpisującego się w IoT.
+
+Zięba: Internet Rzeczy jest kierunkiem rozwoju dalszych technologii internetowych
+
+Zdaniem Zięby Internet Rzeczy to jeden z głównych kierunków rozwoju technologicznego. "Możemy to zaobserwować po ilości urządzeń mobilnych, które są na rynku, rosnącej liczbie użytkowników i nawet nowej generacji ludzi, którzy są +przyszyci+ do telefonów komórkowych. Dostępność internetu wszędzie, miniaturyzacja urządzeń elektronicznych – powszechna jest opinia, że IoT jest kierunkiem rozwoju dalszych technologii internetowych” - podkreślił.
+
+Projekt uzyskał 300 tys. zł unijnego dofinansowania w ramach działania III.3 "Rozwój B+R w przedsiębiorstwach” z Regionalnego Programu Operacyjnego Województwa Łódzkiego. Został wyróżniony nagrodą "Mocni w biznesie" w kategorii "Innowacje z potencjałem”.
+
+Zdaniem Zięby, dla sektora MŚP fundusze unijne, szczególnie na badania i rozwój, mają kluczowe znaczenie. „Małym i średnim przedsiębiorcom, których segment ja reprezentuję, jest bardzo trudno stworzyć własny dział badawczo-rozwojowy na porządną skalę. Prace na mniejszą skalę nie mają sensu, bo rynek jest bardzo konkurencyjny i globalny, gdzie mamy dostęp do produktów z całego świata. W związku z tym uważam, że fundusze unijne, szczególnie na badania i rozwój dla MŚP, są bardzo ważne i kluczowe” - podkreślił Zięba.

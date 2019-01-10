@@ -1,0 +1,16 @@
+PAP/Jacek Turczyk
+                                        
+
+            Na Uniwersytecie Cornella w Nowym Jorku powstała aplikacja, która na podstawie ruchu gałek ocznych mierzy skupienie i poziom zmęczenia podczas wykonywania zadań przez pracowników. Zdaniem twórców, aplikacja może pomóc w lepszej organizacji pracy.
+      
+            Program, który obecnie testowany jest wyłącznie w wersji dla urządzeń z systemem Android, w opinii jego twórców ma pomóc określić, jaki czas w ciągu dnia jest najbardziej odpowiedni do wykonywania wymagających dużego skupienia zadań.
+
+Naukowcy argumentują, że kiedy człowiek jest skupiony, źrenica ludzkiego oka rozszerza się, aby zwiększyć zdolność widzenia. Ułatwia to przyswajanie informacji np. w formie tekstu, jak i wykonywanie zadań polegających np. na dokonywaniu obliczeń bądź sprawdzaniu zgodności danych. Kiedy człowiek odczuwa zmęczenie, źrenica oka zwęża się, przez co proces przyswajania i przetwarzania informacji staje się trudniejszy, trwa również dłużej i jest mniej wydajny.
+
+Zespół z Uniwersytetu Cornella zbudował aplikację, która do określania stanu zmęczenia i koncentracji wykorzystuje przedni aparat w telefonie komórkowym. Wolontariusze biorący udział w testach programu zostali poproszeni o zrobienie zdjęcia swoich oczu za pomocą przedniego aparatu raz na trzy godziny. Dodatkowo, sześć razy dziennie z użyciem telefonu wykonywali serię krótkich zadań w ramach testu sprawności psychomotorycznej. Aplikacja następnie łączyła analizę zdjęć oraz rezultatów osiąganych przez uczestników eksperymentu podczas testów.
+
+Według badaczy, użycie programu może ułatwić wyznaczanie odpowiedniego czasu na wykonywanie skomplikowanych zadań w pracy, jak i na rozdzielanie go tak, by przerwy w wykonywaniu czynności służyły zwiększaniu efektywności.
+
+
+
+Eksperyment zespołu Uniwersytetu Cornella został częściowo sfinansowany przez Intela i amerykańską organizację badawczą non-profit SRC (Semiconductor Research Corporation).

@@ -1,0 +1,15 @@
+epa03344162 This artist's concept depicts the moment immediately after NASA's Curiosity rover touches down onto the Martian surface. The entry, descent, and landing (EDL) phase of the Mars Science Laboratory mission begins when the spacecraft reaches the Martian atmosphere, about 81 miles (131 kilometers) above the surface of the Gale crater landing area, and ends with the rover safe and sound on the surface of Mars. Entry, descent, and landing for the Mars Science Laboratory mission will include a combination of technologies inherited from past NASA Mars missions, as well as exciting new technologies. Instead of the familiar airbag landing systems of the past Mars missions, Mars Science Laboratory will use a guided entry and a sky crane touchdown system to land the hyper-capable, massive rover.  Curiosity safely touchdown on Mars on 05 August 2012  EPA/NASA/JPL-Caltech Editorial Use
+Dostawca: PAP/EPA. Archiwum PAP/EPA © 2017 / NASA/JPL-Caltech
+                                        
+
+            Pod koniec lipca amerykańska agencja kosmiczna NASA wstrzyma na ponad tydzień wysyłanie poleceń do swoich trzech sond orbitalnych i dwóch łazików marsjańskich. Winne jest Słońce, które będzie zakłócało transmisje.
+      
+            Przyczyną takiej decyzji NASA jest obecne położenie Marsa na orbicie wokół Słońca, prawie bezpośrednio za gwiazdą - patrząc z Ziemi. Naukowcy spodziewają się w związku z tym znacznego pogorszenia jakości sygnałów komunikacyjnych i chcą uniknąć sytuacji, w której sonda niepoprawnie zrozumiałaby jakąś komendę. Polecenia do marsjańskich sond nie będą więc przesyłane od 22 lipca do 1 sierpnia.
+
+Z kolei łączność związana z przesyłaniem danych przez sondy na Ziemię - w tym telemetria - będzie utrzymywana, aby centrum kontroli lotu miało bieżący obraz stanu sond i łazików. W tej sytuacji jeśli jakieś informacje ulegną utraceniu, dane zostaną retransmitowane później.
+
+Mars znajduje się w pozycji za Słońcem regularnie co 26 miesięcy. Wtedy Ziemia, Słońce i planeta są w ustawione w jednej linii. Taka sytuacja nazywana jest przez astronomów koniunkcją (złączeniem). Przy czym zwykle nie jest to konfiguracja, w której tarcza słoneczna dokładnie przesłaniałaby planetę. Jednak, dla jakości komunikacji radiowej z sondami kosmicznymi problem powstaje już gdy planeta jest blisko tarczy słonecznej. Przyczyną jest słoneczna korona, która rozciąga się daleko od powierzchni Słońca. Korona słoneczna składa się z gorącego, zjonizowanego gazu, który może zakłócać przechodzące przez niego fale radiowe.
+
+Zespoły kontroli lotu sond i łazików marsjańskich od kilku tygodni przygotowują się do wstrzymania komunikacji 22 lipca. Polecenia na okres przerwy w komunikacji zostaną wysłane wcześniej, a marsjańskie pojazdy będą wykonywały zaplanowane wcześniej zadania.
+
+Dla sondy Mars Odyssey będzie to ósma koniunkcja Marsa ze Słońcem, dla łazika Opportunity siódma, dla sondy Mars Reconnaissance Orbiter szósta, dla łazika Curiosity trzecia, a dla sondy MAVEN druga. Jak podkreślają pracownicy NASA, wszystkie te sondy są już weteranami takich koniunkcji, zatem wiadomo czego można się spodziewać.

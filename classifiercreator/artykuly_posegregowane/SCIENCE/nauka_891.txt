@@ -1,0 +1,29 @@
+Interaktywne gry i zabawki, matę sensoryczną czy miękkiego robota opracowali studenci Politechniki Łódzkiej i Akademii Sztuk Pięknych w ramach projektu „Roboterapia”. Mają one wspomagać terapię sensoryczną dzieci.
+      
+            „To jest projekt, który rozpoczęliśmy ponad dwa lata temu, w jego ramach chcieliśmy stworzyć urządzania pomocne dla terapeutów zajmujących się dziećmi autystycznymi” - mówi PAP prof. Grzegorz Granosik z Instytutu Automatyki PŁ.
+
+Interdyscyplinarne grupy studentów kierunków: Automatyka i Robotyka PŁ oraz Wzornictwo Przemysłowe ASP miały za zadanie rozpoznać problem i stworzyć gotowe urządzenia interaktywne. W ramach „Roboterapii", finansowanej przez Fundację na Rzecz Nauki Polskiej, powstało w sumie dziewięć urządzeń edukacyjnych o różnych formach, które mają wspomagać terapię sensoryczną, a także aplikacje umożliwiające graficzne programowanie tych urządzeń.
+
+Tak powstały takie urządzenia jak m.in.: SensorBox, Smart Sleeve, Blocks, mata sensoryczna, miękki robot Panda, czy poduszka interaktywna. „Są to przede wszystkim urządzenia programowalne, które pozwalają na to, aby terapeuci mogli zmieniać sposób ich działania, aby dostosować je do terapii konkretnego dziecka lub uwzględnić postępy w tej terapii. Mogą one oddziaływać różnymi bodźcami, o różnym natężeniu, zgodnie z planem terapeutycznym – to może być dźwięk, światło, temperatura, wibracje czy ruch” - wyjaśnił prof. Granosik.
+
+Prototypy urządzeń edukacyjno-terapeutycznych mają pomóc w terapii zaburzeń sensorycznych dzieci ze sprzężoną niepełnosprawnością w postaci autyzmu i niepełnosprawności intelektualnej - podopiecznych Navicula-Centrum w Łodzi.
+
+Terapeuta Paweł Kaniewski z Navicula-Centrum podkreśla, że podopieczni tego ośrodka mają wiele zaburzeń sensorycznych, komunikacyjnych, zaburzeń i deficytów w sferze poznawczej i społecznej. „Generalnie te wszystkie urządzenia mają pomagać w rozwoju naszych dzieci i niwelowaniu tych zaburzeń” – ocenił.
+
+
+
+Mata sensoryczna to mata do zabawy, którą można dowolnie układać na podłodze, na której dziecko może się położyć i bawić, którą może się przykryć. Mata ewoluowała w trakcie rozwoju projektu w bardziej skomplikowane urządzenie, do którego dołożono dodatkowe bodźce w postaci m.in. oświetlenia.
+
+W grze interaktywnej dziecko ma wybrać prawidłową odpowiedź z serii kart, a terapeuta może podpowiadać odpowiedzi np. w postaci podświetlenia wybranej karty. Docelowo może ona zostać zmodyfikowana tak, aby np. nagradzać prawidłowe odpowiedzi. „Gra edukacyjna stymuluje procesy poznawcze u dzieci, pełni funkcję edukacyjną a także kształtuje umiejętność współpracy dziecka z terapeutą. Dzięki niej możemy sprawdzać funkcje poznawcze naszych podopiecznych” - dodał terapeuta.
+
+Innym urządzeniem testowanym przez dzieci i terapeutów była np. kostka, która reaguje zarówno na zmianę orientacji jak i bardziej agresywne poruszanie, za pomocą odpowiednio wyświetlających się ikonek na ekranie diodowym. Dodatkowo może poruszać się na niewielkich nóżkach i drgać. Robot Panda ma zaś oduczyć dziecko negatywnych zachowań w postaci np. agresywnego potrząsania obiektami, albo ściskania, ale może być także elementem zabawy w chowanego. Panda może wydawać dźwięki, emitować komunikaty i efekty świetlne.
+
+Prof. Granosik przyznaje, że w czasie projektowania urządzeń terapeuci zgłosili potrzebę tworzenia samodzielnie sekwencji akcji, tworzenia akcji warunkowych, jak i łączenia funkcjonalności różnych urządzeń. W tym celu został stworzony specjalny język programowania, oparty na graficznym środowisku programowania. Pozwala ono na wymianę plików multimedialnych pomiędzy urządzeniami, do dalszego ich wykorzystania w programie, np. odtworzenie melodii lub wyświetlenie obrazu, animacji.
+
+Cała funkcjonalność może być zmieniana za pomocą komputerów PC, Mac lub tabletów. W celu umożliwienia dalszego i szybszego rozwijania środowiska o kolejne funkcje, zostało ono oparte na otwartym, standaryzowanym i cieszącym się uznaniem rozwiązaniu stosowanym w robotyce - Robot Operating System.
+
+Elastyczność tego rozwiązania pozwala na podłączenie dowolnego urządzenia lub modułu programowego, które można zintegrować z ROS, a środowisko programowania pozwala na tworzenie programów dla różnego typu robotów, bez potrzeby wcześniejszego treningu. „Aktualnie rozszerzamy funkcjonalność poprzez połączenie w jednolity sposób wszystkich urządzeń z komputerem centralnym i w ten sposób możemy tworzyć także scenariusze współpracy tych wszystkich urządzeń” - podkreślił prof. Granosik.
+
+Kaniewski przyznaje, że obecnie w terapii z dziećmi coraz częściej stosowane są interaktywne pomoce czy zabawki. „To jest przydatne ze względu na zaburzenia w sferze społecznej i komunikacyjnej naszych podopiecznych. Dzięki takim interaktywnym pomocom i zabawkom dzieci uczą się wchodzenia w relacje, uczą się prawidłowych zachowań i reakcji w kontakcie z otoczeniem” - dodał terapeuta.
+
+Twórcy projektów podkreślają, że pomoce terapeutyczne i całe środowisko ich programowania oparte jest na faktycznych potrzebach terapeutów i jest zorientowane na relację terapeuta-dziecko. Istotnym celem projektu jest także zbadanie, jak środowisko zrobotyzowane mogłoby zmniejszyć wypalenie zawodowe terapeutów. „Po wspólnych konsultacjach mamy możliwość stworzenia takiego wspólnego projektu, wydaje mi się, że ważnego i potrzebnego dla naszych dzieci” - ocenił Paweł Kaniewski.

@@ -1,0 +1,39 @@
+Lądownik Schiaparelli, wysłany na Marsa w ramach misji ExoMars, osiadł w środę na powierzchni tej planety. Do wieczora tego dnia naukowcy nie wiedzieli jednak, czy było to bezpieczne lądowanie.
+      
+            Europejska Agencja Kosmiczna poinformowała o odebraniu przez stacje naziemne, zgodnie z oczekiwaniami, sygnałów potwierdzających lądowanie. Wcześniej przedstawiciel rosyjskiego Instytutu Badań Kosmicznych mówił, że sygnał odebrano, ale że był on tak słaby, iż nie wiadomo, w jakim stanie jest lądownik.
+
+Nieco później szef operacji ESA Paolo Ferri powiedział, że sygnał lądownika urwał się "na krótko przed lądowaniem". Wskazał na potrzebę analizy danych, by zrozumieć, co działo się z lądownikiem podczas schodzenia na powierzchnię Marsa. Podkreślił, że za wcześnie jest jeszcze na wyciąganie wniosków, ale że przerwanie sygnału "nie jest dobrym znakiem".
+
+Agencja dpa pisze, że do wieczora Schiaparelli nie przesłał dokładnych danych, na podstawie których naukowcy mogliby obwieścić sukces. "Mamy jeszcze nadzieję i liczymy na otrzymanie w nocy wyraźniejszych rezultatów" - powiedział szef ESA Jan Woerner.
+
+Polski wkład w misję
+
+W budowę narzędzi badawczych wykorzystanych w misji ExoMars zaangażowani byli również polscy naukowcy i polskie firmy. Jednym z celów misji jest poszukiwanie biologicznych śladów życia na Marsie.
+
+Misję ExoMars prowadzą: Europejska Agencja Kosmiczna i Agencja Kosmiczna Federacji Rosyjskiej - Roskosmos. Projekt jest dwuetapowy. Pierwszy etap obejmował wystrzelenie sondy orbitalnej Trace Gas Orbiter (TGO) oraz lądownika Entry, Descent and landing demonstrator Module (EDM), znanego jako Schiaparelli. Zostały one wyniesione w kosmos z kosmodromu Bajkonur 14 marca 2016 r. i podróżowały do Marsa wspólnie. Z kolei drugi etap będzie polegać na wystrzeleniu w roku 2020 lądownika wraz z łazikiem do badań egzobiologicznych i geochemicznych na powierzchni Marsa.
+
+Na czwartek rano (godz. 9) ESA zaplanowała konferencję prasową, na której podsumuje przeprowadzone manewry.
+
+Główne naukowe cele misji to: poszukiwanie potencjalnych śladów życia na Marsie (obecnego albo dawnego, nazwa misji jest właśnie nawiązaniem do tego zadania), badania rozmieszczenia wody na różnych głębokościach, badania powierzchni i zidentyfikowanie potencjalnych zagrożeń dla przyszłej misji załogowej, badania prowadzone pod powierzchnią gruntu, aby lepiej zrozumieć ewolucję Marsa.
+
+Cele technologiczne zaś to: przetestowanie lądowania dużej platformy na Marsie, testowanie wykorzystania energii słonecznej na powierzchni planety, wiercenie w marsjańskim gruncie na głębokość 2 metrów, testowanie rozwiązań dla kolejnych generacji marsjańskich łazików.
+
+W ramach misji ExoMars wykorzystano elementy zbudowane w Polsce. W Centrum Badań Kosmicznych PAN w Warszawie został zaprojektowany i wybudowany moduł zasilania do kamery CaSSIS, przy czym elementy zasilania montowała na zlecenie instytutu polska firma Creotech Instruments S.A. Z kolei na pokładzie lądownika zainstalowano detektory podczerwieni wyprodukowane przez firmę Vigo System S.A. z Ożarowa Mazowieckiego. Detektorów tych ESA użyła do stworzenia radiometrów ICOTOM w systemie COMARS+ służącym do monitoringu zewnętrznej powłoki lądownika.
+ 
+Lądowanie na Meridiani Planum
+
+W niedzielę, czyli na trzy dni przed planowanym lądowaniem, Schiaparelli oddzielił się od sondy Trace Gas Orbiter. 12 godzin po odłączeniu sonda skorygowała swój kurs, żeby uniknąć wejścia w atmosferę i znaleźć się na orbicie wokół Marsa. Z kolei Schiaparelli pozostał w trybie hibernacji, aby ograniczyć zużycie energii. Wybudził się dopiero na krótko przed wejściem w atmosferę Marsa, na wysokości 122,5 km i przy prędkości około 21 tysięcy km/h.
+
+Procedura lądowania rozpoczęła się od wytracania prędkości za pomocą aerodynamicznych osłon cieplnych. Obejmowała otworzenie się spadochronu na wysokości 11 km, przy prędkości 1650 km/h, by obniżyć prędkość do 250 km/h, a potem odrzucenie przedniej osłony i włączenie dopplerowskiego wysokościomierza radarowego oraz miernika prędkości.
+
+Na wysokości około 1 km, po odrzuceniu tylnej osłony termicznej i spadochronu, zaplanowano uruchomienie trzech silników na paliwo ciekłe (hydrazynę), aby obniżyć prędkość do mniej niż 7 km/h. Na wysokości 2 metrów nad powierzchnią silniki miały zostać wyłączone.
+
+Jako miejsce lądowania wybrano równinę Meridiani Planum; w 2004 roku niedaleko tego miejsca wylądował amerykański łazik Opportunity. Na tym obszarze występują dawne warstwy hematytów (tlenków żelaza), które na Ziemi powstają w środowisku zawierającym ciekłą wodę. Poza tym wiadomo, że obszar ten jest bezpieczny do lądowania.
+
+Schiaparelli miał przede wszystkim przetestować w praktyce procedurę lądowania, ale zostanie również wykorzystany naukowo. Instrumenty naukowe mają działać przez dwa do czterech dni po lądowaniu.
+
+Aparatura DREAMS (Dust Characterisation, Risk Assessment, and Environment Analyser on the Martian Surface) będzie za pomocą kilku czujników badać otoczenie – mierzyć prędkość wiatru, jego kierunek, wilgotność, ciśnienie, temperaturę, przezroczystość atmosfery, pola elektryczne w atmosferze. Z kolei AMELIA będzie zbierać dane w trakcie wejścia w atmosferę i lądowania. Zestaw instrumentów COMARS+ służył do monitorowania ciepła na tylnej osłonie Schiaparelliego, gdy ten leciał przez atmosferę. Dodatkowo na powierzchni lądownika zamontowano mały zestaw laserowych świateł odblaskowych o nazwie INRRI, służący jako cel dla sond orbitalnych do laserowego zlokalizowania lądownika.
+
+Z kolei sonda orbitalna Trace Gas Orbiter będzie przede wszystkim badać zawartość i rozmieszczenie metanu oraz innych gazów śladowych w marsjańskiej atmosferze, takich jak para wodna, dwutlenek azotu, acetylen. Będzie też śledzić ich zmienność w różnych porach roku. W środę ESA potwierdziła odebranie sygnału z sondy znajdującej się na orbicie Marsa.
+
+Lądownik Schiaparelli ma masę 577 kilogramów. Połowę stanowi właściwa platforma lądownika, 46 kg to paliwo, reszta to m.in. osłony termiczne pozwalające przetrwać temperatury, które w trakcie lotu przez atmosferę mogły osiągnąć 1750 stopni Celsjusza. Wymiary zewnętrze to 2,4 metra szerokości i 1,8 metra wysokości, z kolei ukryta wewnątrz platforma lądownika mierzy 1,7 metra.

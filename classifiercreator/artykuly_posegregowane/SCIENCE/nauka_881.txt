@@ -1,0 +1,24 @@
+Szczecin, 06.06.2017. Opiekun nowego laboratorium wirtualnego mgr inż. Bartosz Muczyński prezentuje gogle wirtualnej rzeczywistości w Akademii Morskiej w Szczecinie, 6 bm. Jedno z najnowocześniejszych na świecie laboratoriów systemów wirtualnych i rozszerzonej rzeczywistości zostanie uruchomione w akademii 7 bm. Studenci będą tu ćwiczyli swoje umiejętności m.in. na wirtualnym symulatorze mostka nawigacyjnego i maszynowni statków. Prowadzenie laboratorium pozwoli rozwijać m.in. aplikacje edukacyjne pozwalające na lepsze poznanie budowy statku i specyfiki wszelkich operacji związanych z jego eksploatacją, a także wirtualne symulatory pozwalające na realistyczne odwzorowanie mostka dowolnego statku, uwzględniając jego specyfikę i rozmiar. (zuz) PAP/Marcin Bielecki PAP © 2017 / Marcin Bielecki
+                                        
+
+            W środę w Akademii Morskiej w Szczecinie zostanie uruchomione laboratorium systemów wirtualnej i rozszerzonej rzeczywistości stworzone na potrzeby innowacyjnej gospodarki morskiej.
+      
+            Według ustaleń szczecińskiej uczelni jest to jedno z pierwszych na świecie laboratoriów, które wykorzystuje systemy w technologii wirtualnej i rozszerzonej rzeczywistości do badań na potrzeby branży morskiej.
+
+Jak powiedział we wtorek rozmowie z PAP opiekun naukowy laboratorium mgr inż. Bartosz Muczyński, stanowisko jest wyposażone w gogle wirtualnej i rozszerzonej rzeczywistości. "Sprzęt, który posiadamy, jest dostępny na rynku od roku i jest to m.in. Oculus Rift DK2 oraz HTC Vive. Posiadamy też bardziej zaawansowaną technologię w postaci urządzenia Microsoft HoloLens, które jest systemem w wersji deweloperskiej i nie występuje jeszcze jako produkt komercyjny" - opisał Muczyński.
+
+"Dzięki okularom wirtualnej rzeczywistości możliwe jest stworzenie symulowanego środowiska statku, po którym użytkownik może swobodnie się poruszać. Prezentowana wizja jest stereoskopowa, co ułatwia nam doświadczanie wirtualnej rzeczywistości w skali 1:1, ze znacznie lepszym poczuciem odległości i rozmiarów" - wyjaśnił Muczyński.
+
+Jak podkreślił, dzięki stworzonym graficznym aplikacjom naukowcy i studenci będą mogli wirtualnie przenieść się na pokład, do ładowni, a także zwiedzić siłownię statku. "Możemy z poziomu wirtualnego uczestniczyć m.in. w całej operacji przeładunkowej statku, cumowania i odcumowywania. W przyszłości właśnie na takich symulatorach studenci będą mogli zdobyć wiedzę z zakresu nawigacji i manewrowania jednostką " - dodał.
+
+Akademia Morska w Szczecinie ma również symulator będący odtworzeniem fizycznym mostka statku, a także symulator siłowni okrętowej. "Te symulatory są ograniczone co do możliwości ich modyfikacji, obraz rzucany na ekran jest płaski, wobec czego poczucie skali, odległości czy prędkości jest automatycznie zaburzone. Nowe laboratorium daje możliwość stworzenia dowolnego mostka, zmiany jego wyposażenia i rozmiarów. Za pomocą systemów wirtualnej rzeczywistości będzie możliwe zajrzenie w każdy najdrobniejszy zakamarek statku, nawet na etapie konstrukcji" - zaznaczył Muczyński.
+
+Jak dodał, "tworzymy nasz symulator od podstaw, czyli modelujemy cały statek oraz otaczający go akwen". "Dbamy o to, aby jednostka zachowywała się na fali w sposób realistyczny, a urządzenia nawigacyjne i pokładowe działały jak rzeczywiste" - powiedział.
+
+Urządzenie Microsoft HoloLens będzie można wykorzystać w rzeczywistych warunkach, czyli m.in. na szkoleniowej jednostce Akademii Morskiej w Szczecinie. "Chcemy stworzyć aplikację, która będzie dodatkowym interfejsem dla nawigatora, pomocnym przy codziennej pracy. Dzięki specjalnym okularom możliwe będzie wyświetlanie przed jego oczami hologramów z informacjami zależnymi od tego, na co nawigator kieruje swoją uwagę w danym momencie. Na przykład patrząc na podpływający statek nie będzie zmuszony podchodzić do radaru, lecz automatycznie wyświetli się przed nim hologram z nazwą statku, jego kursem czy prędkością" - wytłumaczył opiekun laboratorium.
+
+Zapowiedział, że w laboratorium będą także prowadzone badania nad tzw. chorobą symulatorową, czyli nad negatywnym wpływem systemu wirtualnej rzeczywistości na zdrowie człowieka.
+
+Laboratorium powstało w Centrum Inżynierii Ruchu Morskiego przy wsparciu Instytutu Inżynierii Ruchu Morskiego i Władz AM, w całości zostało sfinansowane ze środków własnych uczelni.
+
+Marta Zabłocka

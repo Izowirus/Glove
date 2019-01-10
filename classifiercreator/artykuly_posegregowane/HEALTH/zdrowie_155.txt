@@ -1,0 +1,30 @@
+Stosowany w tworzeniu gier komputerowych czy filmów System Motion Capture można wykorzystać jako rozwiązanie wspomagające diagnostykę urazów kolan u tancerzy czy sportowców - przekonują naukowcy z Politechniki Łódzkiej po badaniach zawodowych tancerzy.
+      
+            
+System Motion Capture to rozwiązanie kojarzone dziś najczęściej z produkcją gier komputerowych czy filmów. Pozwala on na przechwycenie ruchu aktora (robi się to za pomocą specjalnych kamer oraz markerów umieszczonych na stroju, który aktor ma na sobie), zapisanie go na dysku komputera, a następnie - przypisanie tego ruchu do postaci stworzonej na komputerze. Spektakularnym efektem wykorzystania tego systemu jest np. postać Golluma w serii "Władca Pierścieni".
+
+Dla tego rodzaju rozwiązań naukowcy często znajdują nowe zastosowania. Dr inż. Radosław Bednarski z Zakładu Grafiki Komputerowej i Multimediów Instytutu Informatyki PŁ podkreślił, że pomysł narodził się z chęci sprawdzenia, do czego może przydać się system Motion Capture - poza zastosowaniami w grach komputerowych czy w filmie.
+
+Naukowcy proponują wykorzystanie go do badania ruchu u tancerzy i sportowców. Chodzi o badanie, które z jednej strony pozwala ocenić stopień poprawności wykonywanych ruchów, z drugiej - sprawdzić, czy stan motoryczny pacjenta po urazie wrócił do stanu sprzed kontuzji. System Motion Capture wydaje się stworzony do takich zastosowań - tym bardziej, że tancerz lub sportowiec w trakcie badania ruchu powinien być aktywny.
+
+Ekspertów interesowało, czy przy badaniu bardzo konkretnych ruchów system potrafi zweryfikować np. to, czy dana osoba ma problemy z układem ruchu (na który składają się mięśnie, więzadła i kości - odpowiedzialne za utrzymanie postawy i sam ruch). Stworzyli więc system, który może wspomagać lekarzy w diagnozowaniu urazów kolan. System był testowany na profesjonalnych tancerzach, przy udziale ortopedów i rehabilitantów.
+
+Rozwiązanie jest przeznaczone dla tancerzy - podkreśla współtwórczyni rozwiązania (a zarazem instruktorka tańca) mgr inż. Adrianna Bielak z Instytutu Informatyki PŁ. I dodaje, że taniec jest dziedziną o dużej ilości wariacji ruchowej. Jednak choć znanych jest wiele technik tanecznych, to istnieje też pewna seria ruchów o ustalonych zasadach znanych wszystkim tancerzom zawodowym.
+
+Jak podkreśliła, taniec - podobnie jak i inne dziedziny sportu czy sztuki performatywnej - trudno jest badać w warunkach statycznych, np. na leżąco. "W przypadku tancerzy badanie ruchu zdecydowanie lepiej się sprawdza w pozycji dynamicznej, czyli w momencie, kiedy tancerz jest aktywny, podobnie jak np. sportowiec. Dlatego chcieliśmy zaproponować pewne rozwiązanie, które wspomoże badania fizjoterapeutów - oraz w stawianiu diagnozy w kontekście urazów stawu kolanowego" - dodała.
+
+
+
+Dlaczego wybrano staw kolanowy? Przede wszystkim dlatego, że to jeden z najbardziej kontuzjogennych stawów; nie tylko wśród tancerzy, osób uprawiających sport, czy podejmujących wzmożoną aktywność fizyczną, ale jest to staw bardzo obciążony u każdego człowieka.
+
+Samo rozwiązanie oparte jest o system umożliwiający przechwytywanie ruchu i zmapowanie go do pamięci komputera. Przed badaniem tancerz zakłada specjalny kombinezon, na który nanoszonych jest kilkadziesiąt markerów. "Podczas badania tancerze wykonują serię skodyfikowanych, ustalonych ruchów, w trakcie których w sposób dynamiczny sczytujemy dane związane z biomechaniką ruchu" - wyjaśniła Adrianna Bielak.
+
+Naukowcy wykorzystują w badaniach teorię dynamicznego kąta Q, który – jak wyjaśniła Bielak - określa relacje między bardzo ściśle określonym obszarem stawu biodrowego względem ściśle określonego obszaru stawu kolanowego.
+
+"Dzięki temu, że możemy wykorzystać system przechwytywania ruchu, jesteśmy w stanie określać relacje tego obszaru w stawie biodrowym i kolanowym w sposób dynamiczny, w trakcie ruchu tancerza" - dodała.Do testów wybrano ruchy, które - jak się uznaje - wyjątkowo obciążają stawy kolanowe u tancerzy, ponieważ nie są naturalne. Polegają one na rotacji kości w stawie biodrowym na tyle nienaturalnej, że mogą powodować kontuzje.
+
+Specjaliści z PŁ stworzyli także specjalną aplikację, dzięki której w trakcie badania są w stanie dynamicznie sprawdzić, czy dany ruch (i w której fazie) jest dla badanego tancerza kontuzjogenny.
+
+"Pozwala to fizjoterapeucie określić, że jeżeli tancerz będzie poruszał się w dany sposób, to od pewnego momentu zaczyna się ruch, który może zagrażać jego zdrowiu na przyszłość. Albo w drugą stronę - w przypadku tancerza, który jest po operacji np. rekonstrukcji więzadła w stawie kolanowym, to taki system jest w stanie sprawdzić, czy po tej operacji i po zrośnięciu się wszystkich struktur w stawie kolanowym, może on wrócić do danych ćwiczeń, które spowodowały uraz" - wyjaśniła twórczyni wynalazku.
+
+Obecnie naukowcy z PŁ pracują nad wzmocnieniem tego systemu, poprzez połączenie go z modelem 3D mięśni łydki. "Ponieważ łydka jest związana ze stawem kolanowym, więc będziemy w stanie wzbogacić to rozwiązanie i uzyskać o wiele większe spektrum danych i o wiele dokładniejsze informacje dotyczące stanu badanego tancerza" - oceniła Adrianna Bielak.

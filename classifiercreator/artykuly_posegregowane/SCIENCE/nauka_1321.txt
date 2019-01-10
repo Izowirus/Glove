@@ -1,0 +1,23 @@
+Unikatowy system wykrywania i neutralizacji dronów może być wykorzystywany do zabezpieczenia m.in. lotnisk, rafinerii, stadionów czy zakładów karnych. 
+      
+            Jak powiedział PAP prezes firmy APS Radosław Piesiewicz, jest to unikatowy, wielosensorowy system do wykrywania dronów, składający się z trzech głównych czujników. "Najważniejszym, sensorem jest radar. Mamy też macierz akustyczną i kamery wizyjne. Całą technologię opracowaliśmy od A do Z sami, bazując na polskiej myśli technologicznej" - wyjaśnił.
+
+Nowoczesne sensory radarowe powstały na bazie unikatowych krzemowych układów scalonych, opracowanych przez gdyńską firmę SIRC, która realizuje m.in. kilka kontraktów dla Europejskiej Agencji Kosmicznej w obszarze projektowania układów scalonych do zastosowań radarowych do montażu na satelitach obserwacyjnych.
+Powołana spółka zależna od SIRC - APS - zastosowała tą unikatową kosmiczną technologię do opracowania i komercjalizacji systemu do detekcji i neutralizacji dronów. Pozyskała też m.in. środki z Narodowego Centrum Badań i Rozwoju na rozwój technologii poszczególnych sensorów. Obecnie gotowa jest już pierwsza wersja systemu.
+
+
+
+"Czujnik radarowy został opracowany na bazie układów scalonych, które sami opracowaliśmy, są one dedykowane i dzięki nim udało nam się skonstruować bardzo zminiaturyzowany sensor, bardzo wydajny, funkcjonalny i idealnie pasujący do wykrywania różnych statków powietrznych czy dronów” - dodał szef firmy.
+
+Według niego połączenie wszystkich trzech czujników: sensora radarowego, macierzy akustycznej i kamer wizyjnych, zapewnia skuteczne wykrywanie dronów w każdych warunkach pogodowych, w dzień i w nocy, z odległości aktualnie do 1000 metrów w przypadku małych dronów. Większe drony byłyby wykrywane skutecznie z większej odległości – przekonuje Piesiewicz.
+
+Jak wyjaśnił, po wykryciu drona specjalne oprogramowanie wizualizuje całą przestrzeń, dokonuje archiwizacji zdarzenia poprzez zapis sygnału radarowego oraz wideo. Informowane są też odpowiednie służby za pomocą e-maila, sms-a czy alertu systemowego.
+
+Drony mogą być też neutralizowane za pomocą jammerów, czyli tzw. zagłuszaczy, które zagłuszają sygnał GPS-a nawigacyjny drona oraz sygnał wi-fi transmisji między dronem a operatorem. To powoduje, że dron przestaje się nawigować, zawisa w powietrzu, albo awaryjnie ląduje, dzięki czemu możliwe jest jego przejęcie. System - jak przekonują jego twórcy - potrafi też rozróżnić czy wykryty obiekt to dron czy np. lecący ptak.
+
+Rozwiązanie nadaje się także do tzw. ochrony perymetrycznej, czyli może zabezpieczać różne obiekty czy tereny wykrywając intruza czy niepożądane pojazdy.
+"Ten system jest dedykowany do ochrony m.in. lotnisk, rafinerii, obiektów rządowych, stadionów, ale również prywatnych obiektów. Wszędzie tam gdzie istnieje ryzyko, że dron może wlecieć. Z dronami niestety obok pozytywnych, wiąże się bardzo wiele negatywnych czy groźnych zastosowań – od terroryzmu, poprzez naruszenie prywatności, wyrządzenie szkody czy zwykłe szpiegostwo" - ocenił.
+
+Jako przykład Piesiewicz podał więziennictwo, które na całym świecie boryka się obecnie z problemem dronów, za pomocą których dostarczane są więźniom niebezpieczne przedmioty, narkotyki, kontrabanda. "Ten system idealnie pasuje do tego, żeby zabezpieczać zakłady penitencjarne” - zaznaczył.
+
+Zdaniem Piesiewicza, systemem są zainteresowane porty lotnicze, służba więzienna, straż graniczna, wojsko, zakłady przemysłowe, czy stadiony piłkarskie. Firma spodziewa się pierwszej sprzedaży systemu jeszcze w tym roku.

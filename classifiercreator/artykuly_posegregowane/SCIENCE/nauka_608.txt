@@ -1,0 +1,18 @@
+Łódzcy naukowcy opracowali metodę termicznego niszczenia rozsianych komórek nowotworowych z użyciem nanocząstek. Całe piękno tej metody polega na tym, że niszczymy tylko komórki zwyrodniałe - mówi współtwórca rozwiązania prof. Zbigniew Kołaciński z Instytutu Mechatroniki i Systemów Informatycznych PŁ.
+      
+            Przy zastosowaniu tej metody przepływające w układzie krwionośnym nanorurki odnajdują guza nowotworowego zawierającego zdegenerowane komórki i się do nich przyczepiają. Napromieniowanie tkanki falą elektromagnetyczną powoduje nagrzanie komórek nowotworowych powyżej temperatury ich apoptozy wywołując nekrozę, czyli śmierć komórek.
+
+„Powstała wśród naukowców, którzy zajmują się nanotechnologią, chęć wprowadzenia nanocząstek do likwidacji komórek rakowych. Te nanocząstki muszą być zasobnikami leków lub innych elementów, które potrafią zniszczyć komórki rakowe” - wyjaśnił prof. Kołaciński.
+
+Na Politechnice Łódzkiej opracowano metodę otrzymywania takich nanozasobników poprzez syntezę nanorurek węglowych różnymi metodami: łukową, metodą plazmy mikrofalowej oraz chemicznego osadzania z fazy gazowej. Nanorurki zawierają w sobie ferromagnetyk np. żelazo, które można następnie rozgrzać przy pomocy fali elektromagnetycznej.
+
+ 
+„Jeżeli taki zasobnik wprowadzimy do organizmu i przyłączymy go do komórek rakowych, spełni on rolę mikroźródła grzejnego, które zniszczy te komórki. Jest to zniszczenie całkowite, bo jeżeli temperatura komórki nowotworowej przekroczy 42 stopni C, następuje jej nekroza” - podkreślił prof. Kołaciński.
+
+Martwe komórki nowotworowe są wydalane z organizmu, a komórki zdrowe pozostają dalej żywe. „Całe piękno tej metody polega na tym, że niszczymy tylko komórki zwyrodniałe” - ocenił naukowiec.
+
+Łódzcy uczeni opracowali metodę adresowania nanorurek węglowych jako zasobników do komórek rakowych przy pomocy przyłączonych do kwasu foliowego specyficznych ligandów, które mają zdolność znajdowania komórek rakowych. Takie zasobniki mogą być wstrzykiwane do organizmu, bądź podawane przez skórę lub w formie tabletki. Badacze opracowali także urządzenie do hipertermii, czyli nagrzewania komórek falą elektromagnetyczną.
+
+Metoda naukowców z PŁ została przebadana na komórkach nowotworowych jelita grubego. Konieczne są jeszcze testy na zwierzętach i testy kliniczne. W końcowej fazie wdrożenia klinicznego projektu naukowcy planują umieszczenie całego człowieka w urządzeniu emitującym kontrolowane dawki pola elektromagnetycznego o częstotliwości radiowej.
+
+Prof. Kołaciński liczy na to, że za 10 lat ta metoda ta będzie skutecznie stosowana w określonych typach nowotworów. „Na pewno nie do wszystkich typów, natomiast w określonych typach nowotworów zostanie sprawdzona i będzie mogła być stosowana” - ocenił naukowiec.

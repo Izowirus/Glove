@@ -1,0 +1,23 @@
+Zespół studentów i absolwentów z Politechniki Wrocławskiej skonstruował Bistrobota, czyli maszynę do samoobsługowej sprzedaży ciepłych posiłków. Twórcy podkreślają, że to pierwsze takie urządzenie na świecie.
+      
+            W tej chwili menu robota składa się z sześciu propozycji. Przygotowanie posiłku zajmuje mu od dwóch do czterech minut. Prototyp urządzenia stanął już w budynku Politechniki Wrocławskiej. Jego autorami są studenci i absolwenci tej uczelni, tworzący firmę Food Robotics.
+
+"Mamy nadzieję, że nasz projekt zmieni przyszłość gastronomii i zrewolucjonizuje to, jak patrzymy na posiłki oraz jak postrzegamy jedzenie wydawane przez maszyny" – powiedział w piątek podczas prezentacji robota Wojciech Jopek, koordynator projektu.
+
+Do stworzenia Bistrobota studentów zainspirowała rosnąca świadomość ludzi odnośnie zdrowego żywienia. "Coraz częściej zwracamy uwagę na pochodzenie produktów, mamy świadomość, jak ważna jest zdrowa żywność. Zmieniają się także nawyki żywieniowe Polaków, gdyż coraz częściej jemy poza domem" - powiedział Jopek. Zdaniem twórców Bistrobot odpowiada na te potrzeby, gdyż stanowi połączenie zdrowej i łatwo dostępnej żywności.
+
+Podczas procesu przygotowania można zapoznać się ze składem posiłku.
+
+Jak zaznaczył koordynator projektu, mimo że posiłki wydaje maszyna, nie są to dania wysoko przetworzone; nie zawierają konserwantów i przygotowywane są ze świeżych składników. "Są to posiłki restauracyjne, przygotowywane przez szefa kuchni" - dodał Jopek.
+
+"Posiadamy pełną zdalną kontrolę nad urządzeniem" 
+ 
+Twórcy podkreślają, że ich projekt wyróżnia innowacyjne zastosowanie technologii "szokowego" mrożenia, któremu poddawane są posiłki, a także hybrydowego systemu grzewczego. „Posiłki schładzane są do temperatury – 20 stopni, co pozwala zachować ich świeżość i dobrą jakość. Natomiast do podgrzewania jedzenia używamy specjalnej technologii - promiennik podczerwieni o bardzo dużej mocy odpowiada za efekt zapieczenia, dzięki temu jedzenie nie wygląda jak z mikrofalówki” – tłumaczył koordynator.
+
+Innowacyjny jest także system nadzoru nad maszyną. "Posiadamy pełną zdalną kontrolę nad urządzeniem i w każdym momencie wiemy, co dzieje się z maszyną" – dodał Jopek.
+
+Studenci Politechniki przyznali, że droga do skonstruowania maszyny była długa. Pomysł pojawił się już w 2011 roku, a prace nad konstrukcją trwały 7 lat. Jopek powiedział, że w Polsce ciężko jest założyć firmę innowacyjną. "Kłopotem są m.in bariery administracyjne" – powiedział.
+
+Twórcy technologii Bistrobota rozpoczynają pracę nad serią kolejnych pięciu robotów i jak podkreślają, do końca tego roku będzie ich już pięćdziesiąt. "Zamierzamy wstawiać automaty w rożnych lokalizacjach; miejscami, które nadają się do tego są m. in. szpitale, biurowce i wszystkie miejsca gdzie panuje ruch w ciągu dnia" - powiedział PAP koordynator projektu.
+
+Innym projektem firmy Food Robotics, który powstaje we współpracy z Wojewódzkim Szpitalem Specjalistycznym jest bioniczna proteza ręki, która po raz pierwszy zostanie założona na pacjencie w pierwszym kwartale 2018 r.

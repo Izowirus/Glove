@@ -1,0 +1,24 @@
+Wilamowo k. Kętrzyna (woj. warmińsko-mazurskie), 02.05.2015. 
+Drony prezentowane, 2 bm. podczas Mazury Drone Show na lotnisku Kętrzyn Wilamowo Aeroklubu Krainy Jezior.  W imprezie wzięli udział konstruktorzy, piloci dronów i ich potencjalni nabywcy. Chętni mogli  odbyć zakończony egzaminem kurs dla operatorów dronów. (tw/cat)
+PAP/Tomasz Waszczuk Archiwum PAP © 2016 / Tomasz Waszczuk
+                                        
+
+            Coraz popularniejsze drony są wykorzystywane przez grupy przestępcze do przemytu narkotyków do Unii Europejskiej. To jedna z katalogu spraw, którymi ostatnio zajmują się informatycy śledczy. Ich zadaniem jest ustalenie miejsca startu bezzałogowca i zrzutu narkotyków.
+      
+            W mijającym roku informatycy śledczy z katowickiego laboratorium Mediarecovery przeprowadzili prawie 600 ekspertyz, analizując łącznie 246 terabajtów informacji. Co trzecie takie badanie zostało przeprowadzone na zlecenie firm i osób prywatnych. Pozostałe były wykonywane na potrzeby organów ścigania.
+
+Jak wskazują specjaliści, nowością w informatyce śledczej są konsultacje dotyczące dronów, za pomocą których grupy przestępcze przerzucają narkotyki do Polski zza wschodniej granicy, wykorzystując niewielkie rozmiary i cichą pracę tych urządzeń. Programują ich trasę, a gdy przekroczą one granicę, upuszczają kilkudziesięciogramową paczkę w ustalonym wcześniej miejscu, już na terenie Polski. Wszystko trwa na tyle krótko, że takich kursów w ciągu doby może być bardzo dużo.
+
+Przechwycenie drona oraz analiza zawartości jego pamięci pozwala ustalić zaprogramowaną przez przestępców trasę. "Co szczególnie ważne, można bardzo dokładnie zlokalizować miejsce startu i zrzutu. Te informacje mogą zostać później wykorzystywane przez służby po obu stronach granicy" - zaznaczył dyrektor ds. badań i rozwoju Mediarecovery Przemysław Krejza.
+
+Wśród ciekawszych spraw z kończącego się roku specjaliści w dziedzinie informatyki śledczej wymieniają też przypadek kobiety nękanej przez byłego męża, który okazał się hakerem-amatorem. Mężczyzna prześladował ją ciągłymi informacjami typu "zawsze wiem gdzie jesteś", a z wysyłanych przez niego wiadomości wynikało, że rzeczywiście wie, gdzie przebywa jego była żona.
+
+Gdy analiza należącego do kobiety smartfona nie wykazała żadnego złośliwego oprogramowania, specjaliści poprosili ofiarę stalkingu o komputer. Okazało się, że to właśnie na nim zainstalowano tzw. keylogger, czyli program zapisujący wszystkie znaki wpisywane z klawiatury i przesyłające je dalej. Dzięki temu były mąż poznał login i hasło do konta poczty Google używanej również w smartfonie. To dało mu pełną wiedzę o miejscach, w których przebywa kobieta, jak i podgląd robionych przez nią zdjęć czy wysyłanych wiadomości. Keylogger został zainstalowany jeszcze zanim kobieta wyprowadziła się z domu.
+
+Coraz częstszym problemem napotykanym przez informatyków śledczych jest szyfrowanie komputerów. Do niedawna zaszyfrowany dysk twardy oznaczał koniec analizy śledczej jeszcze przed jej rozpoczęciem. Teraz, dzięki rozwojowi technologii, to się zmieniło.
+
+Dzięki współpracy technologicznej i narzędzi informatyki śledczej ze Stanów Zjednoczonych analitycy mają szybki dostęp do najnowszych narzędzi. "Wśród nich jest EnCase Forensic, który pozwala na prowadzenie analiz śledczych metodą +live forensics+. Dzięki temu, uzyskujemy dostęp do danych zapisanych na zaszyfrowanych komputerach" - wyjaśnił Krejza.
+
+Wśród spraw zleconych katowickiemu laboratorium przez organy ścigania jedna trzecia była związana z grupą przestępstw przeciwko działalności instytucji państwowych oraz samorządu terytorialnego. 26 proc. to przestępstwa przeciwko życiu i zdrowiu, 23 proc. - przeciwko wolności seksualnej i obyczajności, 14 proc. - przeciwko porządkowi publicznemu, a 5 proc. - przeciwko mieniu.
+
+Poza przeprowadzaniem analiz, Mediarecovery od pięciu lat prowadzi Akademię Informatyki Śledczej. Tylko w tym roku przeszkolono w niej 320 osób - funkcjonariuszy policji, prokuratorów oraz specjalistów bezpieczeństwa IT z firm prywatnych.

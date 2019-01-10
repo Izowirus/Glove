@@ -1,0 +1,23 @@
+epa05603135 (FILE) A file picture dated 16 September 2016 shows the Apple logo on an Apple store at the start of iPhone 7 sales in Hamburg, Germany. According to a report on 25 October 2016, Apple's quarterly revenue dropped by 9 percent from the previous year to 46.9 billion US dollars.  EPA/BODE MARKS 
+Dostawca: PAP/EPA. PAP/EPA © 2017 / BODE MARKS
+                                        
+
+            Amerykański koncern Apple poinformował w sobotę o usunięciu ze swojego sklepu z aplikacjami usługi ExpressVPN, jednego z podstawowych dostawców VPN w Chinach. Decyzja jest podyktowana dostosowywaniem się do wymogów nowego prawa.
+      
+            Według oświadczenia koncernu z Cupertino aplikacja "zawierała treści zakazane w Chinach, co nie jest zgodne z wytycznymi sklepu App Store". Przedstawiciele ExpressVPN twierdzą, iż takie metody działania napawają ich strachem, ponieważ świadczą o zagrożeniu wolności wypowiedzi i wolności obywatelskich.
+
+Przed kilkoma dniami w wywiadzie dla dziennika "South China Morning Post" ambasador Niemiec w Chinach Michael Klaus zaapelował do władz w Pekinie o wycofanie się z ogłoszonej niedawno decyzji nakazującej wyłączenie prywatnych sieci VPN z początkiem lutego 2018 r. Zdaniem ambasadora będzie to poważne naruszenie równowagi interesów cudzoziemców oraz zagranicznego kapitału w Chinach, które może zniechęcić do prowadzenia wymiany handlowej i działalności naukowej oraz zaszkodzić turystyce. Ambasador twierdzi, iż odgórne ograniczenie dostępu do zagranicznych serwisów dostępnych obecnie w Chinach głównie za pośrednictwem sieci VPN da ogromną przewagę konkurencyjną rodzimym firmom i nie dopuści w dużej mierze obcego kapitału do swobodnego inwestowania w kraju.
+
+Obserwatorzy przypominają, iż w połowie lipca Apple poinformował o planie otwarcia w Chinach pierwszego centrum przetwarzania danych. Decyzja miała wynikać z nowego prawa obowiązującego w kraju od 1 czerwca. Zgodnie z nim takie centra muszą działać z terytorium Chin kontynentalnych.
+
+Chiński rząd nakazał operatorom komórkowym zablokowanie do początku lutego 2018 roku usług VPN pozwalających na obchodzenie lokalnych zabezpieczeń sieci. Wytyczne to część planu prezydenta Xi Jinpinga, który zapowiada zacieśnianie państwowej kontroli nad internetem. Usługi VPN, dosłownie "wirtualne sieci prywatne", służą do nawiązywania internetowych połączeń, które stają się niewidoczne dla lokalnych rządów stosujących cenzurę w sieci.
+
+Chiny blokują wiele głównych międzynarodowych serwisów, jak Facebook (od 2009 r.) czy Google (od 2010 r.), całkowicie uniemożliwiając do nich dostęp w części kontynentalnej państwa. Wyłączone spod tego prawa są dwie byłe kolonie: Hongkong i Makau, które cieszą się znaczną autonomią prawną. Dzięki uruchomieniu VPN na zagranicznym komputerze w Chinach system może symulować logowanie się spoza terytorium Chin, a lokalna cenzura nie rejestruje próby niedozwolonego połączenia. VPN dla cudzoziemców pozostaje wciąż jedną z niewielu szans na korzystanie z sieci, do jakiej są przyzwyczajeni we własnych, niestosujących cenzury krajach.
+
+Na przestrzeni ostatnich lat skuteczność chińskich kontroli internetu systematycznie się poprawiała, a zabezpieczenia dopracowywano. Pod koniec czerwca br. pojawiła się informacja, że jeden z najpopularniejszych wśród użytkowników systemów iOS (firmy Apple) serwisów VPN, Green VPN, zostanie bezterminowo wyłączony z początkiem lipca. W poniedziałek Bloomberg, a wraz z nim chińskie serwisy, poinformował o planowanej blokadzie wszystkich VPN-ów przez trzech państwowych operatorów komórkowych: China Mobile, China Unicom oraz China Telecom, która ma wejść w życie z początkiem lutego 2018 r.
+
+Obserwatorzy przyznają, że działania chińskiego rządu mają na celu usprawnienie regulacji krajowego internetu, szczególnie przed zbliżającym się 19. kongresem rządzącej w Chinach komunistycznej partii, który odbędzie się jesienią br., między październikiem a listopadem.
+
+Prezydent Xi wielokrotnie podkreślał konieczność dopracowania "cybersuwerenności" Chin. Jego apele o kontrolę internetu starano się dopasowywać do coraz częstszych i groźniejszych w skutkach ataków hakerskich, które dotykały użytkowników na całym świecie. Zacieśnianie cenzury w przypadku Chin wielokrotnie spotyka się z zarzutami chęci sprawowania lepszej kontroli nad informacją w sprawie krajowej polityki, w obrębie separatystycznych środowisk oraz nad tym, co mogłoby destabilizować działania rządu.
+
+Z Pekinu Rafał Tomański

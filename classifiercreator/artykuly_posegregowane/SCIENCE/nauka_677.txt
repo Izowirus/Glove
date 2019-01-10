@@ -1,0 +1,33 @@
+Astronomowie po raz pierwszy zarejestrowali jednocześnie fale grawitacyjne i rozbłysk, pochodzące od jednego zjawiska - zderzenia dwóch gwiazd neutronowych. W obserwacjach, prowadzonych przez zespoły badawcze na całym świecie, brali udział Polacy.
+      
+            W lutym 2015 światem naukowym wstrząsnęła wiadomość o pierwszym, historycznym wykryciu fal grawitacyjnych - zmarszczek w czasoprzestrzeni, przewidywanych przez ogólną teorię względności Alberta Einsteina. Fale te były echem zderzenia dwóch czarnych dziur, oddalonych od Ziemi o 1,3 miliarda lat świetlnych. Potwierdzenie istnienia tych fal uznano za przewrót w astrofizyce. Pierwsze wykrycie (we wrześniu 2015 r.) zostało później potwierdzone.
+
+W poniedziałek 16 października naukowcy donoszą o kolejnej ważnej obserwacji: jednoczesnym wykryciu fal grawitacyjnych i ich elektromagnetycznego odpowiednika, w tym - światła widzialnego, pochodzących z tego samego źródła.
+
+Jest to już 5., potwierdzona detekcja fal grawitacyjnych, która jednak różni się od poprzednich. Wcześniejsze dotyczyły zderzenia dwóch czarnych dziur, tym razem po raz pierwszy zjawisko pochodzi od zderzenia dwóch gwiazd neutronowych.
+
+Do zderzenia doszło prawdopodobnie w odległości 130 milionów lat świetlnych od Ziemi, w galaktyce NGC 4993. To oznacza, że astronomowie mają do czynienia z najbliższym źródłem fal grawitacyjnych, które udało się wykryć. Jest to także jeden z najbliższych zarejestrowanych błysków gamma.
+
+Według naukowców nowo wykryte sygnały sygnalizują zarazem obecność tzw. kilonowej - obiektu, o którego istnieniu teoretycy mówią od ponad 30 lat. Kilonowe mogą być głównymi obiektami odpowiedzialnymi za rozprzestrzenianie w kosmosie bardzo ciężkich pierwiastków chemicznych, w tym m.in. złota i platyny.
+
+Zdaniem naukowców jednoczesna detekcja fal grawitacyjnych i ich elektromagnetycznego odpowiednika (w tym - światła widzialnego) z tego samego źródła oznacza początek nowej ery w astronomii, którą określają jako "astronomię wieloaspektową".
+
+W obserwacjach brało udział aż 70 obserwatoriów na całym świecie, zarówno naziemne, jak i kosmiczne.
+
+Sygnał fal grawitacyjnych (zdarzenie oznaczone GW170817) zarejestrowały 17 sierpnia 2017 r. o godz. 14:41 CEST bliźniacze detektory LIGO, znajdujące się w Hanford w stanie Waszyngton i w Livingston w stanie Luizjana (USA). Detekcji fal grawitacyjnych dokonano dzięki obserwatoriom LIGO, zaś udział obserwatorium Virgo pozwolił na uściślenie obszaru nieba, z którego nadszedł sygnał. Wtedy do prac włączyły się obserwatoria przeznaczone do badania fal elektromagnetycznych w różnych zakresach długości fali, przeczesując niebo w poszukiwaniu elektromagnetycznego odpowiednika dla źródła fal grawitacyjnych.
+
+Europejskie Obserwatorium Południowe (ESO) - do którego należy też Polska - uruchomiło jedną z największych przeprowadzonych kiedykolwiek kampanii obserwacyjnych typu "target of opportunity", poszukując odpowiednika dla źródła fal grawitacyjnych w wielu zakresach długości fali elektromagnetycznej. W jej ramach - jako jeden z pierwszych - optyczny odpowiednik dla źródła fal grawitacyjnych dostrzegł podczerwony teleskop VISTA. Wykorzystano też liczne inne teleskopy ESO, takie jak Bardzo Duży Teleskop (VLT), teleskop VST, teleskop NTT, jak również sieć radioteleskopów ALMA oraz inne partnerskie instrumenty pracujące w obserwatoriach ESO w Chile. Instrumenty te śledziły obiekt przez kolejne dni i tygodnie po detekcji.
+
+W miarę, jak po kuli ziemskiej przemieszczała się noc, obserwacje podejmowały kolejne obserwatoria astronomiczne. Np. spośród instrumentów pracujących na Hawajach źródło dostrzegły teleskopy Pan-STARRS i Subaru, a następnie śledziły jego ewolucję. Obserwacje były prowadzone także z kosmosu, np. przez Kosmiczny Teleskop Hubble’a.
+
+W pracach uczestniczyli też Polacy. Dotyczy to zwłaszcza naukowców skupionych w zespole Virgo-POLGRAW, którym kieruje prof. Andrzej Królak z Instytutu Matematycznego PAN.
+
+W przypadku Obserwatorium Astronomicznego UW, w ramach zespołu LIGO/VIRGO działa prof. Tomasz Bulik. Z kolei dr hab. Łukasz Wyrzykowski wraz dr. Mariuszem Gromadzkim oraz doktorantami (mgr. Krzysztofem Rybickim i mgr Aleksandrą Hamanowicz) prowadzili badania emisji w zakresie światła widzialnego przy użyciu teleskopów SALT w Afryce Południowej oraz NTT w Europejskim Obserwatorium Południowym (ESO) w Chile w ramach międzynarodowego zespołu ePESSTO. Galaktykę NGC 4993, gdzie doszło do łączenia się gwiazd neutronowych, obserwował również zespół OGLE kierowany przez prof. Andrzeja Udalskiego.
+
+W akcję włączył się też polski projekt Pi of the Sky, realizowany przez Wydział Fizyki UW, Narodowe Centrum Badań Jądrowych PAN i Centrum Fizyki Teoretycznej PAN, którego głównym celem są poszukiwania błysków optycznych towarzyszących rozbłyskom gamma. Robotyczny teleskop projektu działający w Hiszpanii był jednym z pierwszych, które zaczęły poszukiwania emisji optycznej towarzyszącej zjawisku GW170817. W zasięgu teleskopu była ponad połowa obszaru nieba wskazanego wstępnie przez LIGO. W zakresie możliwości obserwacyjnych teleskopu (do jasności 12 magnitudo) nie wykryto żadnego nowego obiektu na niebie, w końcu okazało się, że ostateczna lokalizacja źródła GW170817 jest niewidoczna dla teleskopu.
+
+Innym projektem z polskim udziałem jest obserwatorium promieniowania gamma HAWC w Meksyku.
+
+Publikacje naukowe różnych grup badawczych dotyczące obseracji ukazały się w czasopismach "Nature", "Physical Review Letters", "Astrophysical Journal Letters" i "Monthly Notices of the Royal Astronomical Society". Wśród autorów jest kilkanaście polskich nazwisk.
+
+Warto przypomnieć, że tegoroczna Nagroda Nobla w dziedzinie fizyki została przyznana za wkład w odkrycie fal grawitacyjnych.

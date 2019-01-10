@@ -1,0 +1,37 @@
+Czy można usłyszeć "Damę z gronostajem" Leonarda da Vinci? Okazuje się, że tak - naukowcy z Politechniki Łódzkiej opracowali nowatorski system, który umożliwia - przy użycia sensora ruchu - odczytywanie obrazów cyfrowych za pomocą dźwięku.
+      
+            Dzięki stworzonemu przez naukowców systemowi osoby z dysfunkcją wzroku będą np. mogły zapoznać się z kolorami na obrazach w muzeum, ale nawet przeprowadzić analizę rozkładu barw.
+
+Projekt przeznaczony jest dla osób niewidomych i słabo widzących, ale też może wnieść nową jakość do obcowania ze sztuką wśród osób w pełni sprawnych - przekonuje dr inż. Radosław Bednarski z Instytutu Informatyki PŁ.
+
+Dzięki systemowi projekt "Usłyszeć obraz" pozwala na wygenerowanie dźwięku odpowiedniego dla oznaczanego przez użytkownika koloru na cyfrowej reprezentacji obrazu. Mapowanie wskazania na rzeczywistą przestrzeń obrazu odbywa się poprzez sensor ruchu. "To pierwsze takie rozwiązanie, które pozwala osobom niewidomym +usłyszeć obraz+, bowiem dźwięki mają odwzorowywać barwy. W związku z czym, oglądając obraz można doznawać dodatkowych odczuć słuchowych. Jest to rozwiązanie adresowane zarówno dla osób, które widzą, jak i dla osób niedowidzących" - opowiadał PAP dr Bednarski.
+
+Aplikacja stworzona w ramach projektu przetwarza składowe poszczególnych kolorów według modelu HSV i w zależności od położenia aktualnego koloru w kole barw - emituje odpowiedni dźwięk.
+
+Jak system działa w praktyce? Stojąc przed danym obrazem, użytkownik wskazuje dłonią jakiś punkt w jego obrębie. Dzięki wykorzystaniu sensora ruchu, który umieszczony jest nad obrazem, miejsce wskazywane przez użytkownika oznaczane jest czerwoną kropką na cyfrowej reprezentacji obrazu na monitorze. Mapowanie przestrzeni sensora ruchu na przestrzeń obrazu pozwala na orientację położenia kropki na oryginalnym obrazie. Wiedząc, jaki kolor odpowiada danemu dźwiękowi - użytkownik jest w stanie "usłyszeć obraz".
+
+"Użytkownik wskazuje punkt na obrazie i kiedy porusza dłonią po przestrzeni obrazu, słyszy melodię, ponieważ każdy kolor, każdy piksel na obrazie ma przypisany odpowiedni dźwięk" - wyjaśnił współtwórca systemu, doktorant w Instytucie, Damian Jóźwiak. Dzięki temu osoba z dysfunkcją wzroku może zapoznać się nie tylko z kolorami na obrazie, ale nawet przeprowadzić analizę rozkładu barw czy ich zmian.
+
+Bednarski: badane osoby odczytywały kolory z dokładnością ok. 80 proc.
+
+W projekcie wykorzystano fakt, iż u osób z dysfunkcją wzroku zmysły stają się bardziej wrażliwe na bodźce dźwiękowe. Dzięki temu mogą usłyszeć to, czego nie widzą. Twórcy przyznają, że ich metoda nie sprawdzi się w przypadku osób ze ślepotą wrodzoną. Może być jednak okazją do zapoznania się z malarstwem dla osób ze ślepotą nabytą oraz ślepotą barw.
+
+System został przetestowany w łódzkim okręgu Polskiego Związku Niewidomych. Zdaniem Bednarskiego badane osoby odczytywały kolory z dokładnością ok. 80 proc.
+
+
+
+"Największym zaskoczeniem dla nas był fakt, kiedy jedna z badanych osób zadzwoniła do swojej niewidomej znajomej i ona przez telefon rozpoznała 100 proc. dźwięków, czyli przełożyła je na kolory i wiedziała, że dana barwa dźwięku to dany kolor" - dodał.
+
+Na razie projekt jest adresowany do placówek muzealnych, i choć dźwięk jest bardzo istotny w przekazie dla osób niedowidzących, to również innym odbiorcom system może dać możliwość nowego spojrzenia na sztukę - właśnie poprzez dźwięk.
+
+Twórcy sytemu przekonują, że wrażenia z "usłyszenia obrazu" są na tyle fascynujące, że osoby w pełni widzące zapewne chętnie z tej aplikacji skorzystają, np. zamykając oczy i słuchając tylko dźwięku.
+
+System został zgłoszony do opatentowania
+
+"Nasz system ma pozwolić na inny odbiór sztuki. Chcemy rozszerzyć przestrzeń muzealną nie tylko o udostępnienie jej dla osób niepełnosprawnych - ale też, żeby trochę inaczej można było spojrzeć na sztukę i zwiększyć sposoby jej odbioru" - podkreśla dr inż. Rafał Szrajber.
+
+System został zgłoszony do opatentowania. Jego pilotażowa instalacja wkrótce ma zostać zamontowana w Muzeum Miasta Łodzi.
+
+"W przyszłości chcielibyśmy stworzyć system, który byłby wdrażany w muzeach, a muzealnicy mogliby samodzielnie przygotowywać materiał do udostępniania. Byłby to system zewnętrzny, który pozwoli im dla dowolnej ekspozycji zwiększyć możliwości jej odbioru" - podkreślił dr Szrajber.
+
+Zdaniem autorów jest wiele możliwości wykorzystania takiej aplikacji, np. w przedszkolach przy uczeniu dzieci kolorów bądź w parkach rozrywki. Można ją będzie także wykorzystać w konstrukcji okularów analizujących obraz i odtwarzających dźwięk, w zależności od widzianego koloru.

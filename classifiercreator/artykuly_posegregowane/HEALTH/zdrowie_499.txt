@@ -1,0 +1,9 @@
+Chińscy naukowcy stworzyli podręczny tester, dzięki któremu można określić grupę krwi danej osoby w niecałą minutę - informuje pismo "Science Translational Medicine".
+      
+            Tester przypomina wyglądem popularne testy ciążowe. Badacze z III Wojskowego Uniwersytetu w Chinach opracowali go z myślą o żołnierzach i mieszkańcach obszarów objętych konfliktami zbrojnymi, gdzie dostęp do opieki medycznej jest ograniczony. Jest to alternatywa dla testów laboratoryjnych, które w zależności od warunków zajmują od 30 minut do kilku godzin.
+
+Naukowcy sprawdzali skuteczność testu na 3550 próbkach krwi i ustalili, że wynosiła ona 99,99 proc., a rezultaty były widoczne już po upływie średnio 30 sekund.
+
+Na tester zawierający przeciwciała wystarczy zaaplikować kroplę krwi. Niezgodne antygeny obecne na powierzchni czerwonych krwinek powodują reakcję odpornościową, polegającą na aktywacji skierowanych przeciwko tym antygenom przeciwciał. Po chwili pasek zmienia kolor w zależności od interakcji pomiędzy antygenami znajdującymi się na powierzchni erytrocytów i przeciwciałami na pasku, wskazując grupę krwi zarówno w układzie AB0, jak i Rh.
+
+Autorzy liczą na to, że w ciągu najbliższych lat tester, pozwalający zbadać grupę krwi w sposób szybki i tani, zostanie wprowadzony na rynek.

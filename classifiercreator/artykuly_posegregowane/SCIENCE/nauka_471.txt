@@ -1,0 +1,33 @@
+Warszawa, 18.10.2012. Finał I edycji konkursu popularyzującego naukę, organizowanego przez Fundację na rzecz Nauki Polskiej.
+Nz. mgr Jakub Mielczarek Ins. Problemów Jądrowych  im. Sołtana Otwock - ŚWIERK. (tg/soa) Archiwum fot. PAP/Tomasz Gzell
+                                        
+
+            Polscy naukowcy przygotowują satelitę do testowania leków i obserwacji komórek nowotworowych w kosmosie. Robią to z myślą o astronautach, którzy w podróży np. na Marsa będą narażeni na długotrwałe działanie szkodliwego promieniowania kosmicznego.
+      
+            Wysokie dawki promieniowania kosmicznego to dla człowieka jedna z najtrudniejszych barier w czasie kosmicznych misji, np. w drodze na Marsa. Dawka promieniowania przypadająca obecnie na jednego astronautę w czasie całej jego kariery wynosi ok. 1 tys. milisiwertów, a podróż na Marsa w jedną stronę to już około 660 milisiwertów.
+
+"Wiadomo, że podwyższony poziom promieniowania prowadzi do niekontrolowanego podziału komórek, czyli do tworzenia się nowotworów. To problem, z którym będą musieli się borykać przyszli kolonizatorzy kosmosu" - mówi PAP dr Jakub Mielczarek z Instytutu Fizyki Uniwersytetu Jagiellońskiego.
+
+Choć pojawią się technologie pomagające astronautom chronić się przed szkodliwym wpływem promieniowania, to nawet one nie pozwolą w pełni wyeliminować problemu - między innymi dlatego, że osłony przeciw promieniowaniu są ciężkie, a każdy dodatkowy kilogram ładunku, który trzeba wynieść w kosmos, to dodatkowe, kosmiczne kwoty.
+
+Polscy naukowcy rozpoczęli prace, które pomogą w rozwiązaniu problemu narażenia astronautów na zwiększone dawki promieniowania. Dr Jakub Mielczarek wraz z dr Adamem Zadrożnym z Narodowego Centrum Badań Jądrowych oraz lekarką Anną Kornakiewicz z Warszawskiego Uniwersytetu Medycznego opracował projekt specjalnego nanostatelity. Umożliwi on hodowlę w kosmosie komórek nowotworowych i obserwowanie ich zachowania pod wpływem związków antynowotworowych.
+
+Projekt został zainspirowany amerykańskim satelitą BioSentinel, który ma badać zachowanie DNA w dużej odległości od Ziemi. Pomysł Polaków idzie jednak o krok dalej - ma pozwolić na badanie zarówno komórek nowotworowych, jak i konkretnych związków o działaniu antynowotworowym. "To propozycja bez precedensu. Nie znamy planów misji takich, jak nasza" - podkreśla dr Mielczarek.
+
+Kosmiczna hodowla komórkowa będzie miała objętość zaledwie około jednego centymetra sześciennego. "Po zaaplikowaniu danego farmaceutyku będziemy obserwowali, jaka jest reakcja komórek nowotworowych przy podniesionym poziomie promieniowania. Porównamy ją z reakcją leczonej w ten sam sposób referencyjnej kolonii komórkowej na Ziemi" - tłumaczy naukowiec. Postęp wzrostu hodowli nowotworowej będzie można śledzić dzięki zestawowi czujników umieszczonych w nanosatelicie.
+
+Jak podkreśla Jakub Mielczarek projekt będzie zrealizowany dzięki dwóm technologiom. Jedną z nich jest popularna obecnie technologia CubeSat - małych satelitów, zbudowanych z kostek o objętości 1 litra i wymiarach 10x10x10 cm. Drugą są powszechnie już dziś używane miniaturowe laboratoria, nazywane przez fachowców "układami lab on a chip". "Dzięki ich połączeniu cena naszej misji nie będzie kosmicznie wysoka" - przewiduje rozmówca PAP.
+
+Obecnie - jak wyjaśnia Mielczarek - zapotrzebowanie na specjalne farmaceutyki przeznaczone dla astronautów nie jest duże, gdyż w przestrzeni kosmicznej jednocześnie przebywa zaledwie kilka osób. "W dodatku znajdują się one na niskiej orbicie ziemskiej, gdzie przed szkodliwym działaniem promieniowania kosmicznego chroni je nieco ziemskie pole magnetyczne" - opowiada Mielczarek.
+
+Również pierwsze loty na Księżyc były dość krótkie - trwały około tygodnia. W przypadku ludzi, którzy dotychczas opuszczali Ziemię, czas ekspozycji na podwyższony poziom promieniowania kosmicznego nie był więc tak długi, jak ten, który czeka przyszłych zdobywców Marsa.
+
+"Teraz mówimy o zupełnie innych skalach czasowych i znacznie odleglejszych misjach w kosmosie: poza niską orbitę ziemską, na Marsa, które mogą trwać latami. Jednym z najważniejszych zadań podczas przygotowywania takich misji będzie zapewnienie astronautom odpowiednich środków farmaceutycznych. Dzisiaj są one po prostu niedostępne, a bez odpowiednio sprofilowanych farmaceutyków trudno sobie wyobrazić misje załogowe na Marsa" - przewiduje.
+
+Już w ubiegłym roku dr Mielczarek, we współpracy z dwójką studentów z Uniwersytetu Jagiellońskiego, przeprowadzili biologiczną misję stratosferyczną, dzięki której powstała wstępna wersja platformy do badań astrobiologicznych. Na rok 2018 planowana jest kolejna misja stratosferyczna, podczas której naukowcy będą obserwować reakcje drożdży na promieniowanie kosmiczne. Następnym etapem prac będzie przygotowanie szczegółowego planu misji biofarmaceutycznej, zawierającego szereg informacji na temat układu eksperymentalnego i detali technicznych nanosatelity.
+
+"Chcielibyśmy zrealizować nasz projekt we współpracy z firmą farmaceutyczną, która dostarczy odpowiedni farmaceutyk do testów. Obecnie trwają poszukiwania partnerów" - poinformował Mielczarek.
+
+W najbliższej dekadzie jego zdaniem zapotrzebowanie na takie rozwiązania będzie rosło, tak samo, jak będzie rosła liczba osób obecnych w przestrzeni kosmicznej. "Na razie zagadnienie to jest nieco futurystyczne. Jeśli jednak chcemy wypracować przewagę technologiczną, naukową - to musimy odpowiednio wcześnie dostrzec potencjał zagadnienia, które okaże się ważne w ciągu dekady" - mówi Mielczarek.
+
+Więcej informacji na temat projektu jest dostępnych na stronie: https://arxiv.org/pdf/1802.04078.pdf

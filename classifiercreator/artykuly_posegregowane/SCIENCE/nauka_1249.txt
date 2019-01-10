@@ -1,0 +1,31 @@
+Tegoroczną Nagrodę Nobla w dziedzinie chemii otrzymali: Jean-Pierre Sauvage, J. Fraser Stoddart oraz Bernard L. Feringa za "zaprojektowanie i syntezę maszyn molekularnych", na przykład sztucznych mięśni czy miniaturowych silniczków, niezbędnych do rozwoju nanotechnologii.
+      
+            Nazwiska laureatów ogłosił w środę w Sztokholmie Królewska Szwedzka Akademia Nauk. Sauvage, Stoddart i Feringa podzielą się po równo nagrodą w wysokości 8 mln koron szwedzkich (około 850 tysięcy euro).
+
+Maszyny molekularne, nad którymi pracowali nobliści, "będą najprawdopodobniej wykorzystywane w rozwoju nowych materiałów, czujników i systemów przechowywania energii" - podkreśliła w uzasadnieniu Akademia.
+
+Sauvage (ur. w 1944 r.) jest emerytowanym profesorem University of Strasbourg i dyrektorem ds badań we francuskim CNRS. Stoddart urodził się w 1942 r. w Edynburgu w W. Brytanii, a teraz jest profesorem chemii na Northwestern University w Evanston (Illinois, USA). Feringa (ur. w 1951 r.) jest profesorem chemii organicznej na holenderskim uniwersytecie w Groningen.
+
+Początek nanotechnologii dał w latach 50. XX wieku wykład Richarda P. Feynmana „There's Plenty Room at the Bottom” (w wolnym tłumaczeniu „Tam na dole jest jeszcze dużo miejsca”. Wyobrażając sobie, jak zmieścić 24-tomową Encyklopedię Britannica na łebku szpilki, Feynman przedstawił koncepcję miniaturyzacji oraz możliwości tkwiące w wykorzystaniu technologii operującej na poziomie nanometrowym (nanometr to jedna miliardowa metra). Chodzi na przykład o budowę miniaturowych, samopowielających się nanomaszyn (jak dowodzi istnienie bakterii, wirusów czy komórek naszego ciała, jest to jak na najbardziej realne).
+
+Pierwszy krok na drodze ku molekularnym maszynom zrobił w roku 1983 Jean-Pierre Sauvage
+
+Aby budować nanomaszyny, trzeba było najpierw stworzyć ich elementy składowe.
+
+Pierwszy krok na drodze ku molekularnym maszynom zrobił w roku 1983 Jean-Pierre Sauvage – dzięki wykorzystaniu jonu miedzi udało mu się połączyć dwie cząsteczki o kształcie pierścienia w (raczej krótki) łańcuch, zwany katenanem (od łacińskiego słowa „catena”, oznaczającego właśnie łańcuch). Dzięki jonom metali chemikom udawało się zwijać cząsteczki także w inne skomplikowane struktury – łańcuchy i węzły, przypominające węzeł celtycki, pierścienie Boromeuszy czy węzeł Salomona.
+
+Zwykłe cząsteczki połączone są mocnymi wiązaniami kowalencyjnymi - atomy dzielą się swoimi elektronami. Jednak w przypadku łańcucha połączenie jest bardziej swobodne - natury mechanicznej. Aby maszyna mogła działać, jej części składowe muszą mieć możliwość poruszania się względem siebie – tak jak w przypadku ogniw łańcucha.
+
+Kolejny krok wykonał w 1991 roku kolejny z tegorocznych noblistów Fraser Stoddart – udało mu się uzyskać rotaksan. Nasadził molekularny pierścień (ubogi w elektrony) na cienką molekularną oś (mającą elektronów aż nadto) i zademonstrował, że może się on na tej osi obracać. Wśród opartych na rotaksanie dzieł Stoddarta są: molekularna winda (pozwalająca unieść ładunek na wysokość 0,7 nanometra), molekularny mięsień zginający cieniutką złotą blaszkę oraz chip komputerowy – pamięć o skromnej pojemności 20 kilobajtów, jednak mająca wyjątkowo małe elementy składowe.
+
+Królewska Szwedzka Akademia Nauk: maszyny molekularne będą wykorzystywane do opracowania nowych materiałów, czujników oraz systemów magazynowania energii
+
+Trzeci z noblistów Bernard L. Feringa z uniwersytetu w Groningen (Holandia) był pierwszą osobą, która skonstruowała silnik molekularny. W roku 1999 zbudował molekularny wirnik kręcący się stale w tym samym kierunku – w najnowszej wersji osiąga 12 milionów obrotów na sekundę. Używając molekularnych silników udało mu się obracać szklany cylinder o długości 28 mikrometrów - 10 000 razy większy od silnika, a nawet zbudować nanosamochód - cztery molekularne silniki zamocowane do molekularnej ramy.
+
+Jak oceniają eksperci, pod względem zawansowania molekularne silniki są na tym samym poziomie, co silniki elektryczne w latach 30. XIX wieku. Budowane wówczas maszyny elektryczne ledwo się obracały, wydawały się ciekawostką - nikt nie przypuszczał, że w przyszłości będą wszechobecne, dadzą napęd pociągom, pralkom, wentylatorom, mikserom czy dronom.
+
+Jak zauważyła w środę Królewska Szwedzka Akademia Nauk, maszyny molekularne „będą najprawdopodobniej wykorzystywane do opracowania nowych materiałów, czujników oraz systemów magazynowania energii”. Śmielsze pomysły na wykorzystanie nanotechnologii mieli pisarze science fiction. W wydanej w roku 1982 „Wizji lokalnej” Stanisław Lem opisał społeczeństwo Luzanów na planecie Encji, które dzięki niemal wszechobecnym „bystrom” – elementom logicznym wielkości dużych molekuł - chronione jest przed chorobami, a nawet samo przed sobą. Złożona z bystrów „etykosfera” udaremnia przemoc wobec innych członków społeczeństwa. Molekularne roboty potrafią w tej powieści tworzyć wszelkie przedmioty, jakich zażyczyłby sobie Luzanin, a nawet – stopniowo zastępując jego naturalne ciało sztucznym - obdarzyć go nieśmiertelnością.
+
+Na razie naukowcom udało się zbudować (w roku 2013) na przykład napędzanego rotaksanem molekularnego robota, który potrafi chwytać i łączyć aminokwasy, tworząc peptydy. Powstała także sieć polimerów z silnikami molekularnymi. Pod wpływem światła silniki splątują polimery - zjawisko to może znaleźć zastosowanie w czujnikach wykrywających światło, jak również jako sposób magazynowania energii.
+
+Paweł Wernicki

@@ -1,0 +1,26 @@
+Katowice, 16.11.2017. Smog w mieście. (soa) PAP/Andrzej Grygiel Archiwum PAP © 2018 / Andrzej Grygiel
+                                        
+
+            Pomysł na mobilny system pomiarów smogu, oparty o czujniki zainstalowane na pojazdach komunikacji miejskiej, opracowali studenci Politechniki Śląskiej. Swoją koncepcją wygrali rywalizację w konkursie na rozwiązania dot. walki ze smogiem i zmianami klimatycznymi.
+      
+            Jak poinformowało w czwartkowej informacji biuro prasowe Politechniki Śląskiej, koncepcja aktywnej sieci monitorowania i przewidywania smogu studentów tej uczelni została uznana za najlepszą w ostatniej edycji Smart City Katowice – przedsięwzięcia łączącego ideę smart city z potencjałem startupów.
+
+Wydarzenie zorganizował samorząd Katowic, który wraz z organizacją Ogrody Przedsiębiorczości, przy współpracy Górnośląsko-Zagłębiowskiej Metropolii (GZM), w ten sposób postanowił szukać dla miasta i Metropolii rozwiązań mających poprawiać jakość życia mieszkańców w kontekście zanieczyszczenia powietrza i zmian klimatu.
+
+Impreza miała formułę trwającego dobę hackathonu - jak określa się kreatywne spotkania, podczas których specjaliści z różnych dziedzin wypracowują innowacyjne rozwiązania konkretnych problemów.
+
+Uczestnicy, dobrani w zespoły złożone z programistów, grafików, kreatorów, przedsiębiorców i aktywnych mieszkańców i wspierani przez mentorów, w ostatni weekend pracowali nad rozwiązaniami dla miasta w katowickim Rondzie Sztuki. Grupa studentów z Wydziału Automatyki, Elektroniki i Informatyki Politechniki Śląskiej przedstawiła pomysł dotyczący monitorowania i przewidywania smogu.
+
+Ich koncepcja opiera się na umieszczeniu czujników pyłu na pojazdach komunikacji miejskiej. Taki system ma umożliwiać precyzyjne pomiary na dużym obszarze przy ograniczonej ilości sensorów. Zebrane w ten sposób dane oraz dane meteorologiczne - analizowane przy użyciu narzędzi sztucznej inteligencji – mają utworzyć mapy aktualnego stanu smogu oraz umożliwić jego prognozowanie.
+
+Pomysł studentów z Politechniki Śląskiej: Zuzanny Rodak, Macieja Balasa oraz Macieja Ciupki, został najlepiej oceniony przez jury konkursu, dzięki czemu młodzi inżynierowie zwyciężyli w hackathonie. Ich mentorem był prodziekan wydziału, na którym studiują, dr inż. Krzysztof Tokarz.
+
+Członkowie zespołów mieli wcześniej możliwość zapoznania się z narzędziami i metodami tworzenia inteligentnego miasta. Uczestnikom udostępniono też nowoczesne rozwiązania, m.in. ze sztuczną inteligencją czy technologiami internetu rzeczy. Kryteriami oceny były m.in. innowacyjność i możliwości wdrożenia proponowanych rozwiązań.
+
+Jury łącznie miało wybrać kilka projektów o największym potencjale wdrożeniowym, a zwycięski zespół - otrzymać szansę na finansowanie swojego pomysłu wraz ze wsparciem merytorycznym.
+
+Organizatorzy imprezy zapowiadali ją jako okazję do przygotowania pomysłów i rozwiązań, które będą prezentowali gospodarze grudniowego szczytu klimatycznego w Katowicach. Szczyty klimatyczne ONZ, czyli tzw. COP-y (Conference of the Parties) to doroczne globalne konferencje, podczas których negocjowane są działania na rzecz polityki klimatycznej.
+
+Według szacunków resortu środowiska na katowicki szczyt może przyjechać ponad 30 tys. osób reprezentujących blisko 200 państw świata. Oprócz przywódców państw, prezydentów, premierów czy ministrów, będą to przedstawiciele biznesu, finansjery oraz licznych organizacji ekologicznych.
+
+W Katowicach w grudniu br. odbędą się 24. Konferencja Stron Ramowej Konwencji Narodów Zjednoczonych w sprawie Zmian Klimatu (COP24), 14. Spotkanie Stron Protokołu z Kioto (CMP 14) oraz Konferencja sygnatariuszy Porozumienia Paryskiego (CMA 1).

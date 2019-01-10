@@ -1,0 +1,9 @@
+Zakład Ubezpieczeń Społecznych ostrzegł w czwartek przed oszustami, którzy wysyłają maile z informacją o konieczności opłacenia faktury rzekomo wystawionej przez ZUS. Znajdujący się w załączniku plik zawiera wirusa, który może spowodować przechwycenie tzw. wrażliwych danych.
+      
+            "W ostatnich dniach do części klientów ZUS trafiły maile, rzekomo od Zakładu Ubezpieczeń Społecznych, z informacją o konieczności opłacenia faktury wystawionej przez sam ZUS. Do wiadomości załączony jest plik z fakturą. Jego otwarcie grozi zainfekowaniem komputera, blokadą dostępu do plików, czy przechwyceniem wrażliwych danych, np. loginów i haseł bankowości elektronicznej, czy mediów społecznościowych" - poinformował w komunikacie rzecznik prasowy ZUS Wojciech Andrusiewicz.
+
+Zakład Ubezpieczeń Społecznych w przesłanej PAP informacji radzi, by w przypadku otrzymania maila najlepiej od razu go skasować, a przede wszystkim nie otwierać załączonego w nim pliku. Przypomina przy tym, że ZUS "nigdy nie wystawia i nie wysyła faktur, tak jak nie wystawia i nie wysyła innej dokumentacji drogą mailową". 
+
+"Wszelkie dokumenty i formularze ZUS można pobrać samodzielnie ze strony internetowej Zakładu. Ewentualne informacje drogą elektroniczną ZUS przekazuje tylko tym klientom, którzy posiadają konto na portalu Platformy Usług Elektronicznych ZUS i dzieje się to właśnie za pośrednictwem profilu na PUE ZUS" - czytamy w komunikacie.
+
+W przypadku wątpliwości lub podejrzeń, co do otrzymanych maili z Zakładu Ubezpieczeń Społecznych można się kontaktować z Centrum Obsługi Telefonicznej ZUS, pod numerem 22 560 16 00.

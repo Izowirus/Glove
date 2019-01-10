@@ -1,0 +1,17 @@
+epa05470984 Thomas Henzler of the Institute for Clinical Radiology and Nuclear Medicine prepare a human skull that was found on the former convent grounds in Lorsch for a scan using a computer tomograph at the University Clinic in Mannheim, Germany, 10 August 2016. The Lorsch convent presents an anthropological research project which includes facial reconstructions based on the bone finds.  EPA/UWE ANSPACH 
+Dostawca: PAP/EPA. Archiwum PAP/EPA © 2017 / UWE ANSPACH
+                                        
+
+            Komputer okazał się równie dokładny w analizie zdjęć rentgenowskich, jak lekarze-specjaliści. Autorzy eksperymentu wróżą przejęcie wielu medycznych procedur przez uczące się komputery.
+      
+            Naukowcy ze szwedzkiego Karolinska Institutet, na łamach pisma „Acta Orthopaedica” opisali pojedynek między radiologami i sztuczną inteligencją. Zawody polegały na dokładności diagnozowania złamań ze zdjęć rtg.
+
+Badacze tłumaczą, że zainspirował ich rozwój programów rozpoznających obrazy, a konkretnie przełom z 2012 roku, kiedy komputer tylko trzykrotnie gorzej od człowieka radził sobie z rozpoznawaniem zawartości zdjęć z Internetu; z roku 2015, kiedy robił to równie dobrze, jak biologiczny mózg i z roku 2016, kiedy osiągnął już dwa razy większą sprawność.
+
+Nowy eksperyment był stosunkowo prosty, ale doskonale pokazał obecne możliwości komputerowych algorytmów. Badacze poddali istniejący wcześniej system sztucznej inteligencji (ang. AI – artificial intelligence) treningowi na ponad 170 tys. rentgenowskich zdjęć dłoni, nadgarstków i kostek. Komputer przy ich pomocy uczył się rozpoznawać złamania. Po takim treningu program samodzielnie musiał rozpoznać ewentualne złamania na kolejnych 80 tys. zdjęć. Te same obrazy analizowało też dwóch konsultantów.
+
+Wyniki były podobne po obu stronach. Komputer, podobnie jak ludzie, postawił prawidłową diagnozę w ponad 80 proc. Badacze twierdzą, że testowany program wypadłby jeszcze lepiej, gdyby w czasie nauki miał dostęp do większej liczby zdjęć. Dlatego chcą powtórzyć eksperyment z ponad milionem prześwietleń.
+
+Według autorów doświadczenia, inteligentne komputery mogą wnieść do radiologii nowe możliwości, obecnie przewyższające ludzi. „AI może pozwolić na uzyskanie bardziej jednorodnej klasyfikacji i jednolitego standardu w analizie zdjęć rentgenowskich” - mówi jeden z naukowców, dr Max Gordon. „Jeśli przeanalizujemy nasze cyfrowe archiwum, będziemy także mogli przeprowadzić szeroko zakrojone badania odnośnie postępu choroby i zdolności do pracy - badania, które były niemożliwe ze względu na ilość danych do przeanalizowania” - opowiada naukowiec.
+
+Perspektywy są świetlane, przynajmniej dla komputerów. Według szwedzkich badaczy z czasem inteligentne algorytmy będą mogły przejąć obowiązki lekarzy różnych specjalności.

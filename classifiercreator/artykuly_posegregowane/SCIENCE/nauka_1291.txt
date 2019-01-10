@@ -1,0 +1,13 @@
+Maleńkiego robota, który naśladuje ruch gąsienicy, opracowali fizycy z Uniwersytetu Warszawskiego. Robot nie ma w sobie żadnej elektroniki, a zasila go i steruje nim światło lasera. Gąsienica ma tylko 1,5 cm długości i może transportować obiekty kilka razy cięższe niż ona sama.
+      
+            Jak mówi PAP, jeden z twórców rozwiązania Mikołaj Rogóż, student Wydziału Fizyki Uniwersytetu Warszawskiego robot gąsienica w całości składa się z tworzywa sztucznego i karmiony jest światłem".
+
+Robota ma zaledwie 1,5 cm długości. Gąsienica nie ma na sobie żadnych silników, baterii ani innych przyrządów. W całości zbudowana jest z jednego kawałka elastomeru (to technologia rozwinięta pierwotnie w Instytucie LENS we Florencji). Materiał podgrzewany jest światłem lasera, a fragment, na który się świeci, pod wpływem wysokiej temperatury zaczyna się zginać. "Proces deformacji jest w pełni odwracalny. Jeśli schłodzimy taki materiał, wróci do pierwotnego kształtu" - opowiada Rogóż.
+
+
+
+"Skanując robota wiązką laserową, jesteśmy w stanie pobudzać tylko jego określone części, podgrzewać je, dzięki temu jesteśmy w stanie zdecydować, w którą stronę nasz robot ma się poruszyć" - wyjaśnia. Aby robot mógł się przemieszczać, wykorzystuje się wiązkę zielonego lasera o sporej mocy. Światło to jest na tyle silne, że mogłoby uszkodzić kamerę. Ruch robota gąsienicy zarejestrowany był więc przez naukowców z FUW kamerą z nałożonym pomarańczowym filtrem, przez który zielone światło właściwie nie przenika.
+
+"Nasza gąsienica potrafi wspinać się na niewielkie wzniesienia, przeciskać przez szczeliny i pchać przed sobą obiekty sześć razy cięższe od niej samej. To jest mniej więcej tak, jakby dorosły człowiek pchał malucha" - porównuje badacz.
+
+"W tym projekcie przedstawiliśmy pewną koncepcję robotów, które nie zawierają żadnego wewnętrznego zasilania, silników, tylko są sterowane w całości z zewnątrz. Robot dzięki temu jest lekki, może być giętki, można go łatwo przenieść w inne miejsca, a sterujemy nim tylko strzelając w niego wiązką laserową. To jest zaprzeczenie takiej standardowej koncepcji robota, gdzie mamy humanoidalną puszkę, która się porusza oraz ma w środku kable i baterie" - kończy badacz.

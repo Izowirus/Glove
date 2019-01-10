@@ -1,0 +1,24 @@
+Anteros to nowy łazik przygotowany przez studentów Uniwersytetu Warszawskiego. Może jeździć z prędkością 20 km/h, podnosić ciężkie przedmioty i pobierać próbki gleby. Na początku czerwca wystartuje w prestiżowych zawodach University Rover Challenge w USA.
+      
+            University Rover Challenge (URC) to prestiżowe, międzynarodowe zawody łazików marsjańskich zbudowanych przez studentów z całego świata. Rozgrywane są na amerykańskiej pustyni w stanie Utah, w pobliżu analogu bazy marsjańskiej MDRS - Mars Desert Research Station. W tym roku zawody odbędą się między 1 a 3 czerwca.
+
+Wśród pięciu zespołów reprezentujących Polskę znalazła się drużyna University of Warsaw Rover Team. Zespól tworzą studenci różnych kierunków Uniwersytetu Warszawskiego. W piątek w Warszawie zaprezentowali swój łazik o nazwie Anteros.
+
+"Anteros to imię jednego z synów boga Marsa. Tak jak nazwa planety, nazwa naszego łazika jest więc zapożyczona z mitologii" - powiedział PAP Karol Pieniący z University of Warsaw Rover Team.
+
+Łazik - jak podkreślił - rozwija dosyć dużą prędkość jak na tego typu pojazdy - prawie 20 km/h. Jest też wyposażony w uniwersalne ramię, które jest w stanie wykonywać prawie dowolne zadania wykonywane zwykle przez człowieka w grubej rękawicy skafandra kosmicznego. Ramię może podnosić różne przedmioty czy asystować astronaucie w pracach na zewnątrz.
+
+Anteros to już trzeci łazik skonstruowany przez studentów UW. Wcześniej brali oni udział w zawodach łazików, ale tylko w Europie. "Zawody, na które jedziemy w czerwcu, to najstarsze i najbardziej prestiżowe zawody łazików marsjańskich na świecie. Kwalifikuje się na nie tylko 36 drużyn z całego świata, więc sam fakt zakwalifikowania się tam już jest osiągnięciem" - zaznaczył Pieniący.
+
+Uczestnicy zawodów będą się musieli wykonać serię różnych zadań, m.in. jeździć łazikiem po skomplikowanym terenie i zmierzyć się z różnymi przeszkodami napotykanymi na kamienistej pustyni. "Drugim zadaniem jest jazda autonomiczna łazika. Nasi programiści zaprogramowali go tak, żeby na podstawie widzenia maszynowego oraz danych z GPS umiał określić, co przed nim stoi" - wyjaśnił PAP Aleksander Jasiak z University of Warsaw Rover Team.
+
+<iframe allowfullscreen frameborder="0" height="525" src="//r.dcs.redcdn.pl/webcache/pap-embed/iframe/9EnuVxgU.html" title="Anteros - nowy łazik studentów Uniwersytetu Warszawskiego" width="930"></iframe>
+
+Kolejnym zadaniem będzie pomoc astronaucie, czyli operowanie urządzeniami technicznymi. Kluczowym zadaniem - zdaniem Jasiaka - jest jednak misja naukowa. "W naszej misji zawiera się pobór próbki gleby i przeanalizowanie jej pod względem występowania węglanów, siarczanów, które pomagają określić, czy w przeszłości występowało tam środowisko wodne. Druga część zadania to pomiar zawartości metanu w atmosferze" - tłumaczył Jasiak.
+Oprócz zespołu z Uniwersytetu Warszawskiego do konkursu University Rover Challenge w 2017 roku zakwalifikowały się jeszcze cztery inne zespoły z Polski: Project Scorpio z Politechniki Wrocławskiej; Raptors z Politechniki Łódzkiej; Continuum z Uniwersytetu Wrocławskiego oraz PCz Rover Team z Politechniki Częstochowskiej.
+
+Więcej swoich drużyn w zawodach będą miały tylko Stany Zjednoczone - aż 14 drużyn oraz Bangladesz - sześć drużyn. Pięć zespołów wysyła Kanada, cztery zespoły - Indie, a po jednym Turcja i Egipt.
+
+Zespoły z polskich uczelni w konkursie uczestniczą od 2009 roku. Pierwszy sukces osiągnęły w 2011 roku, wówczas łazik Magma2 przygotowany na Politechnice Białostockiej uplasował się na najwyższym stopniu podium. Pierwsze miejsce studenci z Politechniki Białostockiej zajęli ponownie w 2013 i 2014 roku z łazikiem Hyperion i Hyperion 2.
+
+W 2015 roku w zawodach zwyciężyła drużyna Legendary Rover Team z Politechniki Rzeszowskiej. Z kolei trzecie miejsce zajął zespół Scorpio z Politechniki Wrocławskiej, a czwarte łazik #next zbudowany przez studentów z Politechniki Białostockiej. W 2016 roku zawody ponownie wygrała drużyna Legendary Rover Team. Trzecie miejsce zajął zespół Continuum z Uniwersytetu Wrocławskiego.

@@ -1,0 +1,29 @@
+epa05879998 A handout photo made available by SpaceX shows the launch of the Falcon 9 rocket at the Kennedy Space Center near Cape Canaveral, Florida, USA, 30 March 2017. The Falcon 9 rocket is the first pre-flown rocket to be reused as a booster into space. The rocket carried the SES-10 communications satellite into orbit.  EPA/SPACEX / HANDOUT  HANDOUT 
+Dostawca: PAP/EPA. Archiwum PAP/EPA © 2017 / SPACEX / HANDOUT
+                                        
+
+            Start satelity PW-Sat2, skonstruowanego przez studentów Politechniki Warszawskiej, pierwotnie planowany na koniec 2017 r, odbędzie się najwcześniej w połowie 2018 r. Na opóźnienie startu wpłynęły plany firmy SpaceX, której rakieta ma wynieść polskiego satelitę na orbitę.
+      
+            Satelita zbudowany w Studenckim Kole Astronautycznym PW będzie wyniesiony przez rakietę Falcon 9 firmy SpaceX na orbitę o wysokości ok. 575 km.
+
+"Planowana data startu oscyluje teraz wokół połowy 2018 roku, a nawet jego trzeciego kwartału. Nie mamy na ten termin żadnego wpływu" - poinformował PAP Dominik Roszkowski, wicekoordynator zespołu PW-Sat2.
+
+Kontrakt na wyniesienie satelity podpisały w październiku 2016 roku Politechnika Warszawska i organizująca start firma Innovative Space Logistics B.V. Początkowo termin wyniesienia satelity planowano na koniec 2017 r. "Od tego czasu firma SpaceX miała różnego rodzaju problemy, a jedna z jej rakiet nawet wybuchła we wrześniu 2016 roku. Dodatkowo SpaceX planuje rozwój innych rakiet. Z tych powodów przesunięto już zaplanowane starty" - wyjaśnił Roszkowski.
+
+Dla misji PW-Sat2 przesunięcie startu nie jest jednak specjalnym problemem. "Praktycznie jesteśmy już gotowi do oddania satelity. Pozostały czas możemy poświęcić na dodatkowe testy. Z tego względu sytuacja jest dość korzystna" - ocenił rozmówca PAP.
+
+Obecnie część zespołu przeprowadza testy żagla deorbitacyjnego satelity w niemieckiej Bremie, na wieży zwanej Drop Tower. To komora próżniowa, w której można zrzucać np. przyrządy badawcze i sprawdzać jak działają w stanie nieważkości. "Chcemy zobaczyć jak nasz żagiel otwiera się w symulowanym stanie nieważkości w warunkach zbliżonych do kosmicznej próżni. Przeprowadzamy właśnie serię takich zrzutów z wysokości ok. 13 metrów. Spadek trwa nieco ponad sekundę. W tym czasie żagiel jest się w stanie otworzyć" - relacjonuje Roszkowski.
+
+Druga część zespołu przeprowadza testy łączności z satelitą. To próba generalna łączności przeprowadzana na Ziemi, choć - jak przyznaje Roszkowski - w kosmosie nawiązanie takiej łączności będzie znacznie trudniejsze.
+
+PW-Sat2 jest już drugim satelitą zaprojektowanym przez członków Studenckiego Koła Astronautycznego PW. Jego zadaniem jest test innowacyjnej technologii deorbitacji. Sam satelita jest prostopadłościanem o wymiarach 10x10x22 cm. Systemem deorbitującym PW-Sat2 jest kwadratowy żagiel wykonany z wytrzymałej folii o powierzchni 4 m kw. zwinięty oraz umieszczony w cylindrze. Niemal dwa miesiące po wyniesieniu na orbitę żagiel zostanie odblokowany, a następnie wysunięty na bezpieczną odległość od satelity i otwarty. W ten sposób znacznie zwiększy się opór aerodynamiczny satelity, który przyspieszy obniżanie jego orbity.
+
+Według analiz przeprowadzonych przez studentów przy optymalnych warunkach takie rozwiązanie znacznie skróci czas deorbitacji satelity. Dzięki temu przyszłe satelity, po zakończeniu swojej misji, nie będą zmieniały się w sterty niebezpiecznych śmieci i zagrażały np. astronautom na Międzynarodowej Stacji Kosmicznej (ISS).
+
+Na pokładzie PW-Sat2 umieszczone zostaną dwie kamery, które umożliwią studentom obserwację fragmentu powierzchni żagla deorbitacyjnego. Twórcy satelity zamierzają zarejestrować proces otwierania go, aby móc później dokładnie zweryfikować działanie zastosowanych mechanizmów i skuteczność rozwiązania.
+
+Ważnym elementem PW-Sat2 będzie też czujnik słoneczny, służący do zebrania informacji o pozycji i orientacji satelity w przestrzeni na podstawie kąta padania promieni słonecznych. Czujnik to rodzaj satelitarnego kompasu, który dostarczy informacji potrzebnych do prawidłowego ustawienia PW-Sat2. Jego odczyty zostaną porównane z komercyjnie dostępnym czujnikiem.
+
+Prace nad satelitą PW-Sat2 zespół złożony z ponad 30 studentów z różnych wydziałów Politechniki Warszawskiej rozpoczął w 2013 roku. Wcześniej - w lutym 2012 roku - na orbicie okołoziemskiej znalazł się pierwszy polski satelita PW-Sat, również zbudowany przez studentów Politechniki Warszawskiej. Aktywny kontakt z satelitą trwał około pół roku od momentu umieszczenia go na orbicie, po czym satelita przeszedł w stan całkowitej hibernacji. Wówczas zawiódł jeden z podsystemów, co przyczyniło się do trudności z odebraniem przez satelitę komendy otworzenia ogona deorbitacyjnego. Jak zapewniają twórcy następnego satelity, PW-Sat2 będzie gotów zmierzyć się z taką awarią i wykonać misję automatycznie, nawet w razie utraty łączności z satelitą.
+
+Więcej informacji na temat projektu jest dostępnych na stronie: http://pw-sat.pl/

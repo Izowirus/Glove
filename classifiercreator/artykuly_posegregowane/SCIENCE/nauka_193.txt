@@ -1,0 +1,33 @@
+Studenci z Politechniki Wrocławskiej zaprojektowali lądownik marsjański, który mógłby dostarczyć na Marsa nie tylko znaczny ładunek, ale także ludzi. „Eagle” - bo tak nazwali swój lądownik - powalczy w sierpniu w finale konkursu organizowanego przez The Mars Society i NASA.
+      
+            Podbój Marsa wydaje się być coraz bardziej realny, ale jednym z wyzwań jest stworzenie lądownika, który dostarczy na nią ciężki sprzęt i ludzi. W konkursie "Red Eagle” - International Student Engineering Contest to Design Mars Lander, organizowanym przez The Mars Society i NASA studenci z całego świata mieli za zadanie stworzyć koncepcję lądownika, który przy wykorzystaniu dostępnych w najbliższych latach technologii i zbudowany jak najniższym kosztem, umożliwiłby dostarczenie na Czerwoną Planetę co najmniej 10 ton ładunku.
+
+Zdaniem Justyny Pelc, wiceprezes Koła Naukowego Off-Road z Politechniki Wrocławskiej, było to duże wyzwanie, ponieważ dotąd nic tak ciężkiego na Marsie nie lądowało, a największym ładunkiem dostarczonym na tę planetę był, ważący około tonę, łazik marsjański Curiosity.
+
+Studenci Politechniki Wrocławskiej zaprojektowali lądownik o modułowej budowie. Jeden z modułów to kapsuła, w której zaprojektowano całą elektronikę i ładownię, a po zamianie na kapsułę podtrzymującą życie, mogą być w nim także transportowani ludzie. Drugi moduł ma być wykorzystywany do lądowania.
+
+W swoim projekcie studenci chcą zastosować m.in. hamowanie aerodynamiczne z wykorzystaniem modułu HIAD (Hypersonic Inflatable Aerodynamic Decelerator). Jest to moduł, który umożliwia zwiększenie efektywnej powierzchni hamowania poprzez wypełnienie gazem kilkunastu materiałowych pierścieni o zwiększającej się średnicy, składających się na stożek.
+
+
+
+„Jest to jedno z rozwiązań stworzonych przez NASA. Jest to wielka nadmuchiwana poducha, która w trakcie lądowania rozkłada się i sprawia, że jest większa powierzchnia hamowania. Dzięki temu lądownik jest w stanie w większym stopniu wytracić prędkość” - wyjaśniła Pelc. Po wykonaniu zadania moduł jest odrzucany, co pozwala na zmniejszenie masy całego lądownika i ostateczne lądowanie z wykorzystaniem silników.
+
+Opracowanie metody deceleracji, czyli zwalnianie statku w trakcie wchodzenia w atmosferę Marsa, było największym wyzwaniem dla studentów, bowiem w atmosferze tej planety bardzo ciężko jest wyhamować.
+
+„Jest to ogromny ładunek, a atmosfera Marsa nie ułatwia wylądowania na tej planecie. To był problem, nad którym najdłużej pracowaliśmy. Rozpatrzyliśmy kilkanaście rozwiązań zanim doszliśmy do tego jednego, które według naszych obliczeń jest w stanie rzeczywiście zadziałać” - dodała współtwórczyni projektu.
+
+W swojej koncepcji studenci chcą także wykorzystać technologię druku 3D do „drukowania” elektroniki, zaś ładownia została zaprojektowana jednocześnie, jako winda towarowa, co ma ułatwić rozładunek na planecie.
+
+„Eagle” ma być także przystosowany do transportu ludzi na Marsa. Studenci zaprojektowali więc także moduł podtrzymujący życie w czasie trwającej do 10 miesięcy misji. „Wśród pierwszych lotów raczej te załogowe jeszcze nie będą możliwe" - dodała Pelc. Zaznaczyła, że lądownik ma taką budowę, że moduł, w którym będą transportowane łaziki albo inny sprzęt, w założeniu można zmienić na moduł podtrzymywania życia.
+
+Jak wyjaśniła Joanna Kuźma z zespołu, który stworzył koncepcję lądownika, w takim module znajdzie się szereg instalacji podtrzymujących życie m.in. system oczyszczania atmosfery, system recyrkulacji wody, wymiany ciepła, dostarczania prądu. „Będzie to bardzo kompleksowy moduł, który ma za zadanie, na bardzo nieprzyjaznej planecie, stworzyć warunki, które umożliwią człowiekowi funkcjonowanie” - dodała.
+
+W projektowaniu modułu studenci brali pod uwagę nie tylko względy czysto fizjologiczne, ale też psychologiczne. Korzystali w tym zakresie z badań NASA, które opisują jaka minimalna przestrzeń jest potrzebna, aby ludzie czuli się w takim lądowniku bezpiecznie i swobodnie. Przy projektowaniu musieli też uwzględnić inne problemy, jak chociażby obniżoną grawitację na Marsie.
+
+„Obniżona grawitacja wpływa na to, że gazy nie poruszają się jak na Ziemi, gdzie np. dwutlenek węgla pod wpływem grawitacji krąży. Natomiast przy obniżonej grawitacji nie ma takiego ruchu powietrza i trzeba np. stosować wentylację, aby mieć pewność, że astronauci chociażby nie uduszą się podczas snu” - wyjaśniła Kuźma.
+
+W zespole, który zaprojektował lądownik znaleźli się studenci z różnych wydziałów PWr – przyszli mechanicy, elektronicy, specjaliści od inżynierii materiałowej i fizycy. Studenci współpracowali także ze specjalistami z Europejskiego Agencji Kosmicznej (ESA), CERN oraz Mars Society Polska.
+
+Ich koncepcja lądownika została wysoko oceniona i spośród 15 nadesłanych projektów zakwalifikowana została do finałowej piątki. Finał konkursu zaplanowano pod koniec sierpnia podczas zjazdu międzynarodowej konwencji The Mars Society, która odbędzie się w amerykańskiej Pasadenie. Główną nagrodą w konkursie jest 10 tys. dol.
+
+„Mamy nadzieję, że uda nam się wygrać z naszym projektem. Uważamy, że jest on bardzo dobrze zrobiony, i takie też głosy słyszeliśmy od specjalistów, którzy z nami przy nim współpracowali” - podsumowała Justyna Pelc.

@@ -1,0 +1,21 @@
+Dzieci żołnierzy obsługujących instalacje radarowe wykazują mutacje genetyczne specyficznego typu - informuje pismo "Scientific Reports".
+      
+            Do lat 80. XX wieku militarne systemy radarowe często niewystarczająco ekranowały promieniowanie elektromagnetyczne emitowane przez wzmacniacze radarowe (głównie przez magnetrony). Promieniowanie elektromagnetyczne mogło szkodzić zdrowiu obsługi oraz ekipy konserwacyjnej.
+
+Interesy osób poszkodowanych podczas pracy przy radarach reprezentuje The Association for the Support of Persons Harmed by Radar Beams. Ponieważ niektóre dzieci byłych żołnierzy z obsługi instalacji radarowych cierpią z powodu niepełnosprawności fizycznej przypisanej narażeniu ich ojców na promieniowanie. Naukowcy spierają się, czy promieniowanie elektromagnetyczne doprowadziło u tych dzieci do uszkodzenia genotypu.
+
+Pilotażowe badanie przeprowadził zespół badawczy z udziałem Charité-Universitätsmedizin Berlin, Berlińskiego Instytutu Zdrowia (BIH), Centrum Maxa Delbrücka ds. Medycyny Molekularnej, Uniwersytetu Radboud w Nijmegen (Holandia) oraz Uniwersyteckiego Szpitala Bonn.
+
+Okazało się, że żołnierze obsługujący instalacje radarowe, którzy podczas służby byli narażeni na wysokie dawki promieniowania elektromagnetycznego przekazywali swoim dzieciom więcej modyfikacji genetycznych, niż rodziny nienarażone na to promieniowanie.
+
+Jak wyjaśnił pierwszy autor badania, dr Manuel Holtgrewe z Berlińskiego Instytutu Zdrowia (BIH), najnowsze metody sekwencjonowania pozwalają w krótkim czasie zbadać kompletne genomy rodziców i ich dzieci. Pozwala to określić współczynniki mutacji po ekspozycji na promieniowanie znacznie dokładniej, niż było to możliwe wcześniej.
+
+Naukowcy zbadali genomy 12 rodzin poszkodowanych żołnierzy. Zsekwencjonowano całe genomy rodziców oraz ich 18 potomków.
+
+Nie było możliwe dokładne ustalenie ekspozycji żołnierzy na promieniowanie systemów radarowych w przeszłości. Naukowcy szacują jednak, że była to wysoka dawka, ponieważ żołnierze często chorowali - wielu z nich zapadało na nowotwory. Porównano wskaźniki mutacji w genomach rodzin żołnierzy z 28 dziećmi rodziców, którzy nie byli narażeni na promieniowanie.
+
+Naukowcy z skoncentrowali się na tak zwanych mutacjach wielomiejscowych de novo (MSDN), które zostały już powiązane z promieniowaniem w eksperymentach z myszami. Z wielomiejscową mutacją de novo (MSDN) mamy do czynienia, gdy w sąsiednich niciach DNA o długości 20 par zasad występują dwa lub więcej defektów.
+
+W rodzinach bez ekspozycji na promieniowanie MSDN pojawiały się tylko u co piątego potomka. Natomiast u 18 potomków żołnierzy znaleziono 12 MSDN. W przypadku jednej z rodzin sześć MSDN wykryto u trojga dzieci. Ponadto u dwóch z nich wykazano również zmiany chromosomalne, które miały poważne konsekwencje kliniczne. Takie mutacje rzadko zdarzają się przypadkowo, zaś ich pochodzenie można wywodzić z ojcowskiej linii zarodkowej.
+
+"Wyniki naszego pilotażowego badania sugerują, że nagromadzenie pewnych uszkodzeń genotypu przez promieniowanie można zasadniczo wykazać w następnym pokoleniu" - zaznaczył prof. Peter Krawitz z Instytutu Statystyki i Bioinformatyki Genomu w szpitalu uniwersyteckim w Bonn. Zdaniem ekspertów niezbędne jest jednak potwierdzenie zaobserwowanych zjawisk w badaniu zakrojonym na znacznie większą skalę.

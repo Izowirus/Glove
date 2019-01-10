@@ -1,0 +1,35 @@
+Prototypowego drona z aparaturą mierzącą w czasie rzeczywistym zanieczyszczenie powietrza pokazał we wtorek w Bytomiu Główny Instytut Górnictwa w Katowicach (GIG). Współpracujące z Instytutem miasto chce skorzystać z dronów do monitoringu zanieczyszczeń.
+
+
+      
+            Jak poinformował podczas prezentacji naczelny dyrektor GIG Stanisław Prusek, dotąd nieprezentowane urządzenie wykorzystuje opracowane w Instytucie rozwiązanie laserowych mierników, które mierzą stężenia na razie kilku głównych wybranych parametrów niskiej emisji: pyłów zawieszonych, dwutlenku węgla oraz tlenku węgla.
+
+„Pracujemy, aby rozszerzyć to o tlenki azotu, być może dwutlenek siarki i inne gazy, które będą konieczne do kontroli zanieczyszczenia powietrza” - wskazał szef GIG. Już teraz jednak dron może pełnić funkcję latającego laboratorium np. wykrywającego źródła niskiej emisji, czyli pobierać próbki zanieczyszczeń bezpośrednio np. znad konkretnego dymiącego komina.
+
+Prusek podkreślił, że choć pracujące w tej instytucji stacjonarne laboratoria i urządzenia pozwalają na szczegółowe analizy gazów, podwieszenie własnej konstrukcji lekkiej aparatury pod dronem może m.in. skrócić czas procedury kontrolnej.
+
+Urządzenie pobierając próbkę dymu wydobywającą się z komina, natychmiast bada jej skład. Dzięki odpowiedniemu oprogramowaniu dane trafiają do operatora (na razie przez wymienną kartę pamięci, docelowo online) i są zapisywane w bazie. Obecność szkodliwych gazów i pyłów natychmiast więc świadczy o tym, jakiego użyto paliwa.
+
+Pracujący przy projekcie Marcin Głodniok z GIG powiedział PAP, że głównym atutem rozwiązania jest wykorzystanie w jednym urządzeniu technik laserowych umożliwiających szybki pomiar kilku parametrów. „Dron jest tylko platformą. Sercem naszego urządzenia jest aparatura zaprojektowana od początku przez zespół naukowców GIG” - podkreślił naukowiec.
+
+Dodał, że Instytut rozwijając na razie prototyp, chce doprowadzić do komercjalizacji rozwiązania. Mogłyby z niego korzystać np. służby ochrony środowiska czy lokalne samorządy. Jak przekazała PAP rzeczniczka bytomskiego magistratu Aleksandra Szatkowska-Mejer, miasto podpisało już porozumienie z GIG o współpracy przy wykorzystaniu takich dronów – w kontekście niskiej emisji.
+
+Wiceprezydent Bytomia Andrzej Panek wyjaśnił, że samorząd chciałby wykorzystywać drony w funkcji represyjnej w ostateczności, przede wszystkim chce bowiem stawiać na edukację.
+
+„Jeśli będziemy mieli próbkę, zawsze to większe prawdopodobieństwo, że będziemy w stanie wyegzekwować karę, mandat. Ale nie o to chodzi – chodzi przede wszystkim o edukację. Ludzie muszą wiedzieć, że tego pilnujemy i zależy nam, aby w Bytomiu powietrze było lepsze, czystsze” - mówił we wtorek wiceprezydent.
+
+Wiceprezydent Bytomia: długoterminowo myślimy o mapie emisji zanieczyszczeń
+
+„Chcemy iść w dwóch kierunkach: po pierwsze na bieżąco móc sprawdzić nad poszczególnym emitorem, jakie unosi się z niego zanieczyszczenie. Ale też długoterminowo myślimy o mapie emisji. Stosujemy w Bytomiu wiele programów dotyczących niskiej emisji, chociażby program Kawka, dofinansowanie do modernizacji systemów ogrzewania – będziemy mogli sprawdzić, jak to wpłynie długoterminowo na stan powietrza” - podkreślił.
+
+Według informacji specjalistów GIG obecnie aparaturę podwieszono pod dronem Tarot T15 V2 z maksymalnym ciągiem ośmiu silników: 20 kg i możliwością montażu platformy pomiarowej o masie do 4,5 kg. Czas lotu sięga do 42 min. – w zależności od obciążenia i warunków meteo. Zasięg operacyjny – promień i wysokość to 1000 m.
+
+Pod dronem podwieszono oryginalne optoelektroniczne rozwiązania GIG wykorzystujące technologie promieniowania w zakresie światła widzialnego i podczerwonego (VIS i IR). Pomiar pozwala na ocenę gęstości zapylenia i tzw. rozkładu granulometrycznego pyłów, w szczególności frakcji wdychalnych: PM1, PM2,5 i PM10 oraz relacji CO do CO2 w spalinach.
+
+Dzięki wykorzystaniu niewielkich aspiratorów akumulatorowych i membran filtracyjnych zamontowanych w głowicach pomiarowych wyniki stężenia zanieczyszczeń pyłowych w powietrzu mogą być potem weryfikowane w akredytowanym laboratorium GIG.
+
+System umożliwia rejestracje przelotów (obraz z kamery na pokładzie drona, wysokość/odległość od emitera uzyskana za pomocą dalmierza, pozycja geograficzna), wizualizacji danych i wyników oraz ich interpretacji na mapie, w tym przy zastosowaniu narzędzi GIS.
+
+GIG, który przyznaje, że inne ośrodki pracują nad wykorzystaniem dronów do monitoringu środowiska, podpisał już list intencyjny o współpracy w zakresie prac badawczo-rozwojowych w dziedzinie bezzałogowych systemów latających z producentami z woj. śląskiego. Chodzi o wykorzystanie lżejszej platformy na dronie polskiej produkcji.
+
+Program rozwoju mobilnej platformy monitoringu wybranych parametrów niskiej emisji z wykorzystaniem dronów GIG prowadzi siłami specjalistów swoich zakładów: techniki laserowej, ochrony powietrza oraz ochrony wód. Instytut finansuje prace ze swoich środków statutowych.

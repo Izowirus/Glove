@@ -1,0 +1,31 @@
+Wrocławscy naukowcy pracują nad modyfikacjami jednego z ludzkich białek - FGF1, które mogłyby znaleźć zastosowanie w leczeniu trudno gojących się ran, chorób niedokrwiennych, czy cukrzycy. W przyszłości białko to może być nośnikiem leków do komórek nowotworowych.
+      
+            
+
+Naukowcy z Zakładu Inżynierii Białka Wydziału Biotechnologii UWr badają mechanizmy działania białek - najważniejszych makrocząsteczek w ludzkim organizmie. Modyfikują je także metodami inżynierii genetycznej, aby mogły znaleźć zastosowanie do celów terapeutycznych.
+
+Jednym z obiektów ich badań jest ludzkie białko FGF1 - czynnik wzrostu oddziałujący na bardzo wiele typów komórek i prowadzący m.in. do ich podziału.
+
+"FGF1 przyspiesza gojenie się ran i zrastanie kości, uczestniczy także w tworzeniu nowych naczyń krwionośnych i obniża poziom glukozy we krwi, może także znaleźć zastosowanie jak nośnik leków do komórek nowotworowych" - opowiadała PAP dr hab. Małgorzata Zakrzewska z Zakładu Inżynierii Białka UWr.
+
+FGF1 to białko wytwarzane w wielu typach tkanek, m.in. w komórkach mięśni gładkich i nabłonka, w komórkach wątroby, naskórka, tkanki łącznej, makrofagach i nerwowych. Stymuluje ono m.in. syntezę DNA oraz namnażanie się komórek.
+
+Zarówno dzięki aktywacji receptorów na powierzchni komórek, jak i swojej wewnątrzkomórkowej aktywności, białko FGF1 promuje przeżycie komórek, zabezpiecza je przed niekorzystnymi warunkami i działa jako czynnik przeciwdziałający programowanej śmierci komórki (apoptozie).
+
+Analizując sekwencję białka oraz jego strukturę naukowcy projektują takie mutacje i modyfikacje, które poprawią lub zmienią właściwości tej cząsteczki.
+
+"Korzystając z technologii rekombinowanego DNA jesteśmy w stanie wydajnie produkować to ludzkie białko w komórkach bakteryjnych. Sekwencję DNA ludzkiego białka klonujemy do specjalnego konstruktu genetycznego, który następnie wprowadzamy do bakterii Escherichia coli. W warunkach laboratoryjnych uzyskujemy w ten sposób duże ilości białka, które następnie starannie oczyszczamy" - opisywała dr Zakrzewska.
+
+Sprawdzając właściwości czystego białka naukowcy analizują, czy ma ono poprawną strukturę, i czy wiąże się prawidłowo z receptorami na powierzchni komórek. W swoich badaniach wykorzystują ludzkie komórki, które hodują w warunkach laboratoryjnych.
+
+"Sprawdzamy, jak badane przez nas warianty białka wpływają na podziały komórkowe, namnażanie się i migrację zarówno zdrowych, jak i chorobowo zmienionych, nowotworowych tkanek. Weryfikujemy także, gdzie w komórkach lokalizuje się białko FGF1, jak wydajnie przedostaje się ono do wnętrza komórki i jakie procesy aktywuje" - wyjaśniła badaczka.
+
+Według naukowców ze względu na swoje właściwości i potencjał regeneracyjny, białko FGF1 jest coraz częściej postrzegane jako potencjalny środek terapeutyczny, który mógłby znaleźć szerokie zastosowanie przy leczeniu wielu chorób.
+
+Ponieważ białko to bierze udział w procesie gojenia i naprawy tkanek, może być użyteczne w leczeniu przewlekłych ran, trudno gojących się złamań czy uszkodzeń nerwów. Zapewnia także efekt ochronny w przypadku komórek narażonych na promieniowanie gamma. Posiada również angiogenne własności, które - zdaniem badaczy - można wykorzystać w terapii chorób naczyniowo-sercowych.
+
+Wrocławscy naukowcy badają także zupełnie nowe, odkryte dopiero w ostatnich latach właściwości FGF1. Chodzi o właściwości związane z zapobieganiem śmierci komórek czy jego działaniem przeciwcukrzycowym.
+
+Natomiast zwiększona ekspresja receptorów FGF w różnych rodzajach nowotworów m.in. piersi, pęcherza, prostaty, czy płuc sprawia - zdaniem dr Zakrzewskiej - że białko to, po odpowiedniej modyfikacji, może pełnić także funkcję czynnika kierującego wybrany lek do komórek nowotworowych.
+
+"Modyfikujemy biało FGF1 tak, aby posłużyło w przyszłości jako skuteczny lek. Konstruujemy warianty, które działają dłużej i są mniej wrażliwe na degradację. Uzyskujemy białko, które mogłyby znaleźć zastosowanie w leczeniu trudno gojących się ran, chorób niedokrwiennych, uszkodzeń tkanek czy cukrzycy. Mogłoby także zostać wykorzystane jako nośnik leków cytostatycznych do komórek nowotworowych" - podsumowała dr hab. Małgorzata Zakrzewska.

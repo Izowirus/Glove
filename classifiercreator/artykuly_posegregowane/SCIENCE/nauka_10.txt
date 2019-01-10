@@ -1,0 +1,23 @@
+Kolor bezchmurnego nieba może przybrać tony niskie, truskawek wysokie, a śnieg zabrzmieć jak szum morza. Tak działa Colorophone, urządzenie zamieniające kolor na określony dźwięk; ma współdziałać z okularami, które niewidomy będzie mógł założyć np. podczas spaceru.
+      
+            Nad tym, jak połączyć świat koloru ze światem dźwięków pracowało wielu naukowców. Na nieco inny od dotychczasowych pomysł zamiany koloru na dźwięk wpadł Dominik Osiński, pracujący obecnie w Norweskim Uniwersytecie Nauki i Technologii (NTNU).
+
+Jak wyjaśnia, pierwsze elektroniczne urządzenie do wspomagania niewidomych powstało w 1898 roku, czyli nieco ponad 20 lat po wynalezieniu telefonu. "Gdzie dziś są telefony, a gdzie urządzenia wspomagające dla niewidomych? To przepaść. Chcieliśmy to zmienić" - mówi Osiński.
+
+"Przyjrzeliśmy się temu, jak działa ludzkie oko, jak jest zbudowane, jakie ma funkcje i na podstawie tego opracowaliśmy metodę kodowania koloru za pomocą dźwięku" - powiedział PAP pomysłodawca urządzenia. "Na podstawie tych obserwacji stworzyliśmy akustyczną przestrzeń barw przyporządkowując do koloru czerwonego dźwięk o wysokiej częstotliwości, do zielonego dźwięk o średniej częstotliwości, a do niebieskiego o niskiej. Kolor biały to dźwięk przypominający szum morza. W ten sposób - łącząc poszczególne dźwięki - można oddać całą paletę kolorów. To był początek pomysłu na system Colorophone" - dodał.
+
+Po zainstalowaniu i włączeniu aplikacji na smartfonie wystarczy skierować kamerkę na określony przedmiot, a ona wydobędzie z siebie dźwięk odpowiadający danemu kolorowi. Trzeba przeznaczyć kilka minut, by zrozumieć, jak to działa i jak oznaczone są kolory.
+
+Na rynku są dziś dostępne identyfikatory kolorów dla osób niewidomych i systemy zmieniające kolor na dźwięk. Jednak Colorophone ma być czymś więcej.
+
+"Aktualnie zajmujemy się projektowaniem kolejnych prototypów specjalnych okularów wyposażonych w kamerę, ultradźwiękowy czujnik odległości i wbudowane słuchawki. Takie okulary pozwolą niewidomym zrozumieć, jaki jest kolor obiektu, na który niewidomy patrzy i jak daleko jest ten obiekt. Umieszczenie systemu na głowie pomoże zaangażować zmysł równowagi i nie trzeba będzie skanować otoczenia telefonem, lecz +obserwować+ świat przekręcając głowę, np. podczas spaceru" - opisuje Osiński.
+
+System mógłby się przydać w wielu sytuacjach życia codziennego. Od rozpoznania, który jogurt chcemy wyjąć z lodówki, po tak banalną wydawałoby się sprawę, jak sparowanie skarpetek po praniu. Mógłby też pomóc w trudniejszych zadaniach. "Niewidomy idąc chodnikiem i mając nasze okulary na głowie, bardzo łatwo będzie mógł sprawdzić, gdzie kończy się chodnik, gdzie zaczyna trawnik, gdzie jest przejście dla pieszych" - opisuje pomysłodawca urządzenia.
+
+Metoda - jak przyznaje - nie jest na razie tak dobra, jak by chciał. Dlatego wciąż trwają prace nad jej udoskonaleniem. Na razie gotowa jest pierwsza wersja aplikacji, przeznaczona dla osób ją rozwijających. W najbliższej przyszłości ma być dostępna również dla niewidomych. Jej twórcy chcą przygotować też prototyp okularów, który będzie pasował na każdego i trafi do osób testujących. Produkcja urządzenia - według Osińskiego - to perspektywa 2-3 lat.
+
+"Wiemy już jednak, że pomysł działa. Wstępne testy dźwiękowego rozpoznawania 14 kolorów przeprowadzono na pięciu widzących osobach. Na 70 prób rozpoznania koloru mieliśmy jeden błąd, czyli 98,6 proc. kolorów rozpoznano poprawnie" - opowiada Osiński.
+
+Chciałby, aby aplikacja była bezpłatna, a cały system kosztował maksymalnie 1-2 tys. zł. "Mamy nadzieję, że nie będzie to cena zaporowa. Używamy elementów, które już są powszechnie dostępne, elektroniki użytkowej, np. słuchawek z przewodzeniem kostnym, które przenoszą dźwięk przez kości do ucha wewnętrznego. Nie ingerujemy w biologię, nie wszczepiamy niczego" - opisuje.
+
+Colorophone bierze również udział w projekcie badawczym. Naukowcy z Instytutu Psychologii Uniwersytetu Jagiellońskiego będą przy jego pomocy sprawdzali, czy poprzez dźwięk można zaktywizować korę wzrokową i czy po dłuższym korzystaniu z urządzenia osoby słyszące konkretny dźwięk będą miały wrażenie koloru. W badaniu weźmie udział 30 osób. Przez trzy miesiące będą używały Colorophonu, a przed i po badaniu ich mózgi będą skanowane za pomocą rezonansu magnetycznego. W ten sposób naukowcy chcą zaobserwować, czy coś zadziało się w korze wzrokowej osób badanych.

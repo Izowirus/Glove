@@ -1,0 +1,19 @@
+Dzięki mobilnej aplikacji Głównego Inspektoratu Ochrony Środowiska każdy może sprawdzić, jaka jest aktualnie jakość powietrza w jego najbliższym otoczeniu – mówi Krzysztof Wójcik, dyrektor Wojewódzkiego Inspektoratu Ochrony Środowiska w Łodzi. Dane są aktualizowane co godzinę.
+      
+            
+Bezpłatna aplikacja "Jakość powietrza w Polsce" Głównego Inspektoratu Ochrony Środowiska, która wcześniej była dostępna na urządzenia z systemem Android i iOS Apple, jest też już dostępna na smartfony oraz komputery z systemem Windows - informuje GIOŚ.
+
+Szef WIOŚ w Łodzi Krzysztof Wójcik przypomniał, że jest to aplikacja, która służy m.in. do tego, aby każdy mógł sprawdzić jakość powietrza w swojej najbliższej okolicy. Pomiary pochodzą z automatycznych stacji monitoringu powietrza, funkcjonujących w ramach Państwowego Monitoringu Środowiska.
+
+"Po zainstalowaniu aplikacji na smartfonie, zaznaczamy sobie ulubioną stację, albo automatycznie system wybierze stację, która znajduje się najbliżej nas. Dzięki tej aplikacji każdy może sprawdzić jaka na dzisiaj jest jakość powietrza w jego otoczeniu" - dodał Wójcik.
+
+
+
+
+Badanych jest wiele substancji. Przede wszystkim stężenia pyłu zawieszonego o bardzo małych rozmiarach: poniżej 10 mikrometrów (PM10) oraz 2,5 mikrometra (PM2,5). "Czyli jest to ten najbardziej szkodliwy pył, który w momencie jak wdychamy, to nie tylko osiada w płucach, ale wręcz jest wchłaniany do krwiobiegu" - wyjaśnił.
+
+W Polsce normy dla pyłów drobnych PM10 są ustalone na trzech poziomach: średnia dobowa norma wynosi 50 mikrogramów na m sześc. Przekroczenie poziomu 200 mikrogramów oznacza konieczność ostrzegania mieszkańców, a 300 mikrogramów, czyli przekroczenie normy sześciokrotnie - to już stan alarmowy.
+
+Aplikacja podaje także aktualne stężenia: dwutlenku siarki (SO2), dwutlenku azotu (NO2), tlenku węgla (CO), benzenu (C6H6) a także ozonu (O3), z którym największy problem występuje latem. Dane są aktualizowane co godzinę.
+
+Wyniki pomiarów podawane są m.in. w postaci tzw. indeksu jakości powietrza w sześciostopniowej skali i oznaczone na mapie odpowiednimi kolorami. I tak: kolor brązowy oznacza bardzo złą jakoś powietrza, czerwony – złą, pomarańczowy – dostateczną, żółty – umiarkowaną a odcienie zielonego oznaczają dobrą lub bardzo dobrą jakość powietrza – wyjaśnił szef łódzkiego WIOŚ. Aplikacja wysyła także powiadomienia o w przypadku wysokich stężeń zanieczyszczeń.

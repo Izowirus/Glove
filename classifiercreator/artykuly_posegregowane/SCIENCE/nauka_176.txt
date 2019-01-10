@@ -1,0 +1,15 @@
+Tegoroczna fala upałów na całym świecie spowoduje, że rok 2018 będzie wyjątkowo gorący. Podobnie ma być w kolejnych kilku latach - uważają francuscy, brytyjscy i holenderscy naukowcy, którzy opracowali nową metodę przewidywania temperatur.
+      
+            Na łamach magazynu „Nature Communications” badacze dowodzą, że lata 2018-2022 w skali globalnej będą nawet cieplejsze, niż wynikałoby to z wyliczeń bazujących na obecnym poziomie ocieplenia klimatu.
+
+Globalne ocieplenie powodowane emisjami gazów cieplarnianych nie jest zjawiskiem linearnym. Na początku XXI w. zdawało się spowolnić, co określono jako „przerwę” w globalnym ociepleniu (ang. global warming hiatus). Nowa metoda przewidywania średnich temperatur sugeruje, że kilka następnych lat może być jednak gorętszych, niż oczekiwano.
+
+System, opracowany przez badaczy pod kierunkiem Floriana Sévelleca z należącego do francuskiego Krajowego Centrum Badań Naukowych (CNRS) Laboratory for Ocean Physics and Remote Sensing, nie wykorzystuje tradycyjnych technik symulacyjnych. Zamiast tego posługuje się metodą statystyczną, aby przeanalizować symulacje klimatyczne z XX i XXI w. i znaleźć analogie do obecnych warunków oraz wydedukować przyszłe. Precyzja i wiarygodność tego systemu jest co najmniej taka sama, jak innych obecnych metod, szczególnie jeśli chodzi o symulację spowolnienia globalnego ocieplenia na początku tego wieku.
+
+Na podstawie nowej metody stwierdzono, że średnia temperatura powietrza może być wyjątkowo wysoka w latach 2018-2022. W szczególności wynika to z małego prawdopodobieństwa wystąpienia bardzo zimnych okresów. Zjawisko to jest jeszcze istotniejsze w odniesieniu do temperatur powierzchni morza, ze względu na wysokie prawdopodobieństwo występowania zjawisk, które w określonych warunkach mogą wzmagać aktywność burz tropikalnych.
+
+Kiedy już opracowany przez naukowców algorytm „nauczy się” w ciągu kilku minut, jak przewidywać pogodę, jest w stanie w ciągu kilkuset sekund wygenerować wyniki na zwykłym komputerze. Dla porównania superkomputery potrzebują nawet tygodnia, aby przeprowadzić symulacje tradycyjnymi metodami.
+
+Obecnie metoda przewiduje średnią globalną, ale naukowcy mają zamiar przystosować go do wykonywania przewidywań regionalnych i oprócz temperatur symulowania również poziomu opadów i okresów suszy.
+
+W tworzeniu nowego modelu przewidywania temperatur brali udział również naukowcy z University of Southampton i holenderskiego Królewskiego Niderlandzkiego Instytutu Meteorologicznego.

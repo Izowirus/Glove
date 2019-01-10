@@ -1,0 +1,26 @@
+Sopot, 25.05.2015. Mieszkaniec Domu Pomocy Społecznej w Sopocie na wózku, 25 bm.
+PAP/Adam Warżawa 
+(aw/awol) Archiwum PAP © 2018 / Adam Warżawa
+                                        
+
+            Dzięki badaniom nad robakami żyjącymi w głębinach wód antarktycznych powstała metoda potencjalnie przydatna w diagnostyce dziecięcego porażenia mózgowego - informuje pismo „BMC Bioinformatics”.
+      
+            Dr Adam Marsh, biolog molekularny z University of Delaware prowadził badania nad DNA robaków, aby zrozumieć, w jaki sposób mogą one przeżyć w ekstremalnie nieprzyjaznych warunkach polarnych oraz jak czynniki środowiskowe (zwłaszcza niskie temperatury i niedobór pożywienia) wpływają na metylację DNA. Nie przypuszczał, że zastosowana metoda i uzyskane wyniki mogą mieć znaczenie dla medycyny.
+
+Jak się jednak okazało, genom robaków jest podobny do ludzkiego pod względem liczby i rodzaju obecnych w nim genów. Z kolei pionierska technika stworzona z myślą o badaniach genomu robaków może być wykorzystana również do badań dotyczących ludzi.
+
+Szczególną cechą metody Marsha jest wykorzystanie sekwencjonowania genetycznego nowej generacji do sprawdzania, w jaki sposób komórka kontroluje włączanie i wyłączanie genów za pomocą metylacji DNA. Dzięki wykorzystaniu komputerów analiza możliwa jest dla milionów fragmentów DNA jednocześnie.
+
+Jak się okazało, badanie metylacji obecnego w krwinkach DNA może być przydatne do rozpoznawania spastycznego porażenia mózgowego.
+
+Porażenie mózgowe to nieuleczalna choroba, w której dochodzi do zesztywnienia stawów, a gwałtowne ruchy i napięcie mięśni wpływają na ruch i postawę oraz ograniczają aktywność dotkniętych nim dzieci. Porażenie mózgowe to najczęstsza niepełnosprawność fizyczna powstającą w dzieciństwie – według danych Centers for Disease Control and Prevention (CDC) pojawia się u jednego na 323 dzieci.
+
+Marsh wraz z partnerem biznesowym założył firmę biotechnologiczną Genome Profiling LLC (GenPro), która zajęła się opracowaniem odpowiedniego testu.
+
+Jak wykazały badania próbek krwi pobranych od osób w wieku od 9 do 19 lat, pacjenci z porażeniem mózgowym różnią się od osób z innymi problemem ortopedycznymi także na poziomie molekularnym. Występuje u nich charakterystyczny zestaw markerów metylacyjnych.
+
+Zdaniem twórców metody pozwoli ona rozpoznawać spastyczne porażenie mózgowe zanim jeszcze pojawią się widoczne objawy i rozpocząć leczenie wcześniej, dzięki czemu będzie skuteczniejsze i tańsze.
+
+Według danych Medicaid (państwowy program pomocy socjalnej dla osób i rodzin w USA) kwota wydatkowana co roku na zabiegi medyczne dotyczące dziecka z porażeniem mózgowym jest od 10 do 26 razy wyższa niż w przypadku dzieci bez porażenia.
+
+Marsh i jego współpracownicy chcieliby zająć się także diagnostyką raka piersi oraz endometriozy.

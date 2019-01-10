@@ -1,0 +1,27 @@
+Na przeszło 8 tysiącach stron dokumentów ujawnionych we wtorek przez demaskatorski portal WikiLeaks, które pochodzą - jak utrzymuje portal - z centrum wywiadu cybernetycznego CIA znajdują się recenzje niektórych popularnych programów antywirusowych, informuje AP.
+      
+            Jak wynika ze znajdujących się w dokumentach cytatów, centrum wywiadu cybernetycznego CIA zdaje sobie sprawę z mankamentów programów antywirusowych, które mają zapewniać użytkownikom sieci internetowe bezpieczeństwo.
+
+Z wpisów tych wynika, jak podaje AP, że hakerzy pracujący dla CIA mają co zarzucić popularnym programom zabezpieczającym nasze komputery. Jak zastrzega jednak agencja, dane opublikowane przez WikiLeaks nie są na tyle kompletne, by wyciągać na ich podstawie ostateczne wnioski. Jest co raczej spojrzenie na niedociągnięcia tych programów, niż miarodajny ranking. Wpisy hakerów są bowiem nieprecyzyjnie datowane.
+
+Zadaniem programów antywirusowych ma być wykrywanie, blokowanie i usuwanie z komputera różnego szkodliwego oprogramowania - m.in. wirusów, trojanów czy komponentów szpiegujących.
+
+CIA wystawia, jak się wydaje, wątpliwą laurkę rozwiązaniom antywirusowym firmy Comodo, która sama określa się mianem "globalnego lidera rozwiązań z zakresu cyberbezpieczeństwa".
+
+
+
+Z jednego z wpisów opublikowanego przez WikiLeaks (którego autorem jest najwyraźniej haker działający na zlecenie CIA) wynika, że Comodo jest "wielkim nieporozumieniem, bo łapie dosłownie wszystko, jeśli nie wprowadzi mu się zastrzeżeń, by tego nie robił". Haker przestrzega też przez aktualizacją programu Comodo do wersji 6. W oświadczeniu cytowanym przez AP szef Comodo Melih Abdulhayoglu stwierdził, że niedociągnięcie, na które wskazuje CIA należą już do przeszłości. Comodo 6 pojawił się bowiem na rynku w 2013 roku, zaś w styczniu tego roku firma wprowadziła na rynek program w wersji 10.
+
+Kolejny program, do którego odnoszą się współpracownicy CIA to produkt Kaspersky Lab. Według wpisu, który cytuje AP, wada w kodzie tego programu "umożliwia obejście (jego) zapór". Założyciel firmy Jewgienij Kaspierski nie zgodził się z tą recenzją. Napisał na Twitterze, że wada, o której mowa została naprawiona "lata temu". Ponadto w oświadczeniu wydanym przez jego firmę napisano, że druga wada, którą zidentyfikowali specjaliści z CIA została usunięta w grudniu 2015 roku.
+
+Hacker CIA, na którego wpis powołuje się AP, wskazał, że szczególnie łatwo objeść produkt antywirusowy niemieckiej firmy Avira. Jak oświadczyli przedstawiciele Aviry, firma naprawiła, jak to określiła CIA, "drobną słabość" w kilka godzin od ujawnienia przez WikiLeaks dokumentów zawierających tę informację.
+
+Specjaliści współpracujący z CIA pokonali, jak podkreśla AP, również program AVG. Dokonali tego za pomocą pewnej "uroczej" sztuczki. Według Ondreja Vlceka, dyrektora generalnego ds. technologicznych holenderskiej firmy Avast, do której należy AVG, CIA odnosi się do "teoretycznego obejścia" silnika skanującego AVG, które wymagałoby dodatkowej pracy, by z powodzeniem wdrożyć wobec AVG złośliwe oprogramowanie. W oświadczeniu przesłanym AP Vlcek podkreślił ponadto, że wpis na ten temat musiał być zamieszony "jakiś czas temu". Dodał, że kwestie te "nie dotyczą obecnych produktów AVG".
+
+
+
+Jeden z hakerów CIA ostro skrytykował fińskiego producenta rozwiązań antywirusowych firmę F-Secure. Określił jeden z jego programów mianem "produktu z niższej półki", który "przysparza pewnych trudności". Przedstawiciele F-Secure podkreślili, że CIA ma najwidoczniej szczególne powody, dla których nie informuje producentów oprogramowania o wadach, jakie znajduje w ich produktach.
+
+Jak napisał w oświadczeniu cytowanym przez AP szef ds. badań F-Secure Mikko Hypponen, dla agencji "najwidoczniej ważniejsze jest to, by trzymać wszystkich w niepewności, (...) a może nawet wykorzystywać furtki w oprogramowaniu do własnych celów lub działań antyterrorystycznych".
+
+Wpisy dotyczące rumuńskiego programu antywirusowego Bitdefender są wprawdzie niepełne, jak podkreśla AP, jednak hakerom CIA sprawił on, jak się wydaje, wiele problemów. Jak sugeruje autor jednego z postów, Bitdefendera można pokonać, gdy się przy nim nieco "pomajstruje", choć, jak dodał "nie zawsze". Przedstawiciel rumuńskiej firmy Marius Buterchi odpowiedział na ten wpis krótko, że można z tego wyciągnąć tylko jeden wniosek, że Bitdefender "wykrywa narzędzia stosowane przez CIA".

@@ -1,0 +1,31 @@
+Nad markerami, które pomogą w szybszym wykryciu określonych chorób - takich jak nowotwory, choroby neurodegeneracyjne czy cukrzyca, pracują naukowcy z Politechniki Wrocławskiej.
+      
+            "Opracowane przez nas markery będą mogły być wykorzystywane m.in. do testów diagnostycznych, które umożliwią szybsze wykrycie danej choroby" – mówi PAP szef projektu prof. Marcin Drąg z Wydziału Chemicznego PWr.
+
+Enzymy proteolityczne (proteazy, peptydazy) to grupa enzymów, które rozcinają wiązania peptydowe i rozbijają białka na prostsze elementy - peptydy i aminokwasy. Jak wyjaśnił prof. Drąg, u ludzi proteazy stanowią grupę ok. 700 zidentyfikowanych do chwili obecnej enzymów. "Są one odpowiedzialne za kontrolę wszystkich ścieżek metabolicznych, czyli praktycznie za kontrolę wszystkiego, co prowadzi do tego, że nasz organizm jest w stanie żyć, przeżyć i normalnie funkcjonować" - podkreślił naukowiec.
+
+Ich nieprawidłowe działanie prowadzi do powstania w organizmie stanów chorobowych. "Problem pojawia się wtedy, kiedy te enzymy umykają kontroli i normalnemu funkcjonowaniu. Wtedy zaczynają być zaangażowane w wiele procesów chorobotwórczych. Praktycznie wszystkie choroby cywilizacyjne są właśnie w dużym stopniu oparte o złe funkcjonowanie enzymów proteolitycznych" - dodał.
+
+Wśród tych chorób są wszystkie typy nowotworów (- w każdym typie nowotworu można znaleźć protazy, które źle funkcjonują), cukrzyca (w przypadku której jedne ze skuteczniejszych obecnie leków dotyczą proteaz), a także choroby neurodegeneracyjne, oraz zakażenia bakteryjne i wirusowe.
+
+"I tak na przykład kluczowymi enzymami w detekcji i obrazowaniu nowotworów są proteazy z rodziny katepsyn, natomiast w przypadku procesów przerzutowania bardzo ważną funkcję pełnią matrycowe metaloproteazy -2 oraz -9. Inną, istotną z medycznego punktu widzenia klasą enzymów zaangażowaną w procesy nowotworzenia są enzymy deubikwitynujące" – dodał naukowiec.
+
+
+
+W ramach swojego projektu wrocławscy naukowcy chcą stworzyć możliwie najczulsze markery do obrazowania indywidualnych enzymów proteolitycznych, które będą wybitnie selektywne tylko wobec konkretnego enzymu, a nie całej ich grupy.
+
+Naukowcy chcą wykrywać aktywność jednego enzymu. "Jest to ważne z tego względu, że bardzo często dany enzym należy do rodziny proteaz, natomiast tylko on uczestniczy w rozwoju danej choroby. I my chcemy śledzić tylko jego funkcje, natomiast nie chcemy śledzić funkcji innych enzymów" - zaznaczył prof. Drąg.
+
+Jego zdaniem obecnie nie ma narzędzi, które praktycznie pozwoliłyby wykonywać te czynności, istnieje bowiem zaledwie kilka klas związków, które są blisko tego, ale nie mają praktycznego zastosowania. „My będziemy się starali stworzyć takie markery, które będą specyficznie wyłącznie dla danego enzymu” - dodał.
+
+Zdaniem prof. Drąga opracowane markery będzie można wykorzystywać w medycynie przede wszystkim do testów diagnostycznych, czyli do szybkiej detekcji danej choroby. "Kiedy dana proteaza jest np. wydzielana do krwi, to często nie wiemy, że dana choroba się rozwija, bo jest ona w bardzo wczesnym stadium. Natomiast za pomocą naszych markerów będziemy mogli powiedzieć, że coś złego dzieje się w organizmie" - wyjaśnił prof. Drąg.
+
+Wrocławscy naukowcy chcą opracować markery zawierające grupy fluorescencyjne, które powodować będą "podświetlanie" chorobowo zmienionych komórek. Zdaniem prof. Drąga mogą one znaleźć także praktyczne zastosowanie np. w operacjach onkologicznych.
+
+"Za pomocą takich markerów będziemy mogli oznaczyć np. komórki nowotworowe, co będzie mogło znaleźć zastosowania np. w chirurgii przy selektywnym usuwaniu nowotworów. Będziemy w stanie +podświetlić+ tylko komórki nowotworowe i chirurg będzie je mógł dosyć selektywnie wyciąć" - podkreślił naukowiec.
+
+Projekt, który ma stworzyć technologię projektowania selektywnych markerów do obrazowania enzymów proteolitycznych, zaplanowano na trzy lata, choć badania nad markerami potrwają zapewne o wiele dłużej. "Natomiast sądzimy, że podwaliny, które wymagają stworzenia całej technologii, zrobimy w okresie trzech lat" - podsumował badacz.
+
+Prof. Marcin Drąg w latach 2005-2008 przebywał na stażu w The Burnham Institute for Medical Research w Kalifornii. Po powrocie rozpoczął samodzielne badania w zakresie chemii biologicznej z wykorzystaniem chemii kombinatorycznej, przy użyciu nienaturalnych aminokwasów w badaniu enzymów proteolitycznych. Badacz jest m.in. laureatem programów START oraz FOCUS, a obecnie TEAM Fundacji na rzecz Nauki Polskiej oraz konkursów Harmonia i Opus organizowanych przez Narodowe Centrum Nauki.
+
+Projekt badawczy "Wyzwania w projektowaniu selektywnych markerów do obrazowania enzymów proteolitycznych" otrzymał 3,5 mln zł dofinansowania z program TEAM Fundacji na rzecz Nauki Polskiej.

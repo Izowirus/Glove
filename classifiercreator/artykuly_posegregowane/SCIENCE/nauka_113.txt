@@ -1,0 +1,23 @@
+W kwietniu przyszłego roku satelita Światowid już będzie po wszystkich testach. Poleci na międzynarodową stację kosmiczną i stamtąd zostanie wystrzelony na orbitę - powiedział PAP prezes SatRevolution Grzegorz Zwoliński.
+      
+            
+
+Światowid to pierwszy w Polsce komercyjny satelita. "Został całkowicie stworzony w Polsce, bazując na polskiej myśli technologicznej, od komputera pokładowego po całą konstrukcję" - powiedział PAP prezes SatRevolution Grzegorz Zwoliński.
+ 
+Ma wymiary 20 x 10 x 10 cm. Dzięki zastosowanej technice Światowid będzie mógł robić zdjęcia w świetle widzialnym, co umożliwi obserwacje m.in. podnoszenia się wód, stanu powietrza, zmian pogody.
+ 
+Satelita przeszedł pod koniec września testy w komorze temperaturowo-próżniowej. "Był narażany na niską temperaturę i ekstremalnie wysoką, od -65 stopni Celsjusza do ok. plus 120 stopni Celsjusza" - powiedział kierownik rozwoju SatRevolution Tomasz Poźniak.
+
+Prowadzone są prace, które pozwalają ocenić działanie poszczególnych modułów satelity, czy nie zaszły w nich fizyczne uszkodzenia.    
+ 
+"Będziemy musieli jeszcze raz przeprowadzić te same testy i będziemy przechodzić do testów wibracyjnych,  a później do testów zgodności elektromagnetycznej EMC" - powiedział Zwoliński.
+ 
+Testy wibracyjne przeprowadza się w celu sprawdzenia, czy satelita przetrwa wyniesienie w przestrzeń kosmiczną na pokładzie rakiety nośnej. Innymi słowy, symuluje się drogę Światowida na niską orbitę okołoziemską.
+ 
+Z kolei testy zgodności elektromagnetycznej (EMC) polegają na zweryfikowaniu, czy uruchomiony satelita z wyłączonym radiem, nie zakłóci działania innych przyrządów znajdujących się na Międzynarodowej Stacji Kosmicznej (ISS). Trzeba jednak odnotować, że przez pierwsze pół godziny od wyprowadzenia nanosatelity w przestrzeń kosmiczną z pokładu ISS, komunikacja radiowa z satelitą będzie musiała pozostać bezwzględnie wyłączona.
+
+"Testy są wymogiem nie tylko firmy, która satelitę wynosi, ale też NASA, ponieważ nasz Światowid będzie wylatywał z międzynarodowej stacji kosmicznej" - tłumaczył prezes SatRevolution.
+ 
+Jeżeli wszystko pójdzie zgodnie z planem, urządzenie do kwietnia przyszłego roku zostanie dokładnie sprawdzone m.in. pod kątem mechanicznym, elektronicznym. 
+ 
+A to będzie oznaczać, że w kwietniu Światowid poleci na międzynarodową stację kosmiczną i stamtąd zostanie wystrzelony na orbitę.

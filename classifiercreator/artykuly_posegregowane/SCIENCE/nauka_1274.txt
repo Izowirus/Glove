@@ -1,0 +1,21 @@
+Chiński moduł orbitalny Tiangong-2 wystrzelony został w czwartek w przestrzeń kosmiczną. Na pokładzie ruszą niektóre eksperymenty naukowe - w tym w detektorze POLAR, do którego części przygotowywali m.in. Polacy.
+      
+            W czwartek z Centrum Startowego Satelitów Jiuquan w Chinach wystrzelono rakietę, która wyniosła na orbitę okołoziemską nowy chiński moduł orbitalny Tiangong-2 (TG-2). Na razie na pokładzie nie ma astronautów - mają tam dotrzeć dopiero za jakiś czas dzięki załogowemu statkowi kosmicznemu Shenzhou 11. Na module będą już jednak prowadzone zdalnie niektóre eksperymenty. Jednym z kilkunastu takich eksperymentów, które wykonywane będą na Tiangong-2, jest projekt POLAR, w przygotowaniu którego brali udział polscy naukowcy.
+
+Chińsko-szwajcarsko-polski projekt POLAR pozwoli lepiej zbadać rozbłyski gamma (ang. Gamma-Ray Burst) - świadectwa najsilniejszych wybuchów we wszechświecie. Rozbłysków gamma nie widać gołym okiem - to promieniowanie o częstotliwościach jeszcze wyższych niż promieniowanie rentgenowskie - jednak obserwuje się je dzięki odpowiednim czujnikom. Jeden rozbłysk rejestrowany jest z Ziemi średnio raz na dobę. Czasem rozbłysk gamma trwa sekundę, czasem aż kilka minut, a niekiedy nawet dłużej. Szacuje się jednak, że uwalniane jest wtedy tyle energii, ile uwalnia Słońce w ciągu całego swojego istnienia.
+
+Rozbłyski gamma znane są od lat 60 ub. wieku, a wciąż nie jest jasne, jak powstają. Jest nadzieja, że projekt POLAR potwierdzi lub obali niektóre hipotezy na ten temat. Prof. Agnieszka Pollo z Narodowego Centrum Badań Jądrowych (NCBJ), opowiadając w rozmowie z PAP o rozbłyskach gamma mówi, że zgodnie z niektórymi hipotezami rozbłyski gamma mogą mieć źródło w wybuchach tzw. hipernowych albo np. w zderzeniach gwiazdy neutronowej z czarną dziurą.
+
+Jednak by zrozumieć szczegółowy mechanizm, potrzeba wielu dodatkowych obserwacji. A projekt POLAR zbadać ma pewną właściwość fotonów uwalnianych podczas rozbłysków gamma - ich polaryzację. "To byłby przełom, gdyby okazało się na przykład, że światło w rozbłyskach w ogóle nie jest spolaryzowane" - opowiada dr Jacek Szabelski z NCBJ. Z pomiarem promieniowania gamma rozbłysków jest jednak o tyle problem, że można badać je tylko z orbity - tam nie jest ono rozpraszane przez atmosferę Ziemi.
+
+
+
+Detektor polaryzacji promieniowania gamma powstał dzięki pracy zespołu z Chin (Institute of High Energy Physics), ze Szwajcarii (INTEGRAL Science Data Centre, DPNC na Uniwersytecie Genewskim, Paul Scherrer Institut) oraz z Polski (NCBJ). Urządzenie zmieściłoby się w bagażniku auta. Część detektora, za którą odpowiadali Polacy i Szwajcarzy, zainstalowana jest na zewnętrznej ścianie modułu Tiangong-2 i skierowana w zenit. Będzie ona zbierać informacje z jednej trzeciej widocznej części nieba. W skład detektora wchodzi 1600 podłużnych prętów z tworzywa sztucznego ułożonych na kwadratowej powierzchni. Zbierają one dane, z których można wydobyć informacje o polaryzacji rozbłysków gamma. Dane zbierane będą automatycznie (do obsługi urządzenia nie potrzeba astronautów) i dwa razy na dobę przesyłane na Ziemię.
+
+"Zbudowałem w tym urządzeniu tryger i jego oprogramowanie. To część, która decydować będzie, czy doszło do interesującego zdarzenia i czy warto jakieś konkretne informacje zapisać i przekazać na Ziemię" - mówi w rozmowie z PAP mgr inż. Dominik Rybka z NCBJ i z Paul Scherrer Institut. Z kolei zespół dr. Szabelskiego zaprojektował modele prototypu zasilacza wysokiego napięcia wykorzystywanego w detektorze.
+
+Polacy uczestniczyli we wszystkich fazach testów detektora, przeprowadzanych we Francji, Holandii, Szwajcarii i we Włoszech. "Urządzenia, które wysyła się w przestrzeń kosmiczną, muszą być niezawodne. Nie ma przecież mowy o tym, by je potem naprawiać. To ma być tak zbudowane, że ma działać nawet, kiedy się zepsuje" - śmieje się dr Szabelski.
+
+Dominik Rybka wymienia, że wszystkie elementy detektora muszą wytrzymać ekstremalne warunki: gwałtowne wstrząsy, duże przeciążenia, wysoką i niską temperaturę, a także wysokie dawki promieniowania. Poza tym w urządzeniach, które pracują w próżni, ważny jest też system odprowadzania ciepła - w próżni przecież urządzenia nie są chłodzone powietrzem atmosferycznym. "W przestrzeni kosmicznej lokówka do włosów po prostu by eksplodowała" - podaje przykład dr Szabelski.
+
+Ludwika Tomala

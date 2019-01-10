@@ -1,0 +1,15 @@
+Kierowcy nie będą musieli mieć przy sobie dowodu rejestracyjnego i papierowego ubezpieczenia OC, a system CEPiK 2.0 będzie wdrażany etapami - przewiduje nowela ustawy Prawo o ruchu drogowym, którą w środę uchwalił Sejm.
+      
+            Za nowelą głosowało 255 posłów. Przeciwko było 153. Od głosu wstrzymało się 26 posłów.
+
+Podczas prac nad projektem komisje wprowadziły do niego szereg poprawek o charakterze technicznym, zgłoszonych przez Biuro Legislacyjne Sejmu i opowiedziały się za uchwaleniem zmian.
+
+Nowela przewiduje, że system CEPiK 2.0 będzie wdrażany stopniowo - w miarę jak kolejne jego funkcjonalności będą przygotowywane i przetestowane. Jak tłumaczył wcześniej w Sejmie wiceminister cyfryzacji Karol Okoński, etapowe podejście do CEPiK 2.0 ma na celu eliminację ryzyk związanych z jednoczesnym uruchomieniem wszystkich funkcjonalności systemu. O uruchamianiu kolejnych elementów informować będzie z co najmniej trzymiesięcznym wyprzedzeniem Minister Cyfryzacji w specjalnym komunikacie.
+
+Okoński, pytany przez posłów, kiedy należy się spodziewać uruchomienia CEPiK 2.0 w całości tłumaczył, że harmonogram nie jest jeszcze gotowy i potwierdzony, więc nie poda dat. Ale to będzie parę lat, w rok na pewno tego projektu nie zakończymy - ocenił. Szacunki wskazują na jakieś dwa lata - dodał.
+
+Inna wprowadzana nowelizacją zmiana przewiduje, że po uruchomieniu odpowiedniej funkcjonalności bazy danych kierowcy nie będą musieli posiadać przy sobie dowodu rejestracyjnego pojazdu i papierowej polisy OC. Funkcjonariusze policji czy GITD w czasie kontroli sprawdzą odpowiednie dane w bazie. W przypadku zatrzymania dowodu, kierowca otrzyma pokwitowanie, a w bazie danych zostanie odnotowana odpowiednia informacja. Zwrot dokumentu nastąpi także w sposób wirtualny, poprzez wymazanie informacji o zatrzymaniu z bazy. Tradycyjny dowód rejestracyjny trzeba będzie jednak przedstawiać w stacji kontroli pojazdów.
+
+Nowelizacja przewiduje, że do bazy CEPiK 2.0 będą trafiać też informacje o demontażu pojazdu, bezpośrednio ze stacji demontażu. Informacje o stacjach demontażu przekazywać będą z kolei marszałkowie województw. Wiceminister Okoński podkreślił, że gromadzenie i przekazywanie tych informacji przez marszałków to jedyny nowy obowiązek, wprowadzany projektem.
+
+Nowela ma wejść w życie wejść 4 czerwca.

@@ -1,0 +1,33 @@
+Samouczące się systemy informatyczne, które na podstawie zgromadzonych danych i doświadczeń potrafią automatycznie analizować również nowe dane, mogą się okazać pomocne w pracy radiologów. Tego typu rozwiązanie powstaje właśnie w Gliwicach. Pilotaż planowany jest na przyszły rok.
+      
+            Chodzi o system do diagnostyki nowotworów i analizy zmian nowotworowych, oparty o obrazowanie dynamiczne po wzmocnieniu kontrastowym.
+
+"To projekt innowacyjny na skalę świata. Być może takie badania są prowadzone w innych ośrodkach na świecie, ale to jest rzecz bardzo nowa, która bardzo może skrócić i ułatwić (kompleksową – przyp. PAP) analizę takich danych medycznych, np. w zastosowaniach onkologicznych (…). Mam nadzieję, że wdrożenie wyników tego projektu stanie się przełomem" – powiedział PAP dr Jakub Nalepa z Wydziału Automatyki, Elektroniki i Informatyki Politechniki Śląskiej w Gliwicach.
+
+Trzonem tego innowacyjnego rozwiązania są techniki uczenia maszynowego (ang. machine learning). Jak tłumaczył Nalepa, systemy informatyczne budowane w oparciu o dotychczas zgromadzone i "zrozumiane" dane (np. obrazy medyczne) pozwalają na skrócenie czasu analizy nowych danych.
+
+Naukowiec wskazał, że techniki uczenia maszynowego mogą być wykorzystywane np. do automatycznej segmentacji obrazów medycznych. "Na podstawie danych, które już mamy – to są dane historyczne – możemy stworzyć klasyfikator, który pozwoli na automatyczną analizę nowych obrazów, które nie były dotychczas +widziane+ przez taki system w czasie +treningu+. Możemy w ten sposób skrócić analizę, która musiałaby być wykonana przez człowieka, a jeżeli skracamy analizę obrazów medycznych, skracamy też czas potrzebny do diagnozy" – tłumaczył Nalepa, który jest jednocześnie kierownikiem ds. badań w tym projekcie z ramienia firmy Future Processing.
+
+Innymi słowy – techniki uczenia maszynowego pozwalają na stworzenie takich algorytmów, które na podstawie opisanych wcześniej danych automatycznie "dostosowują się" do nowych danych, wykorzystując zgromadzone doświadczenia.
+
+
+
+Wspomniany system dotyczący obrazowania dynamicznego powstaje we współpracy firmy Future Processing z Centrum Onkologii – Instytutem im. Marii Skłodowskiej-Curie w Gliwicach.
+
+Jak podał Nalepa, obrazowanie dynamiczne po wzmocnieniu kontrastowym polega na skanowaniu wybranego obszaru ciała i analizie dynamiki przepływu środka kontrastowego u pacjenta. Pozwala to na wyznaczenie biomarkerów, opisujących charakterystykę i stopień zaawansowania nowotworu, umożliwiając ocenę ryzyka u pacjentów z chorobą nowotworową.
+
+Dzięki segmentacji tego rodzaju danych medycznych można znaleźć w tych obrazach pewne "podejrzane" obszary, które wymagają dalszej analizy przez radiologa.
+
+"Nasz system na pewno nie zastąpi pracy radiologa, ale będzie mógł pomóc w znalezieniu pewnych +podejrzanych+ regionów w obrazach, które powinny być jeszcze dokładniej sprawdzone" – podkreślił Nalepa.
+
+Projekt badawczo-rozwojowy to nie tylko wyzwania medyczne, ale przede wszystkim algorytmiczne. Wśród nich naukowiec wymienił analizę trudnych danych, czyli zagadnienie z zakresu "big data". Tłumaczył, że chodzi tu nie tylko o dużą ilość tych danych, duży ich rozmiar, ale też ich heterogeniczność, czyli niejednorodność, a także o dane, których jakość nie jest pewna.
+
+Nalepa zaznaczył więc, że zbudowanie takich systemów klasyfikacyjnych opartych o dane o zróżnicowanej jakości jest w praktyce bardzo trudne i wymaga dobrze przemyślanego wstępnego przetwarzania i selekcji danych, które są najbardziej reprezentatywne, np. dla pewnego rodzaju zmian nowotworowych.
+
+Badania nad tym systemem są jeszcze prowadzone. "Mamy nadzieję, że już w przyszłym roku będziemy gotowi do pierwszych, pilotażowych wdrożeń. Wprowadzenie nowego produktu medycznego na rynek jest długim i żmudnym procesem, dlatego że należy udowodnić, że to, co opracowaliśmy rzeczywiście może być użyte w codziennej praktyce onkologicznej" – zaznaczył Nalepa.
+
+W jego ocenie zapotrzebowanie na tego typu pomoc dla radiologów i fizyków medycznych jest nie tylko w Polsce. "Współpracujemy z ludźmi z Cambridge, więc widzimy, że nie tylko w Polsce jest zapotrzebowanie na tego rodzaju rozwiązania i mam nadzieję, że to w przyszłości zaprocentuje, przede wszystkim dla pacjentów" – podsumował.
+
+Projekt ten o budżecie w wysokości 19 mln zł uzyskał dofinansowanie z Narodowego Centrum Badań i Rozwoju w wysokości 9 mln zł.
+
+W październiku dr Jakub Nalepa otrzymał Nagrodę im. Witolda Lipskiego, przyznawaną młodym polskim uczonym zajmującym się informatyką.

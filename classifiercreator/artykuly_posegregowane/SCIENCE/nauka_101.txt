@@ -1,0 +1,21 @@
+Psy dysponują prymitywną reprezentacją neuronalną znaczenia słów, których wcześniej ich uczono, i dzięki temu odróżniają wyrazy znane od nieznanych – wynika z badania opisanego w „Frontiers in Neuroscience”.
+      
+            Kiedy niektóre psy słyszą słowo „wiewiórka”, ożywiają się i stają się niespokojne. Czasem nawet wyglądają przez okno. Co może to oznaczać dla zwierzęcia? Czy uznaje, że coś się dzieje, czy też może wyobraża sobie małego gryzonia? Naukowcy z amerykańskiego Emory University po raz pierwszy posłużyli się obrazowaniem mózgu, aby zbadać, jak czworonożni towarzysze człowieka przetwarzają słowa, których się nauczyły, w odniesieniu do obiektów.
+
+"Wielu właścicieli psów twierdzi, że ich psy znają znaczenie niektórych słów, ale nie ma wiele dowodów naukowych na potwierdzenie tego – powiedziała autorka badania Ashley Prichard z wydziału psychologii Emory University. - Chcieliśmy uzyskać informacje bezpośrednio od samych psów, a nie tylko poznać obserwacje ich właścicieli".
+
+Jak podkreśla drugi autor badania neurobiolog Gregory Berns, wiadomo już, że psy potrafią przetwarzać niektóre aspekty ludzkiego języka, bo reagują na słowne komendy. "Poprzednie badania sugerowały jednak, że zwierzęta mogą polegać na innych czynnikach towarzyszących komendom, jak spojrzenie, gesty, a nawet ekspresja właścicieli" - zauważył.
+
+W ramach projektu przez kilka miesięcy uczono 12 psów aportowania dwóch różnych przedmiotów. Jeden z nich był miękki, jak pluszowa zabawka, a drugi miał inną teksturę i zrobiony był np. z gumy. Trenowanie psów polegało na instruowaniu ich, żeby przyniosły jeden z przedmiotów, a w przypadku właściwego wyboru psy nagradzano. Trening był zakończony, kiedy uznano, że zwierzę potrafi rozróżnić obiekty, przynosząc spośród dwóch ten wskazany.
+
+Psy umieszczano potem w skanerze do rezonansu magnetycznego (fMRI), a właściciele stojący przed urządzeniem najpierw nazywali dwa przedmioty, a następnie pokazywali je.
+
+Np. właściciel jednego z uczestników badania Eddiego, mieszańca golden retrievera i labradora, wypowiadał słowa "świnka" i "małpa", a potem prezentował zabawki. Właściciel wypowiadał również fikcyjne słowa, trzymając nowe obiekty, jak kapelusz czy lalka.
+
+Badanie wskazywało na większą aktywację regionów słuchowych w mózgu w reakcji na fikcyjne słowa w porównaniu ze znanymi wyrazami.
+
+"Spodziewaliśmy się, że psy rozróżniają słowa znane od nieznanych – powiedziała Prichard. - Zaskoczyło nas to, że jest u nich odwrotnie niż u ludzi, którzy wykazują większą aktywację neuronów w odpowiedzi na słowa znane, niż nowe".
+
+Badacze stawiają hipotezę, że psy doświadczają silniejszej aktywacji neuronalnej w obliczu nowych słów, gdyż wyczuwają, że właściciele chcą, aby zrozumiały, co się do nich mówi - a więc próbują. "Psy chcą zadowolić swoich właścicieli, a może i otrzymać pochwałę czy smakołyk" - snuje przypuszczenie się Berns.
+
+Jednak posługiwanie się słowami nie musi być najefektywniejszym sposobem komunikacji z psami. Inne badanie Prichard i Bernsa, opisane niedawno w "Scientific Reports" wykazało, że psi system nagrody jest bardziej dostrojony do sygnałów wizualnych i zapachowych.

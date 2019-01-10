@@ -1,0 +1,21 @@
+Monitorowanie oddechu podczas snu umożliwia rozwiązanie naukowców z Uniwersytetu Śląskiego w Katowicach. Stworzyli oni własną wersję czujnika z interfejsem radiowym, który przymocowany np. do maski tlenowej sczytuje dane, a te następnie można oglądać np. na swoim smartfonie.
+      
+            Lider tego projektu z zakresu inżynierii biomedycznej dr Paweł Janik z Zakładu Komputerowych Systemów Biomedycznych na Wydziale Informatyki i Nauki o Materiałach Uniwersytetu Śląskiego w Katowicach tłumaczył PAP, że głównym wyznacznikiem stworzonej przez jego zespół platformy sensorowej do transmisji danych, jest jej energooszczędność.
+
+"Wykorzystujemy do tego w zasadzie dosyć standardowe technologie, które dostępne są na rynku, czyli wykorzystaliśmy platformę bluetooth w wersji niskoenergetycznej (…), z tym, że mamy nieco inną wizję na teletransmisję – staramy się wykorzystywać raczej formułę rozgłoszeniową niż tradycyjną i powszechną na rynku formułę połączeniową" – mówił Janik.
+
+Jak tłumaczył, formuła rozgłoszeniowa polega na tym, że jeden lub kilka sensorów przesyłają pakiety danych, które są odbierane przez inne urządzenia wyposażone w specjalne oprogramowanie podłączone do danej sieci. Daje to m.in. możliwość pobierania danych z wielu czujników na wielu urządzeniach w tym samym czasie, np. na kilku smartfonach lub autonomicznych stacjach monitorujących.
+
+Zespół dr. Janika postanowił rozpocząć wykorzystywanie wspomnianej platformy od monitorowania czynności oddechowych np. podczas snu. Jak tłumaczył naukowiec, potrzeby są bowiem ogromne – od niemowlaków, które mogą się w nocy przewrócić na brzuszek i nie mieć siły wrócić, co z może spowodować problemy z oddechem, po osoby dorosłe z problemem bezdechu.
+
+
+
+Służyć do tego mogą m.in. maski tlenowe wyposażone w niewielkie sensory. Układ czujnika naukowców z UŚ ma wymiary ok. 2 cm na 2 cm. "I rzeczywiście potrafi monitorować te procesy w sposób ciągły nawet przez wiele tygodni" – dodał.
+
+Następnie dane te – dotyczące m.in. częstotliwości i głębokości oddechu, pulsu lub zmiany położenia podczas snu – mogą zostać przesłane do urządzeń mobilnych, takich jak smartfony czy tablety, gdzie za pomocą aplikacji np. rodzic może – w czasie rzeczywistym – monitorować sen swojego dziecka.
+
+"Projekt jest cały czas rozwijany – na razie mamy gotowe dwa różnego typu sensory do monitorowania czynności oddechowych, na które zgłoszenia patentowe zostały już wysłane" – mówił.
+
+Wśród wyzwań, jakie stoją jeszcze przed twórcami tego systemu Janik wymienił prace nad zabezpieczaniem danych. "Transmisja rozgłoszeniowa jest bardzo łatwa do przechwycenia przez inne odbiorniki, dlatego konieczne jest dobre zabezpieczenie tych danych" – wyjaśnił.
+
+W ocenie Janika, rozwiązanie ma spory potencjał wdrożeniowy i rozwojowy. "Jesteśmy na początku realizacji tego systemu. W przyszłości nasza technologia może się sprawdzić również w rozwiązaniach związanych z automatyką budynków, jak i w monitorowaniu zdrowia osób wymagających stałej opieki lekarskiej, umożliwiając szybszą interwencję lekarza w sytuacji zagrożenia życia czy zdrowia pacjenta i zwiększając tym samym poczucie bezpieczeństwa osób, których parametry życiowe są monitorowane oraz ich bliskich" – przekonywał lider zespołu.

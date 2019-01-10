@@ -1,0 +1,47 @@
+Arthur Ashkin, Gerard Mourou i Donna Strickland są tegorocznymi laureatami Nagrody Nobla w dziedzinie fizyki - ogłosił we wtorek w Sztokholmie Komitet Noblowski. Badaczy doceniono za przełomowe wynalazki z zakresu fizyki laserów.
+      
+            Osiągnięcia tegorocznych noblistów zrewolucjonizowały fizykę laserów, umożliwiając manipulowanie ekstremalnie małymi obiektami oraz obserwację skrajnie krótkotrwałych procesów fizycznych, chemicznych czy biologicznych. Wynalazki trójki laureatów odsłoniły niezbadane dotychczas obszary wiedzy i znalazły liczne zastosowania w przemyśle i medycynie.
+
+96-letni Arthur Ashkin z Bell Laboratories w USA został wyróżniony "za opracowanie pęsety optycznej i jej zastosowanie w systemach biologicznych".
+
+Natomiast 74-letni Gerard Mourou (Francja i USA) i 59-letnia Donna Strickland (Kanada) zostali nagrodzeni "za metodę tworzenia ultrakrótkich impulsów optycznych o dużym natężeniu". Ich metoda (tzw. CPA) stosowana jest m.in. w laserowej korekcji wzroku.
+
+Arthur Ashkin otrzyma połowę kwoty 9 mln koron szwedzkich (ok. 871 tys. euro). Drugą połową podzielą się Gerard Mourou i Donna Strickland.
+
+Ashkin jest najstarszym laureatem spośród wszystkich dotychczasowych noblistów. Z kolei Donna Strickland jest pierwszą od 55 lat kobietą nagrodzoną Noblem z fizyki.
+
+
+
+Wynaleziona przez Ashkina optyczna pęseta pozwala chwytać atomy, cząsteczki, wirusy czy żywe komórki za pomocą wiązki laserowej. Sam pomysł przemieszczania obiektów za pomocą energetycznych „wiązek holowniczych” znany jest ze science fiction: na przykład bohaterowie serialu „Star Trek”  używają „tractor beam” do chwytania asteroid czy obcych statków kosmicznych.
+
+Choć w codziennym życiu mamy do czynienia z potężnymi źródłami energii świetlnej (takimi jak Słońce), nacisk światła na otaczające nas przedmioty jest praktycznie niezauważalny. Jednak w przypadku mikroskopijnych obiektów i skoncentrowanych wiązek energii wytwarzanych przez laser wygląda to inaczej.
+
+Pracujący w Bell Labs Arthur Ashkin eksperymentował z laserami już od lat 60. Zauważył, że małe obiekty (przezroczyste kulki) są wciągane do centrum wiązki laserowej (gdzie natężenie światła jest największe) i tam przytrzymywane. Można zatem używać lasera jak pęsety. Kierując wiązkę w górę, da się zrównoważyć siłę grawitacji – uchwycony obiekt nie przemieszcza się wówczas w żadnym kierunku - chyba, że przesuniemy wiązkę. Także silnie skupiająca soczewka pozwala zogniskować wiązkę lasera w taki sposób, że uchwycony nią obiekt pozostaje w miejscu największego skupienia światła.
+
+Po przezwyciężeniu wielu trudności, w 1986 r. Ashkin był już w stanie manipulować atomami. W 1987 r., dzięki zastosowaniu lasera działającego w zakresie podczerwieni, udało mu się uchwycić laserem żywą bakterię, nie uszkadzając jej. Z czasem stało się możliwe dokonywanie manipulacji wewnątrz komórki bez naruszania błony komórkowej.
+
+Laserowa pęseta szybko zyskała uznanie biologów. Rozwinęły się na przykład badania nad „silnikami molekularnymi”, które działają w żywych komórkach, chociażby kinezyną poruszającą mikrotubule. Dzięki metodzie holografii optycznej można obecnie uruchamiać jednocześnie tysiące molekularnych pęset, co pozwala między innymi oddzielać zdrowe krwinki od chorych.
+
+Z kolei Gerard Mourou i Donna Strickland opracowali metody umożliwiające uzyskiwanie najkrótszych i najbardziej intensywnych impulsów laserowych. Opisujący ich dokonania artykuł ukazał się w roku 1985 i był podstawą pracy doktorskiej Donny Strickland.
+
+Od początku istnienia laserów naukowcy starali się wytwarzać coraz mocniejsze i coraz krócej trwające impulsy. W połowie lat 80. wydawało się, że osiągnięto kres możliwości - zbyt potężne impulsy o ogromnej mocy szczytowej niszczyły ośrodek czynny lasera, odpowiadający za wzmacnianie światła.
+
+Dzięki pionierskiemu podejściu do tematu, tegorocznym noblistom udało się uzyskać impulsy niezwykle krótkie i o ekstremalnie dużej mocy, nie niszcząc samego lasera. Najpierw za pomocą światłowodu o długości ponad kilometra „rozciągali” impulsy w czasie, aby zmniejszyć ich moc, później je wzmacniali, a w końcu „ściskali”, zmniejszając czas trwania, dzięki czemu dramatycznie rosło ich natężenie (więcej światła w krótszym czasie).
+
+Technikę nazwano „chirped pulseamplification” (CPA), co dosłownie oznacza wzmacnianie impulsów ze świergotem. Szybko stała się standardem w dziedzinie laserów o dużym natężeniu. Stosowana jest nie tylko w fizyce i chemii, ale także w milionach operacji korekcji wzroku czy przy wytwarzaniu stenów naczyniowych.
+
+Dzięki ultrakrótkim impulsom o czasie trwania rzędu femtosekund (jedna milionowa jednej miliardowej części sekundy) można „sfotografować” procesy ekstremalnie krótkotrwałe, na przykład w procesie fotosyntezy. Pod wpływem tak krótkich impulsów zmieniają się właściwości materii – elektryczne izolatory stają się przewodnikami. Można też wiercić i wycinać precyzyjnie otwory w różnych materiałach – nawet w żywej materii. W porównaniu z laserami o dłuższym impulsie, przy laserach femtosekundowych znacznie mniejsze są uszkodzenia powodowane przez ciepło czy falę uderzeniową. Takie laserowe dziurki stosowane są chociażby do zapisywania danych.
+
+Impulsy trwające attosekundy (trylionowe części sekundy) pozwoliły badać i kontrolować nawet elektrony, odpowiedzialne za fizyczne i chemiczne właściwości materii. Dzięki nowej wiedzy możliwe będą szybsze procesory, bardziej wydajne baterie słoneczne, lepsze katalizatory, nowe źródła energii i leki.
+
+Arthur Ashkin urodził się 2 września 1922 r. w Nowym Jorku. W 1952 r. otrzymał doktorat na Cornell University (USA). Podczas II wojny światowej jego dwa lata starszy brat Julius Ashkin pracował przy Projekcie Manhattan. Sam Arthur w latach 1942-1945 pracował w Columbia Radiation Lab, gdzie uczestniczył w budowie magnetronów do amerykańskich radarów wojskowych. Jego późniejsza kariera zawodowa związana jest ze słynnymi Bell Laboratories, gdzie pracował od 1952 do 1991 roku.
+
+Tegoroczny noblista miał wkład również w inne "noblowskie" badania - rozwój metod chłodzenia i pułapkowania atomów laserem, za które przyznano Nobla z fizyki w 1997 r. Ashkin wyznał później, że czuł się wówczas niesprawiedliwie pominięty przez Komitet Noblowski.
+
+Drugi z tegorocznych laureatów, Gerard Mourou, urodził się 22 czerwca 1944 r. w Albertville we Francji. Doktorat obronił w 1973 r. na Université Pierre et Marie Curie w Paryżu. Jak podaje agencja Reuters, tegoroczny noblista ma podwójne obywatelstwo: francuskie i amerykańskie. Aktualnie Mourou jest profesorem na École Polytechnique w Palaiseau (Francja). W 1990 r. był jednym z założycieli Center for Ultrafast Optical Science na amerykańskim University of Michigan. Do Francji wrócił w 2006 r. - po 30 latach pracy w USA.
+
+Mourou zaangażowany jest w finansowany przez Unię Europejską projekt budowy Extreme Light Infrastructure (ELI) - trzech laboratorium naukowych (w Czechach, Rumunii i na Węgrzech), które zostaną wyposażone w systemy impulsowych laserów wielkiej mocy. Noblista wystąpił nawet w filmiku promującym całe przedsięwzięcie: https://www.youtube.com/watch?v=k6i7A8Plqb8
+
+Z kolei Donna Strickland jest zaledwie trzecią kobietą, która otrzymała Nagrodę Nobla w dziedzinie fizyki - po Marii Skłodowskiej-Curie w 1903 r. i Marii Goeppert-Mayer w 1963 r.
+
+Strickland urodziła się w 1959 r. w kanadyjskim mieście Guelph. Doktorat otrzymała w 1989 r. na University of Rochester (USA). Aktualnie pracuje na kanadyjskim University of Waterloo na stanowisku Associate Professor (odpowiednik polskiego profesora nadzwyczajnego). Przewodniczy tam grupie pracującej nad ultraszybkimi laserami.

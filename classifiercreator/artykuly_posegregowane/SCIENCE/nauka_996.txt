@@ -1,0 +1,16 @@
+Naukowcy z Zachodniopomorskiego Uniwersytetu Technologicznego stworzyli silnik elektryczny, który jest bardziej oszczędny od stosowanych obecnie silników konwencjonalnych. Może mieć zastosowanie m.in. w napędach samochodów elektrycznych oraz jako generator w elektrowniach wiatrowych.
+
+      
+            Szczecińscy naukowcy stworzyli unikatową konstrukcję obwodu magnetycznego silnika, dzięki której możliwa jest większa kontrola pracy urządzenia, m.in. napięcia indukowanego oraz strat energii przy dużych prędkościach obrotowych. Możliwe jest to poprzez osłabienie pola magnetycznego magnesów trwałych w maszynie.
+
+„Maszyna jest unikatowa pod tym względem, że posiada dodatkowy system sterowania i zasilania, który umożliwia regulację napięć w maszynie, a także wszystkich innych jej parametrów" - powiedział w rozmowie z PAP prof. dr hab. inż. Ryszard Pałka z Katedry Elektroenergetyki i Napędów Elektrycznych ZUT w Szczecinie.
+
+Jego zdaniem silnik jest bardziej oszczędny od stosowanych obecnie silników konwencjonalnych. „Maszyna ma lepsze parametry dynamiczne, czyli przyspieszenie. Jest też bardziej bezpieczna, gdyż w razie wypadku ma szansę na błyskawiczne odłączenie" – dodał.
+
+„Podstawową charakterystyczną cechą tej maszyny jest to, że daje ona szeroką możliwość regulacji momentu napędowego, czyli że może ona działać bardzo efektywnie zarówno przy niskich, jak i przy wysokich obrotach" - wyjaśnił dr inż. Marcin Wardach ze szczecińskiej uczelni.
+
+Według prof. Pałki użytkownik samochodu elektrycznego wyposażonego w ten silnik mógłby przejechać dystans dłuższy o kilkadziesiąt kilometrów w porównaniu do innych pojazdów z napędem elektrycznym.
+
+„Stworzony przez nas silnik może być wykorzystywany w napędach samochodów elektrycznych, a także jako generatory w elektrowniach wiatrowych, gdzie często zmienne warunki pogodowe decydują o parametrach wytwarzanej energii. To rozwiązanie konstrukcyjne umożliwia kontrolę tych parametrów" - powiedział dr inż. Piotr Paplicki, należący do grupy szczecińskich konstruktorów.
+
+Silnik ma patenty krajowe. Stworzony na szczecińskiej uczelni szósty prototyp maszyny jest wynikiem wieloletniej kooperacji z naukowcami z Niemiec, Włoch oraz Korei Południowej, a także finansowania w ramach grantów Narodowego Centrum Nauki.

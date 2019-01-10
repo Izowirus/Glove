@@ -1,0 +1,13 @@
+Latem na Międzynarodową Stację Kosmiczną (ISS) poleci pudełko - Cold Atom Laboratory - w którym ma powstać najzimniejszy obszar we Wszechświecie - zapowiada amerykańska agencja kosmiczna NASA.
+      
+            Wewnątrz pudełka, przy pomocy laserów, komory próżniowej i elektromagnetycznego "noża", cząsteczkom gazu zostanie zabrana energia, co spowolni je tak, że prawie nie będą się poruszały. Naukowcy chcą zmrozić atomy do miliardowych części stopnia powyżej zera absolutnego. Pudełko nosi nazwę Cold Atom Laboratory (CAL) i zostało opracowane przez NASA Jet Propulsion Laboratory w Pasadenie. Obecnie znajduje się w końcowym etapie montażu w ramach przygotowań do sierpniowego lotu SpaceX CRS-12.
+
+Gdy atomy są schładzane do ekstremalnie niskich temperatur, tworzą stan materii zwany kondensatem Bosego-Einsteina. Główną rolę zaczynają w nim odgrywać procesy znane z fizyki kwantowej, usuwając w cień prawa fizyki klasycznej znane na co dzień. Materia zaczyna zachowywać się bardziej jak fale, aniżeli cząstki.
+
+Do tej pory NASA nie wytworzyła w kosmosie kondensatu Bosego-Einsteina. Gdy tworzy się go w laboratoriach na Ziemi, atomy stopniowo osiadają na dnie pojemnika, co przekłada się na bardzo krótkie czasy obserwacji kondensatu - zaledwie ułamki sekundy. Badacze mają nadzieję, że na pokładzie stacji orbitalnej czas ten ulegnie wydłużeniu i będzie można prowadzić obserwacje kondensatu Bosego-Einsteina nawet do 5 lub 10 sekund. A jeśli jeszcze bardziej zostanie rozwinięta technologia schładzania materii, być może będą to setki sekund.
+
+Kondensat Bosego-Einsteina jest cieczą nadciekłą, czyli nie posiadająca lepkości. Atomy poruszają się w nim bez tarcia, tak jakby były jedną, złączoną ze sobą substancją.
+
+"Gdybyśmy mieli nadciekłą wodę i zamieszali ją w szklance, to krążyłaby cały czas. Brakowałoby tarcia, aby ją spowalniać i rozpraszać energię kinetyczną. Jeśli uda nam się lepiej zrozumieć fizykę zjawiska nadciekłości, być może poznamy efektywniejsze sposoby transferu energii" - tłumaczy Anita Sengupta z JPL, kierownik projektu Cold Atom Laboratory.
+
+W kosmicznym laboratorium CAL eksperymenty będzie prowadzić pięć zespołów badawczych. Ich wyniki mogą mieć znaczenie dla rozwoju technologii czujników, komputerów kwantowych, czy zegarów atomowych. Mogą być też przydatne przy badaniach ciemnej energii - tajemniczego składnika Wszechświata stanowiącego aż 68 proc. jego energii (zwykła materia to tylko 5 proc., a tzw. ciemna materia odpowiada za około 27 proc.).

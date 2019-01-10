@@ -1,0 +1,37 @@
+Naszpikowany czujnikami i elektroniką kombinezon bojowy, którego projekt opracował łódzki start-up Heimdall Combat Systems, ma wspomagać komandosów, ratowników medycznych i strażaków w ćwiczeniach i w akcjach bojowych.
+      
+            W projekt zaangażowały się m.in. Uniwersytet Medyczny w Łodzi, łódzka Akademia Sztuk Pięknych i Akademickie Centrum Designu, które opracować mają design bojowego kombinezonu oraz kilka firm i start-upów zrzeszonych w Łódzkim Dystrykcie Zbrojeniowym.
+
+Jak powiedział PAP jeden z twórców koncepcji kombinezonu Przemysław Nowakowski, pomysł narodził się z kontaktów z jednostkami specjalnymi i strażą pożarną. „Zidentyfikowaliśmy pewne potrzeby, które wydały się nam bardzo ciekawe i zaproponowaliśmy rozwiązania, które rzeczywiście mogą pomóc w treningu, ale także chronić zdrowie i życie żołnierzy, strażaków czy ratowników medycznych” - przyznał Nowakowski, który sam prowadzi szkolenia w jednej z polskich jednostek specjalnych.
+
+Główną ideą tego pomysłu jest ochrona zdrowia, usprawnienie procesu treningowego, a także ciągły monitoring żołnierzy i ratowników, którzy w swojej pracy poddawani są bardzo dużym obciążeniom.
+„Chcemy chronić ich zdrowie poprzez optymalizację treningów, co przełoży się na mniejsze obciążenia. Dzięki temu taka osoba nie będzie przetrenowana, będziemy też dokładnie wiedzieli w którym momencie ma jakieś ograniczenia funkcjonalne, bądź doznała kontuzji. Możemy wówczas natychmiast pomóc” - uważa Nowakowski.
+ 
+Kombinezon nie tylko dla żołnierzy
+Kombinezon przeznaczony byłby nie tylko dla żołnierzy, ale także dla ratowników medycznych i strażaków, którzy podczas akcji działają w bardzo niesprzyjającym środowisku – narażeni są m.in na wysokie temperatury, fale magnetyczne czy działanie substancji toksycznych.
+Zdaniem Nowakowskiego kombinezon ma się przyczynić także m.in. do zwiększenia szybkości i mobilności żołnierzy czy ratowników podczas działań operacyjnych. "Chcemy doprowadzić do sytuacji w której działania treningowe i operacyjne są tak zoptymalizowane, że żołnierze są tak samo wyszkoleni, natomiast podlegają mniejszym obciążeniom” - dodał.
+
+W ramach projektu opracowano koncepcje kombinezonów dla żołnierzy, strażaków czy ratowników, które różnią się np. materiałem, czujnikami, designem, ale idea ich działania pozostaje taka sama.
+
+
+„Proponujemy kompleksowe rozwiązanie, czyli dwie aplikacje, całą technologię oraz kombinezon zawierający w sobie czujniki, które zbierają wszystkie biodane oraz dane środowiskowe” - podkreślił współtwórca koncepcji. W przypadku np. strażaka będą to biodane takie jak: puls, rytm serca, poziom nawodnienia, a także dane środowiskowe np. temperatura otoczenia, zawartość w powietrzu szkodliwych gazów, czy obecność toksycznych substancji w otoczeniu.
+
+Kombinezon będzie podzielony na strefy. „Znajdą się w nim. m.in. żyroskopy oraz czujniki akceleracji monitorujące szybkość i postawę, mamy czujniki gazu, temperatury, a także komputer bojowy - wsparcia medycznego lub dowódcy szturmu, w zależności od konfiguracji kombinezonu” - wyjaśnił.
+
+Komputer bojowy będzie jednostką centralną odpowiedzialną za zbieranie wszystkich danych, które będą przetwarzane w systemie informatycznym tzw. bibliotece, gromadzącej dane dot. konkretnej osoby i jej udziału w ćwiczeniach czy operacjach.
+
+Naukowcy opracowują dwie aplikacje
+„W ramach projektu opracowane zostaną dwie aplikacje – jedna z nich to aplikacja mobilna, która pomagać ma w codziennym cyklu treningowym żołnierzy lub ratowników, sugerując na podstawie m.in. profili genetycznych, opracowanych podczas badań na Uniwersytecie Medycznym, czas potrzebny do regeneracji partii mięśniowych określając cykl treningowy, odpowiednie nawodnienie organizmu czy zapotrzebowanie dietetyczne" - wyjaśnił współtwórca rozwiązania Kamil Ekiert.
+Druga aplikacja ma zbierać i analizować dane z aplikacji treningowej a także wszystkie dane z czujników kombinezonów, zarówno po ćwiczeniach, jak i po akcjach bojowych. Dane każdorazowo zostaną przesłane i przypisane do profilu osoby. Porównując je i analizując na podstawie opracowanych algorytmów, możliwe będzie przewidywanie ryzyka kontuzji, oraz uszkodzeń organizmu również poprzez wpływ czynników zewnętrznych i zmian zachodzących w organizmie w sytuacjach stresowych - dodaje Ekiert.
+
+Twórcy rozwiązania chcą wykorzystać w nim także możliwości jakie daje rozszerzona rzeczywistość – dzięki temu określone dane z czujników żołnierz czy strażak widziałby na wyświetlaczu dołączonym do hełmu.
+
+Podczas udziału w akcji żołnierze czy strażacy będą monitorowani na bieżąco. "Jeżeli w trakcie akcji coś się dzieje z daną osobą, dowódca otrzymuje jego dane z czujników, czyli wiadomo, że tej osobie trzeba pomóc. Medyk w tym momencie może zareagować, a koledzy mogą wydostać strażaków z rumowiska. Kombinezon ma za zadanie nie tylko pomagać i wspierać w cyklu treningowym, ale tak naprawdę ratować życie" – podkreślił Nowakowski.
+
+Francuskie MSW wyróżniło projekt medalem
+
+Prace nad koncepcją trwały dwa lata. „Mamy zebrane analizy naukowe, dzięki Uniwersytetowi Medycznemu w Łodzi przeprowadziliśmy dwa badania pilotażowe z jednostką specjalną. Prowadzimy rozmowy z inwestorami, staramy się też pozyskać finansowanie ze środków unijnych” - dodał.
+
+Po pozyskaniu funduszy prototyp - zdaniem autorów pomysłu - mógłby powstać w ciągu roku, a po dwóch latach kombinezon mógłby wejść do produkcji. Według nich zainteresowane kombinezonem są nie tylko polskie jednostki specjalne oraz strażacy, ale także m.in. francuskie MSW które na targach innowacji w Paryżu, wyróżniło to rozwiązanie medalem.
+
+Projekt kombinezonu to jedno z pierwszych wspólnych rozwiązań firm i instytucji zrzeszonych w Łódzkim Dystrykcie Zbrojeniowym – klastrze, który powstał, żeby wspierać innowacyjne firmy z branży zbrojeniowej działające w regionie. Klaster tworzy kilka firm i start-upów, a także łódzka Akademia Sztuk Pięknych, Uniwersytet Medyczny, Uniwersytet Technologiczno-Przyrodniczy z Bydgoszczy oraz Instytut Biopolimerów i Włókien Chemicznych w Łodzi.

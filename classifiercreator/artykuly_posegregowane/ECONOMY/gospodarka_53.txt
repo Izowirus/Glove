@@ -1,0 +1,23 @@
+Prezes URE zarządził przeprowadzenie postępowania wyjaśniającego dotyczącego ewentualnych manipulacji na rynku energii - podał URE w komunikacie prasowym. W ocenie URE wzrost cen energii notowany na produkcie BASE_Y-19 na TGE w okresie po 1 września br. może nie być wyłącznie wynikiem wzrostu cen węgla kamiennego i uprawnień do emisji CO2.
+      
+            Prezes URE zarządził przeprowadzenie postępowania wyjaśniającego po analizie zgromadzonych dokumentów, w związku ze znacznym wzrostem cen energii elektrycznej na hurtowym rynku energii, w tym w szczególności w transakcjach zawieranych w 2018 r. na Towarowej Giełdzie Energii (TGE) na rocznym instrumencie terminowym z fizyczną dostawą na rok 2019 (instrument BASE_Y-19).
+
+Postępowanie ma na celu sprawdzenie, czy notowane wzrosty cen wypełniają znamiona „manipulacji na rynku” lub „próby manipulacji na rynku” określone w art. 2 pkt 2 oraz pkt 3 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1227/2011 z dnia 25 października 2011 r. w sprawie integralności i przejrzystości hurtowego rynku energii (tzw. rozporządzenie REMiT).
+
+Postępowanie zostało wszczęte po analizie dokumentów zgromadzonych w ramach badania rynku mającego na celu sprawdzenie przyczyn wzrostów cen energii, które prezes URE prowadził od października do grudnia 2018 r.
+
+Głównym wskaźnikiem badanym był wskaźnik referencyjny Clean Dark Spread (CDS) obliczony jako różnica między ceną energii elektrycznej netto [zł/MWh] a sumą ceny węgla [zł/MWh] i ceny CO2 przeliczonej na koszt emisji CO2 przy produkcji netto [zł/MWh].
+
+"Przyjęcie do analizy tego wskaźnika podyktowane było faktem, że główne elementy kosztowe, które mają wpływ na cenę energii elektrycznej, biorąc pod uwagę strukturę wytwarzania energii w Polsce oraz ograniczone możliwości jej importu, to paliwo oraz koszt zakupu uprawnień do emisji CO2. Ponadto, handel energią elektryczną w kontraktach terminowych na rynku hurtowym w znacznej mierze odbywa się na TGE, a ceny rozliczeniowe w transakcjach realizowanych na tym rynku można było dotychczas uznawać za ceny referencyjne dla rynku" - napisano w komunikacie URE.
+
+"Ponieważ w strukturze produkcji w Polsce największy udział ma produkcja z węgla kamiennego, która oscyluje w okolicach 50 proc. całkowitej produkcji energii w Polsce, do określenia wpływu kosztu zakupu paliwa i emisji na koszt produkcji 1 MWh przyjęto jednostki wytwórcze na węgiel kamienny jako jednostki domykające bilans energetyczny" - dodano.
+
+W komunikacie podano, że w wyniku przeprowadzonej analizy prezes URE ustalił, iż wskaźnik CDS dla kontraktów z dostawą energii w 2019 r. notowanych na instrumencie BASE _Y_2019 od czerwca 2018 r. wykazał niepokojący wzrost.
+
+URE poinformował, że analiza zgromadzonego materiału prowadzi do wniosku, że wzrost cen energii notowany na produkcie BASE_Y-19 na TGE w okresie po 1 września 2018 r. nie jest wyłącznie wynikiem wzrostu kosztów wytworzenia takich jak ceny węgla kamiennego i uprawnień do emisji CO2.
+
+"CDS uzyskany na produkcie BASE_Y-19 w okresie wrzesień – listopad 2018 r. jest około 2 razy większy niż CDS kształtujący się na notowanych historycznie produktach BASE_Y-14, BASE_Y-15, BASE_Y-16, BASE_Y-17 i BASE_Y-18 oraz BASE_Y-19 w okresie od rozpoczęcia notowań w 2016 roku do końca sierpnia 2018 r." - napisano.
+
+"Ponadto, w ocenie prezesa URE zmiana tzw. obliga giełdowego do poziomu 100 proc. w sposób określony w przyjętych przez Parlament w grudniu br. zmianach do ustawy Prawo energetyczne nie wpłynie pozytywnie na upublicznienie hurtowego obrotu energią elektryczną ze względu na przyjęte wyłączenia z tego obowiązku" - dodano.
+
+Postępowanie wyjaśniające może trwać nie dłużej niż 6 miesięcy.

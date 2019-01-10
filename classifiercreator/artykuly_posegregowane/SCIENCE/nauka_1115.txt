@@ -1,0 +1,33 @@
+epa05192290 The Alexa 65 digital film camera from film technology company Arri can be seen in a studio in Munich, Germany, 03 March 2016. The winner of this year's Academy Award for Best Cinematography was the film 'The Revenant,' which was partially shot with this camera.  EPA/SVEN HOPPE 
+Dostawca: PAP/EPA. PAP/EPA © 2017 / SVEN HOPPE
+                                        
+
+            Twórcy innowacyjnych rozwiązań, które m.in. zwiększyły realizm filmów, poprawiły pracę z dźwiękiem czy odtwarzanie ruchów i mimiki aktora przez komputerowo generowane postacie, zostali nagrodzeni przez Amerykańską Akademię Sztuki i Wiedzy Filmowej.
+      
+            Nazwiska laureatów nagród za ważne dla kinematografii osiągnięcia naukowo-techniczne Akademia ogłosiła w czwartek.
+
+"Technicznymi Oskarami" wyróżniani są specjaliści, którzy wpływają na rozwój sztuki filmowej od strony technicznej, a także firmy stosujące innowacje i przełomowe rozwiązania. Dlatego nagród nie przyznaje się tylko za osiągnięcia dokonane w roku 2016, ale również takie, które pojawiły się wcześniej i dowiodły swojej wartości na przestrzeni lat.
+
+W tym roku szczególnie docenieni zostali twórcy innowacyjnych systemów kamer cyfrowych oraz programów, które ułatwiły prace nad komputerową animacją, zwiększyły realizm tworzonych filmów, poprawiły pracę z dźwiękiem oraz odtwarzanie ruchów i mimiki żywego aktora przez komputerowo generowane postacie.
+
+W sumie Akademia wyróżniła 18 osiągnięć naukowo-technicznych, których twórcami były 34 osoby oraz pięć organizacji. Wręczenie nagród odbędzie się w sobotę 11 lutego 2017 w hotelu Beverly Wilshire w Beverly Hills (Los Angeles). Fragmenty tej uroczystości zostaną zaprezentowane podczas gali wręczenia Oscarów 26 lutego 2017.
+
+Za cyfrowe kamery nagrodzono firmy Thomson Grass Valley (kamera Viper), ARRI (kamera Alexa), RED Digital Cinema (przełomowe kamery RED), Sony (F65 CineAlta) oraz Panavision i Sony, które wspólnie stworzyły Genesis.
+
+Chris Kulla, Alan King, Thiago Ize, Clifford Stein i Marcos Fajardo opracowali program Arnold Renderer, pozwalający tworzyć (renderować) w filmowej rzeczywistości między innymi odbicia, cienie, załamania światła czy zjawiska atmosferyczne. W dużej mierze właśnie dzięki temu programowi realistyczne efekty stosowane są powszechnie. Vladimir Koylazov jest z kolei twórcą cenionego w branży filmowej programu do renderingu V-Ray, zaś Carl Ludwig, Eugene Troubetzkoy i Maurice van Swaaij – program CGI Studio.
+
+Larry Gritz zaprojektował Open Shading Language (OSL) – architekturę i język ułatwiające cieniowanie (pokazywanie rozkładu światła) obiektów graficznych oraz obrazowanie szczegółów ich powierzchni (teksturowanie). OSL stał się praktycznie standardem w dziedzinie grafiki komputerowej.
+
+Steven Rosenbluth, Joshua Barratt, Robert Nolty i Archie Te opracowali system Concept Overdrive, tworzący i kontrolujący złożone interakcje filmowych przedstawień rzeczywistego i wirtualnego ruchu.
+
+Doceniono także twórców mikrofonów - Glenn Sanders i Howard Stark opracowali system mikrofonów bezprzewodowych Zaxcom Digital Wireless, zaś David Thomas, Lawrence E. Fisher i David Bundy - Lectrosonics Digital Hybrid Wireless Microphone System.
+
+Luca Fascione, J.P. Lewis i Iain Matthews opracowali dla firmy Weta Digital program FACETS, jeden z pierwszych, dzięki którym mimikę żywego aktora można wiernie przełożyć na animowaną postać filmową. Do rozwoju tej technologii przyczynili się również Nicholas Apostoloff i Geoff Wedig, a także związany z firmą Sony Pictures Imageworks Parag Havaldar, jak również Kiran Bhat, Michael Koperwas, Brian Cantwell oraz Paige Warner.
+
+Brian Whited stworzył dla Walt Disney Animation Studios system rysunkowy Meander, który dzięki innowacyjnej metodzie renderowania krzywych wiernie oddaje intencje artysty.
+
+Osiągnięciem animatroniki zasługującym na nagrodę Akademii okazał się sztuczny koń (Animatronic Horse Puppet), dzięki któremu udało się poprawić bezpieczeństwo aktorów, lepiej zintegrować sceny z akcja i poprawić realizm. Koncepcja wyszła od Marka Rappaporta, analizy ruchów dokonał i zaprojektował konia komputerowo Scott Oshita, Jeff Cruts zajął się sztuczną sierścią zaś Todd Minobe – mechanicznymi stawami i układem napędowym rumaka.
+
+Spośród Polaków najwięcej naukowo–technicznych nagród Akademii w historii zdobył Stefan Kudelski, który opracował przełomowe dla radia, filmu i telewizji, wiernie rejestrujące dźwięk i niezwykle wytrzymałe magnetofony Nagra. Otrzymał dwa certyfikaty Akademii w 1965 i 1977, oraz dwie statuetki Oscara - Nagrodę za Zasługi – Award of Merit w 1978 i honorową nagrodę Gordona E. Sawyera w 1990.
+
+Więcej na stronie http://www.oscars.org/news

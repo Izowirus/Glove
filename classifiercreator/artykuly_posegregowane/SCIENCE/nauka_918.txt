@@ -1,0 +1,23 @@
+Hałas rakiet podczas startu może powodować uszkodzenie delikatnych fragmentów teleskopów, wysyłanych w kosmos. Polscy uczeni opracowują mechanizm, który zminimalizuje ten hałas, przez co wszystkie części teleskopu bezpiecznie dotrą w przestrzeń kosmiczną.
+      
+            Nad projektem pracują naukowcy z Centrum Badań Kosmicznych PAN, Akademii Górniczo-Hutniczej (Katedra Mechniki i Wibroakustyki) w Krakowie oraz Centrum Astronomicznego im. Mikołaja Kopernika PAN.
+
+Start rakiety Ariane 5, w której zostanie zastosowana nowa technologia, planowany jest na 2028 r. O dokładnym miejscu wystrzału (będzie to prawdopodobnie Gujana Francuska) zadecyduje Europejska Agencja Kosmiczna (ESA), która zaprosiła Polaków do udziału w misji kosmicznej ATHENA.
+
+ATHENA to nowoczesny teleskop rentgenowski, który będzie wyniesiony przez rakietę na orbitę w 2028 r. Teleskop ma badać promieniowanie X w kosmosie. Ok. 50 proc. materii w kosmosie występuje w formie rzadkiego, gorącego gazu, który promieniuje w zakresie rentgenowskim. Promienie X są generowane przez gorące części Wszechświata, np: galaktyki i ich gromady, obszary w pobliżu czarnych dziur. Niemniej promieniowanie to blokowane jest przez atmosferę ziemską, dlatego możemy badać je tylko za pomocą misji satelitarnych.
+
+
+
+Uczeni z AGH są odpowiedzialni za minimalizowanie ciśnienia akustycznego przy starcie rakiety. Naukowcy mają opracować osłonę, która zabezpieczy delikatny element teleskopu przed zniszczeniami spowodowanymi przez huk rakiety - osłona ochroni niezmiernie cienki filtr zamieszczony w teleskopie rentgenowskim. Jest to na tyle delikatne urządzenie, że do tej pory wszelka aparatura tego typu mogła ulec uszkodzeniu w czasie startu ze względu na ogromną siłę dźwięku, jaki towarzyszy startowi rakiety. W rezultacie aparatura nie mogła być użyteczna w kosmosie. Do tej pory użycie takich filtrów było praktycznie niemożliwe.
+
+Dzięki stworzeniu osłony do filtrów przed hukiem rakiet, możliwe będzie wysłanie w kosmos odpowiednio cienkiej warstwy materiału potrzebnej do wykonania pomiarów promieniowania X.
+
+Obecnie zespół AGH przygotowuje różne rozwiązania, jak poprzez geometryczne przygotowanie kształtu osłony filtra zredukować siłę dźwięku dobiegającego do niego podczas startu. Zespół pracuje w oparciu o dane otrzymane od ESA - osłona musi mieć określone wymiary, wagę, musi być wykonana z konkretnych materiałów.
+
+"W tej chwili nasze prace polegają na pomiarach poziomu hałasu (generowanego w czasie startu rakiety) w urządzeniu, w którym będzie zamontowany filtr. Symulujemy hałas rakiety specjalnym głośnikiem. Mikrofon w pozycji filtru zbiera informacje o tym, jak w danym miejscu będzie głośno, czyli jaki hałas będzie oddziaływał na filtr" - wyjaśnił dr inż. Adam Pilch z AGH.
+
+"Teleskopy kosmiczne to bardzo specyficzna gałąź technologii satelitarnych, nie buduje się ich zbyt często i staramy się, aby każdy kolejny teleskop był doskonalszy, byśmy mogli coraz więcej nowych rzeczy odkrywać" - powiedział Szymon Polak z Centrum Badań Kosmicznych PAN i dodał: "Z pewnością dzięki uczestnictwie w budowie teleskopu ATHENA polski sektor kosmiczny będzie mógł się rozwinąć".
+
+Misję ATHENA (Advanced Telescope for High Energy Astrophysics) Europejska Agencja Kosmiczna realizuje w ramach programu naukowego "Kosmiczna Wizja". Koszt misji przekroczy 900 mln euro.Polska przystąpiła do misji dzięki staraniom prof. Agaty Różańskiej z Centrum Astronomicznego im. Mikołaja Kopernika PAN w Warszawie. Prof. Różańska koordynuje projekt w Polsce.
+
+Beata Kołodziej

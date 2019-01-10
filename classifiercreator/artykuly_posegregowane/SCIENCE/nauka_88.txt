@@ -1,0 +1,27 @@
+Nie tylko nietoperze czy delfiny mogą korzystać z echolokacji. Ludzie również, tylko do jej nauki potrzebny jest im czas i odpowiednie narzędzia. Polacy pracują nad aplikacją Echo-Vis, dzięki której osoby niewidome uczyłyby się umiejętności echolokacji przydatnej w ich codziennym życiu.
+      
+            W filmie Andrzeja Jakimowskiego "Imagine" niewidomy nauczyciel imponuje swoim wychowankom umiejętnością orientacji w przestrzeni. Samodzielnie przemierza ulice bez użycia laski, potrafi namierzyć znajdujący się na podwórku rower. Wszystko przy użyciu kląskania, butów z odpowiednimi, hałasującymi obcasami oraz nasłuchiwania.
+
+Przedstawione w filmie umiejętności głównego bohatera nie są jedynie filmową fikcją. Swoje umiejętności zawdzięcza on wyćwiczonej echolokacji, którą wykorzystują nie tylko nietoperze czy delfiny, ale także ludzie, choć w znacznie mniejszym zakresie. Wykorzystywał ją np. brytyjski niewidomy podróżnik James Holman, który posługiwał się laską z metalowym okuciem. Ta uderzając o podłoże wytwarzała falę akustyczną, która po zetknięciu z jakimś obiektem powodowała powstanie echa dźwiękowego. Wsłuchując się w takie echo Holman mógł orientować się w przestrzeni. Nie był w tej umiejętności odosobniony. Jedną z osób, które współcześnie posługują się echolokacją jest niewidomy Amerykanin Daniel Kish. On dźwięki wydobywa za pomocą kląskania i to tak dobrze, że może np. samodzielnie jeździć rowerem.
+
+Nauka echolokacji nie jest jednak sprawą łatwą. Pomóc w niej ma aplikacja Echo-Vis, nad którą pracuje właśnie polska firma Transition Technologies we współpracy z naukowcami przy aktywnym udziale ekspertów ze środowiska osób niewidomych i słabowidzących.
+
+"Dzięki echolokacji osoba niewidoma, widząca zresztą też, tylko za pomocą słuchu może ocenić, jak daleko przedmiot się znajduje, jakiej jest wielkości, a nawet, z czego jest wykonany. Oczywiście może zrobić to orientacyjnie, bo jednak my ludzie nie jesteśmy w stanie tak dobrze posługiwać się echolokacją, jak zwierzęta" - mówi PAP jeden z autorów rozwiązania Sławomir Strugarek z firmy Transition Technologies.
+
+Umiejętność echolokacji może przydać się osobie niewidomej, aby idąc chodnikiem ominęła zaparkowany na nim samochód, wystającą tablicę informacyjną, gałęzie, czy znak drogowy, który znajduje się w świetle chodnika. Dzięki niej może też orientować się, czy mija budynek, otwartą przestrzeń, czy las. Do wydawania dźwięku nie trzeba specjalnych urządzeń, wystarczy wykorzystać nasz aparat mowy, wydając wspomniane już wcześniej dźwięki przypominające kląskanie. Za pomocą echolokacji można też identyfikować przedmioty i otoczenie na podstawie dźwięków, które wydają, czyli np. przejeżdżające samochody, kroki osób, szumy uliczne.
+
+Rozwiązanie będzie składało się z serii gier edukacyjnych. Można będzie w nich rywalizować z innymi i zbierać punkty. "Uczenie się poprzez zabawę i rywalizację jest najbardziej zachęcające" - zauważa Strugarek. "Chcemy, aby z gier mogły korzystać osoby na różnych poziomach umiejętności posługiwania się echolokacją: od poziomu podstawowego do poziomu eksperta" - mówi współtwórca aplikacji.
+
+Już teraz opracowano grę demonstracyjną, w której gracz ma przejść przez ulice różnej szerokości i w różnych warunkach, ze światłami, lub ze zwykłym przejściem dla pieszych. W tej ostatniej sytuacji trzeba usłyszeć przerwę między samochodami, aby bezpiecznie przejść.
+
+Młodsze dzieci będą mogły np. uczyć się rozpoznawania zwierząt, rozróżniania, czy pies jest mały czy duży, z której strony nadchodzi, ile jest zwierząt - jedno? a może cała grupa? Kolejnym etapem może być mieszanie dźwięków, które będą na siebie nachodziły. W ten sposób zwiększana będzie trudność zadań.
+
+Autorzy chcieliby opracować też gry przygodowe, w których trzeba zrealizować określony scenariusz: tylko przy użyciu słuchu wkraść się do biura, znaleźć ukryte dokumenty, dotrzeć do konkretnego miejsca.
+
+Twórcy gier nagrywają rozmaite dźwięki: odgłosy samochodów, szum wiatru, młot pneumatyczny, przejeżdżający tramwaj. Umieszczają je w grach i dysponując szerokim zestawem dźwięków, mogą z nich układać różne scenariusze w przestrzeni dźwiękowej. Możliwe jest też tzw. nagrywanie binauralne, czyli rejestrowanie dźwięków za pomocą specjalnych mikrofonów, tak by zebrały wszystkie dźwięki, które można usłyszeć w danym miejscu. Jest to jednak - jak ocenia Strugarek - metoda trudna do zrealizowania, czasochłonna i pracochłonna.
+
+Pracują też nad możliwościami tworzenia wirtualnej przestrzeni dźwiękowej z użyciem unikalnych, autorskich algorytmów generowania dźwięku przestrzennego wraz z jego odbiciami i echem. "To, czego nie uda się nagrać, wytworzymy komputerowo" - dodaje rozmówca PAP.
+
+Poszczególne elementy rozwiązania będą udostępniane stopniowo. Do korzystania z gier wystarczy smartfon z systemem Android lub iOS i średniej klasy słuchawki stereofoniczne.
+
+Gry powstają ze środków Narodowego Centrum Badań i Rozwoju w ramach programu GameInn. Projekt będzie realizowany do roku 2020 w konsorcjum z firmą Utilitia - przedsiębiorstwem społecznym, które zatrudnia i aktywizuje osoby z niepełnosprawnościami, m.in. we współpracy z Politechniką Łódzką, ośrodkami szkolno-wychowawczymi dla niewidomych. "To właśnie nauczyciele orientacji przestrzennej osób niewidomych zgłaszali nam, że przydałoby się narzędzie, którym można pewnych rzeczy nauczyć bez konieczności bycia w danej przestrzeni dźwiękowej" - wyjaśnia.

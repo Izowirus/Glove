@@ -1,0 +1,23 @@
+Za sprawą specjalnej platformy, dzięki której urządzenia różnych producentów mogą się ze sobą komunikować, firma z Olsztyńskiego Parku Naukowo-Technologicznego chce być pierwszym na świecie globalnym operatorem tzw. internetu rzeczy.
+      
+            "Naszym celem jest wyprodukowanie standardu komunikacji urządzeń i nakłonienie ich producentów do jego użycia" - mówi PAP Szymon Fiedorowicz z firmy Investcom działającej w Olsztyńskim Parku Naukowo-Technologicznym. 
+
+Nad internetem rzeczy pracuje od kilku lat cały informatyczny świat. Olsztyńska firma skupiła się na opracowaniu uniwersalnego systemu wzajemnego porozumiewania się przedmiotów różnych kategorii wyprodukowanych przez dowolnych producentów. "To, co stworzyliśmy, to jest platforma, nazywamy to operatorem tzw. internetu rzeczy, czyli jest to mechanizm, który pozwala na swobodną komunikację urządzeń ze sobą" - opowiada Fiedorowicz.
+
+"Urządzenia w dzisiejszym świecie porozumiewają się każde w innym języku. Trzeba było stworzyć całą logikę translatorów, które ujednolicą tę komunikację i spowodują, że urządzenia, które do tej pory nie potrafiły +rozmawiać+ ze sobą, różnych producentów, z różnych części świata, zyskają taką możliwość" - tłumaczy.
+
+Jak to ma wyglądać w praktyce? Na przykład samochód podpięty do internetu rzeczy, sam skomunikuje się z bramą garażową, by ta się otworzyła. Fiedorowicz zwraca uwagę, że internet rzeczy może również być pomocny poza domem, w przestrzeni publicznej.
+
+"Nasza platforma umożliwia połączenie niepołączonych dotychczas rzeczy w jednym miejscu, oddanie tego w służbie ludziom" - podkreśla. Jak mówi Fiedorowicz, celem jego firmy "jest wyprodukowanie standardu komunikacji urządzeń i nakłonienie ich producentów do jego użycia".
+
+
+
+Od czterech lat olsztyńskie Miejskie Przedsiębiorstwo Energetyki Cieplnej korzysta z rozwiązań Investcomu przy monitorowaniu i sterowaniu miejską siecią ciepłowniczą. Pracownicy przedsiębiorstwa nie muszą już odwiedzać 1,8 tys. węzłów cieplnych, by odczytać ich parametry; dane z liczników są automatycznie, w określonych co do minuty odstępach czasowych, przesyłane do siedziby firmy. Wszystkie liczniki w tych węzłach, choć wyprodukowane przez różne firmy, zostały podłączone do stworzonego przez olsztyńską firmę koncentratora.
+
+Urządzenie, wyglądające z zewnątrz jak plastikowa puszka, odczytuje dane z liczników i przesyła je do MPEC-u. Dzięki temu rozwiązaniu można także np. sterować ilością przesyłanego do mieszkań ciepła, alarmować o powstałych awariach i ograniczać ich skutki.
+
+"Zanim wprowadziliśmy ten system nasi pracownicy czasem nawet i przez trzy dni odwiedzali poszczególne węzły i prowadzili odczyty. Przez to, że odbywały się one w różnym terminie, odczyty były niedokładne. Teraz to zupełnie się zmieniło” – powiedział PAP prezes olsztyńskiego MPEC Konrad Nowak i podkreślił, że dzięki innowacji jego firma może też w znacznie lepszym stopniu monitorować sieć przesyłową wykrywając np. awarie - można je podejrzewać, gdy dany węzeł cieplny wysyła odmienne dane niż zwykle.
+
+Obecnie firma jest w fazie rozmów z dużymi partnerami biznesowymi, którzy pomogą platformę rozpowszechnić na świecie.
+
+Investcom działa na rynku od 2001 r., a innowacyjnymi rozwiązaniami informatycznymi zajmuje się od 10 lat. Firma zatrudnia kilkanaście osób, wiele zadań z dziedziny programowania zleca innym firmom z olsztyńskiego Parku Naukowo–Technologicznego, współpracuje też z firmami informatycznymi na świecie, m.in. w Wielkiej Brytanii.

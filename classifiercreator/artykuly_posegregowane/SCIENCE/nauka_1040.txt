@@ -1,0 +1,25 @@
+Mechanizm zaciskowy, który pomoże w łapaniu kosmicznych śmieci projektują polscy inżynierowie z SENER Polska. Ich chwytak ma szansę na złapanie m.in. największego kosmicznego śmiecia: ważącego ponad 8 ton satelity Envisat.
+      
+            Według szacunków wokół Ziemi krąży kilkadziesiąt tysięcy obiektów większych niż 10 cm, mogących zagrozić bezpieczeństwu misji kosmicznych. Największe obiekty to przede wszystkim nieaktywne satelity oraz górne człony rakiet nośnych. Mniejszych śmieci jest wielokrotnie więcej.
+
+Jednym z największych kosmicznych śmieci jest satelita Envisat nieczynny od 2009 roku. To najcięższy cywilny satelita bezzałogowy, waży aż 8,2 tony i ma 25 metrów długości. Ponadto porusza się bardzo skomplikowanym ruchem obrotowym, co komplikuje manewr przechwycenia go.
+
+Usunięcie z orbity kłopotliwego satelity planuje Europejska Agencja Kosmiczna, organizując misję e.Deorbit. Jednak pomysłów na jego usunięcie jest kilka. Jednym z nich jest pochwycenie satelity za pomocą urządzenia umieszczonego na tzw. satelicie pościgowym. Mechanizm zaciskowy, który posłuży połączeniu obu pojazdów projektują polscy inżynierowie z SENER Polska.
+
+
+
+W praktyce cała operacja ma wyglądać tak: satelita pościgowy zbliży się do satelity Envisat, rozpozna jego ruch, dopasuje m.in. swoje położenie i prędkość, tak aby umożliwić bezpieczne działanie ramienia robotycznego. Nad takim ramieniem również pracują już inżynierowie m.in. z Centrum Badań Kosmicznych PAN. Finalnym etapem będzie bezpieczne chwycenie kosmicznego obiektu za pomocą wspomnianego mechanizmu zaciskowego.
+
+"Złapanie Envisata to trudne zadanie. Satelita ma masę ponad ośmiu ton i cały czas się obraca. Satelita pościgowy jest sześć razy mniejszy. Nasze urządzenie musi więc być wytrzymałe i zdolne do szybkiego zaciśnięcia chwytu pod trudnym do przewidzenia kątem" – mówi cytowana w przesłanym PAP komunikacie dyrektor generalna SENER Polska Aleksandra Bukała.
+
+Projektowany mechanizm chwyci pierścień satelity, który kiedyś łączył go z rakietą wynoszącą w przestrzeń kosmiczną. "Dzięki temu będziemy mogli przejść do następnej fazy, czyli odpalenia silników na satelicie pościgowym i wejścia w atmosferę ziemską" - powiedział PAP Marcin Wygachiewicz z SENER Polska.
+
+Polscy inżynierowie zakładają, że mechanizm zaciskowy będzie można zastosować do chwytania również innych satelitów, których pierścienie różnią się między sobą np. wielkością. "Będzie można go wykorzystywać także przy misjach serwisowych: podłączyć się do używanego satelity, a później dokonać koniecznych napraw" - tłumaczył w rozmowie z PAP Wygachiewicz.
+
+
+
+Urządzenie projektowane przez SENER Polska to jedno z dwóch alternatywnych rozwiązań powstających na potrzeby misji e.Deorbit. Jak czytamy w przesłanym komunikacie, ESA często zleca stworzenie koncepcji nowych systemów dwóm konkurencyjnym konsorcjom, aby następnie wybrać najlepszą propozycję. W przypadku e.Deorbit rywalizują ze sobą Airbus - współpracujący z SENER Polska oraz OHB System. Obie koncepcje wchodzą właśnie w fazę sprawdzania, porównywania i ostatecznego wyboru jednego z nich.
+
+Wśród koncepcji ESA na usuwanie kosmicznych śmieci jest też siatka, w którą można byłoby łapać niepotrzebne, krążące w przestrzeni kosmicznej obiekty. Nad takim rozwiązaniem pracuje m.in. polsko-włoskie konsorcjum, w którym uczestniczy firma SKA Polska.
+
+Obecnie wszystkie nowe satelity ESA muszą mieć już systemy pozwalające na deorbitację albo odlecenie na tzw. orbitę cmentarną. Nad kolejnymi metodami, pozwalającymi na bezpieczne usuwanie kończących pracę satelitów głowią się naukowcy na całym świecie. Takie zadanie będzie miał też satelita PW-Sat2, konstruowany przez studentów Politechniki Warszawskiej. Jego zadaniem będzie przetestowanie innowacyjnej technologii deorbitacji za pomocą kwadratowego żagla deorbitacyjnego.

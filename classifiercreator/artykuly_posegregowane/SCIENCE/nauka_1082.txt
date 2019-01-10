@@ -1,0 +1,14 @@
+Jasionka, 12.03.2015. Mikroskop w Punkcie Państwowej Inspekcji Ochrony Roślin i Nasiennictwa na lotniczym przejściu granicznym Rzeszów-Jasionka, otwartym 12 bm. To drugi w Polsce punkt, po przejściu granicznym na lotnisku Chopina w Warszawie, w którym możliwe będą odprawy roślin czy produktów roślinnych. (dd/mr) PAP/Darek Delmanowicz Archiwum PAP © 2015 / Darek Delmanowicz
+                                        
+
+            Odkrycie chemicznych sygnałów wpływających na zachowanie wirusów może pozwolić na opracowanie nowych metod leczenia powodowanych przez nie chorób – informuje „Nature”.
+      
+            Prof. Rotem Sorek z Weizmann Institute of Science w Rehovot (Izrael) wraz z kolegami badał mechanizmy komunikacji molekularnej bakterii Bacillus subtilis. Dzięki nim te drobnoustroje mogą się ostrzegać o zagrożeniu bakteriofagami - wirusami atakującymi bakterie.
+
+Przy okazji okazało się, że także wirusy potrafią się porozumiewać. Jeden z bakteriofagów, zwany phi3T, powodował wytwarzanie peptydu, nazwanego "arbitrium”. Pod jego wpływem wirusy „decydują się” na jeden z dwóch sposobów postepowania: zabójczy dla bakterii cykl lityczny lub mniej agresywny cykl lizogeniczny. W cyklu litycznym nowe bakteriofagi są produkowane tak długo, dopóki zakażona komórka się nie rozpadnie, uwalniając je. W przypadku cyklu lizogenicznego wirus wprowadza swój materiał genetyczny do genomu gospodarza i trwa w uśpieniu, często przez wiele pokoleń – aż w końcu zaatakuje.
+
+Jak wyjaśnia prof. Sorek, każda kolejna generacja wirusa komunikuje się kolejnymi generacjami, przyczyniając się do podwyższenia poziomu arbitrium. Reagując na ten poziom, bakteriofag modyfikuje swoje zachowanie.
+
+Sorek i jego współpracownicy wprowadzili phi3T do kolby z B. subtilis. Bakterie zostały zabite w przebiegu cyklu litycznego. Zawartość kolby została przefiltrowana, co pozwoliło wyodrębnić sam peptyd. Gdy wprowadzono arbitrium do świeżej hodowli zakażonych fagami bakterii, wiele wirusów uległo uśpieniu - weszło w cykl lizogeniczny.
+
+Jeśli odkrycie arbitrium się potwierdzi, będzie to pierwszy znany przykład systemu komunikacji pomiędzy wirusami. Potencjalnie mogą powstać terapie wykorzystujące ten system do celów leczniczych – wystarczyłoby podać wirusom sygnał, który ograniczy ich zjadliwość.

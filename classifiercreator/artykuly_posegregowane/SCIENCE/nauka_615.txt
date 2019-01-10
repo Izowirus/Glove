@@ -1,0 +1,25 @@
+Dzięki programowi doktoratów wdrożeniowych możemy prowadzić badania nie dla samych badań, ale na konkretne potrzeby danej firmy, w której później nasze rozwiązania zostaną wykorzystane – mówili PAP uczestnicy tego programu z Politechniki Śląskiej w Gliwicach.
+      
+            W programie doktoratów wdrożeniowych - realizowanym przez Ministerstwo Nauki i Szkolnictwa Wyższego - finansowanie otrzymały 54 jednostki naukowe z całej Polski. W ramach tej inicjatywy 377 młodych badaczy zaczęło od października studia doktoranckie w trybie wdrożeniowym. Uczestnik programu będzie pracował nad rozprawą doktorską w "systemie dualnym": równocześnie poprowadzi prace w jednostce naukowej i w podmiocie z otoczenia społeczno-gospodarczego. Celem pracy badawczej doktoranta ma być rozwiązanie konkretnego problemu pracodawcy, u którego jest zatrudniony.
+
+"Zawsze chciałem robić to, co znajdzie zastosowanie w przemyśle, w biznesie, a nie tylko po to, żeby to robić" – powiedział PAP Dawid Sobel z Wydziału Automatyki, Elektroniki i Informatyki Politechniki Śląskiej – jeden z 64 uczestników programu doktoratów wdrożeniowych w tej uczelni.
+
+"Jeśli istnieje konkretny problem i ktoś potrzebuje go rozwiązać, a ja mogę mu w tym pomóc to przede wszystkim jest to satysfakcja dla mnie. Moja praca może zostać wykorzystana, a przy okazji mogę również zwiększać mój dorobek naukowy, budować moją intuicję badawczą, a pracując ze specjalistami, którzy już np. wytwarzają (dane - PAP) oprogramowanie od lat, od nich też sporo się nauczyć" – dodał.
+
+Na potrzebę bliższego kontaktu nauki z przemysłem wskazał rektor Politechniki Śląskiej prof. Arkadiusz Mężyk, który podkreślił, że postęp techniczny następuje obecnie bardzo szybko. "Trudno jest nadążyć za tymi zmianami, a co dopiero kreować te zmiany. W związku z tym my musimy w nowy sposób podejść do kształcenia inżynierów stanowiących kadrę dla przemysłu przyszłości; ten absolwent powinien być jak najbliżej środowiska pracy i to środowiska najbardziej zaawansowanego technologicznie" – zaznaczył.
+
+Politechnika Śląska otrzymała właśnie granty na przeprowadzenie 64 doktoratów wdrożeniowych (jak podała ta uczelnia, to pierwsze miejsce w kraju – ex aequo z Politechniką Warszawską). "Procedura jest taka, że firmy zgłaszają tematy, a następnie uczelnia znajduje osoby, które te tematy będą realizowały. One przechodzą przez pełny cykl rekrutacji, w związku z czym nie są to osoby przypadkowe i z jednej strony są zatrudnione w firmie, z drugiej strony otrzymują stypendium ministerialne" – tłumaczył prof. Mężyk.
+
+
+
+Wśród tych doktorantów jest właśnie Dawid Sobel. Przedmiotem jego badań – jak sam mówił – są algorytmy rekonstrukcji trójwymiarowej przestrzeni. "Chodzi o to, żeby przedmioty rzeczywiste, które istnieją w naszym realnym świecie przenieść do rzeczywistości wirtualnej" – wyjaśnił.
+
+Tłumaczył, że dzisiaj w tym celu graficy modelują każdy z elementów osobno, co zabiera sporo czasu. "Natomiast ja bym chciał utworzyć algorytm, który pozwoli na automatyzację tego procesu oraz właśnie przyspieszy czas wytwarzania takich obiektów" – wskazał.
+
+Następnie rozwiązanie to chciałby wykorzystać w multimedialnej strzelnicy. "Można tam np. trenować strzelanie, zachowanie w różnych sytuacjach. Im wierniej odwzorujemy to rzeczywiste środowisko w świecie wirtualnym, tym bardziej wzrośnie realizm tej symulacji" – mówił.
+
+Doktorat wdrożeniowy rozpoczęła też właśnie Karolina Miszczyszyn z Wydziału Chemicznego Politechniki Śląskiej. Jak tłumaczyła, jej projekt polega na syntezie nowych związków organicznych, które wykazują właściwości półprzewodnikowe i mogą znaleźć potencjalne zastosowanie w detekcji światła podczerwonego, a dalej m.in. w telekomunikacji. Mówiła, że choć takie badania już się kiedyś pojawiały, to jest to wciąż nowy obszar badań, "generalnie z zakresu organicznej, zielonej elektroniki, więc jest tutaj duże pole do manewru".
+
+Projekt badawczy w ramach tego programu prowadzi również Jarosław Homa z Wydziału Automatyki, Elektroniki i Informatyki. Opracowuje on metodę rekonfiguracji systemu topologii sieciowej z uwzględnieniem czynników zewnętrznych. "Konkretnie chodzi o uwzględnienie przemieszczania się użytkowników w pomieszczeniu i reagowania systemu zarządzania budynkowego" - mówił.
+
+W ramach programu przyznawane są stypendia doktoranckie w wysokości 2450 zł miesięcznie, dofinansowywane będą również koszty wykorzystania infrastruktury badawczej w ramach tych studiów. Drugim źródłem dochodu doktoranta ma być pensja wypłacana przez pracodawcę, dla którego będzie on prowadził badania wdrożeniowe.

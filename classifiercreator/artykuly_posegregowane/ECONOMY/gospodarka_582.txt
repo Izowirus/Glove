@@ -1,0 +1,27 @@
+Dzięki JPK wzrosła efektywność kontroli skarbowych; ciężar walki z wyłudzeniami VAT przeniósł się na etap analizy danych - tłumaczy w rozmowie z PAP dyrektor departamentu nadzoru nad kontrolami w Ministerstwie Finansów Przemysław Krawczyk.
+      
+            Dyrektor przypomniał, że od 1 stycznia br. już wszystkie firmy mają obowiązek przekazywania fiskusowi plików JPK_VAT. "To bardzo ważne informacje, trudno je przecenić, kluczowe w przypadku walki z nadużyciami w VAT" - powiedział Krawczyk.
+
+"Znacznie zmniejszyliśmy lukę w danych. Wcześniej otrzymywaliśmy tylko informacje o transakcjach, w których stroną były duże podmioty, ale nie mieliśmy wiedzy o transakcjach między mniejszymi firmami" - wyjaśnił.
+
+Jego zdaniem do skutecznej analizy ryzyka niezbędny jest właśnie także ten fragment informacji. "Dzięki temu możemy ocenić wszystkie relacje, transakcje danego podmiotu, ocenić ich charakter, wielkość, częstotliwość i dojść do odpowiednich wniosków, że np. mamy do czynienia z szarą strefą" - powiedział. "Widzimy także podmioty, które dokonują transakcji z firmami powiązanymi w ramach przestępczej karuzeli VAT" - dodał.
+
+W efekcie stopniała grupa podmiotów o cechach pozwalających zakwalifikować do grupy ryzyka. "Jest ich dużo mniej. To efekt prewencyjny" - uważa Krawczyk.
+
+"Ciężar walki z wyłudzeniami VAT przeniósł się na etapy analityczne, czynności sprawdzających. Kontrola jest kolejną fazą, prowadzi się ją wtedy, kiedy pewnych kwestii nie można wyjaśnić na etapie wcześniejszym" - tłumaczy.
+
+Krawczyk podkreślił, że dzięki JPK_VAT prowadzone kontrole są bardziej efektywne. "Także malejąca liczba kontroli to skutek wykorzystania JPK_VAT. Przeszliśmy na etap automatycznej analizy ryzyka. W celu uzyskania dostępu do tych danych nie musimy przeprowadzać kontroli" - powiedział.
+
+"W globalnym ujęciu to kwestia wzrostu wpływów podatkowych" - dodał. "Choć trudno konkretnie wskazać, za jaką część odpowiada JPK_VAT" - przyznał.
+
+O wzroście skuteczności kontroli mają świadczyć dane statystyczne Ministerstwa Finansów przekazane PAP. Wynika z nich, że w pierwszym półroczu br. urzędy celno-skarbowe przeprowadziły 1700 kontroli ustalając zobowiązania podatkowe na kwotę 6 mld 40 mln zł, wobec 2633 kontroli z kwotą ustaleń w wysokości 7 mld 437,4 mln zł. Tym samym kwota ustaleń na jedną kontrolę wyniosła w tym roku 3,55 mln zł, podczas gdy w zeszłym roku było to 2,82 mln zł.
+
+Natomiast urzędy skarbowe w I poł. br. przeprowadziły 10 tys. 361 kontroli, a kwota ustaleń wyniosła 3 mld 880,7 mln zł. Dla porównania w tym samym okresie 2017 r. urzędy skarbowe przeprowadziły 13 tys. 854 kontroli ustalając zaległości na kwotę 3 mld 209,9 mln zł. Kwota ustaleń na jedną kontrolę wyniosła więc w tym roku 0,37 mln zł, podczas gdy w pierwszej połowie 2017 r. - 0,23 mln zł.
+
+Dane MF mówią, że co miesiąc około 1,6 mln firm składa pliki JPK. Z miesiąca na miesiąc spada liczba firm, które nie wykonywały tego obowiązku. W styczniu br. było ponad 85 tys. takich firm, w lutym - ok. 79 tys., w marcu - ok. 55 tys., w kwietniu - 53 tys., w maju - 49,5 tys., a w czerwcu nieco ponad 46 tys. Jednocześnie, jak wynika z danych MF, w okresie od 1 stycznia br. do 31 lipca z rejestru VAT wykreślono 69 tys. 532 firmy.
+
+Według Krawczyka wprowadzenie JPK pokazało również wielu firmom, że powinny zwrócić uwagę na jakość przechowywanych danych podatkowych. Dostrzegły, że muszą poprawić jakość swoich baz. Poza tym dzięki JPK firmy prowadzą własne kontrole prawidłowości rozliczeń podatkowych.
+
+Dyrektor przypomniał, że od 1 lipca administracja ma prawo żądać od małych firm dodatkowych plików JPK, np. informujących o obrotach magazynowych. Chodzi o przedsiębiorstwa, które prowadzą swoje księgi i wytwarzają dowody księgowe w formie elektronicznej.
+
+"Pierwszy okres rozliczeniowy, którego dotyczy ten obowiązek to lipiec br. Termin wpłaty podatku, złożenia deklaracji VAT i informacji o ewidencji w formie JPK za ten miesiąc to 27 sierpnia, więc dopiero po tej dacie KAS będzie mogła korzystać z nowych uprawnień wobec małych firm" - wyjaśnił. Dopiero za kilka miesięcy będzie możliwa ocena, czy najmniejsze firmy są dobrze do tego przygotowane.

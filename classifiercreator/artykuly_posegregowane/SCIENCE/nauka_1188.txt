@@ -1,0 +1,22 @@
+Matematycy zrobili kolejny krok na drodze do zrozumienia czynników niezbędnych do przygotowania idealnej filiżanki kawy. Udało się opisać równaniami matematycznymi procesy związane z parzeniem w ekspresie przelewowym – informuje pismo „SIAM Journal on Applied Mathematics”.
+
+      
+            Kawa zawiera ponad 1800 składników chemicznych. Jest także jednym z najczęściej spożywanych napojów świata – codziennie wypija się jej kilka miliardów filiżanek.
+
+Choć badania nad parzeniem kawy podejmowane były już wcześniej i nie jest to czynność obca naukowcom, dotychczas teoretycznie zaniedbywano parzenie w ekspresie przelewowym. Tymczasem takie – tańsze od ciśnieniowych - urządzenia stanowią ponad połowę z 18 milionów ekspresów do kawy sprzedawanych co roku w Europie.
+
+Zespół, w skład którego wchodzą między innymi doktorant Kevin Moroney (University of Limerick) oraz dr William Lee (University of Portsmouth) zajął się właśnie ekspresem przelewowym.
+
+Pod wpływem siły ciążenia gorąca woda przepływa w takim ekspresie przez umieszczoną na filtrze warstwę zmielonej kawy, wydobywając z niej rozpuszczalne składniki.
+
+Badania dotyczyły takich parametrów jak wielkość ziarna mielonej kawy. Okazało się, że zachodzą jednocześnie dwa procesy – szybka ekstrakcja z powierzchni ziarna oraz powolna - z wnętrza.
+
+Wcześniejsze eksperymenty dowiodły, że kawa zbyt drobno zmielona staje się gorzka, natomiast teraz udało się ująć tę zależność pod względem ilościowym – konkretna wielkość ziarna spowoduje powstanie żądanego rodzaju kawy. W warunkach domowych wystarczy odpowiednio ustawić młynek.
+
+To, co smakuje jednej osobie, nie musi smakować innym. Im mniejsza wielkość ziaren, tym większą powierzchnię ma porcja kawy i tym szybciej zachodzi ekstrakcja. Ponadto przez grubo mieloną kawę woda przepływa szybciej, co także ogranicza wielkość ekstrakcji.
+
+Autorzy pragną stworzyć oparty na mechanice płynów oraz mechanice ciała stałego kompletny model matematyczny procesu parzenia kawy, który pomógłby w projektowaniu ekspresów parzących dokładnie taką kawę, jakiej potrzebują konsumenci.
+
+W zastosowaniach przemysłowych można by optymalizować ekspresy, przystosowując je do ziaren o określonej wielkości, zaś ekstrakcję regulować odpowiednio ustawiając przepływ. Maszyny z wbudowanym młynkiem o regulowanej wielkości ziaren miałyby dodatkową możliwość wpływania na proces parzenia.
+
+Kolejnym tematem interesującym brytyjskich badaczy jest kształt „złoża” kawy w ekspresach przelewowych. Początkowo płaska warstwa ziaren deformuje się podczas parzenia, pokrywając ścianki filtra. Także i to zjawisko wydaje się mieć wpływ na smak i zależy od sposobu podawania wody – jednym lub wieloma strumieniami, w różny sposób przemieszczającymi ziarna.

@@ -1,0 +1,29 @@
+W 2018 r. nawet najmniejsi podatnicy VAT będą musieli się skomputeryzować, fiskus oczekuje przekazywania przez nich tzw. Jednolitego Pliku Kontrolnego. Zmiany dotyczą też firm sprzedających bilety czy kantorów wymiany walut; mają zainstalować kasy fiskalne.
+      
+            Jak powiedział w rozmowie z PAP Jacek Matarewicz, doradca podatkowy, adwokat z kancelarii Ożóg Tomczykowski, od stycznia przyszłego roku obowiązek przekazywania rejestrów JPK_VAT (w praktyce pierwszy raz plik ten trzeba będzie wysłać w lutym) obejmie w zasadzie wszystkich czynnych podatników VAT. Nie obejmie podatników korzystających ze zwolnienie podmiotowego, których obrót nie przekracza 200 tys. zł rocznie, ani tych, którzy nie są zarejestrowani jako podatnicy VAT czynni.
+
+Resort finansów szacuje, że w przyszłym roku JPK będzie musiało stosować ok. 1,5 mln mikroprzedsiębiorców, którzy dotąd tego nie robili.
+
+
+
+Matarewicz wskazał, że zmiana oznacza, iż trzeba będzie wysyłać rejestry transakcji VAT za pośrednictwem bramki, którą udostępni resort finansów. "Siłą rzeczy podatnicy, którzy do tej pory prowadzili działalność w skali mikro i rejestry wyłącznie w formie papierowej np. książkę przychodów i rozchodów, będą musieli - jeżeli dalej chcą być podatnikami VAT - skomputeryzować się, +ucyfryzować+" - ocenił ekspert.
+
+Jego zdaniem dla niektórych podatników wykonanie nowego obowiązku może nie być łatwe, Matarewicz próbował bowiem przez bramkę oferowaną przez resort finansów przekonwertować odpowiedni plik exel na formę oczekiwaną przez fiskusa.
+
+"Niestety nie jest to takie proste. Co prawda MF opublikowało wzór pliku w formacie excel, ale jest on nieczytelny. Obawiam się, że starsza osoba mająca problemy z obsługą komputera nie poradzi sobie z takim plikiem. Efekt zmiany może być taki, że małe firmy, które miały zostać bezkosztowo przez państwo obsłużone poprzez darmowe oprogramowania, będą musiały zainwestować w jakiś program księgowy, albo zapłacić biuru rachunkowemu za wysyłanie JPK" - powiedział doradca podatkowy.
+
+Zwrócił uwagę, że w lipcu przyszłego roku podatników tych czeka kolejna zmiana. Podmioty, które prowadzą elektroniczną dokumentację księgową będą musiały wysyłać - na żądanie urzędu skarbowego - także inne struktury logiczne JPK, np. książkę przychodów i rozchodów, czy wyciągi magazynowe.
+
+Według Matarewicza niektórzy podatnicy powinni dokonać rachunku ekonomicznego i ocenić, czy opłaca im się dalej być podatnikiem VAT.
+
+"Jeżeli ktoś nie ma dużych inwestycji, na przykład prowadzi kiosk, czy mały sklepik, ma obroty do 200 tys. zł rocznie, to powinien się zastanowić, czy nie wyrejestrować się z VAT. W takim przypadku do 7 stycznia trzeba złożyć zgłoszenie rejestracyjne VAT-R aktualizacyjne, w którym wskazuje się, że nie chce się dalej być podatnikiem VAT czynnym, a zwolnionym podmiotowo" - radzi Matarewicz.
+
+Jak wyjaśnił, podatnik taki nie będzie wystawiał faktur i składał deklaracji VAT oraz wysyłał JPK. "Ale kończąc działalność podatnika VAT trzeba będzie dokonać spisu z natury i opodatkować towary, które do końca roku nie zostały sprzedane. W przypadku zakupów środków trwałych podlegających tzw. wieloletniej korekcie, wyjście z VAT może wiązać się z obowiązkiem oddania części podatku odliczonego wcześniej" - poinformował.
+
+"O opłacalności rezygnacji z bycia podatnikiem VAT zadecyduje więc rachunek ekonomiczny. W niektórych przypadkach może to być uzasadnione" - podkreślił.
+
+Od 1 stycznia 2018 zmieniają się - jak co roku o tej porze - przepisy dotyczące zwolnień z obowiązku ewidencjonowania sprzedaży za pomocą kas fiskalnych przez pewne grupy podatników. Resort finansów zakłada utrzymanie większości rozwiązań, które do tej pory obowiązują z kilkoma wyjątkami.
+
+"Nowe grupy usług zostaną objęte obligatoryjnym obowiązkiem rejestracji sprzedaży za pomocą kasy fiskalnej, niezależnie od wielkości obrotu" - powiedział Matarewicz. Wyjaśnił, że zgodnie z planami resortu finansów, na kasie trzeba będzie rejestrować sprzedaż np. w kantorach wymiany walut czy biletów: do cyrków, wesołych miasteczek i dyskotek, na sale taneczne.
+
+"Przyszłoroczne zmiany VAT dotyczą także samorządu terytorialnego. Chodzi o liczenie przez jednostki budżetowe i zakłady budżetowe gmin proporcji sprzedaży opodatkowanej i zwolnionej. Wchodzi bowiem w życie przepis, który potwierdza, że wszystkie jednostki budżetowe i zakłady budżetowe - a nie całe gminy - będą liczyły swoje własne współczynniki proporcji" - dodał Matarewicz.

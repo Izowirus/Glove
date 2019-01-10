@@ -1,0 +1,16 @@
+epa00129087 An image released by NASA on Wednesday 04, February 2004 from NASA's  Mars Exploration Rover Opportunity's front hazard-identification camera showing the rover's arm in its extended position. The arm, or instrument deployment device, was deployed on the ninth martian day, or sol, of the mission. The rover, now sitting 1 meter (3 feet) away from the lander, can be seen in the foreground.  EPA/HO Archiwum PAP/EPA © 2018 / HO
+                                        
+
+            Amerykański łazik marsjański Opportunity zamilkł 10 czerwca, gdy na Marsie rozszalała się globalna burza pyłowa, odcinając zasilanie baterii słonecznych. Teraz burza zaczyna słabnąć i pojazd będzie mógł rozpocząć próby skontaktowania się z centrum kontroli lotu – informuje NASA.
+      
+            Do momentu uzyskania kontaktu nikt nie wie, w jakim stanie łazik Opportunity przetrwał okres burzy pyłowej. Naukowcy są jednak optymistami i wskazują na kilka kwestii, które pozwalają im to podejście utrzymać.
+
+Przede wszystkim, zanim w rejonie przebywania łazika rozpętała się burza pyłowa, przeprowadzono kilka testów stanu baterii. Były we względnie dobrej kondycji, więc nie ma powodu zakładać, iż miałyby ulec w ostatnim czasie specjalnej degradacji. Dodatkowo burze pyłowe ocieplają otoczenie, a w miejscu przebywania Opportunity rozpoczęło się lato. To oznacza, że łazik powinien mieć korzystną temperaturę.
+
+Burze pyłowe na Marsie powodują blokowanie docierania światła słonecznego do powierzchni. W pomiarach opisuje się to współczynnikiem "tau". Im wyższa wartość tau, tym mniej światła słonecznego jest dostępne. Średnie tau w lokalizacji Opportunity wynosi zwykle około 0,5, natomiast ostatni wykonany pomiar dał wartość 10,8. Według przewidywań inżynierów baterie słoneczne będą w stanie wznowić pracę i naładować akumulatory gdy tau spadnie poniżej wartości 2,0. NASA poinformowała, iż według szacunków zespołu misji, w ostatnich dniach wartość tau spadła do 2,1, a obecnie może wynosić około 2,5.
+
+Inżynierowie NASA używają sieci anten radiowych Deep Space Network, aby kilka razy w tygodniu nasłuchiwać potencjalnych komunikatów od Opportunity. Anteny tej służącej do komunikacji z sondami kosmicznymi sieci radioteleskopów wysyłają sygnały pobudki w ustalonych okienkach czasowych, a następnie nasłuchują odpowiedzi od marsjańskiego łazika. W uzupełnieniu tej procedury prowadzony jest też nasłuch w szerszym zakresie częstotliwości przez większość godzin dziennych w punkcie pobytu Opportunity.
+
+Gdy zespołowi misji Opportunity uda się wreszcie skomunikować z łazikiem, następna transmisja może nastąpić z opóźnieniem nawet kilku tygodni. Być może potrzeba będzie kilku sesji komunikacyjnych, aby w pełni poznać aktualny stan Opportunity. Na przykład jeżeli zegar utracił rachubę czasu, zostanie zresetowany. Łazik wykona też sobie samemu zdjęcia, aby sprawdzić czy pył nie zalega na istotnych elementach pojazdu.
+
+Oppportunity znajduje się na powierzchni Marsa od 2004 roku, czyli już blisko 15 lat. Od kilku lat bada okolice krateru uderzeniowego Endeavour.

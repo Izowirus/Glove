@@ -1,0 +1,25 @@
+epa01082651 A public transport ship floats in front of a giant tourist cruiser with an overview of the modern cityscape of Istanbul, Turkey, 02 August 2007. Turkey is planning to make Istanbul one of the most popular cultural spot of touristic destinations.  EPA/KERIM OKTEN
+Dostawca: PAP/EPA. PAP/EPA © 2016 / KERIM OKTEN
+                                        
+
+            Unikatowa technologia, która będzie pomagać statkom unikać na morzu kolizji z innymi statkami, wielorybami czy dryfującymi obiektami powstanie w ramach wspólnego projektu, który rozpoczęli specjaliści z Białegostoku, Iławy i Szczecina.
+      
+            Projekt pod nazwą "AVAL" dostał ponad 9,2 mln zł dofinansowania z UE z programu Inteligentny Rozwój. Pieniądze przyznało Narodowe Centrum Badań i Rozwoju. Umowa jest już podpisana - poinformowała PAP dr Jolanta Koszelew z wydziału informatyki Politechniki Białostockiej.
+
+Ta uczelnia jest liderem projektu. Realizuje go wspólnie z Fundacją Bezpieczeństwa Żeglugi i Ochrony Środowiska w Iławie oraz firmami UpLogic z Białegostoku i Sup4NAV ze Szczecina.
+
+"AVAL" to akronim angielskiej nazwy "Autonomous Vessel with an Air Look", co oznacza autonomiczny statek z powietrznym okiem. Jolanta Koszelew tłumaczy, że chodzi o nowatorską technologię nawigacji morskiej, która w różnych sytuacjach zagrożenia kolizją na morzu, przy wykorzystywaniu różnych źródeł informacji - m.in. z drona z kamerą, który będzie obserwował obszar wokół statku - pomoże wskazać bezpieczną drogę.
+
+"Współczesny nawigator wyznacza tzw. manewry antykolizyjne w sytuacjach niebezpiecznych na podstawie danych z urządzeń nawigacyjnych oraz obserwacji wzrokowej, biorąc pod uwagę uwarunkowania batymetryczne (mapa). Często jednak tego typu obserwacja okazuje się niewystarczająca. Nawigator może nie zauważyć pewnych obiektów niebezpiecznych z mostka, takich jak: dryfująca góra lodowa, wieloryb czy kontenery, które wypadły z innego statku" - tłumaczyła dr Koszelew. Takie niebezpieczeństwa może jednak zauważyć kamera w dronie, który będzie się wznosił nad płynącym statkiem - dodała.
+
+W ramach prowadzonych prac ma powstać specjalny dron obserwacyjny, który będzie dostosowany do pracy w najtrudniejszych warunkach pogodowych na morzu. Ma mieć możliwość startu i lądowania na płynącym statku. "Tym zadaniem zajmować się będą naukowcy z Politechniki Białostockiej. Obiekty niebezpieczne będą rozpoznawane w obrazie rejestrowanym z drona przez system przetwarzania obrazów opracowany przez zespół z firmy UpLogic" - poinformowała Koszelew.
+
+Specjaliści z firmy Sup4Nav zajmą się tym, jak w nawigacji wykorzystać informacje "antykolizyjne", które rozpozna system i jak zintegrować je z autopilotem.
+
+"Firma Sup4Nav to jedyna polska firma, która ma doświadczenie w projektowaniu oraz wytwarzaniu systemów ekspertowych stosowanych w nawigacji morskiej. Wszystkie elementy technologii AVAL zostaną przetestowane w Iławie w ośrodku manewrowym Fundacji Bezpieczeństwa Żeglugi i Ochrony Środowiska, jednym z kilku ośrodków na świecie, gdzie można manewrować modelami statków" - poinformowała Koszelew.
+
+Testy w warunkach rzeczywistych będą prowadzone na promach Polskiej Żeglugi Morskiej.
+
+"+AVAL+ to milowy krok na drodze do autonomicznych statków morskich. To technologia, która obniży ryzyko kolizji, a w dalszej perspektywie sprawi, że załoga statku będzie mogła pracować zdalnie" - podkreśliła Koszelew. Dodała, że technologia ma być dodatkowo zaprojektowana tak, by mogli ją stosować i dostosowywać do swoich wymagań różni producenci statków.
+
+Cała technologia "AVAL" ma być gotowa w 2021 r. Ogólna wartość projektu to ponad 10,3 mln zł. Koszelew poinformowała, że Narodowe Centrum Badań i Rozwoju dofinansowało przedsięwzięcie jako "ambitny projekt polskiego konsorcjum za innowację przełomową czyli taką, która zmieni rynek światowy w obszarze transportu morskiego".

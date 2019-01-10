@@ -1,0 +1,21 @@
+Obliczenia numeryczne i głębokie uczenie sztucznych sieci neuronowych - do tego ma służyć nowy nabytek Politechniki Gdańskiej. Mowa o serwerze NVIDIA DGX, najszybszym komputerze w Polsce.
+      
+            "NVIDIA DGX Station to w tej chwili jedyny komputer w Polsce, który umożliwia nam wykonywanie obliczeń numerycznych" - powiedział PAP dr Jacek Rumiński z Katedry Inżynierii Biomedycznej Politechniki Gdańskiej. I podkreślił: "jest to również jeden z siedmiu komputerów tej klasy w Europie, a o jego unikalności świadczy fakt, że przy bardzo dużych możliwościach obliczeniowych można go umieścić w zwykłym pomieszczeniu bez specjalnej klimatyzacji".
+
+W ocenie eksperta największym atutem komputera jest jego +serce+, czyli 4 karty graficzne przeznaczone do szybkich obliczeń numerycznych. "Jego prędkość obliczeń jest rzędu 500 teraoperacji zmiennoprzecinkowych na sekundę - jest to więc olbrzymia moc obliczeniowa w małej obudowie" - podkreślił ekspert.
+
+Dr Rumiński zdradził plany Politechniki Gdańskiej związane z superkomputerem. "Na Wydziale Elektroniki i Telekomunikacji będziemy używać go do wyznaczania różnych modeli w ramach sztucznej inteligencji" - mówił.
+
+Jednocześnie zaznaczył, że "będzie nad tym pracowało 9 różnych zespołów badawczych po to, aby uzyskać np. modele emocji, rozpoznawać obrazy medyczne, wspomagać kierowcę czy rozpoznawać gesty w relacji człowiek-komputer".
+
+
+
+Jeden z projektów badawczych, do których potrzebna jest NVIDIA DGX, polega na wykorzystaniu niedawnego wynalazku Politechniki Gdańskiej - okularów multimedialnych.
+
+Za ich pomocą można przesyłać do komputera obraz widziany okiem kamery zwykłej i termowizyjnej. Komputer na podstawie modeli zbudowanych w sztucznych sieciach neuronowych może np. rozpoznawać puls i prędkość oddychania człowieka. To z kolei może mieć zastosowanie w badaniu stanu zdrowia pacjenta.
+
+"Już w całkiem niedalekiej przyszłości lekarz będzie wspomagany przez sztuczną inteligencję w taki sposób, że patrząc tylko na pacjenta uzyska szereg ważnych informacji o nim" - podkreślił Rumiński.
+
+Jak wyjaśnił: "będą to informacje wynikające z bieżącego pomiaru, np. puls czy prędkość oddychania, ale nie tylko. Komputer, rozpoznając twarz, uzyska również informacje z historii choroby tego pacjenta".
+
+"Jednocześnie wywiad z pacjentem będzie mógł być interpretowany poprzez rozpoznawanie głosu i integrowany z istniejącą dokumentacją medyczną" - powiedział.

@@ -1,0 +1,26 @@
+Warszawa, 25.05.2018. Dzień otwarty w Ministerstwie Cyfryzacji pod hasłem "Oto RODO", 25 bm. W piątek, 25 bm. na terenie całej Unii Europejskiej zacznie obowiązywać RODO - ogólne rozporządzenie o ochronie danych osobowych. (sko)  PAP/Jacek Turczyk
+                                        
+
+            W całej Unii Europejskiej w piątek zaczęło obowiązywać unijne rozporządzenie o ochronie danych osobowych (RODO). Zakłada m.in. prawo do bycia zapomnianym, czyli możliwość usunięcia, również z internetu, informacji na swój temat, jeśli nie są prawdziwe lub są obraźliwe.
+      
+            Przyjęte w maju 2016 r. przez UE ogólne rozporządzenie o ochronie danych osobowych ma zharmonizować przepisy w całej Wspólnocie. RODO stanowi, że przetwarzanie danych będzie możliwe za wyraźną zgodą tego, kogo dotyczą. Przewiduje kary za naruszenie prawa do ochrony danych - do 20 mln euro lub 4 proc. obrotu firmy.
+
+Unijne przepisy dotyczą wszystkich podmiotów prywatnych i publicznych, które przetwarzają dane osobowe. W RODO zdefiniowano je jako dane, które pozwalają zidentyfikować osobę fizyczną. Chodzi o imię, nazwisko, numer PESEL, płeć, adres e-mail, numer IP komputera, dane lokalizacyjne, kod genetyczny, poglądy polityczne, historię zakupów.
+
+Unijne przepisy przyznają osobom, których dane dotyczą, prawo do ich usunięcia, w tym tzw. prawo do bycia zapomnianym. Są to m.in. sytuacje, gdy dane osobowe nie są już niezbędne do celów, do których je zebrano, podmiot danych wycofał zgodę i nie ma innej podstawy prawnej dla ich przetwarzania, dane osobowe muszą być usunięte w celu wywiązania się z obowiązku prawnego przewidzianego w unijnym bądź krajowym przepisie prawnym (np. przepisy dotyczą niszczenia dokumentacji medycznej), dane zostały zebrane w celu świadczenia usług internetowych dziecku.
+
+RODO przewiduje także sytuacje wyłączające prawo do usunięcia danych, m.in. gdy przetwarzanie przez administratora jest wymagane przez prawo unijne albo krajowe bądź jest to niezbędne do ustalenia, dochodzenia lub obrony roszczeń. Na przykład organy publiczne i instytuty naukowe mogą przetwarzać dane osobowe w celach archiwalnych, badań naukowych i historycznych oraz w celach statys­tycznych. Nie można usunąć wcześniej upublicznionych danych, jeśli naruszałoby to prawo innych osób do korzystania z wolności wypowiedzi lub prawa do informacji.
+
+Kolejne uprawnienie zapisane w RODO to możliwość przeniesienia swoich danych osobowych z jednej instytucji do drugiej, np. banku, by na nowo nie wypełniać dokumentacji kredytowej. Tutaj również zapisane są jednak wyjątki. Nie można przenosić danych, jeżeli ich przetwarzanie jest niezbędne do wykonywania zadania realizowanego w interesie publicznym, a także w ramach sprawowania władzy publicznej powierzonej administratorowi.
+
+Prawo do przeniesienia danych nie jest tym samym co prawo do bycia zapomnianym. Poprzedni administrator, od którego je uzyskano, nie ma automatycznego obowiązku ich usunięcia. Musi to zrobić dopiero po żądaniu zainteresowanego.
+
+
+
+W RODO zapisano także obowiązek uzyskania zgody dziecka na przetwarzanie jego danych osobowych. W unijnych przepisach szczegółowo uregulowano formę zgody dziecka w stosunku do usług społeczeństwa informacyjnego. Za taką usługę uważa się każdą odpłatną usługę świadczoną na odległość, drogą elektroniczną i na indywidualne żądanie odbiorcy usług.
+
+Zgodnie z RODO dzieci, które ukończyły 16 lat, mogą samodzielnie decydować o przekazywaniu swoich danych osobowych firmom internetowym. Poniżej tej granicy wieku przetwarzanie danych będzie możliwe tylko, gdy zgodę wyraziła osoba sprawująca władzę rodzicielską lub opiekę nad dzieckiem. Dziecku przysługuje także bezwzględne prawo rozmyślenia się i zażądania usunięcia przekazanych wcześniej danych.
+
+RODO nakazuje także administratorowi podjęcie rozsądnych działań w celu weryfikacji zgody lub aprobaty rodzica bądź opiekuna prawnego. Administrator może w tym celu np. wprowadzić zasadę uwierzytelniania przez inne konto, które pozwoli dziecku przesłać prośbę o zgodę do sprawdzonego konta rodzica na tym samym portalu.
+
+We wtorek prezydent podpisał ustawę o ochronie danych osobowych, która ma zapewnić skuteczne stosowanie RODO w Polsce. Ustawa ta również wchodzi w życie w piątek i także zakłada możliwość nakładania kar za naruszenia przepisów o ochronie danych osobowych - maksymalnie 100 tys. zł na administrację publiczną, a 10 tys. zł dla instytucji kultury.

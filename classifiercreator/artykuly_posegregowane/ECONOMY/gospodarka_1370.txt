@@ -1,0 +1,10 @@
+epa03794288 (FILE) A file image dated 05 March 2013 showing the Microsoft logo at Microsoft stand at the CeBit trade fair, Hanover, Germany. Shares in Microsoft plummeted 19 July 2013 as investors reacted badly to a poor earnings report that reflected the company's difficulties adapting to a technology market ruled by mobile devices and smartphones. Shares in the company, once the world's most valuable technology firm, were down 12 per cent, reflecting the worst single-session decline since January 2009. With more than 80 per cent of Microsoft's revenue coming from Windows-related business, the steady decline of the PC sector has some analysts predicting a gloomy future for the company.  Archiwum PAP/EPA/MAURITZ ANTIN 
+                                        
+
+            Amerykański koncern Microsoft ogłosił, że naprawi lukę w edytorze tekstów Word, którą oszuści mogli wykorzystać do wykradania loginów kont bankowych. Chodzi o lukę zero-day, o której po raz pierwszy poinformowano w weekend - tłumaczy we wtorek BBC.
+      
+            W poniedziałek firma zajmująca się bezpieczeństwem cybernetycznym, Proofpoint, poinformowała, że wykryła kampanię e-mailową, która wykorzystywała lukę edytora tekstów Word do rozprowadzenia złośliwego oprogramowania - Dridex. Zostało ono zaprojektowane do przechwytywania danych do logowania wykorzystywanych w bankowości komputerowej.
+
+Lukę zero-day wykryto w wielu wersjach programu Word dla systemu operacyjnego Windows. Pozwalała ona szkodliwemu oprogramowaniu, w tym Dridexowi, zainstalować się na komputerze ofiary - podają eksperci ds. cyberbezpieczeństwa. Dridex był rozsyłany w pliku Microsoft Word RTF.
+
+Microsoft nie podał, czy problem dotyczy też wersji Worda na komputery Mac.

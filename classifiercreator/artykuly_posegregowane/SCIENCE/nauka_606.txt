@@ -1,0 +1,17 @@
+epa05859993 A camera equipped drone hovers at the booth of Switzerland at the CeBIT computing trade fair in Hanover, northern Germany, 20 March 2017. Reports state that more than 3.000 exhibitors from 70 countries are showing their products and solutions at the fair which expects to see about 200.000 visitors from 20 to 24 March 2017.  EPA/FOCKE STRANGMANN 
+Dostawca: PAP/EPA. PAP/EPA © 2017 / FOCKE STRANGMANN
+                                        
+
+            Drony są coraz popularniejsze. Najprostsze modele można kupić nawet w supermarkecie. Okazuje się, że ich zdecydowanie bardziej zaawansowane wersje mogą mieć zastosowanie kosmiczne i być komplementarne dla satelitów – takie projekty rozważa Europejska Agencja Kosmiczna.
+      
+            „Kosmiczne drony” mogą być czymś pośrednim pomiędzy satelitami a zwykłymi dronami. Ta kategoria obiektów latającym nazywa się po angielsku High Altitude Pseudo-Satellites, w skrócie HAPS. Takie pseudosatelity to platformy, które szybują lub lecą na dużych wysokościach, podobnie jak tradycyjne samoloty, ale steruje się nimi bardziej jak satelitami. Różnicą jest fakt, iż nadal pozostają w atmosferze, a nie ponad nią, natomiast mogą latać przez tygodnie, a nawet miesiące.
+
+Jako najlepszą wysokość roboczą dla tego typu obiektów Europejska Agencja Kosmiczna (ESA) wskazuje 20 km. Jest to już ponad chmurami i prądami powietrznymi oraz 10 km powyżej wysokości przelotowych dla zwykłych samolotów pasażerskich. Na wysokości 20 km prędkości wiatrów są na tyle małe, że dron jest w stanie utrzymywać swoją pozycję przez długi czas. Przy wspomnianej wysokości zasięg widoczności horyzontu to aż 500 km, co pozwala na monitorowanie, telekomunikację lub wsparcie dla usług nawigacji satelitarnej.
+
+Jak mówią inżynierowie z ESA, koncepcje takich dronów udających satelity były rozważane przez ostatnich 20 lat. Obecnie technologia rozwinęła się na tyle, że można zacząć realizować te pomysły w praktyce. Konieczna była odpowiednia miniaturyzacja awioniki, wzrost wydajności baterii słonecznych, zmniejszenie wagi takich źródeł zasilania, miniaturyzacja czujników i zwiększenie szybkości łączy komunikacyjnych.
+
+Tego typu konstrukcje już powstają. Dla przykładu Airbus opracował drona Zephyr, ze skrzydłami i zasilanego energią słoneczną. W roku 2010 Zephyr pobił rekord świata w długości lotu bez tankowania paliwa (14 dni). Wersja Zephyr-S może dźwigać ładunki o wadze kilkudziesięciu kilogramów przez trzy miesiące. Przygotowywana jest już większa wersja Zephyr-T o wyższym udźwigu.
+
+Z kolei Thales Alenia Space opracowuje „lżejszy od powietrza” Stratobus. Stratobus będzie mógł unieść ładunek 250 kg. Pierwszy jego lot ma według zapowiedzi nastąpić w 2021 roku.
+
+Prace w tej dziedzinie wykonuje także wiele innych firm. Niedawno ESA zorganizowała pierwsze warsztaty dla podmiotów z tej branży. Po raz pierwszy w Europie spotkało się na nich ponad 200 ekspertów od dronów typu HAPS.

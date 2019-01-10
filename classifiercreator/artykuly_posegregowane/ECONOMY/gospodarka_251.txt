@@ -1,0 +1,21 @@
+Pod względem potencjału sztuczna inteligencja (AI) przypomina energię atomową, jednak w odróżnieniu od niej nie poddaje się łatwemu nadzorowi. Mimo to korzyści z jej wdrażania przeważają nad zagrożeniami - przekonywali w Amsterdamie przedstawiciele firmy Google.
+      
+            Dyrektor ds. rozwoju sztucznej inteligencji w Google Jeffrey Dean stwierdził, że w ciągu ostatnich dziesięciu lat prace nad sztuczną inteligencją odnotowały znaczące postępy, które przełożyły się na wzrost możliwości maszyn w zakresie np. tłumaczenia języków naturalnych oraz rozpoznawania obrazów, a także na wzrost zainteresowania firm i rządów (m.in. Unii Europejskiej oraz Chin). W ocenie Deana powstanie systemów AI zdolnych do wykonywania wielu zróżnicowanych zadań to nadal kwestia przynajmniej 5-10 lat.
+
+Mimo istniejących ograniczeń rozwój sztucznej inteligencji spotyka się z dużymi obawami podsycanymi przez popularne przedstawienia tej technologii w literaturze, grach i kinie - np. w filmach "2001: Odyseja kosmiczna" i w serii "Terminator". Przed niebezpieczeństwem związanym z AI przestrzegał m.in. amerykański inwestor i przedsiębiorca Elon Musk, były szef firmy Tesla i założyciel SpaceX, który wielokrotnie porównywał sztuczną inteligencję do broni atomowej.
+
+"To uprawnione porównanie, jeżeli zwracamy uwagę na potęgę technologii. Na tym jednak podobieństwa się kończą. Sztucznej inteligencji nie da się kontrolować tak, jak wzbogacania uranu. Do jej wykorzystania nie potrzeba rzadkich pierwiastków ani skomplikowanych narzędzi - wystarczą komercyjne karty graficzne" - przestrzegł Dean, dodając, że wraz z innymi badaczami podpisał wcześniej list otwarty sprzeciwiający się wykorzystaniu tej technologii do produkcji autonomicznej broni. Firma Google zobowiązała się ponadto, że nie będzie prowadziła prac w tym zakresie.
+
+Zdaniem Deana rządy powinny skupić się na kwestii nadzoru nad zastosowaniami AI, a nie na samej technologii. Ekspert wskazał przy tym m.in. na potrzebę regulacji w zakresie zastosowania rozwiązań biometrycznych (np. rozpoznawania twarzy) w przestrzeni publicznej. Podkreślił również społeczne konsekwencje automatyzacji, wskazując na przykład technologii pojazdów autonomicznych.
+
+"Wprowadzenie aut samojezdnych na drogi to kwestia najbliższej przyszłości. Społeczeństwa muszą mieć to na uwadze i zadbać o ich przeszkolenie do nowych zadań, by zapewnić osobom zagrożonym stratą pracy alternatywę wobec przemian technologicznych" - powiedział Dean.
+
+Mimo tych zastrzeżeń specjaliści utrzymują, że korzyści płynące z rozwoju sztucznej inteligencji - np. w zakresie diagnostyki medycznej, przewidywania i reagowania na katastrofy naturalne i inne wydarzenia kryzysowe czy też do optymalizacji upraw rolnych i hodowli - przeważają nad zagrożeniami.
+
+"Najważniejsze dla technologii to pomagać ludziom w rozwiązywaniu problemów, z którymi się mierzą. Chodzi zarówno o zwiększanie wygody poprzez upraszczanie codziennych czynności dzięki tworzeniu +inteligentnego otoczenia+ z wykorzystaniem wirtualnych asystentów, jak i o radzenie sobie z problemami społecznymi" - powiedział PAP w Amsterdamie wiceprezes firmy Google ds. wyszukiwarki i sztucznej inteligencji Yossi Matias.
+
+"Każda technologia może zostać zastosowana zarówno w dobrym, jak i w złym celu. Jako społeczeństwo musimy przyjąć zasady, by upewnić się, że prace nad rozwojem AI prowadzone są w sposób odpowiedzialny" - stwierdził Matias. Wskazał przy tym na ogłoszone przez firmę wewnętrzne wytyczne dotyczące prac nad sztuczną inteligencją. Obejmują one dbałość o ochronę prywatności, bezpieczeństwo oraz troskę o dobro społeczne i utrzymanie ludzkiej kontroli. "Obawy nie powinny przesłaniać nam korzyści i spowalniać rozwoju ani przyjmowania technologii" - zastrzegł wiceprezes Google'a.
+
+"AI to niesamowite narzędzie pozwalające nam robić rzeczy, które wcześniej pozostawały poza naszym zasięgiem. Wykorzystanie sztucznej inteligencji pozwala odmienić inżynierię, naukę, opiekę zdrowotną i inne obszary, nawet jeśli wiążą się z tym obawy. Jak zawsze, kiedy przychodzi zmiana, powinniśmy się upewnić, że jest to zmiana na lepsze" - ocenił Dean.
+
+Z Amsterdamu Mateusz Kominiarczuk

@@ -1,0 +1,24 @@
+Jak wizualnie ocenić, czy produkty spożywcze w opakowaniach są przechowywane w prawidłowej temperaturze? Mogą w tym pomóc wizualne wskaźniki umieszczane na opakowaniach, a zmieniające swój kolor pod wpływem temperatury.
+
+      
+            
+
+Termochromia to zdolność niektórych substancji do odwracalnej zmiany koloru pod wpływem temperatury. Termochromy są już stosowane w życiu codziennym m.in. do produkcji gadżetów czy zabawek reagujących zmianą barwy na ciepło ciała ludzkiego. Można je wykorzystywać też w przemyśle opakowaniowym.
+ 
+Wykorzystanie zjawiska termochromii w polimerowych wskaźnikach do wizualnej oceny zmiany temperatury w materiałach opakowaniowych to pomysł dr inż. Anny Marzec z Instytutu Technologii Polimerów i Barwników Politechniki Łódzkiej. 
+ 
+Dr inż. Anna Marzec w rozmowie z PAP zauważa, że wysokie wymagania w branży spożywczej przełożyły się na dynamiczny rozwój branży opakowaniowej. Poszukuje się nowych sposobów informowania zarówno sprzedawców jak i konsumentów o tym, w jakim stanie znajduje się produkt spożywczy w opakowaniu. 
+ 
+Powstają opakowania aktywne, które np. opóźniają proces rozkładu żywności, czy opakowania inteligentne, informujące konsumenta o świeżości danego produktu.
+ 
+W ten ostatni nurt – zdaniem dr Marzec - wpisuje się proponowany wskaźnik, zawierający pigmenty termochromowe, reagujące zmianą koloru w zakresie temperatur od -10 st. C do +50 st. C. „Umieszczenie takiego wskaźnika na opakowaniu daje konsumentowi szybką, wizualną informację, jaką temperaturę ma opakowanie, a tym samym produkt, który się w nim znajduje” - mówi badaczka.
+ 
+Mechanizm działania wizualnych wskaźników temperaturowych polega na zaniku koloru bądź jego zmianie po przekroczeniu tzw. temperatury przejścia. Temperatura przejścia jest charakterystyczna dla każdego pigmentu organicznego. Kiedy temperatura jest niższa od temperatury przejścia wskaźnik wraca do pierwotnej barwy. 
+ 
+Badaczka przekonuje, że zaletą takich wskaźników jest szeroki zakres temperaturowy, co oznacza, że mogą one być stosowane do różnych produktów. „Innowacyjność tego rozwiązania, w przeciwieństwie do obecnie dostępnych, polega na tym, iż możliwa jest kontrola równolegle kilku progów temperaturowych – przy przejściu przez kolejne progi wskaźnik odbarwia się na różne kolory” - dodała. 
+ 
+Dodatkowo wskaźniki nie mają bezpośredniego kontaktu z żywnością, są stosunkowo tanie, bowiem nie ma konieczności barwienia całego opakowania i mogą być wykonywane z różnego rodzaju tworzyw, zarówno elastomerów jak i polimerów termoplastycznych, przez co łatwo można je dopasowywać do różnych opakowań. 
+ 
+Przykładowo takie wskaźniki temperatury mogłyby zostać wykorzystane do kontroli przechowywania np. przetworów mlecznych, bądź świeżych warzyw i owoców. Dla konsumenta czy sprzedawcy byłaby to bezpośrednia informacja, w jakiej temperaturze przechowywany jest dany produkt w sklepie i w jakiej temperaturze sam konsument w domu przechowuje dany produkt – czy w prawidłowej, czy też w zbyt wysokiej.
+ 
+"Jeżeli zalecane jest przechowywanie takich produktów w temperaturze np. 10 stopni C i wskaźnik powinien być niebieski, natomiast widzimy, że jest np. żółty, to daje nam informację, że warunki przechowywania dla tego produktu są nieprawidłowe” - zaznaczyła dr inż. Anna Marzec z PŁ.

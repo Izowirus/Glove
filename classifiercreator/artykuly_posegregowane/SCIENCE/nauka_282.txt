@@ -1,0 +1,18 @@
+Studenci Wydziału Samochodów i Maszyn Roboczych oraz Wydział Architektury PW opracowali elektroniczny pojazd "Arti". Robot  w przyszłości mógłby pełnić rolę "asystenta" lekarza w szpitalu lub asystenta osoby niepełnosprawnej w mieszkaniu.
+      
+            
+"Arti" (od Artificial Intelligence) – specjalny pojazd elektroniczny został opracowany przez zespół studentów z Wydziału Samochodów i Maszyn Roboczych oraz Wydziału Architektury z myślą o pomocy osobom niepełnosprawnym.
+
+Jak powiedział PAP inż. arch. Michał Dybko z Wydziału Architektury PW, podczas projektowania robota, były trzy pomysły na sfery, w jakich mógłby on funkcjonować: dom, szpital albo centrum handlowe.
+
+"Przemyśleliśmy sprawę, że właściwie może na początek nie powinien on pracować od razu w mieszkaniu. Lepiej by mu było w szpitalu, bo tam jest więcej powtarzalnych czynności. Tam też ludzie bardzo się męczą, więc robot - zamiast pielęgniarki, która codziennie musi przejść sto łóżek i roznieść tabletki - bez problemu może je rozwieść i rozdysponować do pacjentów" - powiedział Dybko.
+
+
+
+Student podkreślił, że w ten sposób "Arti" stanie się asystentem lekarza czy pielęgniarki. Do jego zadań należałoby robienie prostej diagnostyki - mierzenie pulsu, ciśnienia czy temperatury. Za pomocą specjalnych rurek, robot będzie mógł np. rozdysponować tabletki poszczególnym pacjentom. Za pomocą specjalnych czujników sprawdzałby czy np. nie ulatnia się gaz, mógłby też jonizować powietrze.
+
+"Arti" ma dwa koła, wyposażone w samosterujące żyroskopy do balansowania w pozycji pionowej, napęd elektryczny składający się z dwóch akumulatorów oraz podwozie z aluminiowych profili, docelowo ma on jeździć bezobsługowo. Tę część, łącznie z elektroniką, wykonał Wydział SIMR PW pod wodzą dr. Przemysława Szulima.
+
+Konstrukcja robota została wydrukowana na drukarkach 3D i połączona z elementami z blachy. Design urządzenia został pomyślany w ten sposób, żeby zapewnić funkcjonalność medyczną. Idea przyświecająca projektantom to łączenie techniki i sztuki.
+
+Założenia funkcjonalne oraz forma robota zostały zaprojektowane przez studentów studiów magisterskich, jako projekt semestralny na specjalności: Wnętrza i Wzornictwo Przemysłowe w Architekturze i Urbanistyce, pod kierunkiem dr hab. inż. arch. Anny Dybczyńskiej-Bułyszko.

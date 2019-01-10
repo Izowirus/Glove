@@ -1,0 +1,29 @@
+Bezszprychowy rower z napędem hybrydowym, mechanizmem skręcania za pomocą manetek, w całości wydrukowany w technologii 3D skonstruowali studenci z Politechniki Śląskiej w Gliwicach. Wraz ze swym opiekunem przekonują, że choć to szalony pomysł, ma przyszłość.
+      
+            Na tym nietypowym rowerze jeździć jeszcze nie można - to dopiero prototyp, jednak jego twórcy z Wydziału Mechanicznego i Technologicznego Politechniki Śląskiej w Gliwicach zapewniają, że przy wykonaniu ramy pojazdu, np. z aluminium, będzie to możliwe. Założeniem autorów pomysłu jest pokazanie potencjału druku 3D.
+
+Jak tłumaczył PAP dr hab. inż. Damian Gąsiorek, profesor Politechniki Śląskiej, rower charakteryzuje się trzema "nietuzinkowymi" rozwiązaniami.
+
+"Po pierwsze, mamy układ hybrydowy, czyli w momencie, kiedy nie możemy pedałować bądź jedziemy pod górę, włącza nam się układ elektryczny, który zaczyna wspomagać proces jazdy pod górę, bądź też możemy w ogóle (…) jechać na silniku elektrycznym. To jest pierwszy pomysł, ale takie pomysły już są, takie rowery już są" - mówił naukowiec.
+
+Drugie nietuzinkowe rozwiązanie to brak szprych, czyli cienkich drutów łączących piastę (środkową część koła rowerowego, która obraca się na osi przymocowanej do ramy) z obręczą. Tu napęd jest inaczej przenoszony; rower posiada bowiem przeniesienie napędu za pomocą paska na koło zębate, które napędza od środka główną obręcz tylnego koła. Takie rozwiązania - dodał Gąsiorek - też są już jednak znane.
+
+"Trzecią, innowacyjną rzeczą, której nie widzieliśmy, szukając innych rozwiązań rowerów, to jest zastosowanie pewnego mechanizmu skrętu koła jezdnego. Polega to na tym, że za pomocą sterowników znajdujących się przy manetkach kierownicy sterujemy, w którą stronę chcemy skręcać" - mówił Gąsiorek.
+
+
+
+Tak więc mechanizm, który zazwyczaj stosuje się podczas skrętu, czyli albo skręcając tułowiem (balansując ciałem) lub za pomocą kierownicy, którą się skręca - tu opiera się na samym operowaniu manetkami.
+
+"Ktoś powie: szalony pomysł - tak, to jest szalony pomysł, ale od takich szalonych pomysłów, uważam, że się zaczyna. To jest początek drogi, w której ten rower ma szansę na to, żeby pojawić się na polskich drogach" -  przekonywał naukowiec.
+
+Wykonawca projektu magistrant Wojciech Wozowczyk wyjaśnił, że wszystkie części - oprócz paska napędowego - zostały wydrukowane na drukarkach 3D. "Ten rower został pocięty domyślnie na 222 części, ale podczas druku, wiadomo, że nie wszystko się uda i ilość części została zwiększona. Obecnie, licząc poprawki wszystkie, to prawie 300 części, które zostały przez nas sklejone" - mówił.
+
+Sam druk był wykonywane na 6 drukarkach i trwał 33 dni. Rower waży obecnie ponad 20 kg.
+
+Teraz na rowerze nie da się jeszcze jeździć. "W pracy, którą zrobił mój dyplomant jest zrobiona cała analiza wytrzymałościowa, (...) w tej analizie materiałem wyjściowym jest tworzywo sztuczne, które nie wytrzymuje niestety zbyt dużego obciążenia, w związku z czym wiemy z samych analiz numerycznych, że nie nadaje się do tego, żebym ja, na przykład, usiadł na ten rower. Natomiast, gdyby ten rower wykonać z aluminium bądź z włókna węglowego, ten rower będzie zupełnie bezpieczny, rama jest solidna, duża i jest bezpiecznie zaprojektowana" - powiedział Gąsiorek.
+
+Wówczas masa własna pojazdu zmniejszyłaby się do kilku kg, a koszt jego wytworzenia (choć w dużej mierze zależny od liczby zamówionych sztuk), docelowo wynosić ma kilka tys. zł.
+
+W najbliższym czasie twórcy roweru chcą go w połowie pomalować, polakierować i zaprezentować podczas konferencji "Mechatronics: Ideas for Industrial Applications", która odbędzie się w połowie września na Politechnice Śląskiej w Gliwicach. To będzie jego publiczna premiera.
+
+Agnieszka Kliks-Pudlik

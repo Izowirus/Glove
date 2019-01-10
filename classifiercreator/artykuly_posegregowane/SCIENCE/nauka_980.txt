@@ -1,0 +1,27 @@
+Na AGH powstaje innowacyjne oprogramowanie multilingwistyczne PAP/Wideo
+                                        
+
+            Łatwy dostęp do informacji w różnych językach oraz możliwość automatycznego porównania tych informacji - to cel oprogramowania informatycznego, nad którym pracują naukowcy z Akademii Górniczo-Hutniczej w Krakowie. Technologia może znaleźć zastosowanie np. w odbiornikach telewizyjnych.
+      
+            
+Oprogramowanie AMIS (Access to Multilingual Information and Opinions) mogłoby być zintegrowane z pilotem obsługującym odbiornik telewizyjny, a także z dowolną przeglądarką internetową.
+
+"Wyobraźmy sobie, że jedziemy do Egiptu, idziemy do hotelu, gdzie w telewizji widzimy reportaż z aktualnej sytuacji w kraju. Chcemy się dowiedzieć, o co chodzi - by to zrobić naciskamy specjalny przycisk na pilocie i wyświetla się nam np. dwuminutowe streszczenie półgodzinnego reportażu w tym języku, w jakim chcemy" - opisywał szef projektu dr inż. Mikołaj Leszczuk z Katedry Telekomunikacji AGH.
+
+Oprócz streszczenia reportażu widz będzie mógł także za pomocą pilota wybrać opcję, która umożliwi mu automatyczne porównanie (w różnych językach) zawartości treści reportażu z informacjami o tym samym wydarzeniu, ale przekazanymi w innych telewizjach, kręgach kulturowych.
+
+Oprogramowanie ma umożliwić streszczenie informacji (np. reportaży), i porównanie ich, zarówno za pomocą napisów w dole ekranu, jak i dzięki lektorowi (automatyczne rozpoznanie mowy).
+
+
+
+Uczony przyznał, że podobne oprogramowania powstają, jednak AMIS jest innowacyjne, ponieważ umożliwi nie tylko przetłumaczenie treści, ale i automatyczne streszczenie jej. Najciekawszą nowością jednak - zdaniem Leszczuka - będzie możliwość błyskawicznego porównania informacji z różnych zakątków świata, w różnych językach - będzie to porównanie nie tylko językowe, bo system wychwyci też kontekst kulturowy, społeczny, polityczny różnych przekazów.
+
+"Mamy np. dwa teksty albo dwa materiały wideo, reportaże i załóżmy, że jeden jest z telewizji arabskiej, a drugi z telewizji zachodnioeuropejskiej. One będą się różnić pod kątem wydźwięku, pewnych akcentów, punktu widzenia. Nasz system w sposób automatyczny wychwyci te niuanse i powie, gdzie jest różnica" - wyjaśnił kierownik projektu.
+
+Oprogramowanie na razie jest przygotowywane w języku arabskim, francuskim i angielskim. Wybór tych języków wynikał z dostępnej technologii i specjalistów od danych języków. Będzie działał zarówno na nagraniach archiwalnych, jak i emitowanych na bieżąco.
+
+Zdaniem badaczy, AMIS może w znacznym stopniu zminimalizować trudności w wymianie informacji, wynikające z różnic językowych i kulturowych. "Jego zastosowanie dotyczy głównie domeny społecznej i kulturowej, ponieważ pozwala poznać inną stronę danego wydarzenia. Pozwoli to użytkownikom na zrozumienie opinii, a także pośrednio kultury innych narodów" - powiedział Leszczuk.
+
+Technologia, którą do dwóch lat przygotują naukowcy, będzie niewidoczna dla użytkownika docelowego. W praktyce znajdzie zastosowanie po wdrożeniu oprogramowania przez zainteresowane firmy. "Oprogramowanie może być użyte przez producentów telewizorów, ale w chwili obecnej trudno powiedzieć, czy jego nośnikiem nie będą np. telefony, tablety, komputery" - wyjaśnił kierownik projektu.
+
+Naukowcy z AGH pracują nad oprogramowaniem w partnerstwie z uczonymi z Francji i Hiszpanii.

@@ -1,0 +1,14 @@
+Sztuczna inteligencja, której pierwotnym zadaniem była analiza obrazów w celu ich rozpoznawania, nauczyła się analizować struktury DNA pod kątem występujących w nich mutacji. W tym tygodniu ukazała się najnowsza wersja algorytmu - DeepVariant.
+
+      
+            Kod algorytmu udostępniony jest w otwartym repozytorium. Osoby z zewnątrz mogą go nie tylko przejrzeć, ale też modyfikować w ograniczonym zakresie.
+
+DeepVariant działa poprzez analizę wariantów zawartych w sekwencji DNA zwracając jedną, długą sekwencję. Tymczasem, do tej pory problemem była fragmentacja nachodzących na siebie ciągów danych, które zwracały urządzenia służące do analizy sekwencji. Fragmenty przez nie zwrócone podlegały w dalszej kolejności analizie oraz porównaniom z genomami, których sekwencje są już znane.
+
+Algorytm stworzony przez Google został wyszkolony w oparciu o duże ilości danych, które pozwoliły mu na zidentyfikowanie części informacji mających większy wpływ na fragment DNA a także tych, które są całkowicie pozbawione wpływu na sekwencję. DeepVariant analizuje DNA również w oparciu o istniejące już dane na temat mutacji, zwracane w wyniku wcześniej powstałych błędów analiz.
+
+Aby do analizy DNA wykorzystać algorytm, którego wcześniejszym zadaniem było rozpoznawanie obrazów, zespół badaczy Google'a postanowił przedstawić sekwencje genotypu za ich pomocą. Kolejnym składnikom analizy przypisano kolory: literom tworzącym sekwencję - kolor czerwony, jakości sekwencji dla określonej lokalizacji - kolor zielony, dookreśleniu nici splotu DNA, w której znajduje się lokalizacja - kolor niebieski. Połączone barwy stworzyły rozpoznawalny dla algorytmu format znany jako RGB (Red, Green, Blue - PAP).
+
+Obecnie DeepVariant analizuje siedem warstw danych, a nie jedynie trzy określane przez kolory. Według badaczy, jego zastosowanie obecnie nie zmieni wyników prowadzonych badań genetycznych, ale z pewnością wyznacza nowy kierunek rozwoju dla zastosowania sztucznej inteligencji w dziedzinie.
+
+Zdaniem zespołu odpowiedzialnego za stworzenie algorytmu DeepVariant, pomysł stosowania wielowarstwowych struktur danych, z jakich korzysta mechanizm, może być pomocny również dla rozwiązywania innych problemów genetyki, takich jak np. prognozowanie wpływu określonych mutacji na organizm.

@@ -1,0 +1,21 @@
+Stację obsługującą technologię 5G uruchomiły testowo w Gliwicach firmy Orange oraz Huawei. To jeden z efektów porozumienia ws. rozwoju technologii smart city, zawartego w połowie br. przez Górnośląsko-Zagłębiowską Metropolię oraz Orange – podała w czwartek GZM.
+      
+            5G, czyli nowy standard telekomunikacyjny, będący obecnie w fazie rozwoju, ma umożliwić pięćdziesięcio- a nawet stukrotne zwiększenie prędkości transmisji w porównaniu do obecnych sieci 4G. Taka technologia ma przyspieszyć m.in. rozwój internetu rzeczy (Internet of Things - IoT), monitoringu medycznego online, autonomicznych pojazdów czy inteligentnych miast.
+
+Jak wynika z informacji Orange, to pierwsze w Polsce testy technologii 5G, prowadzone poza laboratoriami.
+
+Testy te pozwoliły m.in. ocenić wpływ gęstej zabudowy miejskiej, wysokich budynków czy warunków atmosferycznych na wykorzystywane częstotliwości 3,4-3,6 GHz. Inżynierowie skorzystali z anteny Huawei obsługującej technologię „massive MIMO”, złożonej z kilkudziesięciu elementów odpowiadających za nadawanie i odbieranie sygnału, zamiast jak w przypadku 4G – maksymalnie czterech.
+
+„Wychodzimy z laboratorium, by sprawdzić, jak przygotowywane rozwiązania sprawdzają się w boju. Prowadzone w Gliwicach testy pozwalają nam przeanalizować ich funkcjonowanie w trudnych warunkach miejskich. Wdrożenie 5G przyniesie jakościową zmianę. Skorzystają na tym nie tylko indywidualni użytkownicy, ale też przemysł, czy szerzej – cała gospodarka” - powiedział cytowany w komunikacie prezes Orange Polska Jean-François Fallacher.
+
+„Aby uruchomić mobilną sieć nowej generacji sprawnie i efektywnie, potrzebujemy jasnych reguł gry, porządkujących sprawy takie jak częstotliwości, normy elektromagnetyczne czy proces inwestycyjny. Jesteśmy gotowi na dialog z rządem i regulatorem rynku dotyczący uregulowania tych kwestii” - zapewnił.
+
+W trakcie prób laboratoryjnych, poprzedzających testy w terenie, między stacją nadawczą i dostarczonym przez Huawei pierwszym komercyjnym modemem 5G, osiągnięto prędkość 1,8 Gb/s. W warunkach miejskich, przy większych odległościach, dane popłynęły z prędkością 1,5 Gb/s, wykorzystując kanał o szerokości 100 MHz.
+
+To prawie dwa razy więcej niż może zapewnić najszybsza stacja bazowa Orange Polska dostępna obecnie dla klientów, a obsługująca 4G. Orange i Huawei planują przeprowadzić w Gliwicach kolejne testy przygotowujące do wdrożenia 5G.
+
+Firma Orange zaznaczyła, że wybór na miejsce testów terenu Górnośląsko-Zagłębiowskiej Metropolii związany jest z rozpoczętą w czerwcu współpracą w zakresie budowy tzw. inteligentnego miasta. Nie jest to możliwe bez rozwiniętej sieci obsługującej internet rzeczy.
+
+Technologia 5G ma umożliwić dalszy rozwój internetu rzeczy, dając możliwość obsługi większej liczby urządzeń, jak czujniki i systemy, które dzięki wymianie informacji będą mogły lepiej dostosować miasto do potrzeb jego mieszkańców. Ministerstwo Cyfryzacji chce, aby telekomunikacyjna sieć piątej generacji (5G) w Polsce działała od 2020 r.
+
+Górnośląsko-Zagłębiowska Metropolia (GZM) powstała 1 lipca 2017 r., a zaczęła działać od 1 stycznia 2018 r. Organizacja - mocą ustawy przygotowanej specjalnie dla tego regionu - skupia 41 miast i gmin centralnej części woj. śląskiego, zamieszkałych łącznie przez blisko 2,3 mln osób. Ma zajmować się m.in. transportem i planowaniem przestrzennym.

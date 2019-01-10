@@ -1,0 +1,16 @@
+Robot Photon, stworzony przez studentów Politechniki Białostockiej, trafił do Centrum Nauki Kopernik. Będzie tam testowany przez dzieci - w trakcie zajęć weekendowych w laboratorium robotycznym.
+      
+            
+Nieduży, o przyjaznej powierzchowności, wykonujący polecenia i wyrażający "emocje" za pomocą miłych dla ucha dźwięków - taki jest robot Photon, stworzony przez studentów Politechniki Białostockiej. Powstał dzięki funduszom z Narodowego Centrum Badań i Rozwoju - agencji wykonawczej Ministerstwa Nauki i Szkolnictwa Wyższego. "Jest najlepszym przykładem na to, że dobrze zainwestowane pieniądze przynoszą wymierne efekty" - powiedział Piotr Dardziński, wiceminister nauki i szkolnictwa wyższego."Photon ma uczyć. Wiemy, że edukacja w przyszłości będzie wyglądała zupełnie inaczej niż obecnie; jedną z najbardziej znaczących zmian już jest to, że przez całe życie uczą się również dorośli (...) Photon nie jest zabawką; jest przyjacielem, towarzyszem, o którego w polskich rodzinach będą toczyć się bitwy między dziećmi i rodzicami, bo Photon będzie wprowadzał w świat kodowania i programowania również wielu rodziców" - podkreślił wiceminister.
+
+Jak zaznaczył, Photon może być tym, który łączy pokolenia. "Bo w uczeniu się programowania, my dorośli, jesteśmy bardzo często na tym samym poziomie, co nasze dzieci. A właściwie nasze dzieci są chyba już nawet trochę przed nami" - dodał.
+
+Twórca Photona Marcin Joka powiedział, że do tej pory robota testowało ponad 3 tys. dzieci. "Zniszczyły nam masę robotów, ale dzięki temu wiemy, jak będą go używały w domach i co się może wydarzyć. Ten pomysł Centrum Nauki Kopernik, by dzieci wcieliły się w rolę inżynierów-testerów, testowały skrajne możliwości Photona - jest znakomity" - powiedział Joka.
+
+
+
+W piątek w Centrum Nauki Kopernik Photona testowali poprzez zabawę m.in. Karolina (12 lat) i Kuba (9 lat). "To bardzo proste. Robot jest sterowany za pomocą programu, w którym wystarczy tylko wydawać proste komendy poprzez układanie skryptów - takich jakby puzzli na ekranie" - powiedziała dziennikarzom dziewczynka. Jak dodała: "to nie ma nic wspólnego z matematyką, nie trzeba się tego bać". Według Kuby najfajniejsze jest, gdy robot wydaje dźwięki. "Można dodać np. dźwięk chrumkania, jak świnka" - powiedział dziennikarzom chłopiec.
+
+Robot ma uczyć podstaw programowania, logicznego myślenia, szybkiego podejmowania decyzji, rozwijania pamięci. Został zaprojektowany tak, by dopasować się do tempa rozwoju dziecka. Wysoką interaktywność z otoczeniem zapewniają mu czujniki, m.in. dotyku, światła, odległości. Robot potrafi poruszać się, omijać przeszkody, mówić, a nawet śpiewać. Dzięki aplikacji, dzieci rozwiązują kolejne zadania i odblokowują nowe umiejętności Photona.
+
+Photon będzie testowany przez uczestników weekendowych zajęć, które zaczną się 2 grudnia pod nazwą "Error". Dzieci będą szukać błędów w działaniu robota, oceniać instrukcję, badać intuicyjność aplikacji i aktywność czujników. Sprawdzą, czy wszystko działa zgodnie z założeniami - tak, jak to robią zawodowi testerzy sprzętu. Na koniec przygotują własny raport. Na testy może przyjść każdy, kto ukończył 9 lat.

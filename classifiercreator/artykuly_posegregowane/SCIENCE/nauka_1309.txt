@@ -1,0 +1,27 @@
+Studenci z Politechniki Łódzkiej pracują nad robotami lądowymi i latającymi, które mogłyby być wykorzystywane m.in. do poszukiwań zaginionych osób w trudno dostępnym terenie. Opracowali łazika, quadro- i heksacoptery oraz robota autonomicznego, których współpraca przyspieszyłaby takie poszukiwania.
+
+      
+            W ramach konkursu "Najlepsi z najlepszych!" studenci otrzymali na swój projekt ponad 365 tys. zł dofinansowania z Ministerstwa Nauki i Szkolnictwa Wyższego.
+
+Studenci z Koła SkaNeR od lat tworzą mniej lub bardziej zaawansowane roboty. Powstają w nim niewielkie roboty sumo, a ostatnio także m.in. łazik marsjański czy roboty latające – opowiadał PAP lider zespołu Raptors, który stworzył łazika, Mateusz Kujawiński. Łazik wziął niedawno udział w prestiżowych zawodach University Rover Challenge w Stanach Zjednoczonych, gdzie zajął 5 miejsca na 28 zespołów z całego świata i trzecie wśród polskich zespołów, które zdominowały te zawody.
+
+Projekt, nad którym obecnie pracują łódzcy studenci, polega na współpracy robotów lądowych i latających - łazika, którego zadaniem jest pokonywanie bardzo trudnego terenu; robota autonomicznego, który może jeździć po prostym terenie, ale bez pomocy człowieka oraz quadro- i heksacopterów.
+
+„Mamy długofalowy plan, aby roboty latające wspierały roboty lądowe, czyli możemy to wykorzystać w misjach poszukiwawczych, gdzie szukamy człowieka, który potrzebuje pomocy. Taki robot latający jest w stanie zwizualizować duży obszar i możemy dzięki temu odnaleźć człowieka, a robotem lądowym dojechać i zaopatrzyć go w apteczkę czy inne elementy tzw. pierwszej pomocy” - wyjaśnił Kujawiński.
+
+Łazik studentów PŁ to analog prawdziwego łazika, który znajduje się na Marsie
+
+Łazik studentów PŁ Łazik to analog prawdziwego łazika, który znajduje się na Marsie. Robot waży ok. 50 kg, posiada manipulator o 5 stopniach swobody, próbnik pobierający materiał z głębokości 30 cm, zestaw czterech kamer oraz wyspecjalizowane czujniki.
+
+„Łazik składa się z kilku podstawowych komponentów. Posiada zawieszenie rocker-bogi i po każdej stronie 3 koła, z których każde jest niezależnie zasilane. Jest jeden punkt mocowania tego zawieszenia, dzięki temu jeżeli najeżdżamy przednim kołem na górkę, całe zawieszenie razem z korpusem pracuje. Drugi bardzo ważny komponent to korpus, w którym znajduje się komputer pokładowy, sterowniki silników i pozostałe podzespoły, które odpowiedzialne są za pracę tego robota” - opowiadał Kujawiński.
+ 
+
+Robot komunikuje się przy pomocy anten wi-fi, co umożliwia operatorowi sterowanie nim w promieniu ok. 1 km. Potrafi jeździć po bardzo trudnym, kamienistym terenie i może pokonywać wzniesienia o nachyleniu do 45 stopni.
+
+"Cały łazik został zbudowany przez nas od zera, praktycznie bardzo mało jest elementów kupionych, cała mechanika jest przez nas zaprojektowana” - dodał współtwórca robota. Przyznał, że najtrudniejsze było złożenie wszystkiego w całość i zintegrowanie podzespołów, żeby zaczęły działać.
+
+Quadrocoptery w tym projekcie mogą służyć do poszukiwania ludzi - dzięki nim możliwe byłoby przyspieszenie poszukiwania osób zaginionych, bądź potrzebujących pomocy i podawania służbom ratunkowym dokładnych ich pozycji. Największy z robotów latających, mający ponad metr średnicy heksacopter, ma sześć śmigieł i może przenosić kamerę oraz przyrządu badawcze, które pozwalają przeczesać duży teren. Mogą startować i lądować pionowo i osiągać prędkość ok. 40-50 km/h.
+
+"Współpraca tych robotów ma pozwolić na autonomiczną lub półautonomiczną pracę z dwoma robotami jednocześnie, żeby zwiększyć szybkość odnajdywania ludzi lub niesienia im pomocy - dodał lider Raptors.
+
+Projekt łódzkich studentów ma się zakończyć za rok. Łazik marsjański zespołu Raptors wystartuje w trzeciej edycji zawodów European Rover Challenge, których finał odbędzie się w dniach od 10 do 13 września w Centrum Wystawienniczo-Kongresowym w Jasionce koło Rzeszowa. Do zawodów zgłosiło się 60 drużyn z 12 krajów m.in. Kanady, Stanów Zjednoczonych, Włoch, Polski czy Peru. Wydarzeniu patronuje Europejska Agencja Kosmiczna.

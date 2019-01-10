@@ -1,0 +1,17 @@
+epa05632290 The European Space Agency (ESA) Sentinel-2B satellite of the European Commission's Copernicus Earth Observation Program in Noordwijk, the Netherlands, 15 November 2016. The satellite will provide high-resolution optical imaging for land services and will be launched aboard the Rokot launch vehicle in April 2017 in French Guiana.  EPA/aboard a Rokot launch vehicle. ANP JERRY LAMPEN 
+Dostawca: PAP/EPA. PAP/EPA © 2017 / aboard a Rokot launch vehicle. A
+                                        
+
+            Wystrzelony z bazy Kourou w Gujanie Francuskiej satelita Sentinel-2B ma wykonywać zdjęcia powierzchni Ziemi w różnych zakresach promieniowania – informuje Europejska Agencja Kosmiczna. Uzyskane z niego obrazy mają zastosowania m.in. w rolnictwie, planowaniu miast, monitorowaniu lodowców.
+      
+            Nowy satelita został wystrzelony we wtorek. Wcześniej na orbicie został umieszczony identyczny satelita Sentinel-2A. Oba wyposażono w kamery umożliwiające wykonywanie niezwykle dokładnych zdjęć powierzchni lądów oraz wód przybrzeżnych, zarówno w świetle widzialnym, jak i w podczerwieni (najmniejsze widoczne na zdjęciach detale mają 10 metrów) - czytamy na stronie BBC.
+
+Są jednym z głównych elementów elementem unijnego programu monitorowania stanu środowiska "Copernicus". Nadzór nad ich budową sprawuje Europejska Agencja Kosmiczna (ESA)
+
+Sentinele krążą po wspólnej orbicie, ale w odstępie 180 stopni. Dzięki temu mogą dawać pełny obraz powierzchni Ziemi co pięć dni - jeśli tylko pozwalają na to chmury. Dostęp do zdjęć jest dla obywateli UE powszechny i bezpłatny.
+
+Uzyskane obrazy mają wiele zastosowań - w rolnictwie i gospodarce morskiej, planowaniu miast, monitorowaniu jakości powietrza oraz zalesiania, wylesiania i cofania się lodowców, podczas katastrof naturalnych. Działające w 13 zakresach kamery pozwalają na przykład rozróżnić poszczególne uprawy i ocenić stan zdrowia roślin. Dzięki laserowemu łączu satelita codziennie będzie przekazywał terabajty danych - jednak nie bezpośrednio, lecz za pośrednictwem innego satelity, umieszczonego na orbicie geostacjonarnej.
+
+Start rakiety nośnej Vega nastąpił o godzinie 22:49 lokalnego czasu (co odpowiada 2:49 czasu środkowoweuropejskiego). Sentinel-2B odłączył się mniej więcej godzinę później, około 775 kilometrów nad powierzchnią Ziemi. W ciągu dwóch tygodni osiągnie ostateczną orbitę o wysokości 786 kilometrów. Pełną gotowość ma jednak osiągnąć dopiero w październiku.
+
+Wcześniej na orbicie została umieszczona para Sentineli, które są platformami radarowymi. Kolejne Sentinele mają badać oceany i atmosferę.

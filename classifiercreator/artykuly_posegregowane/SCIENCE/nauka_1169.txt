@@ -1,0 +1,29 @@
+Uniwersytet Medyczny w Łodzi chce rozpocząć badania nad zastosowaniem nowoczesnych rozwiązań telemedycznych wśród seniorów. Lekarze będą mogli zdalnie monitorować pacjentów, kontrolować np. poziom glukozy we krwi, ciśnienie, temperaturę i na podstawie tych danych wprowadzać zmiany w leczeniu.
+      
+            Zdaniem specjalistów takie rozwiązanie może być elementem tzw. opieki koordynowanej i może pomóc w utrzymaniu seniorów jak najdłużej w domu, z dala od szpitala czy domu opieki.
+
+Łódzki UM rozpoczął współpracę badawczo-rozwojową nad systemem teleopieki z norweską firmą Dignio As oraz polskim spin-out’em Dignio Pl, powstałym w ramach Inkubatora Przedsiębiorczości UM. Uczelnia chce przeprowadzić pilotażowe badania dot. skuteczności i kosztów takiego systemu.
+
+Do badań włączonych ma być w sumie 600 przewlekle chorych seniorów, którzy maja zostać wyposażeni w tablety i odpowiednie urządzenia do pomiarów medycznych – ciśnienia krwi, temperatury, poziomu glukozy czy spirometrii. Sprzęt ma być dobierany indywidualnie w zależności od jednostki chorobowej, na którą cierpi pacjent. Powstanie także Centrum Monitorujące, w którym specjaliści będą kontrolować stan zdrowia pacjentów.
+
+„To rozwiązanie telemedyczne pozwala pacjentowi zarządzać własnym zdrowiem. Pacjent używając technologii informatyczno-komunikacyjnych jest w stanie kontrolować niektóre swoje parametry życiowe, ale również lekarz poprzez Centrum Monitorujące jest w stanie monitorować tego pacjenta” - powiedział PAP Ireneusz Staroń, szef Sekcji ds. Badań Klinicznych Centrum Innowacji i Transferu Technologii UM w Łodzi.
+
+W ramach systemu pacjent zostaje wyposażony np. w tablet z informacjami o zestawie czynności, które musi wykonać każdego dnia, w tym koniecznymi pomiarami dostosowanymi do jego jednostki chorobowej, czyli np. w przypadku diabetyka, będzie to m.in. pomiar poziomu cukru we krwi.
+
+"Ten pomiar automatycznie za pomocą łącza telekomunikacyjnego wędruje do centrum monitorującego i na tablet pacjenta" - dodał Staroń. Historia pomiarów jest przechowywana w bazie danych znajdującej się w tzw. chmurze obliczeniowej.
+
+Prezes Dignio As Lars Christian Dahle podkreślił w rozmowie z PAP, że bardzo istotnym elementem systemu teleopieki – obok pomiarów parametrów - są odpowiedzi na pytania, których udzielają pacjenci.
+
+
+
+„Pytania są zazwyczaj związane z jednostką chorobową i stanem pacjenta w celu wczesnego wykrywania wszelkich negatywnych objawów. W ten sposób otrzymujemy wyniki pomiarów oraz opis stanu pacjenta, czyli istotne dane, które gromadzone systematycznie, dają podstawę do podjęcia decyzji terapeutycznych. W ten sposób jesteśmy w stanie utrzymywać pacjenta w lepszym stanie w kontekście kluczowych parametrów klinicznych” – zaznaczył Dahle.
+
+Sprzęt dla seniorów jest bardzo prosty w obsłudze; urządzenia wyposażone są w technologię "bluetooth low energy" oraz posiadają małą liczbę przycisków. W ramach systemu lekarz nie musi być cały czas dostępny, bowiem emitowane są tzw. alerty w momencie kiedy przekroczone zostaną określone wartości badanych parametrów. „To pozwala na mniejsze obłożenie personelem specjalistycznym i jesteśmy w stanie lepiej zarządzać opieką zdrowotną” - ocenił Staroń.
+
+Jak podkreślił, społeczeństwo szybko się starzeje, a nasi dziadkowie i babcie coraz częściej trafiają do domów opieki. „Takie rozwiązanie może być alternatywą dla tego typu opieki. Możemy starszych pacjentów zatrzymać w domu tak długo, jak tylko się da” - uważa specjalista z łódzkiego UM.
+
+Uczelnia stara się o unijne środki w ramach programu badawczego Horyzont 2020 na przeprowadzenie badań pilotażowych. Według Staronia projekt otrzymał już certyfikat doskonałości, tzw. Seal of Excellence od Komisji Europejskiej i jest duża szansa, że otrzyma także dofinansowanie. „Chcemy potwierdzić skuteczność tego rozwiązania telemedycznego, z drugiej strony chcemy przeprowadzić analizę jego kosztów” - dodał.
+
+Do badania pilotażowego w Łodzi włączonych ma zostać 300 pacjentów w grupie eksperymentalnej i 300 w grupie kontrolnej. Powołany zostanie także zespół naukowy i zespół ds. monitorowania pacjentów oraz powstanie Centrum Monitorujące, dzięki któremu wykwalifikowany personel medyczny będzie mógł kontrolować zdrowie pacjentów.
+
+Projekt ma trwać dwa lata, natomiast pacjenci będą włączani do badania przez okres 12 miesięcy. „To jest taki minimalny okres, w którym musimy obserwować wyniki ewentualnych interwencji medycznych, które zastosujemy” - dodał. Badania nad systemem teleopieki mogą ruszyć w Łodzi już na początku 2017 r. Nadzór merytoryczny nad projektem będzie sprawował prof. Tomasz Kostka, prorektor ds. kształcenia oraz szef Kliniki Geriatrii UM w Łodzi.

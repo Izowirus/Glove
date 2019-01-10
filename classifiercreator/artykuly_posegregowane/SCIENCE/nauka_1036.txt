@@ -1,0 +1,37 @@
+Aż siedem planet krąży w układzie odległym od nas "zaledwie" 40 lat świetlnych. Mają one rozmiary podobne do Ziemi, mogą tam panować ziemskie temperatury i istnieć woda w stanie ciekłym. O odkryciu poinformowała NASA i Europejskie Obserwatorium Południowe ESO.
+      
+            O nowym odkryciu poinformowano w środę na konferencji prasowej, szczegółowo przedstawiono je również w najnowszym numerze prestiżowego czasopisma "Nature".
+
+Największe zainteresowanie wśród odkrywanych planet pozasłonecznych zawsze wzbudzają te, które są jak najbardziej podobne do Ziemi. Tym razem międzynarodowy zespół naukowców odkrył cały system takich planet. Układ nazwany TRAPPIST-1 ma aż siedem planet, które oznaczono kolejnymi literami alfabetu dodanymi do nazwy gwiazdy (począwszy od TRAPPIST-1 b, poprzez c, d, e, f, g, aż do TRAPPIST-1 h).
+
+Planety mają rozmiary Ziemi i Wenus lub są nieco mniejsze. Wyznaczenia ich gęstości sugerują z kolei, że przynajmniej sześć z siedmiu planet jest skalista.
+
+"To niesamowity system planetarny – nie tylko dlatego, że odkryliśmy w nim tak wiele planet, ale dlatego, że są one tak zaskakująco podobne do Ziemi!" - podkreśla kierujący grupą badawczą Michaël Gillon z University of Liège (Belgia).
+
+
+
+Orbity planet przebiegają bardzo blisko gwiazdy. Są niewiele większe, niż odległości galileuszowych księżyców od Jowisza - i zdecydowanie mniejsze, niż orbita Merkurego wokół Słońca. Mimo tych różnic, na planetach mogą panować całkiem znośne warunki, bowiem ich gwiazda świeci znacznie słabiej niż Słońce. Poszczególne planety otrzymują od kilkunastu procent energii docierającej do Ziemi od Słońca, do ponad cztery razy większej wartości od tej, jaką uzyskuje nasza planeta. Ilość promieniowania docierająca do planet TRAPPIST-1 c, d oraz f jest porównywalna do tej, jaką w Układzie Słonecznym otrzymują odpowiednio Wenus, Ziemia i Mars.
+
+"Energia wypromieniowywana z małej gwiazdy jest znacznie słabsza niż ze Słońca. Planety muszą mieć orbity znacznie bliższe, niż w Układzie Słonecznym, jeśli miałaby na nich występować woda na powierzchni. Na szczęście wydaje się, że tego typu zwartą konfigurację właśnie widzimy wokół TRAPPIST-1!" - tłumaczy Amaury Triaud z University of Cambridge, jeden z autorów publikacji w "Nature".
+
+Na powierzchni każdej z siedmiu planet teoretycznie może się znajdować woda w stanie ciekłym. Modele klimatyczne faworyzują jednak pod tym względem planety oznaczone literami e, f oraz g. Z kolei planety b, c oraz d są na to przypuszczalnie zbyt ciepłe (choć na niewielkich fragmentach ich powierzchni może istnieć woda w stanie ciekłym). Najdalsza planeta h jest raczej zbyt zimna.
+
+Gwiazda TRAPPIST-1 znajduje się zaledwie 40 lat świetlnych od Ziemi. Mimo tej bliskości, na niebie świeci bardzo słabo, gdyż jest niewielka (niewiele większa od planety Jowisz - jej masa wynosi zaledwie 8 proc. masy Słońca). Naukowcy podejrzewali, że bardzo małe gwiazdy mogą posiadać liczne planety wielkości Ziemi na ciasnych orbitach. System TRAPPIST-1 dostarczył pierwszego, tak dosłownego potwierdzenia tej hipotezy.
+
+
+
+Do odkrycia planetarnych siedmioraczków wykorzystano różne teleskopy naziemne i kosmiczne. Badania rozpoczęto w ostatnich miesiącach 2015 roku, kiedy prowadzono obserwacje teleskopem TRAPPIST, pracującym w Obserwatorium La Silla (wchodzącym w skład Europejskiego Obserwatorium Południowego) w Chile. Metodą tranzytów odkryto wtedy istnienie trzech planet wielkości Ziemi, co ogłoszono w maju 2016 r.
+
+Obserwacje prowadzono dalej; najnowsze wyniki wskazują na istnienie w układzie aż siedmiu planet. W publikacji w "Nature" podano, że okresy ich obiegów równe są 1,51 dnia, 2,42 dnia, 4,05 dnia, 6,10 dnia, 9,20 dnia, 12,35 dnia oraz około 14-25 dni (okres ostatniej planety nie jest dokładnie wyznaczony).
+
+W nowych obserwacjach astronomowie używali Kosmicznego Teleskopu Spitzera (należącego do NASA i ESA) wspomagając się też teleskopami naziemnymi: 60-centymetrowym TRAPPIST–South w Obserwatorium La Silla w Chile, 8-metrowym VLT w Obserwatorium Paranal w Chile, 60-centymetrowym TRAPPIST-North w Maroku, 3,8-metrowym UKIRT na Hawajach, 2-metrowym Liverpool Telescope na Wyspach Kanaryjskich, 4-metrowym Teleskopem Williama Herschela na Wyspach Kanaryjskich, 1-metrowym teleskopem SAAO w RPA.
+
+Metoda, jaką ustalono istnienie planet i ich parametry, nazywa się metodą tranzytów. Polega na tym, że obserwuje się blask gwiazdy w poszukiwaniu niewielkich, regularnych osłabień blasku, spowodowanych przejściami planet przed tarczą gwiazdy. Samych planet nie widać bezpośrednio. Jeśli jednak płaszczyzny ich orbit są odpowiednio usytuowane, to - gdy przechodzą na naszej linii widzenia gwiazdy - nieco zmniejszają jej blask. Okoliczności okazały się dla astronomów bardzo łaskawe: wszystkie siedem planet w systemie TRAPPIST-1 dokonuje tranzytów przed swoją gwiazdę.
+
+
+
+Skoro TRAPPIST-1 e, f oraz g krążą w strefie wokół gwiazdy, w której woda może występować na powierzchni planety w stanie ciekłym (tzw. ekosferze) - w najbliższych latach mogą stanowić jeden z głównych celów poszukiwań oznak innego życia w kosmosie.
+
+Do badań tych posłużą przyszłe teleskopy, takie jak Kosmiczny Teleskop Jamesa Webba (budowany przez NASA, ESA oraz kanadyjską agencję CSA) oraz Ekstremalnie Wielki Teleskop Europejski (E-ELT, budowany przez ESO m.in. z polskim udziałem). Naukowcy mają nadzieję, że instrumenty te pozwolą na poszukiwania wody na planetach systemu TRAPPIST-1.
+
+W badaniach uczestniczyło około 30 astronomów - z Belgii, Wielkiej Brytanii, Szwajcarii, USA, Francji, RPA, Arabii Saudyjskiej i Maroka.

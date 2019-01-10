@@ -1,0 +1,25 @@
+Krakowscy naukowcy opracowali inteligentny inhalator. Dzięki połączeniu urządzenia z aplikacją mobilną astmatycy łatwiej przewidzą ataki i im zapobiegną. W styczniu urządzenie będzie testowane na grupie 40 pacjentów. Do sprzedaży trafi najwcześniej na wiosnę.
+      
+            FindAir (taką nazwę nosi wynalazek) gromadzi dane na temat zażywania leku i stanu zdrowia pacjenta podczas codziennego użytkowania. Zapisuje informacje dotyczące każdego użycia i przesyła je do aplikacji, która analizuje je za pomocą specjalnych algorytmów. Na tej podstawie można stworzyć spersonalizowany obraz przebiegu choroby, a także uzyskać pomoc - ostrzeżenie przed nadchodzącym atakiem.
+
+Aplikacja analizuje wszystkie okoliczności (m.in. czynniki pogodowe i alergeny w otoczeniu), w jakich konieczne było użycie leku i na podstawie tych danych przewiduje kolejne ataki, dając wskazówki co jest ich prawdopodobną przyczyną i jak ich unikać, a także jak dawkować lek.
+
+Dane, które zbiera inteligentny inhalator będą też przydatne dla lekarza prowadzącego pacjenta. Ten może pobrać je w formie gotowego raportu i przedstawić lekarzowi w czasie wizyty. Dzięki temu lekarz nie będzie musiał bazować na tym, co sobie pacjent przypomni, ale będzie miał dostęp do wiarygodnych danych na temat wszystkich sytuacji użycia leku.
+
+
+
+FindAir to pomysł Jacka Mikosza, studenta inżynierii wzornictwa przemysłowego Politechniki Krakowskiej. W rozmowie z PAP przyznał, że do stworzenia inhalatora zainspirowało go życie. "Osoby w moim bliskim otoczeniu zmagały się z astmą. Gdy dostałem tradycyjny inhalator do ręki, zauważyłem wiele niedoskonałości" - powiedział.
+
+Jak zauważył, obecne, plastikowe inhalatory są pozbawione elektroniki i nie pozwalają uzyskać informacji o chorobie, ani przewidzieć ataku.
+
+Współtwórca inhalatora Michał Czyż, absolwent Uniwersytetu Ekonomicznego w Krakowie (UEK), podkreślił, że inhalator został zaprojektowany z myślą o wszystkich astmatykach, ale jego obsługi najszybciej nauczą się osoby znające nowe technologie, nie bojące się użyć telefonu komórkowego i aplikacji mobilnych.
+
+Obecnie trwa produkcja 40 sztuk prototypu. W styczniu 2017 r. przetestują je pacjenci. "Poinstruujemy chorych jak używać urządzenia, a następnie zapytamy o opinie" - wyjaśnił współtwórca projektu i brat pomysłodawcy wynalazku Tomasz Mikosz, absolwent krakowskiego UEK.
+
+Młodzi krakowscy wynalazcy widzą w swoim pomyśle duży potencjał komercjalizacyjny. Wynalazkiem interesują się już różne placówki medyczne, jednak sprzedaż mogłaby ruszyć dopiero po testach urządzenia, czyli najwcześniej wiosną. "Rynek jest bardzo duży, szacuje się, że na całym świecie liczba osób, u których zdiagnozowano astmę, to ponad 250 mln. Nasz projekt stawia na rozwiązywanie codziennych problemów pacjenta. Chcemy, aby z naszym urządzeniem komfort ich życia rósł, a uciążliwość choroby malała" - podsumował Tomasz Mikosz. 
+
+Wynalazek wszedłby na rynek poprzez start-up. Krakowski start-up zdobył już wsparcie finansowe zlokalizowanego w Berlinie inkubatora innowacji medycznych - Startupbootcamp Digital Health. Wynalazek znalazł się w gronie 10 zwycięskich projektów zgłoszonych spośród 513 prac z całego świata do konkursu Startupbootcamp Digital Health.
+
+W ramach programu wynalazcy dostali na początek 15 tys. euro na pracę nad stworzeniem najkorzystniejszego modelu biznesowego dla swojego rozwiązania, a także bezpłatny dostęp do powierzchni biurowej i infrastruktury w Berlinie. Pomocy merytorycznej start-upowcom udzielają tam specjaliści z berlińskiego inkubatora innowacyjności.
+
+Beata Kołodziej

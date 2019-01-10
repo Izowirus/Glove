@@ -1,0 +1,27 @@
+W tym roku Nagrodę Nobla w dziedzinie medycyny i fizjologii zdobyli James P. Allison i Tasuku Honjo „za odkrycie terapii przeciwnowotworowej poprzez hamowanie negatywnej regulacji immunologicznej”. Ich odkrycia pozwoliły na leczenie nowotworów w całkowicie nowy sposób.
+      
+            Decyzję Komitetu Noblowskiego ogłoszono w poniedziałek w Sztokholmie. 70-letni James. P. Allison z USA i 76-letni Tasuku Honjo z Japonii podzielą się po połowie kwotą 9 mln koron szwedzkich (ok. 871 tys. euro).
+
+Choroby nowotworowe charakteryzują się niekontrolowanym namnażaniem nieprawidłowych komórek. Komórki nowotworowe tworzą guzy, przerzuty, wyniszczają i zatruwają organizm. Co roku nowotwory zabijają miliony ludzi i są jednym z największych wyzwań zdrowotnych dla ludzkości. W ich leczeniu stosuje się metody chirurgiczne, promieniowanie jonizujące, różnego rodzaju leki. Wiele odkryć dotyczących leczenia nowotworów nagrodzono wcześniej Noblem. Jednak leczenie zaawansowanych nowotworów nadal jest niezmiernie trudne.
+
+Komórki nowotworowe potrafią uniknąć ataku ludzkiego układu odpornościowego, blokując jego działanie. Od ponad 100 lat wielu naukowców próbowało pobudzić odporność pacjenta – na przykład poprzez zakażenie go bakteriami. Efekty były raczej umiarkowane - takie podejście okazało się skuteczne tylko w leczeniu nowotworów pęcherza moczowego.
+
+Dopiero tegorocznym noblistom udało się odblokować układ immunologiczny – i to na dwa różne sposoby. Inaczej mówiąc, układ odpornościowy puścił hamulec i dodał gazu. Ich odkrycia pozwoliły na leczenie nowotworów w całkowicie nowy sposób.
+
+Białe krwinki znane jako limfocyty T odgrywają kluczową rolę w obronie organizmu przed zagrożeniami. Na ich powierzchni są receptory, które wiążą się ze strukturami rozpoznawanymi jako ”obce”. Gdy je napotkają, układ odpornościowy rozpoczyna działania obronne. Aby jednak zadziałał z pełną mocą, potrzebne są specjalne białka. Badania podstawowe dotyczące tych mechanizmów prowadziło wielu naukowców. Odkryli liczne białka ”hamulcowe”, które blokują reakcję immunologiczną. Podobnie jak przy prowadzeniu samochodu, do prawidłowego działania układu odpornościowego niezbędne jest zarówno sprawne przyspieszanie, jak i hamowanie. Zbyt słaba reakcja nie pozwalałaby zwalczać chorobotwórczych mikroorganizmów, natomiast zbyt silna zniszczyłaby własne tkanki i narządy - co ma miejsce w przypadku chorób autoimmunologicznych (na przykład reumatyzmu).
+
+
+
+W latach 90. XX wieku działający na uniwersytecie w Berkeley James P. Allison badał znane już białko CTLA-4, które działa jak hamulec na limfocyty T. Inni naukowcy uznali to białko z znakomity cel dla leków stosowanych w chorobach autoimmunologicznych. Allison miał inną koncepcję Zdał sobie sprawę, że blokując CTLA4 – i dzięki temu „zwalniając hamulec” - można uwolnić potencjał komórek odpornościowych. Wówczas organizm może zwalczać nowotwór własnymi siłami. Badania na myszach potwierdziły słuszność tej koncepcji.
+
+Mimo początkowego braku zainteresowania ze strony firm farmaceutycznych, odkrycie dało początek całkowicie nowemu podejściu do leczenia pacjentów z chorobami nowotworowymi. Oparte na nim metody leczenia okazały się niezwykle skuteczne – w roku 2010 ogłoszono przełomowe wyniki dotyczące pacjentów z zaawansowanym z czerniakiem, najbardziej niebezpiecznym nowotworem skóry. U niektórych z nich nie można było znaleźć śladów choroby. Nigdy wcześniej nie obserwowano tak spektakularnej poprawy w tej grupie pacjentów.
+
+Nieco wcześniej, w roku 1992, pracujący na uniwersytecie w Kioto Tasuku Honjo odkrył na powierzchni limfocytów T inne białko, zwane PD-1. Dokładne badania wykazały, że ono również działa jak hamulec - jednak w inny sposób. W roku 2012 badania kliniczne potwierdziły skuteczność PPD-1 u pacjentów z różnymi rodzajami nowotworów. Jak to ujęto na stronie noblowskiej, poprawa była ”dramatyczna”, a niektórzy uważani dotychczas za niemożliwych do uratowania pacjenci z przerzutami wydawali się całkowicie wyleczeni.
+
+Choć przełomowe i niezwykle skuteczne, nowe terapie nie są pozbawione skutków ubocznych, i to zagrażających życiu. Zwykle chodzi o zbyt silną reakcję zagrażającą organizmowi pacjenta. Jednak zazwyczaj udaje się ją opanować, a w przypadku osób z zaawansowanym nowotworem ryzyko jest warte podjęcia. Cały czas trwają prace nad udoskonaleniem metod leczenia i ograniczeniem skutków ubocznych.
+
+Leczenie wykorzystujące PD-1 okazało się skuteczniejsze niż CTLA-4. Pozytywne wyniki obserwowano w przypadku raka płuc i nerek, chłoniaka i czerniaka. Nowe badania dotyczące chorych na czerniaka wskazują, że działanie jednocześnie na oba mechanizmy –CTLA-4 i PD -1 może być jeszcze skuteczniejsze niż każda z tych terapii z osobna.
+
+Już w 2016 r., w prognozach przygotowanych przez dział Intellectual Property & Science Thomson Reuters, nazwiska obu tegorocznych laureatów pojawiły się wśród kandydatów do Nobla.
+
+Dokonania tegorocznych noblistów zainspirowały wielu naukowców. Trwają badana nad kolejnymi mechanizmami związanymi z aktywizacją układu odpornościowego i leczeniem różnych rodzajów nowotworów.

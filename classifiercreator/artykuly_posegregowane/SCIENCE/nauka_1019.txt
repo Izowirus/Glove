@@ -1,0 +1,22 @@
+Wystarczy jeden dzień - a nie, jak do tej pory tydzień - aby zdiagnozować, czy ktoś otrzymał groźną dla życia dawkę promieniowania i jakie są jego szanse przeżycia. Polscy i amerykańscy naukowcy odkryli markery we krwi, które odpowiadają za chorobę popromienną.
+      
+            Załóżmy, że dochodzi do tragicznej sytuacji - ma miejsce wybuch bomby atomowej, awaria elektrowni jądrowej czy nawet awaria urządzenia do radioterapii. Pewna grupa osób mogła otrzymać groźną dla życia dawkę promieniowania jonizującego i trzeba szybko sprawdzić, kim należy się zająć w pierwszej kolejności, a kto może być o swoje życie spokojny.
+
+Przy dotychczasowym stanie wiedzy jest z tym duży problem. Jeśli promieniowanie doprowadziło do groźnych dla życia uszkodzeń tkanek, zmiany wykrywa się w badaniu morfologii krwi obwodowej. Diagnozę można tu jednak postawić najwcześniej po trzech, a zwykle po siedmiu dniach od napromieniowania. A to bardzo późno.
+
+"Do tej pory, w ciągu pierwszego tygodnia od zdarzenia niemożliwe było określenie, kto został napromieniony śmiertelną dawką, a kto - dawką zupełnie niegroźną dla życia. My natomiast opracowaliśmy test, który da miarodajne wyniki już w ciągu 24 godzin od napromienienia. Podarowujemy więc pacjentowi czas na leczenie" - opowiada dr Wojciech Fendler z Uniwersytetu Medycznego w Łodzi. Badania, których był pierwszym autorem, ukazały się w środę w "Science Translational Medicine" (http://stm.sciencemag.org/content/9/379/eaal2408).
+
+Naukowcy (pod kierownictwem prof. Dipanjana Chowdhury z Dana Farber Cancer Institute w Bostonie oraz dr Vijaya Singha z Armed Forces Radiation Research Institute w Bethesdzie) znaleźli we krwi markery - a konkretnie mikroRNA, które świadczą o tym, że ktoś otrzymał groźną dla jego życia dawkę promieniowania. Na podstawie tych wskaźników są też w stanie określić szanse czyjegoś przeżycia. Do badania wystarczy próbka krwi.
+
+Badania wykonywano już na myszach i na makakach (małpy naczelne). Zwierzęta napromieniano wysoką dawką, która jest śmiertelna tylko dla części zwierząt. "W ich krwi przebadaliśmy kilkaset różnych cząsteczek mikroRNA. Za pomocą metod statystycznych zawęziliśmy poszukiwania i wykryliśmy trzy cząsteczki, które świadczą o napromienieniu wysoką dawką i dwie, które pozwalają określić prawdopodobieństwo przeżycia" - opowiada dr Fendler.
+
+Wyjaśnia, że makaki są na tyle podobne do człowieka, że wnioski z badań będzie można zastosować i u ludzi. "Aby to sprawdzić, porównaliśmy genomy obu gatunków i potwierdziliśmy, że mikroRNA będą zachowały się analogicznie u makaka i u człowieka" - opowiada badacz z UM w Łodzi.
+
+Dr Fendler wyjaśnia, że mikroRNA to powstające w naszych komórkach niewielkie cząsteczki, które regulują działanie genów. Znajdują się one w surowicy krwi, są stabilne i można je dość łatwo badać metodami biologii molekularnej. Na razie sądzi się, że jest kilka tysięcy rodzajów mikroRNA. W najnowszych badaniach naukowcy z Polski i USA odkryli, że istnieją konkretne mikroRNA, które powstają w organizmie w wyniku silnego promieniowania jonizującego. MikroRNA wydzielane są ze zniszczonych komórek oraz tych, które próbują naprawić uszkodzenia. "Odzwierciedlenie tego, co się dzieje w komórkach, widzimy w surowicy krwi. Te mikroRNA to coś w rodzaju dymu nad pożarem - sygnał o niebezpieczeństwie" - porównuje dr Fendler.
+
+Dzięki badaniom polsko-amerykańskiego zespołu w sytuacji masowego zagrożenia będzie można przebadać szybko dużą populację osób. Badania krwi pozwolą odesłać część osób do domu, wydzielić grupy, które powinny zostać pod ścisłą obserwacją, a także wskazać osoby o największym ryzyku zgonu i zapewnić im szybką terapię.
+
+Jak podsumowuje rozmówca PAP, jeśli człowiek otrzyma na raz na całe ciało dawkę promieniowania przekraczającą 15 Grejów (Gy), śmierć następuje bardzo szybko - m.in. w wyniku zniszczeń układu nerwowego. Natomiast jeżeli dawka jest niższa (około 10-12 Gy), uszkodzony zostaje nieodwracalnie m.in. szpik kostny - fabryka m.in. komórek odpornościowych, krwinek czerwonych czy płytek krwi. W takiej sytuacji śmierć może nastąpić w ciągu kilku tygodni od napromienienia – wtedy pierwszym ratunkiem może być pilny przeszczep szpiku.
+
+Dr Fendler jest laureatem projektu First TEAM Fundacji na Rzecz Nauki Polskiej, którego celem jest zastosowanie mikroRNA jako narzędzia poprawiającego bezpieczeństwo radioterapii onkologicznej.
+Ludwika Tomala

@@ -1,0 +1,25 @@
+Dzięki udoskonalonej terapii genowej myszy nie tylko odzyskały słuch, ale i poczucie równowagi - informuje "Nature Biotechnology".
+      
+            W roku 2015 naukowcy z Boston Children's Hospital oraz Harvard Medical School dzięki terapii genowej częściowo przywrócili słuch myszom z chorobą genetyczną zwaną zespołem Ushera. W zespole Ushera na skutek mutacji genu Ush1c dochodzi do stopniowej utraty słuchu oraz wzroku, a także pogorszenie poczucia równowagi.
+
+Prawie co drugi przypadek utraty słuchu we wczesnym dzieciństwie wynika z wady genetycznej. W zespole Ushera ma ona związek z nieprawidłowym zapisem genetycznym dotyczącym białka harmoniny, wpływającego na komórki rzęsate w ślimaku ucha wewnętrznego. To dzięki tym komórkom mechaniczne drgania przekształcane są na impulsy nerwowe. W normalnym uchu rzęski komórek układają się w trzy rzędy struktur o kształcie litery V. W przypadku zespołu Ushera obraz jest bardzie chaotyczny.
+
+
+
+Aby skorygować genetyczny defekt, naukowcy posłużyli się wektorem - wirusem, który wprowadził prawidłowe geny do ucha środkowego. Dzięki temu myszy, które reagowały tylko na bardzo głośne dzięki (115 decybeli), zaczęły słyszeć nieco lepiej (85 decybeli).
+
+Słuch myszy bada się zwykle umieszczając je w odpowiednim pudełku i strasząc niepoodziewanymi odgłosami o znanym natężeniu. Przestraszona mysz podskakuje, co łatwo wykryć. Czulszą metodą jest rejestracja sygnałów z części mózgu odpowiedzialnej za słuch.
+
+Teraz udało się udoskonalić terapię genową, dzięki czemu niektóre z poddanych niej myszy słyszą dźwięki o natężeniu 25 decybeli, odpowiadające cichemu szeptowi. To niemal normalny mysi słuch. "Po raz pierwszy udało się uzyskać tak znaczną poprawę słuchu" - zaznaczył wypowiadający się dla BBC dr Jeffrey Holt z Boston Children's Hospital. Także zdjęcia spod mikroskopu elektronowego ukazują rzęski układające się w niemal idealne "V", jak u zdrowych myszy.
+
+Oprócz słuchu u gryzoni poprawiło się także poczucie równowagi (związane z komórkami w narządzie przedsionkowym).
+
+Obecny sukces osiągnięto dzięki nowemu wektorowi, którym jest syntetyczny wirus Anc80 przenoszący prawidłową wersje genu Ush1c. Nie wiadomo, na ile trwała jest osiągnięta poprawa, jednak utrzymała się przynajmniej przez sześć miesięcy.
+
+
+
+Autorzy badań uważają, że niedługo uda się osiągnąć podobne wyniki u ludzi. Ponieważ jednak istnieje około 100 różnych wad genetycznych związanych z utratą słuchu, w przypadku każdej z nich konieczne będzie opracowanie osobnej terapii. Trzeba też będzie sprawdzić, na ile bezpieczne jest stosowanie syntetycznego wirusa u człowieka.
+
+Poza tym w przypadku myszy terapia genowa działa tylko w określonym "oknie czasowym". Była skuteczna, gdy wirusa zastosowano tuż po urodzeniu, ale rozpoczęta dziesięć dni później nie działała. Specjaliści obawiają się, że nawet w przypadku ludzkich noworodków może być za późno - ich ucho wewnętrzne jest na późniejszym - niż u myszy - etapie rozwoju.
+
+Jak zaznaczają autorzy badań, własny słuch jest znacznie lepszy od implantów słuchowych, jeśli chodzi o zakres częstotliwości, rozumienie głosu odbiór muzyki czy odgłosów tła, jak również lokalizacje źródła dźwięku.

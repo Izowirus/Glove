@@ -1,0 +1,40 @@
+Warszawa, 11.05.2017. Minister cyfryzacji Anna Streżyńska podczas spotkania prasowego nt. startu pilotażu mDokumentów, 11 bm. w Ministerstwie Cyfryzacji w Warszawie. W czterech miastach Polski – Ełku, Koszalinie, Łodzi oraz Nowym Wiśniczu rusza pilotaż mDokumentów, czyli mobilnej wersji dowodu osobistego. (zuz) PAP/Rafał Guz PAP © 2017 / Rafal Guz
+                                        
+
+            Instytucje i przedsiębiorstwa finansowe, energetyczne, lotnicze, kolejowe, wodno-kanalizacyjne, także porty oraz dostawcy usług cyfrowych - to przykłady podmiotów, które zostaną objęte krajowym systemem cyberbezpieczeństwa. Budowany system obejmie też m.in. sądy, trybunały, samorządy.
+      
+            W czwartek na stronach Rządowego Centrum Legislacji został opublikowany projekt ustawy o krajowym systemie cyberbezpieczeństwa autorstwa Ministerstwa Cyfryzacji. Ma powstać krajowy system cyberbezpieczeństwa, którego zadaniem będzie m.in. zapewnienie bezpieczeństwa systemów informacyjnych, służących do świadczenia usług kluczowych i usług cyfrowych.
+
+Budowany system będzie obejmować m.in. operatorów usług kluczowych w wielu sektorach: energetycznym, transportowym, bankowości, służby zdrowia, zaopatrzenia w wodę, infrastruktury cyfrowej. Będą oni zobowiązani m.in. do wdrożenia zabezpieczeń, szacowania ryzyka związanego z cyberbezpieczeństwem oraz przekazywania informacji o poważnych incydentach.
+
+W sektorze energetycznym wdrożenie przepisów przyczyni się do ciągłości dostaw prądu oraz zwiększy odporność przedsiębiorstw na cyberataki. Przepisy obejmą firmy energetyczne: pięciu operatorów systemu dystrybucyjnego znaczących dla rynku gospodarstw domowych (Innogy Stoen Operator Sp. z o.o, PGE Dystrybucja S.A., ENEA Operator Sp. z o.o., Tauron Dystrybucja S.A., ENERGA - Operator S.A.), operatora systemu przesyłowego (Polskie Sieci Energetyczne S.A.). Ponadto będą dotyczyły także sprzedawców - według danych URE najwięksi sprzedawcy to podmioty należące do tych samych grup kapitałowych, co najwięksi dystrybutorzy.
+
+Regulacją mają być też objęci operatorzy ropociągów (PERN) oraz przedsiębiorstwa zajmujące się wydobyciem, przetwarzaniem, magazynowaniem i przesyłem ropy naftowej (Polskie Górnictwo Naftowe i Gazownictwo oraz LOTOS Petrobaltic S.A.) oraz rafinerie (PKN Orlen, Grupa LOTOS S.A.).
+
+Projektowane przepisy dotyczą też przedsiębiorstw dostarczających gaz, operatorów systemu dystrybucyjnego (m.in. PSG sp. z o.o.), operatorów systemu przesyłowego (Gaz-Systems S.A.), operatorów systemu magazynowania (PGNiG), operatorów systemu LNG (Gaz-Systems S.A.), a także operatora instalacji służących do rafinacji i przetwarzania gazu ziemnego (PGNiG).
+
+Wdrożenie tych przepisów dla przedsiębiorstw gazowych ma zapewnić ciągłość dostaw do odbiorców końcowych
+ 
+Na wdrażanym systemie cyberbezpieczeństwa skorzystają także firmy tworzące sektor transportu lotniczego. Zyskają one ochronę przed skutkami ataków na infrastrukturę cyfrową, a także informację nt. zagrożeń.
+
+Regulacja obejmie także zarządców infrastruktury kolejowej (głównie PKP Polskie Linie Kolejowe S.A.), również przedsiębiorstwa kolejowe pasażerskie (Przewozy Regionalne, Koleje Mazowieckie, PKP SKM Śródmieście, PKP Intercity) oraz przewoźników towarowych (m.in. PKP Cargo, DB Cargo Polska). Przepisy będą miały zastosowanie także do operatorów obiektów infrastruktury usługowej, gdy tylko zostaną zidentyfikowani w rejestrze prezesa Urzędu Transportu Kolejowego.
+
+System cyberbezpieczeństwa obejmie też organy administracji drogowej - Generalną Dyrekcję Dróg Krajowych i Autostrad oraz samorządy, operatorów inteligentnych systemów transportowych.
+
+Regulacja będzie dotyczyła także podmiotów z sektora transportu wodnego: armatorów, organów zarządzających portami morskimi, zwłaszcza w Gdyni, Gdańsku, Szczecinie, Elblągu, Kołobrzegu oraz portami śródlądowymi, a także operatorów systemów ruchu statków.
+
+Nowe przepisy mają dotyczyć także dużych banków oraz Giełdy Papierów Wartościowych i jej spółek zależnych.
+
+W sektorze służby zdrowia projektowane przepisy zapewnią - jak podkreśla Ministerstwo Cyfryzacji - ciągłość działania całego sektora. Regulacja obejmie podmioty zarówno z sektora zdrowia publicznego, jak i prywatnego.
+
+Jeśli chodzi o sektor zaopatrzenia w wodę i jej dystrybucji projektowane przepisy obejmą przedsiębiorstwa wodno-kanalizacyjne.
+ 
+Projekt dotyczy także państwowego instytutu badawczego NASK, który nadzoruje Ministerstwo Cyfryzacji
+
+Wymaganiami z zakresu cyberbezpieczeństwa zostaną również objęci dostawcy usług cyfrowych, czyli internetowe platformy handlowe, usługi przetwarzania w chmurze i wyszukiwarki internetowe. Z racji międzynarodowej specyfiki tych podmiotów obowiązki dla dostawców usług cyfrowych będą objęte łagodniejszym reżimem regulacyjnym.
+
+Do krajowego systemu cyberbezpieczeństwa będą również włączone organy administracji publicznej, m.in. sądy i trybunały, Narodowy Bank Polski, Bank Gospodarstwa Krajowego, dyrektor Rządowego Centrum Bezpieczeństwa.
+
+Wszystkie podmioty i przedsiębiorstwa będą zobowiązane do wyznaczenia osoby odpowiedzialnej za cyberbezpieczeństwo świadczonych usług, obsługi i zgłaszania incydentów oraz udostępniania użytkownikom wiedzy na temat stosowania odpowiednich zabezpieczeń przed zagrożeniami cyberbezpieczeństwa.
+
+Przyjęcie ustawy wynika z konieczności wdrożenia do polskiego porządku prawnego dyrektywy Parlamentu Europejskiego.

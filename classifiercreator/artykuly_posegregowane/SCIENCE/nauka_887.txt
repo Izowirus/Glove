@@ -1,0 +1,41 @@
+Obserwatorium LIGO dokonało po raz trzeci detekcji fal grawitacyjnych - zmarszczek w czasoprzestrzeni przewidywanych przez ogólną teorię względności Alberta Einsteina.
+      
+            O odkryciu poinformowały amerykańskie instytuty Caltech i MIT, informację znajdziemy też na stronach kilku polskich instytutów i grupy POLGRAW.
+
+Eksperyment o nazwie Laser Interferometer Gravitational-wave Observatory (LIGO) dokonał po raz trzeci detekcji fal grawitacyjnych. Można zatem powiedzieć, że nowe okno obserwacyjne astronomii jest już na dobre otwarte. Przypomnijmy, iż pierwsze, historyczne wykrycie fal grawitacyjnych nastąpiło we wrześniu 2015 r. (co ogłoszono w lutym 2016 r.), a drugie - w grudniu 2015 r.
+
+Podobnie jak w dwóch poprzednich przypadkach, również tym razem fale grawitacyjne zostały wygenerowane, gdy dwie czarne dziury połączyły się w jedną. Powstały w ten sposób obiekt - nowa, masywniejsza czarna dziura - ma masę 49 razy większą niż masa Słońca. Plasuje to ją w przedziale pomiędzy masami czarnych dziur z dwóch pierwszych detekcji, które wynosiły odpowiednio 62 masy Słońca i 21 mas Słońca.
+
+Bieżąca runda obserwacyjna LIGO rozpoczęła się 30 listopada 2016 r. i potrwa do lata b.r. To właśnie w jej trakcie nastąpiła najnowsza detekcja fal grawitacyjnych, a dokładniej zjawisko zarejestrowano 4 stycznia 2017 r. Otrzymało oznaczenie GW170104.
+
+We wszystkich trzech przypadkach fale grawitacyjne pochodziły od złączenia się (zlania się) dwóch czarnych dziur, co zwane jest przez astronomów "mergerem" (czyt.: „merdżerem”)
+
+Energia w falach grawitacyjnych wyzwolona w trakcie złączenia się czarnych dziur przewyższała całe promieniowanie elektromagnetyczne od wszystkich gwiazd i galaktyk emitowane w tym ułamku sekundy
+
+Naukowcy oceniają, że zjawisko mergera nastąpiło w odległości 3 miliardów lat świetlnych od nas. To dalej niż w dwóch poprzednich przypadkach, kiedy to dystanse wynosiły 1,3 miliarda i 1,4 miliarda lat świetlnych.
+
+Na podstawie obserwacji badacze wnioskują także nt. kierunku obrotu jednej z czarnych dziur. Oprócz krążenia wokół wspólnego środka masy układu dwóch czarnych, każda z nich obraca się także dookoła własnej osi. Taki obrót może być w kierunku zgodnym z ruchem orbitalnym - albo w przeciwnym, oś obrotu może być też w różny sposób nachylona względem płaszczyzny orbity. Wydaje się, że co najmniej jedna z czarnych dziur w przypadku GW170104 nie obracała się zgodnie z ruchem orbitalnym.
+
+Istnieją dwa główne modele opisujące powstawanie par czarnych dziur. Według pierwszego powstają one razem, gdy każda z gwiazd układu podwójnego wybucha i potem zapada się do czarnej dziury. Takie czarne dziury odziedziczą sposób obrotu po swoich gwiazdowych poprzedniczkach, czyli będą obracać się dookoła osi zgodnie z ruchem orbitalnym. Z kolei według drugiego modelu czarne dziury łączą się w pary na późniejszym etapie, jeśli przebywają w gęstej gromadzie gwiazd i na skutek oddziaływań grawitacyjnych przemieszczają się w kierunku centrum gromady. W przypadku powstania takiej pary kierunki obrotu mogą być dowolne względem ruchu orbitalnego. Dane z LIGO są zgodne z tą drugą hipotezą.
+
+Fale grawitacyjne, nazywane popularnie zmarszczkami czasoprzestrzeni, to jedno z przewidywań ogólnej teorii względności Einsteina, chociaż w różny sposób zastanawiano się nad nimi także nieco wcześniej. Fale grawitacyjne unoszą energię i mogą być emitowane przez obiekty, które poruszają się z przyspieszeniem. Aby dało się je wykryć, ciało musi mieć bardzo duże przyspieszenie i bardzo dużą masę, np. mogą to być układy podwójne zawierające gwiazdy neutronowe lub czarne dziury. Dlatego nic dziwnego, że pierwsze detekcje fal grawitacyjnych dotyczą zderzeń (łączenia się) się czarnych dziur.
+
+„Istotną rzeczą jest, że ten nowy układ jest w dużej odległości, około dwa razy większej niż w przypadku poprzednich detekcji. Dzięki temu można zweryfikować innego typu przewidywania ogólnej teorii względności. Będziemy mogli sprawdzić, czy światło ulega dyspersji, czy fale grawitacyjne rzeczywiście podróżują z prędkością światła. Jest to istotne jako fundamentalny test ogólnej teorii względności” wyjaśnia w rozmowie z PAP dr hab. prof. UZ Dorota Rosińska z Instytutu Astronomii Uniwersytetu Zielonogórskiego, współautorka publikacji przedstawiającej wyniki badań.
+
+Naukowcy z Europy i Stanów Zjednoczonych ściśle ze sobą współpracują 
+
+Rosińska dodaje także, iż dzięki trzeciemu zjawisku astronomowie mogą narzucić ograniczenia na modele populacji gwiazd, które prowadzą do powstawania czarnych dziur. Im mamy więcej takich zdarzeń, tym możemy zrobić lepsze ograniczenia na częstotliwość takich zdarzeń, które powinny nastąpić we Wszechświecie i również na to, jakiego typu modele prowadzą do powstawania dwóch czarnych dziur.
+
+Projekt LIGO zaczął obserwacje w 2002 roku i potrwały one do 2010 r. Nie wykryto wtedy fal grawitacyjnych. W kolejnych latach dokonano modernizacji w celu zwiększenia możliwości detekcyjnych obserwatorium i ulepszone detektory zaczęły obserwacje w 2015 r. W Stanach Zjednoczonych powstały dwa obserwatoria LIGO, w Hanford i Livingston. Europejskim odpowiednikiem dla LIGO jest obserwatorium Virgo zbudowane we Włoszech niedaleko Pizy.
+
+Naukowcy z Europy i Stanów Zjednoczonych ściśle ze sobą współpracują. Zespół LIGO-Virgo kontynuuje badania i analizę najnowszych danych z LIGO. Trwają także prace nad technicznymi usprawnieniami podczas kolejnej serii obserwacyjnej, która rozpocznie się pod koniec 2018 r. Wtedy zostanie poprawiona czułość detektorów.
+
+W ramach liczącego ponad tysiąc naukowców z całego świata projektu badawczego LIGO-Virgo współpracuje także kilkunastu polskich naukowców z różnych instytutów (w ramach grupy o nazwie Virgo-POLGRAW). Kierownikiem polskiego projektu jest prof. Andrzej Królak z Instytutu Matematycznego PAN. Udział Polski w projekcie Virgo znajduje się na Polskiej Mapie Drogowej Infrastruktury Badawczej i jest finansowany z grantów od Ministerstwa Nauki i Szkolnictwa Wyższego, Narodowego Centrum Nauki i Fundacji na rzecz Nauki Polskiej.
+
+Publikacja opisująca wyniki trzeciej detekcji fal grawitacyjnych ukazała się w czasopiśmie naukowym „Physical Review Letters”
+
+Polskie instytuty biorące udział w badaniach to Instytut Matematyczny PAN, Obserwatorium Astronomiczne Uniwersytetu Warszawskiego, Instytut Astronomii Uniwersytetu Zielonogórskiego, Narodowe Centrum Badań Jądrowych, Centrum Astronomiczne im. Mikołaja Kopernika PA, Uniwersytet w Białymstoku, Centrum Astronomii UMK, Instytut Fizyki Teoretycznej Uniwersytetu Wrocławskiego, Obserwatorium Astronomiczne Uniwersytetu Jagiellońskiego.
+
+Wśród autorów publikacji dotyczącej trzeciej detekcji fal grawitacyjnych znajdziemy dziewięć polskich nazwisk: Michał Bejger (CAMK PAN), Tomasz Bulik (OA UW), Andrzej Królak (IM PAN), Izabela Kowalska-Leszczyńska (OA UW), Adam Kutynia (NCBJ), Dorota Rosińska (IA UZ), Piotr Jaranowski (Uniwersytet w Białymstoku), Magdalena Sieniawska (CAMK PAN), Adam Zadrożny (NCBJ).
+
+Z projektem LIGO związany jest także program do obliczeń rozproszonych Einstein@Home, dzięki niemu każdy chętny może użyczyć nieco mocy obliczeniowej swojego komputera lub smartfona do analizy danych z LIGO w poszukiwaniu sygnałów od obracających się gwiazd neutronowych. Einstein@Home analizuje także dane z innych obserwatoriów, np. z radioteleskopu w Obserwatorium Arecibo. Pod koniec 2016 r. było 440 tys. aktywnych użytkowników Einstein@Home.

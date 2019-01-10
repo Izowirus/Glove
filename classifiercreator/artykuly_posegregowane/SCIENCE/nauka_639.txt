@@ -1,0 +1,23 @@
+Międzynarodowy zespół naukowców zaobserwował supernową, która jest zupełnie inna niż tysiące supernowych znanych do tej pory. Mimo wielokrotnych wybuchów, gwiazda nadal istnieje - informuje Keck Observatory.
+      
+            Wybuch supernowej oznacza koniec życia gwiazdy. Po eksplozji pozostaje gwiazda neutronowa lub czarna dziura oraz mgławica zwana „pozostałością po supernowej”. Okazuje się, że dla najbardziej masywnych gwiazd końcówka ich życia może być bardziej skomplikowana.
+
+Gdy we wrześniu 2014 roku w ramach projektu Palomar Transient Factory odkryto rozbłysk gwiazdy iPTF14hls, wydawało się, że to zwyczajna supernowa z grupy takich, które wykazują absorpcyjne linie w swoich widmach. Takie obiekty mają jedno główne maksimum blasku i świecą przez około 100 dni, po czym ich jasność spada.
+
+Wybuch iPTF14hls miał widmo typowej supernowej związanej z zapadnięciem się jądra masywnej gwiazdy, ale kilka miesięcy później badacze odkryli, iż supernowa po wybuchu i późniejszym osłabieniu blasku ponownie zaczęła jaśnieć. W ciągu około dwóch lat obiekt iPTF14hls pojaśniał i osłabł co najmniej pięć razy. Cechy widma wskazywały na odrzucenie przez gwiazdę otoczki o kilkudziesięciu masach Słońca, na kilkaset dni przed końcowym wybuchem.
+
+Naukowcy przeszukali archiwa danych i z zaskoczeniem znaleźli dowody na wybuch w 1954 roku w tym samym miejscu na niebie. Jeśli te dwa zdarzenia są ze sobą powiązane, oznacza to, że gwiazda w jakiś sposób przetrwała wybuch, a następnie ponownie wybuchła w 2014 roku. Według obliczeń gwiazda, która wybuchła, miała co najmniej 50 mas Słońca, czyli była bardzo masywna.
+
+O ile astronomom znane są powtarzające się wybuchy gwiazd, jak to ma miejsce na przykład u gwiazd nowych, to w przypadku supernowych do tej pory nie odnotowano takiego powtórzenia. Być może astronomowie są po raz pierwszy świadkami zjawiska zwanego po angielsku „pulsational pair-instability supernova”, czyli pulsacyjnej supernowej powstającej w wyniku niestabilności kreacji par cząstka-antycząstka. Kreacja par cząstek (gdy fotony wytwarzają cząstkę i antycząstkę) to proces odwrotny do anihilacji cząstek (gdy cząstka i antycząstka zostają zamienione w fotony).
+
+"Taki proces mógł się powtarzać przez dziesiątki lat zanim nastąpiła finalna eksplozja" 
+
+„Według teorii, być może mamy do czynienia z przypadkiem wybuchu gwiazdy tak masywnej i gorącej, że w jej jądrze została wygenerowana antymateria. To spowodowałoby bardzo niestabilne zachowanie gwiazdy i powtarzające się jasne wybuchy przez kolejne lata” - tłumaczy Daniel Kasen z Wydziału Fizyki i Astronomii UC Berkeley, pracujący także w Lawrence Berkeley Lab.
+
+Taki proces mógł się powtarzać przez dziesiątki lat zanim nastąpiła finalna eksplozja i zapadnięcie się do czarnej dziury. Być może wybuch iPTF14hls jest eksplozją najmasywniejszej gwiazdy z zaobserwowanych do tej pory supernowych i dlatego nie pasuje do typowego obrazu tych kataklizmicznych wydarzeń.
+
+Teoria przewiduje możliwość zaistnienia takiej sytuacji dla gwiazd o masach od 95 do 130 razy większych niż masa Słońca. Jak mówi Andy Howell, kierownik grupy obserwującej supernową z Las Cumbres Observatory (LCO), do tej pory uważano, iż tego typu bardzo energetyczne eksplozje poprzedzające finalny wybuch supernowej mogły występować we wczesnym Wszechświecie, a obecnie powinny zaniknąć. Naukowiec porównuje dokonane odkrycie do sytuacji, gdyby dzisiaj odnaleziono żywego dinozaura.
+
+Przy czym zaobserwowana energia jest większa niż teoretyczne przewidywania tej teorii, więc przypadek iPTF14hls może być w ogóle nowym, nieznanym do tej pory nawet teoretycznie rodzajem supernowej.
+
+Wyniki badań opublikowano w środę w czasopiśmie naukowym „Nature”. Zespołem badawczym kierowali naukowcy z Las Cumbres Observatory, a pierwszym autorem pracy jest Iair Arcavi z UC Santa Barbara oraz z Las Cumbres Observatory.

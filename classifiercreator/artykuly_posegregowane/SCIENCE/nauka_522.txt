@@ -1,0 +1,31 @@
+Polscy kryptolodzy Marian Rejewski, Jerzy Różycki i Henryk Zygalski, którzy po ukończeniu kursu na Uniwersytecie Poznańskim, podjęli prace nad złamaniem kodu niemieckiej maszyny szyfrującej Enigma, zostali pośmiertnie uhonorowani medalami Alumno Bene Merenti.
+      
+            Matematycy Rejewski, Różycki i Zygalski, studenci Uniwersytetu Poznańskiego, uczestniczyli w kursie dla kryptologów zorganizowanym na tej uczelni przy współudziale wojska. Po ukończeniu kursu zostali zatrudnieni w 1930 roku w Biurze Szyfrów Sztabu Generalnego Wojska Polskiego i rozpracowywali tajemnicę działania niemieckiej elektromechanicznej maszyny szyfrującej "Enigma".
+
+W czwartek kryptolodzy zostali pośmiertnie uhonorowani medalami Alumno Bene Merenti, przyznawanymi przez Uniwersytet im. Adama Mickiewicza absolwentom uczelni, którzy rozsławiają imię swojego macierzystego uniwersytetu.
+
+Medale odebrali krewni kryptologów: Jan Różycki – syn Jerzego Różyckiego, Maria Bryschak – siostrzenica Henryka Zygalskiego oraz Janina Sylwestrzak - córka Mariana Rejewskiego.
+
+„Jestem niezwykle wzruszona, szczęśliwa i dumna ze swojego ojca, z pracy całej trójki kryptologów. Jestem dumna z tego, co zrobili dla kraju, dla uczelni i dla samych siebie, ponieważ ta praca dawała im szaloną satysfakcję” – mówiła Janina Sylwestrzak.
+
+„To byli młodzi ludzie, bardzo zaangażowani w pracę, dobrze wykształceni, z pasją. Nie robili tego dla żadnych profitów, choć na pewno jakaś wyższa pensja podnosiła im samopoczucie, ale to nie było dla nich absolutnie celem. Wtedy, kiedy trzeba było, pracowali dniem i nocą. Moja matka jechała mnie rodzić do Bydgoszczy, bo wiedziała, że w domu ojciec cały czas był zajęty. To była taka praca – cały czas na dyżurze” – opowiadała.
+
+Córka kryptologa zaznaczyła, że w jej rodzinnym domu nie mówiło się o pracy ojca, szczególnie o Enigmie. Jak podkreśliła, o dokonaniach taty i o tym, czym w ogóle była ta niemiecka maszyna, dowiedziała się dopiero jako 30-latka.
+
+Dodała, że zamiłowanie do matematyki jest kontynuowane w rodzinie. Jak podkreśliła, zarówno ona sama, jak i jej syn ukończyli studia matematyczne. „Tradycja jest kontynuowana, nie łamiemy rodzinnej +Enigmy+” – powiedziała z uśmiechem. „Zawsze wydawało mi się, że to był najłatwiejszy kierunek do studiowania, matematyka sprawiała mi po prostu przyjemność. Po co się męczyć na studiach, jak może studiować coś, co się robi lekko, łatwo i przyjemnie” – dodała.
+
+Uroczystość w DniauKryptologii
+
+Uroczystość wręczenia medali Alumno Bene Merenti odbyła się w trakcie Dnia Kryptologii. Z tej okazji zaplanowano także dwa specjalne wykłady - „Sztafeta Enigmy. Odnaleziony raport polskich kryptologów” dr. Marka Grajka oraz „The hidden discovery of public key cryptography” prof. Clifforda Cocksa.
+
+W 1932 r. matematycy Marian Rejewski, Jerzy Różycki i Henryk Zygalski poznali tajemnicę działania niemieckiej elektromechanicznej maszyny szyfrującej Enigma. Dokonali tego po raz pierwszy metodami matematycznymi. Dotychczas w kryptologii stosowano głównie metody lingwistyczne. Złamanie kodu uważane jest za znaczący wkład Polski w zwycięstwo aliantów w II wojnie światowej. Według historyków, dzieło Polaków mogło skrócić wojnę o 2-3 lata i - w konsekwencji - uratowało życie 20-30 milionom ludzi w Europie i na świecie.
+
+Skonstruowana w latach 20. XX wieku Enigma miała służyć utajnianiu korespondencji handlowej. Szybko jednak wykorzystano ją w niemieckich siłach zbrojnych. Trzej matematycy zaprojektowali kopię maszyny szyfrującej. Egzemplarze tego urządzenia powstawały w warszawskiej Wytwórni Radiotechnicznej AVA. Latem 1939 r. polskie władze wojskowe przekazały do Francji i Wielkiej Brytanii egzemplarze kopii maszyny wraz z informacjami dotyczącymi złamanego szyfru.
+
+We wrześniu 1939 r. Marian Rejewski, Jerzy Różycki i Henryk Zygalski ewakuowali się przez Rumunię do Francji. Jerzy Różycki zginął w styczniu 1942 r. na statku, który zatonął w tajemniczych okolicznościach na Morzu Śródziemnym. Dwaj pozostali matematycy nadal zajmowali się niemieckimi szyframi, pracując w jednostce Wojska Polskiego w Wielkiej Brytanii.
+
+Prace nad łamaniem kolejnych wersji i udoskonaleń szyfru Enigmy kontynuowano w brytyjskim ośrodku kryptologicznym w Bletchley Park. Zdaniem historyków dzięki temu, że alianci znali informacje przesyłane przez Enigmę, II wojna światowa trwała krócej o 2-3 lata.
+
+W 2000 r. Marian Rejewski, Jerzy Różycki i Henryk Zygalski zostali pośmiertnie odznaczeni Krzyżami Wielkimi Orderu Odrodzenia Polski. W 2007 r. na ich cześć w Poznaniu odsłonięto, wykonany z patynowanego brązu, czterometrowy obelisk w kształcie graniastosłupa o podstawie trójkąta. Na każdej ze ścian wśród cyfr umieszczone są nazwiska kryptologów.
+
+Obecnie w Poznaniu trwają prace nad stworzeniem muzeum pod nazwą „Centrum Szyfrów Enigma im. Mariana Rejewskiego, Jerzego Różyckiego i Henryka Zygalskiego”. Centrum znajdować się ma na pierwszym piętrze dawnego Collegium Historicum w centrum Poznania, w sąsiedztwie pomnika upamiętniającego kryptologów. W tym samym miejscu przed II wojną światową, w nieistniejącym już budynku intendentury wojskowej, działała filia Biura Szyfrów. Ekspozycja Centrum ma ukazywać nie tylko dzieje związane z matematykami, którzy zdołali złamać szyfr Enigmy; ale poświęcona będzie też samej matematyce, informatyce i kryptologii. Centrum będzie spełniać także rolę edukacyjną; zwiedzający zobaczą repliki maszyn szyfrujących, a każdy samodzielnie będzie mógł spróbować swoich sił w łamaniu szyfrów.

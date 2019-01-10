@@ -1,0 +1,22 @@
+Gdańsk, 2009-04. Wrzeszcz; Politechnika Gdańska - detal architektoniczny głównej bramy wjazdowej na teren uczelni; widok z ul. Gabriela Narutowicza. mta  Archiwum PAP/Marek Angiel 
+                                        
+
+            Przenośne urządzenie, które będzie w stanie zagłuszać wybrane częstotliwości radiowe, ma stworzyć – dzięki państwowemu grantowi - zespół naukowców z Politechniki Gdańskiej. Urządzenie ma m.in. blokować sygnały, mogące posłużyć terrorystom do detonacji ładunków wybuchowych.
+      
+            Nad projektem pracuje 8-osobowy zespół młodych naukowców pod kierunkiem dr. inż. Sławomira Ambroziaka z Katedry Systemów i Sieci Radiokomunikacyjnych Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej.
+
+Jak zaznaczył w środę w rozmowie z PAP Ambroziak, do odpalania ładunków terroryści wykorzystują najczęściej ogólnodostępne rozwiązania, a wśród nich telefony komórkowe, piloty do otwierania szlabanów czy zdalnie sterowane zabawki. "Urządzenia te pracują w pasmach ogólnie znanych" – zaznaczył Ambroziak. Dodał, że zagłuszenie sygnału na tych częstotliwościach uniemożliwi odpalenia ładunków, nie utrudniając przy tym pracy policji, wojska czy innych służb korzystających z innych częstotliwości.
+
+Ambroziak wyjaśnił, że do walki z terroryzmem na świecie używa się różnego typu zagłuszaczy sygnału. Polskie urządzenie ma mieć nad innymi tę przewagę, że stworzy możliwość "dynamicznego kształtowania widma sygnału radiowego". "Oznacza to, że będzie można dowolnie wybierać częstotliwości, które chcemy zagłuszać - i takie, których zagłuszać nie chcemy" – powiedział Ambroziak.
+
+"Jesteśmy w posiadaniu patentu dotyczącego kształtowania widma sygnału radiowego, dzięki czemu nie będziemy zagłuszać całego pasma częstotliwości, a jedynie te fragmenty, które mogą być używane przez terrorystów" – wyjaśnił Ambroziak. Jak dodał, z wiedzy posiadanej przez zespół wynika, iż podobne urządzenia używane na świcie są w stanie zagłuszać tylko konkretne częstotliwości, do zagłuszania których zostały skonstruowane. "Aby zagłuszyć inną częstotliwość, trzeba użyć kolejnego urządzenia" – dodał Ambroziak.
+
+Urządzenie, któremu zespół nadał nazwę "Aegis" (z greckiego to Egida, tarcza Zeusa), ma mieć wielkość walizki, jego obsługa będzie zdalna. Dodatkowo urządzenie można będzie zainstalować na – także zdalnie sterowanym – wózku, mogącym poruszać się nawet po nierównym podłożu.
+
+Jak wyjaśnił Ambroziak, poza pomocą w walce z terroryzmem, "Aegis" będzie mógł posłużyć także np. ochronie danego obszaru przed podsłuchami w trakcie tajnych spotkań. "Nie tylko tych prowadzonych przez służby państwowe, ale też np. w firmach, którym zależy na zachowaniu tajemnicy" – powiedział.
+
+Zasięg pracy "Aegis" ma zależeć od mocy sygnału, który trzeba zagłuszyć. Będzie się wahał od ok. 30 do 300 metrów na wolnej przestrzeni.
+
+Projekt noszący nazwę "Przenośne urządzenie do wytwarzania kurtyny elektromagnetycznej (Aegis)" otrzymał dofinansowanie w wysokości 2,5 mln zł z edycji konkursu "Przyszłościowe technologie dla obronności – konkurs młodych naukowców" organizowanego przez NCBR.
+
+Umowę na realizację projektu podpisano w połowie grudnia. Prace mają potrwać trzy lata. Zgodnie z zasadami konkursu efekt prac naukowców stanie się własnością Skarbu Państwa, a konkretnie Ministerstwa Obrony Narodowej

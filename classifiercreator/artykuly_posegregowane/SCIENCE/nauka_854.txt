@@ -1,0 +1,15 @@
+10 lat prac i symulacja działająca przez rok na superkomputerze NASA pozwoliły odpowiedzieć na pytania: skąd biorą się pokrywające Słońce strugi materii, jak dzięki nim nagrzewa się atmosfera gwiazdy i jak powstaje wiatr słoneczny. Za swoje wysiłki, badacze otrzymali Medal Arctowskiego.
+      
+            Opublikowane na łamach „Science” odkrycie należy do zespołu naukowców z Uniwersytetu w Oslo, Lockheed Martin i Bay Area Environmental Research Institute w kalifornijskiej Sonomie. Jak wyjaśniają autorzy pracy, w każdej chwili z powierzchni Słońca eksploduje 10 milionów strumieni materii, które z prędkością 100 km/s ulatują na wysokość 10 tys. km, aby po ok. 10 minutach się zapaść. Twory te zwane bryzgami chromosferycznymi lub spikulami nieustannie, na kształt trawy pokrywają powierzchnię gwiazdy.
+
+Międzynarodowy zespół naukowców od dekady próbował stworzyć komputerowy model spikuli, który pozwoli je zrozumieć. Przyczyna wcześniejszych porażek leżała w ważnym uproszczeniu modelu – badacze traktowali atmosferę Słońca, jako całkowicie zjonizowaną plazmę, czyli składającą się wyłącznie z naładowanych cząstek. Dopiero zainspirowani jonosferą Ziemi, w której za różnorodne, dynamiczne procesy odpowiadają cząstki obojętne elektrycznie, naukowcy dodali je do swojej symulacji.
+
+Jak tłumaczą badacze, ciągłe ruchy konwekcyjne tworzą w Słońcu pewnego rodzaju wyspy zaplątanych pól magnetycznych, które unoszą się do dolnych warstw atmosfery gwiazdy, po czym gwałtownie wracają do wcześniejszego stanu. Uwalniają przy tym plazmę i energię, z których powstają spikule. Jak się okazuje, obojętne cząstki nadają polom magnetycznym naturalną „wyporność”, dzięki której wznoszą się do chromosfery. Tam w postaci spikuli wyrzucają plazmę i energię. Dodatkowo tarcie między jonami i neutralnymi cząstkami jeszcze bardziej podgrzewa plazmę w spikulach i wokół nich.
+
+„W modelu z samymi naładowanymi cząstkami, pola magnetyczne były unieruchomione i nie mogły wznieść ponad powierzchnię Słońca. Kiedy dodaliśmy cząstki neutralne, pola magnetyczne mogły poruszać się bardziej swobodnie” - wyjaśnia jeden z autorów symulacji dr Juan Martínez-Sykora.
+
+Dodanie neutralnych cząstek miało jednak swoje koszty. Wymagania odnośnie mocy obliczeniowej gwałtownie wzrosły, przez co symulacja uruchomiona na superkomputerze Pleiades w NASA Ames Research Center musiała działać aż przez rok.
+
+Program dostarczył jednak także innych rewelacji. Okazuje się, że opisane zjawiska generują na Słońcu fale Alfvéna – silne fale magnetyczne, które jak się uważa, odpowiadają za rozgrzewanie atmosfery gwiazdy i napędzają wiatr słoneczny. „Model ten odpowiada na wiele pytań, które mieliśmy przez tak wiele lat” - mówi jeden z autorów pracy dr Bart De Pontieu.
+
+Dwóch badaczy z Uniwersytetu w Oslo – prof. Mats Carlsson i prof. Viggo H. Hansteen - za swoje długoletnie wysiłki nagrodzono Medalem Arctowskiego przyznawanym przez amerykańską Narodową Akademię Nauk.

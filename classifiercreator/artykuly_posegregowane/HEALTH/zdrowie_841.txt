@@ -1,0 +1,23 @@
+Katowice, 20.02.2015
+Kolejki do rejestracji i przychodni  Uniwersyteckiego Centrum Okulistyki i Onkologii w Katowicach. Każdego dnia lekarze szpitala pomagją nawet tysiącu pacjentów
+PAP/ Andrzej Grygiel 
+(ag/awol) PAP © 2015 / Andrzej Grygiel
+                                        
+
+            Stworzenie ram prawnych do wdrażania systemu informatyzacji w ochronie zdrowia zapewniającego pacjentom i personelowi medycznemu dostęp do elektronicznej dokumentacji medycznej - to jeden z celów nowelizacji ustawy, której przepisy wchodzą w życie w sobotę.
+      
+            Nowelizacja ustawy o systemie informacji w ochronie zdrowia jest potrzebna do prowadzenia prac nad wdrażaniem tzw. platformy e-zdrowie. Nowela ma stworzyć warunki do podejmowania w dalszej perspektywie optymalnych decyzji w zakresie polityki zdrowotnej w oparciu o gromadzone dane, niezależnie od przyjętego modelu organizacyjnego opieki zdrowotnej oraz zasad jej finansowania.
+
+Ustawa ma na celu również wykonanie wyroku Trybunału Konstytucyjnego z grudnia 2014 r., który dotyczył rejestrów tworzonych w drodze rozporządzenia Ministra Zdrowia. Zgodnie z orzeczeniem TK na poziomie ustawy należy określić zakres przedmiotowy rejestrów oraz katalog przetworzonych w nich danych.
+
+Celem projektu e-zdrowie jest budowa systemu umożliwiającego organom administracji publicznej, przedsiębiorcom (m.in. placówkom ochrony zdrowia, aptekom i praktykom lekarskim) oraz obywatelom gromadzenie, analizę i udostępnianie dokumentacji medycznej. Platforma miała obejmować m.in. e-recepty, a z czasem także np. e-skierowania i e-zlecenia.
+
+W ostatnich dniach minister zdrowia Konstanty Radziwiłł poinformował, że dotychczasowe rozwiązania przyjęte w celu uporządkowania systemu zbierania, przetwarzania i wykorzystywania informacji w ochronie zdrowia w pierwotnie planowanym kształcie nie zostaną zrealizowane z powodu ogromnych opóźnień. Zgodnie planami zawartymi w umowach, w lipcu br. miała ruszyć Platforma Publikacyjna Ministra Zdrowia, w sierpniu - Internetowe Konto Pacjenta zasilane zdarzeniami medycznymi, we wrześniu elektroniczna recepta, w listopadzie - elektroniczne skierowania, zlecenia, zwolnienia i hurtownia danych. Żaden z tych elementów nie został oddany do wykorzystywania.
+
+Ministerstwo Zdrowia po roboczych uzgodnieniach z Ministerstwem Cyfryzacji i Ministerstwem Rozwoju podjęło decyzję o realizacji projektu P1 w nowym modelu. Planowany jest następujący harmonogram prac: lata 2016-2017 - uzyskanie funkcjonalności elektronicznej recepty wraz z niezbędnymi elementami internetowego konta pacjenta zasilanego zdarzeniami medycznymi oraz analityki data mining (baz danych); 2018 r. - uzyskanie funkcjonalności elektronicznego skierowania; 2019 r. - uzyskanie funkcjonalności elektronicznego zlecenia i elektronicznego zwolnienia; 2020 r. - uzyskanie pełnej funkcjonalności hurtowni danych oraz analiz typu data mining.
+
+Współpraca z obecnymi wykonawcami projektu została zakończona. W 2016 r. resort zdrowia planuje rozpisanie przez CSIOZ przetargu na dokończenie budowy i udostępnienie dla użytkowników pierwszego z planowanych przyrostów funkcjonalnych projektu P1.
+
+Na realizację programu Polska otrzymała środki unijne. Dalsze finansowanie informatyzacji, jak zapowiada MZ, będzie odbywało się tylko ze środków budżetowych. Do tej pory na realizację projektu P1 wydano ok. 493 mln zł, z czego ok. 402 mln zł pochodzi ze środków UE. Do końca 2015 r. planowane jest wydanie ok. 12 mln zł na końcowe odbiory prac, z czego ok. 10 mln zł ze środków UE.
+
+W związku z nieprawidłowościami w cyfryzacji służby zdrowia warszawska prokuratura rejonowa wszczęła z zawiadomienia Centrum Systemów Informacyjnych Ochrony Zdrowia dwa śledztwa. Oba dotyczą możliwego przekroczenia uprawnień i poświadczenia nieprawdy przez stwierdzenie przez pracownika Centrum w protokołach odbioru, że zamówienia wynikające z dwóch umów Centrum z dwoma spółkami (z 2013 i z 2014 r.) wykonano zgodnie z umową - podczas gdy w rzeczywistości nie wykonano prac w całości. Według prokuratury było to działaniem na szkodę interesu publicznego przez dokonanie nienależnej zapłaty przez Centrum dla obu spółek.

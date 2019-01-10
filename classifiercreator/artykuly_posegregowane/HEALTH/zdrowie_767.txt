@@ -1,0 +1,31 @@
+Chińscy naukowcy opracowują naszyjnik, który rozpoznaje spożywane pokarmy na podstawie dźwięku ich przeżuwania, a następnie zapamiętuje i zlicza ilość zjedzonych przez właściciela kalorii.
+      
+            Urządzenie - zdaniem twórców - może pomóc w walce z cukrzycą, otyłością i innymi schorzeniami wynikającymi z nieodpowiedniej diety.
+
+Praca na ten temat ukazała się na łamach najnowszego wydania czasopisma „IEEE Sensors Journal”.
+
+Marchew i jabłko inaczej brzmią
+
+„Marchew i jabłko nie tylko smakują inaczej, ale także inaczej brzmią. Ich przeżuwanie, tak samo, jak żucie wszystkich innych pokarmów, generuje różne, bardzo specyficzne dźwięki” - tłumaczy dr Wenyao Xu z Uniwersytetu Northeastern w Chinach, jeden z głównych autorów badania.
+
+Wraz z kolegami z amerykańskiego Uniwersytetu w Buffalo Xu opracowuje bibliotekę unikatowych dźwięków powstających podczas gryzienia, przeżuwania i połykania produktów żywnościowych. Biblioteka będzie częścią oprogramowania, na którym opiera się (stworzone przez tych samych autorów) innowacyjne urządzenie - AutoDietary, czyli naszyjnik śledzący i analizujący dzienne spożycie pokarmów.
+
+„Nasze urządzenie przypomina popularne obecnie zegarki, opaski itp., służące do mierzenia liczby spalanych kalorii, przebytego dystansu, czasu ćwiczeń - wyjaśnia dr Xu. - Też nosimy je na ciele i mamy zawsze przy sobie. Tyle że, zamiast skupiać się na ilości spalanych kalorii, naszyjnik zlicza, ile ich przyjęliśmy”. Jednak, jak podkreśla naukowiec, stworzenie takiego rozwiązania, to coś znacznie trudniejszego.
+
+Naszyjnik z mikrofonem
+
+AutoDietary ma postać ciasno przylegającego do szyi naszyjnika typu „choker”. Ma maleńki i bardzo czuły mikrofon, który wyłapuje i nagrywa dźwięki powstające w czasie żucia i połykania pokarmu. Zebrane dane przesyłane są następnie poprzez bluetooth do smartfona, gdzie specjalna aplikacja na podstawie dźwięku określa, co zostało zjedzone.
+
+Aplikacja proponuje także zdrowsze odpowiedniki naszych ulubionych pokarmów i doradza, co zrobić, by poprawić swoją dietę.
+
+We wstępnych testach urządzenia wzięło udział kilkudziesięciu uczestników. Byli to zarówno mężczyźni, jak i kobiety, w wieku od 13 do 49 lat. Podano im wodę oraz sześć rodzajów pokarmów: jabłka, marchewki, chipsy, ciasteczka, orzeszki ziemne i orzechy włoskie. Okazało się, że AutoDietary poprawnie zidentyfikował 85 procent spożytych produktów.
+
+Xu ma nadzieję, że innowacyjny naszyjnik pomoże w przyszłości osobom cierpiącym na cukrzycę, otyłość, choroby jelit i innych schorzenia wynikające z nieprawidłowych nawyków żywieniowych, poprzez umożliwienie im lepszego monitorowania spożywanej żywności i zwiększenie świadomości tego, co jedzą.
+
+AutoDietary ma tylko dwie słabości
+
+Naukowiec dodaje, że - jak na razie - AutoDietary ma tylko dwie słabości: nie potrafi rozpoznać, z jakich składników składają się złożone produkty spożywcze (np. zupy i sosy) oraz nie odróżnia dźwięków chrupania bardzo podobnych produktów (np. zwykłych płatków kukurydzianych i płatków w polewie).
+
+Aby rozwiązać ten problem, Xu planuje opracować dodatkowe urządzenie, które będzie uzupełnieniem naszyjnika. BioMonitor, bo tak ma brzmieć jego nazwa, będzie aktywowany jedynie w przypadku produktów „wątpliwych”, a jego zadaniem będzie określenie ich wartości odżywczej na podstawie pomiaru poziomu cukru we krwi użytkownika.
+
+Pracę źródłową można znaleźć tutaj: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7206521

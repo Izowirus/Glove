@@ -1,0 +1,16 @@
+Wrocław 2009-08-03. Portal internetowy.
+soa
+PAP/Adam Hawałej Archiwum PAP © 2016 / Adam Hawałej
+                                        
+
+            Reklamy w przeglądarkach blokuje 7 mln Polaków i ok. 198 mln osób na całym świecie, w większości ludzie poniżej 35. roku życia. Szacuje się, że w 2016 wtyczki do blokowania reklam pozbawią reklamodawców ok. 26,8 mld dol.
+      
+            Jak wynika ze statystyk Cloud Technologies, polskiej spółki specjalizującej się w Big Data marketingu i personalizacji reklamy online, z blokowania reklam w przeglądarkach korzysta już prawie 7 mln polskich użytkowników internetu, co daje Polakom piąte miejsce na świecie pod względem liczby blokujących. W rankingu procentowego rozpowszechnienia adblockerów wśród internautów Polska z wynikiem 37 proc. wysuwa się na drugie miejsce, zaraz za Grecją. W 2015 odsetek użytkowników internetu blokujących reklamy w Polsce szacowano na 35 proc.
+
+Wg raportu „Profiling Adblockers” sporządzonego przez GlobalWebIndex, z wtyczek blokujących reklamy korzysta 30 proc. internautów w Europie. W innych częściach świata odsetek blokujących reklamy utrzymuje się na poziomie 27 proc. (28 proc. w Ameryce Północnej). Z narzędzi takich jak AdBlock Plus, AdBlock, µBlock czy NoScript korzysta ok. 1/3 internautów poniżej 35 roku życia. Wśród osób powyżej tego progu popularność adblockerów waha się od 17 proc. do 24 proc. Wyraźnie częściej po wtyczki do blokowania reklam sięgają mężczyźni (31 proc. mężczyzn w porównaniu z 23 proc. kobiet).
+
+Wśród głównych przyczyn do stosowania narzędzi blokujących reklamy i skrypty wymieniane są obawy związane z bezpieczeństwem i prywatnością (69 proc. użytkowników adblockerów wg GlobalWebIndex) – wśród głośnych zwolenników stosowania adblockerów jest m.in. Edward Snowden. Inne częste motywacje obejmują: natarczywość, nadmiar i niedopasowanie reklam (wg IAB na te problemy skarży się 73 proc. brytyjskich i 53 proc. hiszpańskich użytkowników użytkowników internetu). Często wskazywana jest również chęć przyśpieszenia wczytywania stron i zwiększenia czytelności.
+
+PageFair szacuje, że na świecie już ponad 198 mln internautów blokuje reklamy w przeglądarkach – samego AdBlocka używa co najmniej 40 mln użytkowników. Liczba blokujących wzrasta średnio o 41 proc. w skali roku. Firma ClarityRay zajmująca się ochroną interesów wydawców przed blokowaniem reklam szacuje, że już średnio co dziesiąta impresja (wyświetlenie czy wczytanie strony) jest blokowana przez wtyczki. W przypadku najbardziej poczytnych stron blokowana jest nawet połowa impresji.
+
+Wg badań eMarketera, w 2015 r. programy blokujące reklamy pozbawiły wydawców ok. 22 mld dol. W tym roku straty z tego tytułu mają przekroczyć 26,8 mld dol. Jak jednak wskazują specjaliści, sytuacja może jeszcze ulec zmianie: przez wykluczenie większości, zwłaszcza najbardziej nachalnych reklam, użytkownicy adblockerów mogą się okazać wartościowym segmentem dla kampanii marketingowych, które zdołają się do nich przebić.

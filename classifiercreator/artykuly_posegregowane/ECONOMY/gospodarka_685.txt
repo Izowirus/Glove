@@ -1,0 +1,32 @@
+KE poinformowała w środę o nałożeniu na Google kary w wysokości 4,34 mld euro za łamanie unijnych przepisów antymonopolowych na rynku systemów operacyjnych, wykorzystywanych m.in. przez smartfony. Amerykański koncern zapowiedział odwołanie.
+
+      
+            Chodzi o praktyki dotyczące urządzeń mobilnych z systemem Android, których celem było wzmocnienie dominującej pozycji rynkowej wyszukiwarki internetowej Google.
+
+"Grzywna w wysokości 4,34 mld euro odzwierciedla powagę i utrzymującą się naturę łamania przez Google prawa antymonopolowego UE. Decyzja wymaga od Google zakończenia nielegalnego postępowania w ciągu 90 dni" - powiedziała na środowej konferencji prasowej w Brukseli unijna komisarz ds. konkurencji Margrethe Vestager.
+
+Google nie zgadza się z zarzutami Komisji. "Android dał wszystkim więcej możliwości wyboru, a nie mniej. Dynamiczny ekosystem, szybkość innowacji i niższe ceny to klasyczne cechy silnej konkurencji. Będziemy odwoływać się od decyzji Komisji" - oświadczył rzecznik koncernu w Brukseli Al Verney.
+
+Sprawa ta ma niebagatelne znaczenie, bo obecnie ponad połowa ruchu w internecie generowana jest za pośrednictwem urządzeń mobilnych. W skali światowej 80 proc. z nich ma zainstalowany system operacyjny Android. Odsetek ten jest jeszcze wyższy, jeśli wziąć pod uwagę tylko tańsze z tych urządzeń. Łącznie to ponad 2 miliardy telefonów i tabletów, których właściciele generują zyski dla Google.
+
+Grzywna wobec amerykańskiego potentata jest najwyższą w historii karą, jaką Unia Europejska zdecydowała się nałożyć za łamanie regulacji antymonopolowych. Przed rokiem KE ukarała koncern karą w wysokości 2,4 mld euro za faworyzowanie w wynikach wyszukiwania własnego serwisu zakupowego.
+
+Google nakładał na producentów urządzeń nielegalne ograniczenia dotyczące wykorzystywania darmowego systemu operacyjnego Android
+
+KE wskazała w środę, że Google od 2011 roku nakładał na producentów urządzeń nielegalne ograniczenia dotyczące wykorzystywania darmowego systemu operacyjnego Android. Ograniczenia dotyczyły także operatorów sieci, a ich celem było utrwalenie dominującej pozycji koncernu w wyszukiwaniu internetowym.
+
+Vestager mówiła, że koncern, który wcześnie zrozumiał, że ludzie odchodzą od komputerów stacjonarnych na rzecz korzystania z urządzeń mobilnych, zarabia ponad 95 mld euro rocznie na wyszukiwaniu. Znaczna cześć ruchu w wyszukiwarce pochodzi właśnie ze smartfonów.
+
+Bruksela wytknęła firmie Google, że nałożyła na producentów urządzeń mobilnych wymóg preinstalowania aplikacji wyszukiwarki Google i przeglądarki internetowej (Chrome) jako warunek uzyskania licencji na możliwość korzystania na urządzeniu z oficjalnego sklepu z oprogramowaniem Google (Play Store). Dodatkowo, korporacja płaciła niektórym dużym producentom i operatorom sieci komórkowych za to, że preinstalowali na swoich urządzeniach wyłącznie aplikacje tego koncernu.
+
+KE uznała, że działania te uniemożliwiają konkurencyjnym wyszukiwarkom dostęp do rynku poprzez przeglądarki i systemy operacyjne innych firm.
+
+Firma Google dostała 90 dni na zaprzestanie swoich praktyk, w przeciwnym razie grozi jej kara sięgająca nawet 5 proc. średniego dziennego światowego obrotu spółki matki - koncernu Alphabet.
+
+Google już w trakcie śledztwa wskazywało, że działania Komisji mogą podważyć jego model działania, który oferuje oparty na otwartym kodzie, darmowy system operacyjny wykorzystywany m.in. w smartfonach. W tej chwili koncern nie musi pobierać opłat za samo udostępnianie Androida producentom (co obniża ceny smartfonów), bo zarabia m.in. dzięki temu, że użytkownicy wykorzystują wyszukiwarkę Google, w której są reklamy. "Konkurencja sprawia, że ceny idą w dół, a nie przeciwnie" - odpowiedziała na ten argument Vestager.
+
+W tej chwili każdy producent sprzętu może modyfikować Androida w dowolny sposób. Jednak, aby sprzedawać telefony i móc twierdzić, że są oparte na Androidzie, producenci muszą zapewnić minimum poziomu zgodności urządzeń z systemem wymagań określonym przez Google. Zdaniem KE, hamuje to rozwój systemów operacyjnych opartych na otwartym kodzie źródłowym Androida i ogranicza możliwość rozwoju nowych aplikacji i usług, które mogłyby one oferować.
+
+Google przekonuje z kolei, że robi tak, aby zapobiec problemowi fragmentacji, który nękał wcześniejsze projekty typu open source, takie jak Unix i Symbian. Deweloperzy, czyli osoby stojące za aplikacjami, muszą mieć stabilne ramy systemowe, w przeciwnym razie istniałoby ryzyko, że ta sama aplikacja działałaby na jednym telefonie, a na innym już nie.
+
+Z Brukseli Krzysztof Strzępka

@@ -1,0 +1,27 @@
+Odłącz myszkę, przekonaj się, jak korzystają z sieci osoby z niepełnosprawnościami - zachęcają organizatorzy akcji "Godzina bez myszy", która stanowi część polskich obchodów Światowego Dnia Świadomości Dostępności. Inicjatorem akcji jest Integracja.
+      
+            "Godzina bez myszy" ma uświadomić przeciętnym użytkownikom sieci, jak powszechne są bariery w dostępności stron internetowych, napotykane przez osoby z niepełnosprawnością.
+
+Aby wziąć w niej udział, wystarczy przez wybraną godzinę nie używać myszy, touchpada lub ekranu dotykowego. "Urządzenia te są niedostępne dla części osób z niepełnosprawnością. Osoby niewidome, a także np. osoby, którym ruchy spastyczne uniemożliwiają korzystanie z myszy, do nawigowania po stronach używają samej klawiatury. Używanie klawisza Tab, skrótów klawiaturowych i nawigacji przy użyciu strzałek pozwoli przekonać się, na ile dostępne są odwiedzane przez nas strony internetowe" - tłumaczą zamysł akcji jej organizatorzy.
+
+Wskazują, że teoretycznie do poruszania się po stronie powinny wystarczyć cztery przyciski: Tab - który zastępuje kursor myszki, co pozwala przechodzić między kolejnymi aktywnymi elementami strony; Shift+Tab - które działają jak Tab, ale "do tyłu"; Enter - zastępujący lewy przycisk myszki (przycisk akceptacji wyboru); Backspace - pozwalający cofnąć się na poprzednio odwiedzoną stronę.
+
+Akcja organizowana jest w Światowym Dniu Świadomości Dostępności (Global Accessibility Awareness Day), obchodzonym w trzeci czwartek maja - w tym roku 19 maja. Jak informuje Integracja, inicjatorem akcji jest amerykański programista Joe Davon, który w 2011 r. zaproponował jej zorganizowanie, sugerując, że twórcy stron internetowych zbyt wielką wagę przykładają do estetyki, zapominając o najważniejszym elemencie – funkcjonalności.
+
+Integracja przypomina, że tylko w Polsce liczbę osób z niepełnosprawnością szacuje się na około 5 mln. Zwłaszcza dla osób o ograniczonej mobilności internet stanowi okno na świat, z którego jednak nie mogą w pełni korzystać. Źle dobrane kolory, nieposiadające tekstowych opisów alternatywnych infografiki, czy pozbawione napisów filmy - wszystko to ogranicza osoby z niepełnosprawnością w internecie.
+
+Od czerwca zeszłego roku publiczne strony internetowe powinny być w pełni dostosowane do potrzeb osób z różnymi niepełnosprawnościami. Nie wszystkim instytucjom udało się jednak wywiązać z tego zadania.
+
+Potwierdził to ogłoszony na początku br. raport Najwyższej Izby Kontroli, wykonany wspólnie ze specjalistami Integracji. NIK sprawdziła wypełnianie 34 z 36 wymaganych zaleceń standardu WCAG 2.0 w 23 serwisach internetowych instytucji publicznych.
+
+Odpowiednio dostosowane były tylko dwa (Ministerstwa Zdrowia i PFRON). Na pozostałych 21 stronach internetowych NIK stwierdziła istotne błędy, a nieprawidłowości stwierdzone na trzech stronach były na tyle poważne, że mogły osobom z niepełnosprawnością znacząco utrudniać lub wręcz uniemożliwiać korzystanie z zamieszczanych treści.
+
+Fundacja Widzialni, która bada dostępność serwisów internetowych w Polsce, w swoim ostatnim raporcie stwierdziła, że niespełna 30 proc. serwisów internetowych administracji publicznej spełnia wymogi dostępności dla osób z niepełnosprawnościami.
+
+Międzynarodowy standard WCAG 2.0. wymaga, by strony internetowe były powszechnie dostępne dla użytkowników nienależnie od ich niepełnosprawności, wieku, używanego sprzętu i oprogramowania.
+
+Integracja przekonuje, że strona spełniająca wymogi standardu WCAG 2.0 nie musi być brzydka i archaiczna, czego potwierdzeniem jest m.in. organizowany przez nią konkurs „Serwis www bez barier”, w którym wyróżniane są w pełni dostępne i najciekawsze serwisy instytucji publicznych.
+
+Eksperci przekonują, że można samodzielnie sprawdzić, czy serwis jest dostosowany do potrzeb osób niepełnosprawnych. Dostosowania będzie wymagał np. serwis, z którego nie daje się korzystać tylko za pomocą klawiatury, albo taki, który używa np. sformułowań typu "kliknij wyżej/niżej", co jest niezrozumiałe dla osoby, która nie widzi. Na konieczność przebudowy mogą wskazywać m.in. dokumenty publikowane w formie skanów. Dostępność serwisu dla osób z niepełnosprawnościami mogą sprawdzić też audytorzy Integracji.
+
+Więcej informacji o akcji "Godzina bez myszy" można znaleźć na stronie: http://www.integracja.org/godzinabezmyszy.

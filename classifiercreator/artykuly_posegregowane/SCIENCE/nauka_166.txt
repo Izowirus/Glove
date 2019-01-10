@@ -1,0 +1,46 @@
+Paliwo wodorowe z wody i czystsza atmosfera - pracują nad tym naukowcy z Łodzi Video PAP © 2018
+                                        
+
+            Jak skutecznie pozyskiwać paliwo wodorowe z wody czy ograniczyć stężenie dwutlenku węgla w atmosferze, włączając go jednocześnie w proces przemysłowej recyrkulacji np. do produkcji metanu? Pracują nad tym naukowcy z Politechniki Łódzkiej, którzy opracowują nanokatalizatory plazmowe nowej generacji.
+      
+            Dzięki zastosowaniu tzw. plazmy zimnej łódzkim naukowcom udało się już opracować stabilne nanokatalizatory plazmowe, które umożliwiają konwersję CO2 do metanu na poziomie 70 proc. Jest to materiał, który obecnie przygotowujemy do opatentowania – powiedział PAP prof. Jacek Tyczkowski z Wydziału Inżynierii Procesowej i Ochrony Środowiska PŁ.
+
+Zahamowanie wzrostu stężenia CO2 w atmosferze, pochodzącego głównie ze spalania paliw, stanowi wyzwanie dla współczesnego świata. Jako rozwiązanie tego problemu w ostatnich latach proponuje się np. magazynowanie pod ziemią wychwyconego z gazów spalinowych dwutlenku węgla. Zdaniem łódzkich naukowców alternatywą dla tej technologii jest wykorzystanie CO2 jako surowca do produkcji użytecznych związków, tj. metanu, metanolu, eteru dimetylowego czy kwaus mrówkowego.
+
+Związki te otrzymuje się obecnie w reakcji tlenku węgla i wodoru. Tlenek węgla można zastąpić dwutlenkiem węgla, ale jego cząsteczki są mniej reaktywne i wymagają zastosowania bardziej drastycznych warunków reakcji z gazowym wodorem. Jednak głównym warunkiem wydajnej reakcji CO2 z wodorem jest zastosowanie bardziej sprawnych katalizatorów.
+
+Badania nad plazmowymi metodami wytwarzania takich nanokatalizatorów nowej generacji prowadzą naukowcy z Katedry Inżynierii Molekularnej Politechniki Łódzkiej.
+
+Plazma jest to gaz w stanie zjonizowanym, w technologii chemicznej znalazła zastosowanie plazma nierównowagowa, inaczej nazywana zimną, generowana głównie w wyładowaniach jarzeniowych w komorach niskociśnieniowych reaktorów plazmowych. Jest ona wykorzystywana w dwóch podstawowych celach: do modyfikacji powierzchni materiałów i zmiany właściwości tych powierzchni oraz do wytwarzania zupełnie nowych materiałów w postaci cienkich warstw.
+
+Zdaniem prof. Tyczkowskiego, w grupie tych nowych materiałów w tej chwili chyba najbardziej interesujące są materiały o właściwościach katalitycznych, o wysokiej aktywności i selektywności. Zastosowanie metody plazmowej umożliwia wytworzenie bardzo cienkich warstw, o grubości nawet kilku–kilkunastu nanometrów, z dokładnie zaprojektowaną strukturą molekularną.
+
+Tak cienkie warstwy umożliwiają ich nakładanie na dowolne podłoża, np. bardzo drobne siatki metalowe, nie zmieniając zupełnie ich geometrii. Otwiera to szerokie możliwości w projektowaniu reaktorów chemicznych z wypełnieniami o praktycznie dowolnym kształcie.
+
+„Technika zimnej plazmy daje nam tu ogromne możliwości do realizowania projektów molekularnych związanych z wytwarzaniem takich zupełnie nowych materiałów katalitycznych poprzez dobór odpowiednich prekursorów, ich mieszanin, nakładania kolejnych warstw na siebie i budowania układów wielowarstwowych” - opowiadał naukowiec.
+
+
+
+Jak podkreślił, zmieniając parametry wytwarzania plazmy można zmieniać również nanostrukturę takiego materiału. Tym samym możemy sterować zarówno strukturą molekularną, jak i nanostrukturą wytwarzanych materiałów i w ten sposób dążyć do osiągnięcia materiałów o określonych właściwościach katalitycznych.
+
+Otrzymane w ten sposób katalityczne układy cienkowarstwowe badane są z punktu widzenia ich struktury molekularnej i nanostruktury. W tym celu naukowcy wykorzystują rozmaite techniki: mikroskopię elektronową, fotospektrometrię elektronową czy mikroskopię sił atomowych.
+
+„Te wszystkie techniki pozwalają nam ustalić, co mamy na powierzchni, jak ona jest skonstruowana, jaką ma nanostrukturę i budowę chemiczną. Następnie próbujemy zbadać te materiały już jako materiały katalityczne w konkretnych procesach” - dodał prof. Tyczkowski.
+
+W przypadku wychwytu dwutlenku węgla naukowcy poszukują katalizatorów, które przyspieszyłyby taki proces np. w mieszaninach wody z aminami, a w przypadku jego przetwarzania pracują obecnie nad syntezą metanu z CO2 i wodoru. Ale to nie wszystko – pracują także nad innymi procesami związanymi z globalnym problemem energetycznym: pozyskaniem paliwa wodorowego.
+
+„Przez fotorozkład wody na odpowiednio skonstruowanych nanokatalizatorach próbujemy uzyskać wodór, który z jednej strony możemy wykorzystać chociażby do syntezy z CO2 , a z drugiej strony już jako konkretny nośnik energii - paliwo wodorowe” - dodał naukowiec.
+
+Rozkład wody na wodór i tlen (zwany splittingiem) jest prowadzony rozmaitymi metodami, chociażby poprzez znaną od dawna elektrolizę wody. Natomiast łódzcy naukowcy próbują wykorzystać do tego światło oraz bardzo złożone układy cienkowarstwowych nanokompozytów, będące mieszaniną dwóch materiałów o prawie identycznej budowie molekularnej, ale zupełnie różnych właściwościach elektronowych.
+
+„Pomiędzy obu materiałami, w skali nano, tworzą się złącza, na których poprzez naświetlanie możemy doprowadzić do rozseparowania nośników ładunku – dziur i elektronów. Dziura czy elektron reagując z cząsteczką wody może prowadzić do wytworzenia odpowiednio tlenu lub wodoru, powodując w ten sposób rozkład wody. Dalej to już jest kwestia konstrukcji materiałów, w których możemy otrzymać taką separację bez zewnętrznych pól i przykładania potencjałów” - wyjaśnił prof. Tyczkowski.
+
+
+
+Według niego, to rozwiązanie już działa, choć do dopiero początek drogi. „Cały wysiłek idzie obecnie w kierunku zoptymalizowania tego procesu i ewentualnego przeniesienia go do większej skali” - dodał.
+
+W przypadku zagospodarowania CO2 naukowcy z PŁ odnieśli już duży sukces, bo udało im się (po wielu próbach i zmianach w budowie struktury nanokatalizatorów plazmowych) uzyskać materiał, który zachowuje się bardzo stabilnie i umożliwia konwersję dwutlenku węgla do metanu na poziomie 70 proc., przy selektywności ponad 95 proc. Trwają przygotowania do opatentowania tego rozwiązania.
+
+Naukowcy nie kryją, że z badaniami, które finansowane są przez Narodowe Centrum Nauki, wiążą ogromne nadzieje i liczą, że będą one krokiem naprzód w przetwarzaniu CO2.
+
+„Z drugiej strony nanokompozytowe materiały, które też za pomocą plazmy otrzymujemy, a które - jak już wiemy - działają w przypadku fotorozszczepianie wody, też na pewno stworzą możliwości postępu w otrzymywaniu wodoru” - podsumował prof. Jacek Tyczkowski.

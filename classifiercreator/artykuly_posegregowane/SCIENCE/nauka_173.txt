@@ -1,0 +1,35 @@
+Dwie turbiny wiatrowe - o poziomej i pionowej osi obrotu, które mogą mieć zastosowanie przy różnych warunkach wietrznych - opracowali w b.r. studenci z zespołu GUST Politechniki Łódzkiej. Małe turbiny wiatrowe ich projektu od trzech lat wygrywają międzynarodowy konkurs organizowany w Holandii.
+      
+             
+
+W tegorocznej edycji konkursu International Small Wind Turbine Contest, organizowanego przez NHL University of Applied Sciences w holenderskim Leeuwarden, wzięło udział 10 drużyn z Europy, Kanady i Egiptu. Projekt przydomowej turbiny wiatrowej o poziomej osi obrotu łódzkich studentów już po raz trzeci okazał się najlepszy.
+
+"Od trzech lat projektują małe turbiny wiatrowe, które mogą byś stosowane w terenach zurbanizowanych. To turbiny, które będziemy mogli postawić na dachach domów jednorodzinnych czy na dachach bloków w centrum miasta i będziemy dzięki nim mogli produkować własną energię elektryczną” - opowiadał PAP Damian Kądrowski, koordynator projektu studenckiego GUST, działającego w Instytucie Maszyn Przepływowych PŁ.
+
+Dotąd studenci budowali tylko turbiny o poziomej osi obrotu. W tym roku zaprezentowali także konstrukcję o poziomej osi obrotu – typu H-rotor.
+
+Do swojego "flagowego" projektu turbiny o poziomej osi obrotu wprowadzili wiele innowacyjnych zmian konstrukcyjnych. "W tym roku zmodernizowaliśmy całkowicie generator i zastosowaliśmy innowacyjny system przełączania cewek w generatorze, który pozwolił nam dostosować moc aerodynamiczną do mocy elektrycznej, dzięki temu zwiększyliśmy sprawność wytwarzania energii" - dodał Kądrowski.
+
+Studenci opracowali także własne profile aerodynamiczne czyli geometrię łopat turbiny. Łopaty wydrukowali w technice druku 3D, testowali je w tunelu aerodynamicznym i przeprowadzili symulacje numeryczne.
+
+Małgorzata Stępień z Wydziału Mechanicznego PŁ, która odpowiada za aerodynamikę w projekcie GUST przyznaje, że większość studenckich zespołów wzoruje się na istniejących już geometriach, przerabia je i dostosowuje do własnych potrzeb. "My w tym roku poszliśmy o krok dalej i od podstaw, od zera stworzyliśmy naszą własną geometrię, która jest naszym autorskim projektem" - podkreśliła.
+
+Zaprojektowana przez nich turbina ma konstrukcję zbliżoną do standardowych turbin wiatrowych, ale powstała w znacznie mniejszej skali. Składa się z wirnika z trzema łopatami, przed którym zamontowano specjalną opływkę powodującą, że powietrze nie wyhamowuje i efektywnie przepływa na łopaty. Wiatr powoduje obrót łopat, a moc mechaniczna jest przekazywana na generator, który wytwarza moc elektryczną.
+
+Studenci opracowali także własnej konstrukcji hamulec i panel sterowania. Całość kończy specjalna płetwa, która sprawia, że turbina samoistnie ustawia się zgodnie z kierunkiem wiatru.
+
+Turbina konkursowa o pionowej osi obrotu może wytworzyć moc maksymalną na poziomie ok. 600 W przy prędkości wiatru 12 m/s. Stępień podkreśliła, że głównym zamysłem takich małych turbin wiatrowych nie jest bezpośrednie zasilanie urządzeń elektrycznych. "One służą np. do ładowania baterii akumulatorów, z których dopiero zasilane są urządzenia np. komputer, mała lodówka czy ogrzewanie w łazience" - dodała studentka.
+
+Projekt jest współfinansowany ze środków przyznanych przez MNiSW, w ramach programu "Najlepsi z Najlepszych! 2.0"
+
+Studenci opracowali w tym roku po raz pierwszy turbinę o pionowej osi obrotu, bowiem oba rodzaje turbin nadają się do pracy w zupełnie innych warunkach wietrznych. Zaletą turbin o poziomej osi obrotu jest fakt, że wytwarzają większą moc i posiadają większą sprawność, ale też startują przy większej prędkości wiatru. Inaczej jest w przypadku turbin o pionowej osi obrotu. Te dają mniejszą moc maksymalną, ale zaczynają działać przy słabszym wietrze. Dlatego przy ich stawianiu trzeba mieć na uwadze warunki wietrzności w danym terenie.
+
+"Może się okazać, że tam, gdzie chcielibyśmy zastosować tę technologię, wiatr wieje ze zbyt małą prędkością i podmuchy są za słabe, żeby rozpędzić taką klasyczna turbinę. Wtedy idealnym rozwiązaniem są turbiny wiatrowe o pionowej osi obrotu, które generują mniejszą moc, ale startują znacznie wcześniej – potrzebują mniejszej prędkości wiatru do tego, żeby zacząć pracę" - wyjaśniła Stępień.
+
+Przydomowe, niewielkie turbiny wiatrowe są już popularne na Zachodzie, ale studenci liczą, że będą też w większym stopniu wykorzystywane w Polsce. Ich połączeni z fotowoltaiką daje możliwość generowania energii elektrycznej przy różnych warunkach pogodowych, niezależnie od ogólnej sieci elektroenergetycznej.
+
+Studenci nie ukrywają, że chcieliby skomercjalizować swoje prototypy. Zapowiadają kolejne ulepszenia. Chcą też spróbować swych sił w prestiżowym konkursie turbin Collegiate Wind Competition, organizowanym za dwa lata przez Departament Energii Stanów Zjednoczonych.
+
+Projekt jest współfinansowany ze środków przyznanych przez MNiSW, w ramach programu "Najlepsi z Najlepszych! 2.0".
+
+Drużyna GUST (Generative Urban Small Turbine) to projekt studencki uruchomiony w 2015, a działający w ramach Studenckiego Koła Naukowego Energetyków w Instytucie Maszyn Przepływowych PŁ. Skupia studentów z Wydziałów: Mechanicznego, Elektrotechniki, Elektroniki, Informatyki i Automatyki, Fizyki Technicznej, Informatyki i Matematyki Stosowanej, Zarządzania i Inżynieria Produkcji oraz International Faculty of Engineering.

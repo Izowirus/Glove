@@ -1,0 +1,28 @@
+Warszawa, 25.05.2018. Dzień otwarty w Ministerstwie Cyfryzacji pod hasłem "Oto RODO", 25 bm. W piątek, 25 bm. na terenie całej Unii Europejskiej zacznie obowiązywać RODO - ogólne rozporządzenie o ochronie danych osobowych.  (sko) PAP/Jacek Turczyk PAP © 2018 / Jacek Turczyk
+                                        
+
+            RODO nie wpływa na moc obowiązującą przepisów Kodeksu wyborczego - ocenił Urząd Ochrony Danych Osobowych. UODO wskazał jednocześnie, że zarówno podczas zbierania podpisów na listach poparcia, jak i samych wyborów, powinno się uniemożliwić obywatelom wgląd w dane innych osób.
+      
+            9 lipca przewodniczący Państwowej Komisji Wyborczej Wojciech Hermeliński zwrócił się do prezes Urzędu Ochrony Danych Osobowych (UODO) Edyty Bielak-Jomaa z prośbą o opinię dot. zbierania przez komitety wyborcze podpisów wyborców popierających utworzenie komitetu wyborczego oraz zgłoszenie list kandydatów na radnych.
+
+W odpowiedzi na pismo Hermelińskiego przekazanej PAP, UODO ocenił, że rozporządzenie RODO nie wpływa na moc obowiązującą przepisów Kodeksu wyborczego. "RODO nie nakłada na administratorów danych nowych, nieznanych dotychczasowemu stanowi prawnemu obowiązków, a wyłącznie modyfikuje ich treść — co jednak nie stoi w sprzeczności z obowiązywaniem krajowych przepisów o charakterze szczególnym, jeżeli znajduje się w nich stosowna podstawa prawna przesądzająca o legalności przetwarzania danych osobowych" - podkreślono.
+
+W dokumencie wskazano, że zgodnie z rozporządzeniem RODO przetwarzanie szczególnych kategorii danych osobowych (do których zalicza się m. in. dane ujawniające poglądy polityczne) jest możliwe, gdy jest to niezbędne ze względów związanych z ważnym interesem publicznym. "Za taki ważny interes uznać należy przeprowadzenie wyborów, zatem sama kwestia legalności zbierania podpisów na listach poparcia czy zgłaszania kandydatów na radnych nie podlega dyskusji" - podkreśla UODO.
+
+UODO wskazuje jednocześnie, że na administratorze danych (którymi na etapie zbierania podpisów są poszczególne komitety wyborcze, a po przekazaniu tych danych — Państwowa Komisja Wyborcza) ciąży szereg obowiązków wobec osób, których dane dotyczą. Nie jest to jednak - jak zaznaczono — nowością w stosunku do dotychczas obowiązujących przepisów o ochronie danych osobowych. Obowiązki te odnoszą się zarówno do danych osób udzielających poparcia komitetowi wyborczemu, jak i danych kandydatów.
+
+Jak wskazano w piśmie, administrator danych powinien: spełnić obowiązek informacyjny wobec osoby, której dane dotyczą, zapewnić osobie, której dane dotyczą dostęp do jej danych i sprostowanie danych, a także w uzasadnionych przypadkach ograniczyć przetwarzanie danych.
+
+"W kontekście zbierania danych osobowych w związku ze zbieraniem podpisów na listach poparcia, szczególną uwagę należy zwrócić na zasadę integralności i poufności, zgodnie z którą dane powinny być przetwarzane w sposób zapewniający odpowiednie bezpieczeństwo danych osobowych, w tym ochronę przed niedozwolonym lub niezgodnym z prawem przetwarzaniem oraz przypadkową utratą, zniszczeniem lub uszkodzeniem, za pomocą odpowiednich środków technicznych lub organizacyjnych" - podkreślono.
+
+W praktyce - jak napisano - oznacza to zbieranie podpisów na listach poparcia w taki sposób, by uniemożliwić osobom udzielającym poparcia wgląd w dane innych osób, które umieściły na listach swoje imię i nazwisko, adres zamieszkania oraz PESEL. "Aby to osiągnąć nie jest konieczne zbieranie podpisów na oddzielnych kartkach papieru, wystarczy zasłonięcie wypełnionej części listy przed złożeniem podpisu przez kolejną osobę" - wskazano.
+
+"Podobna praktyka powinna być zastosowana podczas samych wyborów, co miało już miejsce w przeszłości w niektórych terytorialnych komisjach wyborczych, poprzez użycie specjalnego szablonu nakładanego na spisy wyborców. Jest to przesuwna, kartonowa nakładka z wyciętym otworem. Dzięki niej wyborcy, którzy odbierając karty do głosowania składają podpis na spisie wyborców, mogą sprawdzić tylko własne dane, reszta spisu jest bowiem zasłonięta" - przypomniano.
+
+UODO zauważa jednocześnie, iż w inny sposób traktować należy dane osobowe kandydatów zgłoszonych do rejestracji, ponieważ - jak wskazano - z uwagi na kontekst ich zbierania, są to dane jawne, do których wszyscy wyborcy powinni mieć dostęp.
+
+Wcześniej Ministerstwo Cyfryzacji podało w komunikacie, że rozporządzenie o ochronie danych osobowych (RODO) "w żadnym zakresie nie zmienia zasad związanych ze zbieraniem list poparcia w trakcie kampanii wyborczych". Wskazano, że identyczne zasady obowiązywały w tym zakresie przed 25 maja br., a więc przed datą rozpoczęcia obowiązywania RODO.
+
+25 maja w całej Unii Europejskiej zaczęło obowiązywać unijne rozporządzenie o ochronie danych osobowych (RODO). Zakłada m.in. prawo do usunięcia, również z internetu, informacji na swój temat. Rozporządzenie stanowi, że przetwarzanie danych będzie możliwe za wyraźną zgodą tego, kogo dotyczą. Przewiduje kary za naruszenie prawa do ochrony danych - do 20 mln euro lub 4 proc. obrotu firmy.
+
+Unijne przepisy dotyczą wszystkich podmiotów prywatnych i publicznych, które przetwarzają dane osobowe. W RODO zdefiniowano je jako dane, które pozwalają zidentyfikować osobę fizyczną. Chodzi o imię, nazwisko, numer PESEL, płeć, adres e-mail, numer IP komputera, dane lokalizacyjne, kod genetyczny, poglądy polityczne, historię zakupów.

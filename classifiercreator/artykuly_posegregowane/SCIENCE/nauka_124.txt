@@ -1,0 +1,58 @@
+PAP/EPA/Jonas Ekstromer
+                                        
+
+            Frances H. Arnold, George P. Smith i Gregory P. Winter są tegorocznymi laureatami Nagrody Nobla w dziedzinie chemii - ogłosił w środę w Sztokholmie Komitet Noblowski. Doceniono ich za "wykorzystanie sił ewolucji".
+      
+            Całą złożoność i różnorodność życia – w tym także pojawienie się człowieka – zawdzięczamy mechanizmom ewolucji, dzięki którym żywe organizmy stają się coraz bardziej złożone, wyrafinowane i przystosowują się do zmiennych warunków środowiska. Tegoroczni laureaci Nagrody Nobla wykorzystali te mechanizmy dla dobra ludzkości.
+
+"Kierowana ewolucja" pozwoliła stworzyć enzymy wykorzystywane w produkcji biopaliw czy leków. Z kolei przeciwciała uzyskane dzięki metodzie fagowej ekspresji peptydów („phage display”) znalazły zastosowanie w leczeniu chorób autoimmunologicznych oraz zaawansowanych nowotworów.
+
+Życie pojawiło się na Ziemi około 3,7 miliarda lat temu. Przez ten czas żywe organizmy opanowały niemal każde możliwe środowisko, od gorących źródeł i pustyń po dno morza, szczyty gór i lody Antarktydy. Pojawiły się wszędobylskie bakterie, odporne na wszystko niesporczaki, świecące meduzy, latające owady, ptaki i nietoperze, a wreszcie zdolni do wszystkiego ludzie. By to było możliwe, ewolucja musiała rozwiązać niezliczone problemy, produkując białka o odpowiednich właściwościach – supermocny klej mocujący małże do skał, przezroczystą jak szkło krystalinę w soczewce oka, elastyczną elastynę naszych ścięgien i naczyń krwionośnych, "niezamarzające" białko we krwi arktycznych ryb… Narzędziami ewolucji były zmiany genetyczne i selekcja. Pojawiały się zmiany w genach - często na gorsze, ale czasem korzystne. Te korzystne miały większe szanse przetrwania. 
+
+Podobnie postępowali tegoroczni nobliści
+
+W roku 1993 Amerykanka Frances H.Arnold (z wykształcenia inżynier przemysłu kosmicznego) po raz pierwszy dokonała kierowanej ewolucji enzymów – białek, które katalizują (przyspieszają) reakcje chemiczne. Podczas gdy klasyczne metody chemiczne wykorzystywane w produkcji leków czy tworzyw sztucznych często wymagają zastosowania toksycznych chemikaliów (m.in. metali ciężkich), wysokich ciśnień i temperatur - enzymy pozwalają przeprowadzać reakcje w sposób bardziej skuteczny i przyjazny dla środowiska.
+
+Początkowo naukowcy próbowali świadomie nadawać enzymom nowe właściwości. Jednak uniemożliwiła to ich niezwykle złożona budowa.
+
+Nawet przy całej współczesnej wiedzy i ogromnej mocy dzisiejszych superkomputerów bardzo trudno zaplanować nadanie enzymowi nowych właściwości. W latach 90. było to praktycznie niemożliwe. Dlatego Frances Arnold poszła sprawdzoną w ciągu miliardów lat drogą ewolucji.
+
+Pierwszym enzymem, jaki próbowała zmodyfikować, była subtylizyna, bakteryjny enzym używany (oprócz badań naukowych) w kosmetycznych preparatach zmiękczających skórę, środkach piorących, płynach do zmywania, przemyśle spożywczym czy płynach do czyszczenia soczewek kontaktowych.
+
+Subtylizyna działa w środowisku wodnym. Badaczka chciała, by enzymu można było używać także w rozpuszczalniku organicznym - dimetyloformamidzie (DMF). Aby to osiągnąć, doprowadziła do licznych mutacji w genie kodującym enzym. Zmutowane geny wprowadzono do bakterii, uzyskując tysiące odmian enzymu. Wystarczyło "tylko" wyselekcjonować warianty najlepiej działające w środowisku rozpuszczalnika organicznego.
+
+Wybrany wariant poddany został dalszym mutacjom, dzięki czemu pojawił się enzym jeszcze skuteczniejszy. Trzecia "generacja" działała w środowisku DMF 256 razy lepiej, niż oryginalny enzym i różniła się od niego w sumie 10 mutacjami. Przewidzenie korzystnych skutków aż tak złożonych zmian byłoby niemożliwe.
+
+
+
+Z czasem stworzone przez amerykańską badaczkę metody zostały udoskonalone. Dziś rutynowo stosuje się je do tworzenia nowych enzymów. Można np. z cukrów prostych uzyskiwać izobutanol, nadający się na paliwo dla samochodów i samolotów.
+
+Kolejny ważny krok zrobił Willem P.C. Stemmer, zmarły w roku 2013 holenderski badacz i przedsiębiorca. Zastosował rekombinację - metodę pozwalającą naśladować w probówce rozmnażanie płciowe, które prowadzi do powstawania nowych kombinacji genów, eliminuje geny nieprzydatne i promuje te o korzystnych właściwościach. W roku 1994 "pociął" geny na małe fragmenty, po czym za pomocą narzędzi typowych dla technologii DNA ułożył z nich nowe wersje genów będące mozaiką pierwowzorów. Zmodyfikowany tą metodą enzym okazał się znacznie skuteczniejszy w działaniu od oryginału.
+
+W roku 1985 Amerykanin George P. Smith opracował metodę zwaną "phage display". Polega ona na wykorzystaniu bakteriofaga - wirusa zakażającego bakterie – do wytwarzania nowych białek.
+
+Bakteriofag ma prostą budowę – w zasadzie jest to fragment DNA opakowany w białko. Aby się rozmnożyć, wstrzykuje bakterii własny materiał genetyczny, przejmując nad nią kontrolę. Opanowana przez bakteriofaga bakteria wytwarza jego kopie - zarówno DNA, jak i białka. George P. Smith postanowił wykorzystać bakteriofagi do znajdowania nieznanego genu odpowiedzialnego za wytwarzanie znanego białka.
+
+Korzystając z kierowanej ewolucji będzie można na przykład uzyskać leki na chorobę Alzheimera
+
+Fragmenty niezidentyfikowanych genów łączono z genami kodującymi białko tworzące białkową otoczkę wirusa. W rezultacie bakterie wytwarzały zarówno białko wirusowe, jak i białko odpowiadające badanemu genowi, a bakteriofag miał to białko na swojej powierzchni. Z mieszaniny fagów prezentujących różne białka można było "wyłowić" poszczególne z nich za pomocą specyficznych przeciwciał. Dzięki temu można było połączyć konkretne białko z konkretnym genem.
+
+Jego prace bardzo praktycznie wykorzystał Brytyjczyk Sir Gregory P. Winter - uzyskał ludzkie przeciwciała mające zastosowanie jako leki. Pierwszy był adalimumab - neutralizujący związane z zapaleniami białko TNF–alfa. Jako lek na reumatoidalne zapalenie stawów, łuszczycę oraz choroby zapalne jelit został zatwierdzony do użytku w roku 2002. Później pojawiły się przeciwciała neutralizujące toksyny, przeciwdziałające chorobom autoimmunologicznym, a nawet leczące zawansowane nowotwory z przerzutami. 
+
+Naukowcy uważają, że korzystając z kierowanej ewolucji można będzie osiągnąć znacznie więcej – na przykład uzyskać leki na chorobę Alzheimera.
+
+Frances H. Arnold otrzyma połowę kwoty 9 mln koron szwedzkich (ok. 871 tys. euro). Drugą połową podzielą się George P. Smith i Sir Gregory P.Winter.
+
+Frances Hamilton Arnold urodziła się w 1956 r. w Pittsburghu (USA). Studiowała inżynierię mechaniczną i lotniczą na Princeton University, zaś w 1985 r. obroniła doktorat z inżynierii chemicznej na University of California, Berkeley. Od 1986 r. związana jest z California Institute of Technology (Caltech), gdzie prowadzi laboratorium zajmujące się ukierunkowaną ewolucją białek.
+
+Smith: "Bardzo niewiele przełomowych odkryć naukowych jest nowatorskich"
+
+Prywatnie Arnold uwielbia spacery i podróże. Głośno mówi o niebezpieczeństwach związanych ze spadkiem zaufania do nauki. "W USA mamy aktualnie duży problem z tym, że nasi liderzy odchodzą od nauki i praktyki dochodzenia opartego na faktach" - mówiła w kwietniu 2018 r. Arnold uczestniczyła również w 2017 r. w Marszu dla Nauki, zorganizowanym w Waszyngtonie.
+
+George P. Smith urodził się w 1941 r. w Norwalk (USA). W 1970 r. otrzymał doktorat na Uniwersytecie Harvarda (USA). Przez większość kariery związany był jednak z University of Missouri, gdzie przez 40 lat pracował w Division of Biological Sciences.
+
+W rozmowie z agencją Associated Press Smith podkreślił, że jego praca oparta jest na podstawach stworzonych przez innych ludzi. "Bardzo niewiele przełomowych odkryć naukowych jest nowatorskich. Szczególnie odnosi się to do mojej pracy. Mój pomysł był jedynie częścią całego szeregu badań, które w naturalny sposób korzystały z badań jeszcze wcześniejszych" - mówił noblista.
+
+Sir Gregory "Greg" P. Winter przyszedł na świat w 1951 r. w mieście Leicester (W. Brytania). Cała jego kariera naukowa związana jest z Uniwersytetem w Cambridge, w którym obronił doktorat. W 2004 za zasługi w zakresie biologii molekularnej otrzymał od angielskiej królowej tytuł szlachecki. Aktualnie Winter pracuje w działającym przy Uniwersytecie w Cambridge MRC Laboratory of Molecular Biology. Otrzymana przed niego w tym roku nagroda jest już 12. Nagrodą Nobla, która trafiła do pracownika tego laboratorium.
+
+Winter podkreśla wagę finansowania badań podstawowych z pieniędzy publicznych. "Nikt inny nie sfinansuje odkrywczych nauk, jeśli nie zrobi tego rząd. Nikt inny nie da pieniędzy na badania, które mogą przynieść korzyści dopiero za 20-70 lat. Musimy utrzymywać w Wielkiej Brytanii finansowaną przez rząd kadrę naukową, która będzie prowadzić badania zarówno podstawowe, jak i te bardziej stosowane" - mówił w 2013 r.

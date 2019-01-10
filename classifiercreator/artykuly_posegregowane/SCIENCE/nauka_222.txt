@@ -1,0 +1,33 @@
+Jak wyżywić przyszłych kolonistów na Marsie? Pracują nad tym m.in. wrocławscy naukowcy, którzy opracowują system oczyszczania ścieków. Ma on pomóc w pozyskaniu wody i składników odżywczych dla aeroponicznych upraw roślinnych w pozaziemskich koloniach.
+      
+            System mógłby być wykorzystywany także na Ziemi w miejscach, gdzie występuje deficyt wody.
+
+Zdaniem dra Kamila Janiaka z Wydziału Inżynierii Środowiska Politechniki Wrocławskiej eksploracja przestrzeni kosmicznej, w tym założenie kolonii pozaziemskiej, jest naturalnym krokiem w rozwoju technologicznym ludzkości. Ważnym wyzwaniem z tym związanym będzie zbudowanie systemu podtrzymania życia, który pozwoli ludziom na długotrwałe przeżycie w przestrzeni kosmicznej.
+
+Ideą projektu wrocławskich naukowców jest opracowanie systemu oczyszczania ścieków, który - w warunkach obniżonej grawitacji - dostarczałby składniki niezbędne do wzrostu roślin na uprawach aeroponicznych.
+
+"Idea naszego projektu polega na tym, że dążąc do zamknięcia obiegu pierwiastków i wody, czyli najważniejszych elementów warunkujących życie, chcemy wykorzystywać ścieki produkowane przez ludzi bezpośrednio do produkcji nawozu wykorzystywanego do uprawy roślin. Czyli w ten sposób obieg, który istnieje w przyrodzie w większej skali, chcemy zamknąć w szeregu urządzeń" - wyjaśnił naukowiec.
+
+
+
+System ma się składać z reaktora biologicznego, w którym – przy zastosowaniu odpowiednich bakterii - będzie następować proces oczyszczania moczu rozcieńczonego wodą. Ma być on oczyszczany do takiego składu, który pozwoli na wykorzystanie go jako pożywki podawanej za pomocą dysz bezpośrednio na moduły upraw aeroponicznych, należących do upraw bezglebowych.
+
+"Do takich upraw możemy zaliczyć np. hydroponikę, w której strefa korzenna znajduje się w wodzie, albo właśnie aeroponikę. W takim typie uprawy rośliny podtrzymywane są w powietrzu przez specjalny stelaż, a strefa korzenna jest spryskiwana przez system dysz. W ten sposób roślinom dostarczana są składniki odżywcze i woda" - wyjaśniła doktorantka na Wydziale Inżynierii Środowiska PWr Anna Jurga.
+
+Badania pokazują, że dzięki tej metodzie rośliny rosną i rozwijają się dużo szybciej, niż przy zastosowaniu tradycyjnych metod uprawy.
+
+Najważniejszym elementem projektu, na którym obecnie skupiają się naukowcy, jest reaktor biologiczny do oczyszczania moczu. Będzie to typowy reaktor stosowany w oczyszczalniach ścieków, ale wykonany w technologii druku 3D, bowiem – w założeniu - ma być on wykonywany na miejscu np. na kolonii marsjańskiej.
+
+„Zakładamy, że materiałem do produkcji tworzywa sztucznego, z którego wykonany będzie reaktor, będzie np. skrobia ziemniaczana lub minerały dostępne bezpośrednio na Marsie. W ten sposób unikniemy potrzeby transportowania surowców z Ziemi i problemów związanych np. z awariami reaktora i jego naprawami” - dodał dr Janiak.
+
+
+
+Jedną z zalet reaktora ma być jego kompaktowość. Będzie zajmował niewielką powierzchnię i dodatkowo nie będzie generował dużych kosztów. Przewiduje się, że np. dla ośmioosobowej załogi habitatu rozmiary takiego reaktor będą porównywalne z wielkością zwykłej lodówki i będzie on w stanie oczyścić kilkaset litrów moczu i wody w ciągu doby.
+
+Naukowcy przyznają, że jednym z wyzwań jest określenie wpływu obniżonej grawitacji panującej w kosmosie na pracę całego układu – reaktora biologicznego i upraw roślinnych. Jak podkreślił dr Janiak, grawitacja na Marsie jest o ponad 60 proc. niższa, niż na Ziemi, a np. na Księżycu - sześciokrotnie niższa. Na razie nie do końca wiadomo, jak w takich warunkach będą zachowywać się bakterie wykorzystywane w reaktorze albo rośliny.
+
+Projektowany przez naukowców z Wrocławia system oczyszczania ścieków mógłby znaleźć zastosowanie nie tylko w kosmosie, ale i na Ziemi, np. na stacjach polarnych, platformach wiertniczych czy wszędzie tam, gdzie występuje deficyt wody. "Mogłoby to mieć zastosowanie wszędzie tam, gdzie konieczne jest zamykanie obiegu wody" - podkreślił dr Kamil Janiak.
+
+Przy projekcie naukowcy z PWr współpracują z prof. Włodzimierzem Bresiem z Uniwersytetu Przyrodniczego w Poznaniu, specjalistą w zakresie upraw bezglebowych. Obecnie poszukują też źródeł finansowania swoich badań. Jeśli uda się im zdobyć fundusze, chcą do swoich prac wynająć nowoczesną stację badawczą należącą do Miejskiego Przedsiębiorstwa Wodociągów i Kanalizacji we Wrocławiu, z którym współpracują przy okazji innych projektów.
+
+"Obecnie jesteśmy na etapie tworzenia modelu statycznego systemu w programie komputerowym. Jeżeli znajdą się środki na taką instalację, to nasz reaktor biologiczny mógłby powstać w ciągu 3-4 lat" - oceniła Anna Jurga.

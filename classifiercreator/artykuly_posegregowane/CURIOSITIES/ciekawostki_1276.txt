@@ -1,0 +1,9 @@
+Jeszcze w tym roku budowane przez estoński start-up roboty mają dostarczać mieszkańcom przedmieść Londynu zakupy i posiłki na wynos – informuje serwis BBC News. Firma Starship Technologies testowała dostawcze roboty w USA, na ulicach Londynu oraz stolicy Estonii – Tallina.
+      
+            Roboty mają postać przypominającego kempingową lodówkę na kółkach pudła z wieloma migającymi światełkami. Zdaniem twórców dostawa przy użyciu autonomicznego robota jest szybsza, tańsza i bardziej ekologiczna w porównaniu z pracą kuriera, samodzielnym przywożeniem zakupów z supermarketu, dronami dostawczymi, nad którymi pracuje Amazon, czy samochodem dostawczym bez kierowcy Google. Drony mogą stanowić zagrożenie dla ruchu powietrznego, z czym wiążą się problemy prawne i konieczność stałego nadzoru.
+
+Robot wyposażony jest w zintegrowany system nawigacji oraz wykrywania przeszkód. Tylko klient może (dzięki przesłanemu przez sprzedawcę SMS-owi) otworzyć mieszczący odpowiednik dwóch toreb z zakupami pojemnik urządzenia. Gdyby ktoś próbował kradzieży, operator może na niego nakrzyczeć przez głośnik i ostrzec, że zapisy z 9 kamer zostaną przedstawione policji.
+
+Jak powiedział BBC współtwórca Starship Technologies Ahti Heinla, podczas testów nie odnotowano poważniejszych incydentów – lekka i nierozwijająca zawrotnej prędkości maszyna, która porusza się po chodnikach nie zagraża pojazdom ani pieszym. W każdej chwil kontrolę nad nią może przejąć pracownik firmy dostawczej – patrzeć „oczami” robota, a nawet porozmawiać z klientem za jego pośrednictwem. Heinla ma nadzieję, że roboty rozpoczną regularne dostawy w Londynie jeszcze przed końcem roku 2016.
+
+Jak podkreślają eksperci, od 30 do 40 proc. dostawy wielu towarów to „ostatnia mila” w drodze od sprzedawcy do klienta; autonomiczny robot ma znacząco obniżyć ten koszt.

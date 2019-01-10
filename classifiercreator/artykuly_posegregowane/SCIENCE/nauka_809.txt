@@ -1,0 +1,16 @@
+Łódź, 03.04.2016. Spaghetti z małżami w łódzkiej restauracji Pizzeria Toskania specjalizującej się w kuchni włoskiej.  PAP/Grzegorz Michałowski (gm/mgut) Archiwum PAP © 2017 / Grzegorz Michałowski
+                                        
+
+            Wystarczy zdjęcie posiłku zamieszczone na Facebooku, by sztuczna inteligencja rozpoznała potrawę i podała na nią przepis - informuje serwis „EurekAlert”.
+      
+
+
+Internet ogromnie zwiększył możliwości prowadzenia badań dotyczących żywności i żywienia. W roku 2014 szwajcarscy naukowcy stworzyli zestaw danych Food-101 i wykorzystali do opracowania algorytmu rozpoznawania obrazów żywności z dokładnością do 50 proc., a później 80 proc. Jednak ograniczeniem wydawała się ilość dostępnych danych. Co prawda baza danych uniwersytetu w Hongkongu obejmuje ponad 110 000 zdjęć i 65 000 przepisów (z których każdy zawiera listę składników i instrukcje), ale dotyczy tylko kuchni chińskiej.
+
+Wspólnie z kolegami z katarskiego Qatar Computing Research Institute (QCRI), Amerykanie z MIT opracowali i wyszkolili system sztucznej inteligencji o nazwie Pic2Recipe. Jako źródło danych wykorzystali strony internetowe All Recipes oraz Food.com, tworząc obejmującą ponad milion przepisów bazę Recipe1M. Pozwoliło to sieci neuronowej osiągnąć niespotykaną wcześniej sprawność w wiązaniu wyglądu potraw z ich domniemanym składem.
+
+Teraz Pic2Recipe wystarczy zdjęcie dania, aby przewidzieć, z jakich składników je przyrządzono i zaproponować przepis na podobny specjał. Program ma swoją stronę demonstracyjną (Pic2Recipe!), na której można sprawdzić jego działanie – na własnych zdjęciach. Szczególnie dobrze radzi sobie z deserami, jak ciasteczka czy muffinki (najczęściej spotykanymi w jego bazie danych), gorzej – z bardziej wyszukanymi, jak sushi czy smoothie. Trudności sprawiają zwłaszcza sytuacje, gdy na podobnie wyglądającą potrawę jest wiele przepisów.
+
+Po udoskonaleniu systemu mógłby on na przykład proponować smakowite danie znając nasze preferencje dietetyczne oraz listę składników w lodówce. Albo – na podstawie podobnych przepisów - podpowiedzieć właściwe proporcje, gdy znamy składniki potrawy, ale nie wiemy, ile czego potrzeba.
+
+Wyniki badań zostaną przedstawione jeszcze w tym miesiącu na konferencji Computer Vision and Pattern Recognition w Honolulu.

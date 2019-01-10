@@ -1,0 +1,26 @@
+5.06.2002r. Owady. Komar
+PAP/Piotr Rybarczyk
+/bp/ PAP © 2017 / Piotr Rybarczyk
+                                        
+
+            Technika napędów genowych teoretycznie ma pozwalać na genetyczną modyfikację lub niszczenie całych populacji, a nawet gatunków. Naukowcy z Cornell University eksperymentalnie potwierdzili obawy wielu biotechnologów, że jej wykorzystanie napotyka na duże przeszkody; ale szukają też sposobów na ich pokonanie.
+      
+            Na łamach pisma „PLOS Genetics” badacze opisują doświadczenia, które pokazały w praktyce, z jakimi problemami wiąże się próba zastosowania technologii tzw. napędów genowych (ang. gene drive).
+
+To stosunkowo nowa technika o teoretycznie potężnych możliwościach modyfikowania całych populacji i gatunków. Jej działanie polega bowiem na tym, że wprowadzona do jakiegoś organizmu nowa cecha przekazywana jest potomstwu znacznie częściej, niż wynikałoby to z naturalnych praw dziedziczenia.
+
+W uproszczeniu można te prawa przedstawić następująco. Po zapłodnieniu w komórce istnieją dwa komplety odpowiadających sobie chromosomów z materiałem genetycznym. W normalnych warunkach jeden chromosom może zawierać inny wariant danego genu (np. koloru oczu) niż drugi. Osobnik, który z takiej komórki się rozwinie, połowie swojego potomstwa przekaże jeden wariant genu, a połowie - drugi.
+
+Ogólna zasada działania napędów genowych jest przy tym dosyć prosta. Do genomu zmienianego organizmu wprowadza się gen, który koduje enzym o nazwie Cas9 rozcinający DNA. Towarzyszy mu gen kodujący RNA, który kieruje enzym do wyselekcjonowanego odcinka w genomie. System ten może jeszcze zawierać dodatkowe geny o funkcjach wybranych przez jego projektantów.
+
+Zastosowania tej metody mogą być różne; badacze zainteresowani komarami i malarią
+
+Napęd genetyczny łamie przy tym naturalne zasady dziedziczenia. Kiedy bowiem dojdzie do zapłodnienia między komórkami rozrodczymi, z których tylko jedna zawiera ten system, enzym Cas9 rozcina chromosom bez napędu genowego, a komórka - chcąc go naprawić - kopiuje do rozciętego chromosomu odpowiedni fragment chromosomu drugiego, czyli w tym wypadku - zawierającego napęd genowy. W ten sposób oba chromosomy zwierają wprowadzony system. Geny napędu zostaną więc przekazane wszystkim potomkom tego osobnika. Dzięki temu system błyskawicznie rozprzestrzenia się w populacji.
+
+Zastosowania mogą być różne. Jeden z pomysłów to na przykład wprowadzenie genu odporności na malarię do populacji przenoszących je komarów. Dzięki przewadze napędu genowego nad zwykłym dziedziczeniem, odporność bardzo szybko mogłaby objąć wybraną populację komara lub nawet cały gatunek. Odpowiednio zaprojektowanym napędem można też teoretycznie szybko zniszczyć całą populację, a nawet gatunek.
+
+Jak można się domyślać, napęd stwarza też zagrożenia. Niebezpieczeństwo polega na utracie kontroli nad rozprzestrzenianiem się wprowadzonego systemu. Gdyby ktoś chciał np. użyć tej metody, aby pozbyć się niechcianego gatunku ryby w wybranym akwenie, ucieczka systemu do środowiska mogłaby oznaczać koniec dla tego gatunku na całym świecie.
+
+Naukowcy jednak zdają sobie sprawę, że napędy genowe, niestety lub na szczęście, nie działają tak doskonale, jakby chcieli biotechnolodzy. Badacze z Cornell University z pomocą eksperymentu na muszkach owocowych pokazali właśnie, że często zamiast powstawania nowej kopii genowego napędu, na drugim chromosomie tworzył się fragment odporny na jego wbudowanie. Jednym z głównych powodów, który za to odpowiadał, był taki, że komórka korzystała z innego mechanizmu naprawiania przeciętego chromosomu, niż ten, który pozwalałby na wbudowanie do niego genowego napędu.
+
+Podsumowując swoje wyniki autorzy twierdzą, że dla uzyskania działającej techniki potrzebne będą nowe podejścia do tworzenia napędów genowych. Nie wiadomo, czy długo trzeba będzie na to czekać. W jednym z eksperymentów badaczom udało się bowiem już wprowadzić modyfikacje, które zwiększyły niezawodność metody.

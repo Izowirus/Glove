@@ -1,0 +1,16 @@
+Góra Ropczycka  18.09.2015  Hodowla świń w gospodarstwie. dd/soa PAP/Darek Delmanowicz Archiwum PAP © 2017 / Darek Delmanowicz
+                                        
+
+            Dzięki zastosowaniu edycji genów naukowcy uzyskali świnie, których narządy można będzie wszczepiać ludziom - informuje „Science”. Ich genom pozbawiono niebezpiecznych retrowirusów, które mogłyby przenosić się na ludzkie komórki.
+      
+            Brak nadających się do przeszczepu ludzkich tkanek i narządów to główny problem współczesnej transplantologii (tylko w USA codziennie umierają 22 oczekujące na przeszczep osoby). Do szczególnie obiecujących koncepcji należy stosowanie narządów pobranych od zwierząt. Szczególnie nadawałyby się do tego celu świnie – łatwo je hodować na wielką skalę, a ich narządy są podobnej wielkości, co ludzkie.
+
+Jednak w świńskim genomie zawarte są potencjalnie niebezpieczne endogenne retrowirusy (PERV), które mogłyby przenosić się na ludzkie komórki.
+
+Naukowcy z firmy eGenesis (związanej z Harvard University) najpierw - w hodowli tkankowej - upewnili się, że PERV ze świńskich komórek rzeczywiście są zdolne do zakażenia ludzkich komórek. Również zakażone PERV ludzkie komórki okazały się zdolne do zakażenia zdrowych komórek świńskich. Potwierdziło to wagę problemu.
+
+Mapując świński genom, badacze zidentyfikowali PERV obecne w świńskich komórkach skóry – fibroblastach. Było ich w sumie 25. Dzięki zastosowaniu metody CRISPR, pozwalającej na manipulacje genomem, udało się – po dodatkowych zabiegach - dezaktywować wszystkie 25 odpowiadających wirusom miejsc genomu.
+
+Z wolnych od wirusów komórek powstały na drodze klonowania zarodki, które wszczepiono lochom. Gdy urodziły się prosięta (w sumie 37), nie wykazywały obecności wirusów. Przy okazji były one najbardziej zmodyfikowanymi genetycznie zwierzętami, jakie dotąd powstały.
+
+Komentujący to niewątpliwe osiągniecie naukowcy zaznaczają, że pozostaje jeszcze kwestia przystosowania świńskich tkanek do wszczepiania ludziom. Być może dalsze modyfikacje genetyczne zmniejszą problemy z odrzuceniem pochodzących od zwierząt przeszczepów.

@@ -1,0 +1,19 @@
+B-Droid nie zbiera nektaru i nie wytwarza miodu, nie do końca można go więc nazwać robopszczołą. To jednak pierwsze na świecie autonomiczne urządzenie latające, które może zapylać rośliny - mówi w rozmowie z PAP twórca urządzenia, dr Rafał Dalewski z Politechniki Warszawskiej.
+      
+            Kiedy kilka lat temu dr Rafał Dalewski z Wydziału MEiL Politechniki Warszawskiej dostał grant na budowę autonomicznego układu do zapylania roślin, nie wszyscy wierzyli, że to zadanie mu się uda. Naukowiec pokazał jednak, że jego pomysł to nie mrzonki - jest możliwy do zrealizowania. Wraz z zespołem zbudował prawdopodobnie pierwszy na świecie prototyp latającego urządzenia do zapylania kwiatów.
+
+Autonomiczny zapylacz z Politechniki Warszawskiej to przerobiony nieduży komercyjny dron. Dr Dalewski nie chce jednak, by jego projekt łączyć z tym określeniem - "drone" to po angielsku "truteń", czyli samiec pszczoły. A trutnie przecież nie zapylają kwiatów i - przynajmniej w polskiej kulturze - traktuje się je jako niezłe obiboki. Dr Dalewski postanowił więc nazwać swoje urządzenie B-droidem. Aby móc posługiwać się tą nazwą, musiał uzyskać zgodę twórców "Gwiezdnych Wojen", którzy mają monopol na komercyjne użycie słowa "droid". Na szczęście nie mieli nic przeciwko nazwaniu tak polskich urządzeń zapylających.
+
+B-Droid - choć wygląda jak przebudowany czterowirnikowiec - sterowany jest zupełnie inaczej niż zabawki, z którymi możemy mieć czasem styczność. "To urządzenie nie jest sterowane dżojstikiem, jest sterowane automatycznie przez komputer" - opowiada dr Dalewski. Dodaje, że użytkownicy mogą jedynie z zaciekawieniem patrzeć, jak B-Droid wyszukuje kwiat, podlatuje do niego - omijając przeszkody, zawisa w powietrzu, by zebrać pyłek i odlatuje od rośliny. Obserwator ma tylko do dyspozycji guzik, który pozwala zatrzymać system.
+
+
+
+Dr Dalewski przyznaje, że zaprogramowanie sterowania urządzenia było dużym wyzwaniem. "Czterowirnikowiec jest obserwowany z zewnątrz przez kamery" - opisuje naukowiec. Wyjaśnia, że kamery połączone są z komputerem, który analizuje obraz. Kamery rozpoznają nie tylko położenie kwiatów, ale i drona. Pomocne są w tym dwie świecące kulki umieszczone na urządzeniu - różowa wskazuje kamerom przód urządzenia, a niebieska - tył. Na komputerze wyliczane jest więc to, jak B-droid ma dolecieć do kwiatu, jak ma zebrać z niego pyłek i jak przenieść na inny kwiat. Wytyczne te przesyłane są do pojazdu.
+
+"Na razie prowadziliśmy testy w warunkach laboratoryjnych na sztucznych kwiatkach, natomiast latem zrobimy testy w naturalnych warunkach" - zapowiada dr Dalewski. Przyznaje jednak, że B-Droid jest dopiero prototypem. Aby mógł trafić na rynek, potrzeba jeszcze dużo pracy.
+
+Na razie większe szanse na komercjalizację ma starszy brat urządzenia - B-Droid jeżdżący. Zespół z PW wiosną tego roku przeprowadził już testy urządzenia w warunkach polowych - na uprawach truskawek i czosnku.
+
+"Porównanie z pszczołą jest tutaj bardzo na miejscu, w końcu zapylamy, czyli robimy to, co pszczoły. Natomiast nie zbieramy nektaru i nie robimy miodu" - śmieje się rozmówca PAP. Zaznacza jednak: "W naszych działaniach nie chcemy konkurować z naturą i z samymi pszczołami". Jak mówi, głównym celem projektu było przygotowanie urządzenia, które będzie działać tam, gdzie zapylanie jest trudne, np. tam, gdzie jest za mało owadów, albo gdzie w ogóle ich nie ma. Poza tym B-Droidy mogą się przydać tam, gdzie potrzebna jest precyzja zapylania - czyli tam, gdzie pyłek trzeba przenieść z konkretnego kwiatu na inny konkretny kwiat. Projekt B-Droid realizowany jest w ramach programu Lider Narodowego Centrum Badań i Rozwoju.
+
+Ludwika Tomala

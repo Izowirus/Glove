@@ -1,0 +1,16 @@
+TuCan - rakieta skonstruowana przez studentów Politechniki Warszawskiej potrafi wznieść się na wysokość 4 km, czyli dwukrotnie wyżej niż rakiety z innych krajów. Jej zadaniem jest wynoszenie do atmosfery instrumentów badawczych tzw. CanSatów - mówi jeden z konstruktorów rakiety Dawid Cieśliński.
+      
+            
+"Nad tym projektem pracowaliśmy od 2014 roku. Sam pomysł mieliśmy już rok wcześniej. To rakieta typu CanSat Launcher. Jej zadaniem jest wynoszenie do atmosfery eksperymentów naukowych tzw. CanSatów. To są eksperymenty rozmiarów puszki napojów. Na pułapie 4 km zostaną uwolnione i powrócą na ziemię na spadochronach" - mówi Tadeusz Górnicki, koordynator sekcji rakietowej Studenckiego Koła Astronautycznego Politechniki Warszawskiej.
+
+W rakiecie znajdują się także m.in. silnik, systemy odzysku, urządzenia do komunikacji, przekazywania telemetrii +na żywo+, a także komputer pokładowy odpowiadający za odpalenie spadochronów. Tylko wyobraźnia ogranicza tematykę eksperymentów wynoszonych w przestworza przez rakietę TuCan.
+
+Dane, jakie zbierają CanSaty są różne – od ciśnienia atmosferycznego i temperatury powietrza, przez telemetrię i fotografie, po poziom promieniowania jonizującego.
+
+
+
+"W innych krajach rakiety wynoszą do sześciu CanSatów na swoim pokładzie, a pułap, który osiągają to 1,5 do 2 kilometrów. Rakieta TuCan może na swoim pokładzie pomieścić 8 CanSatów i wynieść je na 3,5 do 4 kilometrów. Przekracza prędkość dźwięku" - mówi Dawid Cieśliński, jeden z konstruktorów rakiety.
+
+Budowa rakiety znacząco przyspieszyła w 2015 roku dzięki grantowi przyznanemu grupie badaczy przez firmę Raytheon. Przedsiębiorstwo przeznaczyło na wsparcie działalności studentów Politechniki Warszawskiej 50 tysięcy dolarów amerykańskich. Ważny był również fakt, że w tym okresie studenci zakończyli wcześniejsze projekty i więcej osób mogło zaangażować się w budowę rakiety TuCan.
+
+"Koszty produkcji rakiety wyniosły ok. 45-50 tysięcy złotych. Kolejne egzemplarze będą tańsze, bo połowa materiałów zostanie nam na dłużej i może być wykorzystana w przyszłości ponownie. Naszym zadaniem w Studenckim Kole Astronautycznym jest nauka budowy coraz większych rakiet. Zdobyte teraz umiejętności będziemy mogli wykorzystać w przyszłości w przemyśle kosmicznym czy zbrojeniowym” - podsumowuje Tadeusz Górnicki.

@@ -1,0 +1,28 @@
+Old copper beer tanks, used until 2013, at the 'Dubuisson' familial brewery in Leuze-en-Hainaut, Belgium, 05 January 2017. Archiwum, fot. PAP/EPA/STEPHANIE LECOCQ
+                                        
+
+            Analiza genomu pozwoliła odkryć nieznany nauce gatunek drożdży w beczce ze swobodnie fermentującym piwem -
+ informuje prestiżowe pismo "Science".
+      
+            W maju 2014 grupa naukowców odwiedziła mały browar urządzony w starym magazynie w Seattle (stan Waszyngton). Szukali drożdży do zsekwencjonowania, a przy okazji chcieli spróbować dobrego piwa.
+Szczególne zainteresowanie badaczy wzbudziła stara beczka po winie, w której uwalniając liczne bąbelki powstawało "dzikie piwo".
+
+Tak zwana technika swobodnej fermentacji to stara belgijska tradycja. Zamiast - jak w wielkich przemysłowych browarach - zaszczepić brzeczkę piwną określoną odmianą drożdży, gwarantującą powtarzalny, typowy dla danej marki smak (a często brak smaku), pozostawia się ją gorącą w otwartych beczkach czy kadziach, zostawiając również otwarte okna, by wraz z powietrzem z zewnątrz mogły się tam dostać dzikie drożdże. Brzeczka po ochłodzeniu zaczyna fermentować, co zwykle trwa od kilku miesięcy do roku, a nawet dłużej. Tak powstałe piwo określane jest jako "lambic", ale nawet doglądający fermentacji piwowar nie ma pojęcia, jakie dokładnie mikroorganizmy przyczyniły się do jego powstania.
+
+Sam proces produkcyjny wygląda nader niechlujnie i może szokować laików, ale jego wyniki potrafią zachwycać smakoszy.
+
+Kierująca badaniami dr Maitreya Dunham, genetyk z University of Washington w Seattle, postanowiła podjąć wyzwanie i zsekwencjonować dzikie drożdże za pomocą opracowanej na jej macierzystym uniwersytecie techniki Hi-C sequencing. Badacze pobrali próbkę piwa "Old Warehouse", w którym pływały rożne gatunki mikrobów.
+
+Wykorzystująca formaldehyd technika Hi-C sequencing pozwala sekwencjonować genetycznie drobnoustroje, które występują w środowisku razem. Jeśli fragmenty DNA mają zachodzące na siebie sekwencje, muszą pochodzić z tej samej komórki.
+
+Badania pobranej próbki wykazały obecność drożdży należących do rodzaju Pichia, które okazały się być hybrydą znanego gatunku P. membranifaciens oraz innego, całkowicie nowego dla nauki gatunku Pichia. Podobne hybrydy drożdży są często spotykane, niedawno na przykład odkryto dające piwo typu lager drożdże będące hybrydą dwóch gatunków z rodzaju Saccharomyces.
+
+Naukowcy nazwali nową hybrydę Pichia apotheca - od greckiego słowa oznaczającego "magazyn".
+
+Brzeczka zawierała również drożdże spotykane w wielu komercyjnych piwach - z rodzaju Saccharomyces i jeden gatunek z rodzaju Brettanomyces. Były także bakterie - Lactobacillus, Pediococcus i Acetobacter, wszystkie znane z nadawania piwu kwaśnego posmaku.
+
+Zespół Dunham próbował uwarzyć piwo korzystając tylko z P. apotheca, ale bez powodzenia - drożdże te wytwarzały za mało alkoholu. Nic w tym niezwykłego - większość drożdży występujących w mieszanych kulturach samodzielnie nie wytworzy piwa. Jak jednak zaznaczają naukowcy, hybryda może przyczyniać się do oryginalnego smaku piwa Old Warehouse (choć inne gatunki z rodzaju Pichia piwo psują). Dr Dunham gotowa jest dostarczyć chętnym do eksperymentowania piwowarom wyizolowanych szczepów drożdży.
+
+W podobny sposób można by badać także inne spontanicznie fermentujące piwa. Jak zauważa Ronn Friedlander, współzałożyciel firmy Aeronaut Brewing w Somerville (stan Massachusetts), który ma także doktorat z bioinżynierii - mieszanka mikrobów zbadana przez Dunham i jej zespół jest bardzo zbliżona do mieszanki "Roeselare". Komercyjny dostawca drożdży Wyeast sprzedaje ją browarom, które chcą zaszczepić "dzikie" piwo sztucznie. Mieszanka zawiera typowy dla belgijskiego piwa typu "ale" szczep Saccharomyces, dwa szczepy Brettanomyces oraz bakterie Lactobacillus i Pediococcus.
+
+"Być może spontaniczna fermentacja piwa jest bardziej przewidywalnym procesem, niż kiedyś uważano" - mówi Friedlander. - "Może to wskazywać na konkretne nisze, które muszą być wypełnione w stabilnym mikrobiologicznie piwie". Piwowarze i naukowcy mogą być o krok bliżej odsłonięcia tajemnic spontanicznej fermentacji.

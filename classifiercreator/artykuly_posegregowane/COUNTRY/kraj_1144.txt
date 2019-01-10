@@ -1,0 +1,21 @@
+Prawo oświatowe nakłada obowiązek prowadzenia i sprawdzania list obecności dzieci w szkole; o anonimowości w klasie w zakresie imienia i nazwiska nie ma mowy - powiedział PAP ekspert z Ministerstwa Cyfryzacji dr Maciej Kawecki.
+      
+            
+
+Ekspert odsyła osoby mające wątpliwości dot. stosowania przepisów RODO do poradnika przygotowanego przez Urząd Ochrony Danych Osobowych we współpracy z Ministerstwem Edukacji Narodowej. Poradnik zawiera zalecenia dot. przetwarzania danych osobowych w przedszkolach, szkołach i placówkach oświatowych. Przewodnik udostępniony został na stronach internetowych obu urzędów oraz – jak informowano - przesłano go za pomocą Systemu Informacji Oświatowej do każdej szkoły w Polsce.
+
+W przypadku wątpliwości związanych ze sprawdzaniem obecności w szkole w świetle przepisów RODO ekspert podkreślił, że tę kwestię reguluje ustawa o prawie oświatowym.
+ 
+"Przepisy nakładają nie tylko uprawnienie, ale obowiązek prowadzenia i sprawdzania list obecności dzieci w szkole, również w formie elektronicznej, czyli te dzienniki Librus są taką formułą" - mówił. Jak dodał: "o anonimowości w klasie w zakresie imienia i nazwiska nie ma mowy, to znaczy dzieci znają swoje imiona i nazwiska, to jest funkcja edukacyjna, którą pełni szkoła".
+
+Jego zdaniem można wyobrazić sobie sytuację, w której dyrektor szkoły czy nauczyciel zdecyduje się sprawdzać listę wykorzystując numery. Zaznaczył jednak, że uzasadnienie takiego pomysłu nie wynika z RODO czy polityki ochrony prywatności. Może być natomiast ćwiczeniem pamięci dzieci, gdy "taka Hania, która jest w trzeciej klasie musi pamiętać o tym, że ona w dzienniku ma numer 9".
+
+W przypadku szkolnej szafki, do której dostęp ma wyłącznie dziecko i nauczyciele, to oznaczenie w myśl przepisów RODO imieniem i nazwiskiem jest dopuszczalne. Natomiast - jak wyjaśnił Kawecki - w sytuacji, gdy "dostęp do szafki ma nie tylko klasa, nauczyciel i rodzice, ale również osoby trzecie, bo na przykład w szkole jest basen, który po godzinach jest wykorzystywany komercyjnie, to oczywiście takie imiona i nazwiska mogą tam się znajdować po uzyskaniu zgody rodzica bądź opiekuna prawnego".
+
+Kawecki odniósł się także do kwestii szkolnego monitoringu. "Już przepisy ustawy o ochronie danych osobowych z 10 maja 2018 r. wprowadzają zasady związane z monitoringiem placówek oświatowych. To są nie tylko szkoły, ale również żłobki, to są również przedszkola, to są różnego rodzaju inne ośrodki, do których stosuje się prawo oświatowe i ono reguluje kwestie związane z monitoringiem wizyjnym" - powiedział dr Kawecki.
+ 
+Jak zaznaczył, prawo wyraźnie wskazuje obszary, które nie mogą być monitorowane czy też monitorowane w sytuacjach nadzwyczajnych, jak np. przebieralnie, szatnie, toalety czy sale dydaktyczne. "Natomiast korytarze czy te przestrzenie otwarte, jak najbardziej mogą być monitorowane i tutaj nie ma potrzeby żadnej zgody rodzica bądź opiekuna prawnego" - tłumaczył Kawecki.
+ 
+Podkreślił jednak, że taki obszar powinien być oznaczony graficznie, jako obszar monitorowany, a oznaczeniu powinna towarzyszyć informacja o monitoringu. To wynika z obowiązku informacyjnego, o którym mowa w RODO. "To jest taka dużo bardziej rozbudowana klauzula, ale ona nie musi znajdować się pod każdą kamerą, tylko w widocznym miejscu tak, by każdy, kto wchodzi na teren szkoły mógł się z nią zapoznać" - wyjaśnił Kawecki.
+
+Ekspert potwierdził także, że jeżeli chodzi o pozyskiwanie danych osobowych osób upoważnionych do odbioru dzieci ze szkoły, to placówka ma do tego prawo. W takim przypadku rodzic przekazuje imię i nazwisko wskazanej przez niego osoby. "I oczywiście nie potrzebuje na to zgody osoby, która jest takim odbierającym dziecko innym niż opiekun prawny bądź rodzic. Oczywiście można sobie wyobrazić, że taka osoba zażąda usunięcia takich danych, ale będzie musiała liczyć się z tym, że szkoła nie będzie mogła dziecka takiej osobie oddać, przekazać" - podsumował.

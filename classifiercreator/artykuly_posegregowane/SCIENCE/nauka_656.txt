@@ -1,0 +1,36 @@
+Tylko dwa polskie miasta zakwalifikowały się do pierwszej setki raportu IESE Cities in Motion Index 2017 - listy najbardziej inteligentnych miast świata. Warszawa jest na 54. miejscu zestawienia, Wrocław - na 95. Czołówkę tworzą Nowy Jork, Londyn i Paryż.
+      
+            "W Polsce stawimy pierwsze kroki w dziedzinie inteligentnych miast. W ogóle idea smart cities stała się etykietą, którą - mam wrażenie - że władze publiczne przyklejają do swoich strategii rozwoju po to, żeby sięgnąć po środki unijne" - mówiła PAP dr Dorota Sikora-Fernandez z Katedry Zarządzania Miastem i Regionem Wydziału Zarządzania Uniwersytetu Łódzkiego.
+
+Według niej dzieje się tak, ponieważ do 2020 r. ponad 18 mld euro ma zostać zainwestowane właśnie w rozwój inteligentnych miast. "No i w Polsce coraz częściej słyszy się, że Kraków, Gdańsk czy Warszawa chcą być inteligentne. Tylko często za tymi zapisami w strategiach nie idą konkretne działania, a jeśli już idą, to są one bardzo niewielkie i świadczą o stawianiu pierwszych kroków, a nie o realizacji koncepcji w pełni" - dodała ekspertka.
+
+ 
+Smart city - czyli inteligentne miasto - to koncepcja zakładająca, że miasto wykorzystuje zaawansowane technologie do tego, aby polepszyć jakość życia we wszystkich obszarach swojego funkcjonowania - podkreśliła. Chodzi o to, żeby mieszkańcom lepiej się tam żyło, a jednocześnie - by zmalały koszty funkcjonowania całego miasta.
+
+"W praktyce instalujemy oprogramowanie, czujniki, wszędzie gdzie się da, po to, aby zebrać dane i usprawnić działanie np. systemu transportowego, administracji publicznej, szkolnictwa albo zapewnić wysoki poziom bezpieczeństwa publicznego" - dodała dr Sikora-Fernandez.
+
+Raport IESE Cities in Motion Index 2017 analizuje wszystkie aspekty składające się na jakość życia w 180 miastach na świecie. Miasta analizowano za pomocą zestawu wskaźników dotyczących kapitału ludzkiego, spójności społecznej, gospodarki, zarządzania publicznego, partycypacji społecznej, środowiska naturalnego, mobilności i transportu, planowania przestrzennego, wydajności i zaawansowanych technologii. W obszarze planowania przestrzennego Warszawa zajęła w tym rankingu 6., a Wrocław – 10. miejsce.
+
+ 
+Zdaniem ekspertki przykładem jednego z najbardziej inteligentnych miast w Europie jest Barcelona, która w 2014 r. otrzymała wyróżnienie od Komisji Europejskiej za wdrażanie i zastosowanie zaawansowanych technologii w celu polepszenia jakości życia swoich mieszkańców.
+
+"Barcelona jest przykładem miasta, które realizuje w 22 obszarach funkcjonowania miasta ponad 200 projektów związanych z zastosowaniem zaawansowanych technologii - po to, aby usprawnić funkcjonowanie miasta" - zaznaczyła.
+
+Jako przykłady podała m.in. oczujnikowanie oświetlenia ulicznego, które automatycznie zmniejsza natężenie oświetlenia w zależności od tego, jakie jest natężenie światła naturalnego; czy oczujnikowanie zbiorczych pojemników na śmieci, które same wysyłają do firm odbierających odpady informacje, że są przepełnione.
+
+W Barcelonie realizowane są także m.in. programy związane z bezpieczeństwem publicznym, np. mapy bezpieczeństwa dostępne publicznie, a także otwarte dane, gdzie każdy może zebrać dane w różnych formatach - udostępniane przez miasto - i wykorzystać je do tworzenia własnych aplikacji na użytek określonej grupy mieszkańców.
+
+Barcelona udostępniła w sumie kilka tysięcy zestawów otwartych danych, w Stanach Zjednoczonych jest ich 200 tys, w całej UE – 400 tys., a w Polsce zaledwie mniej więcej 340 zestawów otwartych danych we wszystkich miastach. Są to głównie dane związane z planowaniem przestrzennym, demografią czy finansami miasta.
+
+Zdaniem dr Sikory-Fernandez polskie miasta głównie realizują koncepcję smart city w obszarze transportu miejskiego. "Wdrażamy systemy inteligentnego zarządzania ruchem, inteligentnego transportu bądź jego poszczególne elementy. Dzieje się trochę w gospodarce energetycznej i oszczędzaniu energii, głównie w budynkach publicznych. Natomiast trudno mówić o tym, że miasto jest smart jeżeli np. ma problem z kilkunastokrotnym przekroczeniem norm zanieczyszczeń powietrza" - zaznaczyła.
+
+Jej zdaniem usługi elektroniczne w administracji publicznej w poszczególnych polskich miastach nie są do końca dostosowane do potrzeb.
+
+"Przebadaliśmy w Katedrze Zarządzania Miastem i Regionem usługi, które są dostępne na platformach e-PUAP. Trudno mówić o powszechnej dostępności, jeżeli dana usługa elektroniczna jest realizowana tylko i wyłącznie w 10 proc. jednostek terytorialnych" - oceniła.
+
+Ekspertka uważa, że koncepcja smart cities nadal jest etykietą przypinaną do polskich miast, a nie
+koncepcją, którą rozumieją ich władze. Jak podkreśliła, należy też pamiętać o tym, że inteligentne miasto to nie tylko technologia, ale również ludzie, bo miasto jest dla ludzi.
+
+"I w obszarze społecznym musi się też dużo dziać. Tzn. władze publiczne muszą włączyć mieszkańców do współrządzenia miastem. To poprawi transparentność, a również efektywność zarządzania miastem" - podkreśliła.
+
+W jej opinii konsultacje społeczne czy budżety obywatelskie to wciąż za mało. "Musimy zacząć realizować koncepcję living lab, czyli żywych laboratoriów, w których zaczynamy tworzyć określone rozwiązania dla miasta, gdzie eksperymentujemy na małych grupach ludzi po to, żeby - jeżeli dane rozwiązanie się sprawdzi - można było je wdrożyć do systemu zarządzania miastem" - podsumowała dr Dorota Sikora-Fernandez.

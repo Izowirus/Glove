@@ -1,0 +1,27 @@
+Warszawa, 26.04.2017. Prezes Creotech Instruments S.A. Grzegorz Brona, 26 bm. w centrum Prasowym PAP, podczas konferencji prasowej nt. projektu HyperSat, na której zaprezentowano koncepcję oraz model poglądowy innowacyjnego mikrosatelity. HyperSat to modułowa, uniwersalna platforma satelitarna, która, zaopatrzona w specjalistyczne instrumenty, pozwoli realizować szerokie spektrum misji kosmicznych, o różnym przeznaczeniu - od radarowych przez telekomunikacyjne, aż po optyczne (obserwacyjne). (cat)
+PAP/Marcin Obara Archiwum PAP © 2017 / Marcin Obara
+                                        
+
+            Konsorcjum złożone głównie z polskich firm zbuduje centrum umożliwiające dostęp do danych pozyskiwanych m.in. z programu obserwacji Ziemi - Copernicus. W czwartek w Brukseli kierująca konsorcjum firma Creotech Instruments podpisała umowę z Europejską Agencją Kosmiczną.
+      
+            Przetarg na budowę centrum został rozstrzygnięty w drugiej połowie 2017 roku. Wybrano w nim cztery konsorcja, a na czele jednego z nich stanął polski Creotech Instruments S.A.
+
+"Wartość kontraktu Creotech to blisko 60 mln zł i jest to największy kontrakt podpisany przez polską spółkę sektora kosmicznego" - poinformowało Creotech Instruments w przesłanym PAP komunikacie.
+
+Umowa, podpisana w czwartek w siedzibie Komisji Europejskiej, zakłada budowę zaawansowanego centrum, które świadczyć ma usługi dostępowe m.in. do danych pozyskiwanych przez satelity konstelacji Sentinel oraz innych danych pozyskiwanych w ramach programu obserwacji Ziemi - Copernicus. Projekt, na którego czele stanęło Creotech Instruments, będzie nosił nazwę EO DIAS.
+
+Zgodnie z założeniami budowana przez Creotech Instruments S.A. infrastruktura będzie jedną z czterech konkurencyjnych centrów powstających w ramach projektu Copernicus Data and Information Access Service (CDIAS) przygotowanego przez Komisję Europejską wraz z Europejską Agencją Kosmiczną (ESA). Każde z centrów ma nie tylko przechowywać wszystkie bieżące i historyczne dane zbierane w ramach programu Copernicus, ale ma również oferować użytkownikom dostęp do mocy obliczeniowych w strukturze chmury.
+
+"Czujemy niezmierną satysfakcję, z powodu wygrania konkursu organizowanego przez Komisję Europejską i Europejską Agencję Kosmiczną" – podkreśla prezes Creotech Instruments S.A. dr Grzegorz Brona, cytowany w przesłanym PAP komunikacie. "Satysfakcja jest tym większa, iż prowadzimy jedyne konsorcjum, które jest złożone całkowicie z firm małych i średnich, których większość pochodzi z Polski. Jest to żywy dowód na to, że nasz kraj szybko odrabia zapóźnienia technologiczne, a dystrybucja i przetwarzanie danych satelitarnych może stać się wkrótce polską specjalnością na skalę globalną" - mówi.
+
+Czas trwania kontraktu to cztery lata. Po pierwszych sześciu miesiącach system ma osiągnąć pełną operacyjność. Docelowo zaś będzie mógł obsłużyć dziesiątki tysięcy użytkowników na całym świecie. W skład konsorcjum realizującego projekt EO DIAS, wchodzą: CloudFerro Sp. z o.o., Geomatys, Outsourcing Partner, Sinergise i Wrocławski Instytut Zastosowań Informacji Przestrzennej i Sztucznej Inteligencji.
+
+Jeszcze do niedawna dane pochodzące z satelitarnej obserwacji Ziemi były udostępniane odpłatnie, zaś ich źródłem były masywne satelity należące do dużych koncernów lub rządów poszczególnych państw – liderów kosmicznego wyścigu. Przełom nastąpił za sprawą wystrzelenia i uruchomienia w 2014 roku pierwszych satelitów rodziny Sentinel, które są częścią europejskiego systemu obserwacji Ziemi budowanego w ramach programu Copernicus.
+
+Jak podano w przesłanym PAP komunikacie, od tego czasu kolejne satelity konstelacji Sentinel są sukcesywnie budowane i umieszczane na orbicie, a po uzyskaniu operacyjności rozpoczynają zbieranie danych. Zgodnie z obecnymi przewidywaniami, kiedy wszystkie z docelowych satelitów Sentinel rozpoczną pracę na orbicie, przyrost pozyskiwanych przez nie danych sięgnie 10 PB (petabajt) rocznie.
+
+Zgodnie z polityką Unii Europejskiej dostęp do danych pochodzących z konstelacji satelitów Sentinel i innych danych pozyskiwanych w ramach programu Copernicus ma być otwarty i bezpłatny. Celem jest stymulowanie rozwoju usług bazujących na wykorzystaniu danych satelitarnych.
+
+Dr Grzegorz Brona wyjaśnia, że wzrost dostępności i powszechność darmowych danych satelitarnych, w połączeniu z postępującą miniaturyzacją kosmicznej elektroniki zwiastuje trzecią satelitarną rewolucję. "Ta zaś związana będzie z dostarczanymi nam przez satelity danymi, których pozyskujemy coraz więcej. Dawniej korzystały z nich państwa. Dziś uczą się tego przedsiębiorcy, którym nie brakuje pomysłów na ich komercyjne wykorzystanie" - mówi dr Brona.
+
+Za budowę konkurencyjnych platform DIAS, które powstawać będą równolegle z tym budowanym przez Creotech Instruments S.A. i partnerów, odpowiadać będą: firma Serco wraz z OVH jako dostawcą rozwiązania chmurowego, ATOS Integration wraz z T-SYSTEM International jako dostawcą rozwiązania chmurowego i Airbus Defence and Space wraz z Orange jako dostawcą rozwiązania chmurowego.

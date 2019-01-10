@@ -1,0 +1,29 @@
+epa04970617 A handout picture made available by NASA and taken by US astronaut Scott Kelly from the International Space Station (ISS) on 07 October 2015 shows an aurora looming over Planet Earth. The Aurora Borealis, or Nothern Lights, have been visible this week.  EPA/SCOTT KELLY / NASA / HANDOUT  HANDOUT EDITORIAL USE ONLY 
+Dostawca: PAP/EPA. PAP/EPA © 2016 / SCOTT KELLY / NASA / HANDOUT
+                                        
+
+            Czynne satelity i sondy, kosmiczne śmieci, a nawet przedmioty zgubione przez astronautów. Na ziemskiej orbicie robi się coraz tłoczniej, dlatego naukowcy szykują system, który pomoże im w monitorowaniu kosmicznego ruchu i uniknięciu kosztownych kolizji.
+      
+            "Ruch na orbicie ziemskiej jest coraz większy, a koszty wyniesienia i użytkowania satelitów bardzo duże. Kolizja satelity nawet z małym przedmiotem zazwyczaj oznacza katastrofę naukową, finansową, a czasami zatrzymuje rozmaite programy naukowe. Ponadto satelity wykorzystywane są do najróżniejszych celów, dlatego ich uszkodzenia mogą mieć negatywny wpływ na nasze życie" - zauważa Jerzy Łukasiewicz z Instytutu Technicznego Wojsk Lotniczych.
+
+Kieruje on pracami nad polską częścią europejskiego systemu optycznej obserwacji i śledzenia obiektów w przestrzeni kosmicznej - SST (ang. Space Surveillance and Tracking). Polska dołączyła do niego w 2014 roku, określając mianem SST-PL. "Aby kompleksowo obserwować przestrzeń kosmiczną, konieczna jest współpraca wielu, wręcz setek takich urządzeń, jak budujemy teraz" - zaznacza Łukasiewicz.
+
+Przygotowując swój system, polscy naukowcy chcą przede wszystkim zapewnić bezpieczeństwo pracującym satelitom obserwacyjnym i telekomunikacyjnym, aby nie zderzały się one z kosmicznymi śmieciami. "Sporo kosmicznych śmieci powstaje podczas wynoszenia rakiet w przestrzeń kosmiczną. Znanych jest też kilka przypadków, w których źródłem kosmicznych śmieci było zderzenie samych satelitów. Przy kolizji chińskiego satelity z amerykańskim powstało kilkanaście tysięcy odłamków. Powstające w ten sposób odłamki zaśmiecają kilka sąsiednich orbit i zagrażają obiektom, które dla nas pracują" - wyjaśnia rozmówca PAP.
+
+System SST-PL będzie obserwował działające satelity, ujęte już w bazach danych, np. w bazie prowadzonej przez amerykańsko-kanadyjską jednostkę North American Aerospace Defense Command (NORAD), zawierającej kilkanaście tysięcy obiektów. Będzie też rozpoznawał obiekty nieznane.
+
+"Państwo, które wysyła satelitę, ma wprawdzie obowiązek powiadomienia o tym Międzynarodowej Unii Astronomicznej i podania parametrów orbity takiego satelity. Są jednak państwa, które tego nie robią, np. Korea Północna. Czasem satelita o przeznaczeniu wojskowym zmienia orbitę i o tym też nie zawsze świat jest powiadamiany. Nasz system będzie więc identyfikował obiekty, których nie ma w bazie i określał ich dokładną orbitę. Tak zbudujemy własną bazę" - tłumaczy Łukasiewicz.
+
+Polski system pod koniec 2017 roku
+
+Zbudowanie systemu jest tym bardziej pilne, że Polska szykuje się do wysłania własnych satelitów obserwacyjnych, które znajdą się na niskich orbitach od 400 do 600 km. "Będą w obszarze, w którym sporo jest innych tego typu urządzeń. Teoretycznie istnieje możliwość, że ktoś może przekierować swojego starego satelitę na orbitę, która przetnie się z orbitą naszego satelity, co będzie groziło ich kolizją" - wyjaśnia rozmówca PAP.
+
+Czy naukowcy będą mogli też identyfikować naturalne obiekty kosmiczne, które nam zagrażają, np. asteroidy? Oczywiście jest taka możliwość, jednak nie jest to takie proste. "Obiekty naturalne, które zmierzają w kierunku Ziemi, w różny sposób odbijają promieniowanie Słońca. Te, które odbijają je bardzo słabo, są trudne do zaobserwowania. Jednak ponieważ nasz system będzie automatycznie szukał obiektów, które nie są ujęte w bazach i wyliczał ich orbity, to na tej podstawie można spróbować określić, czy mamy do czynienia z obiektem naturalnym, czy sztucznym" - tłumaczy kierownik projektu.
+
+W jaki sposób naukowcy chcą śledzić i identyfikować obiekty w kosmosie? Wykorzystają do tego zbierający światło, ruchomy teleskop. Światło będzie przekazywane do kamery CCD o bardzo dużej rozdzielczości. Następnie zebrany w ten sposób obraz będzie analizowany przez system komputerowy, który za pomocą specjalnych algorytmów "wyciągnie" dane, umożliwiające automatyczną identyfikację i określenie parametrów orbit.
+
+Z czasem będzie można nim sterować zdalnie, zlecając oglądanie fragmentu nieba w określonym czasie. Wyniki poszukiwań system prześle do jednostki, która zleciła badanie.
+
+Polski system ma zacząć działać pod koniec 2017 roku. Konkurs na wykonanie projektu zautomatyzowanego systemu optycznej obserwacji i śledzenia obiektów w przestrzeni kosmicznej SST-PL Narodowe Centrum Badań i Rozwoju ogłosiło w lipcu 2015 roku. Ostatecznie - wart około 3,5 mln zł - projekt realizują: Instytut Techniczny Wojsk Lotniczych, Creotech Instruments S.A. i Wojskowa Akademia Techniczna.
+
+Ewelina Krajczyńska

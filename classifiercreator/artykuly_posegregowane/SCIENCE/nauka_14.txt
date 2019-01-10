@@ -1,0 +1,21 @@
+Urządzenie monitorujące wybrane emocje np. strach oraz poziom relaksu i stresu z dokładnością sięgającą 99 proc. opracowały polskie firmy dla Europejskiej Agencji Kosmicznej (ESA). Może przydać się ono zarówno astronautom, ale też np. służbom mundurowym czy sportowcom.
+      
+            Technologia Adiutis, którą stanowi urządzenie mobilne wraz z oprogramowaniem i algorytmami, została opracowana dla ESA w ramach programu Polish Industry Incentive Scheme. Opracowały ją bydgoskie firmy Sybilla Technologies (główny wykonawca), STAR-PROJEKT oraz Pracownia Usług Psychologicznych.
+
+"Stworzona przez nas technologia może być wykorzystywana w wielu dziedzinach, od wsparcia szkolenia i monitorowania astronautów, przez służby mundurowe, sportowców i wszystkich użytkowników indywidualnych, którym zależy na zwiększonej świadomości stanu psychofizjologicznego i emocjonalnego" - tłumaczy Zdzisław Sybilski, właściciel Pracowni Usług Psychologicznych, cytowany w przesłanej informacji prasowej.
+
+Adiutis działa w oparciu o analizę zmienności rytmu serca i tzw. reakcji skórno-galwanicznej. To reakcja skóry, wywołana przez zmiany aktywności gruczołów potowych w następstwie przeżywanych emocji lub reakcji na bodźce. Na razie urządzenie potrafi monitorować stan neutralny, strach i obrzydzenie.
+
+"Wybraliśmy strach i obrzydzenie, ponieważ wiedzieliśmy, iż są to stany emocjonalne, które zwykle są problematyczne w rozróżnieniu na podstawie reakcji psychofizjologicznych, tak więc chcieliśmy od razu rzucić Adiutis na głęboką wodę. W kolejnych próbach skupiamy się na zestawie: podekscytowanie, rozbawienie, stan neutralny" - wyjaśniła PAP Agnieszka Sybilska z Sybilla Technologies.
+
+Do zebrania sygnałów Adiutis wykorzystuje diody fotopletyzmograficzne i materiały przewodzące zintegrowane z materiałem dobrze przylegającym do skóry. Od tego będzie zależała jakość zbieranego sygnału. Najlepiej sprawdzają się materiały stosowane przy produkcji bielizny termoaktywnej.
+
+"Miejsca, z których najczęściej zbieramy sygnał, to stopy i dłonie (w przypadku reakcji skórno-galwanicznej) oraz czoło i kostka (w przypadku analizy zmienności rytmu serca). Docelowo nie potrzeba będzie więc ubierać całego specjalnego stroju, a jedynie skarpetki, rękawiczki czy opaskę na czoło. System jest więc elastyczny jeśli chodzi o użytkowników o różnych potrzebach" - podkreśla rozmówczyni PAP.
+
+Zebrany sygnał jest następnie przesyłany do modułu elektronicznego Adiutis, a stamtąd bezprzewodowo łączy się z komputerem stacjonarnym. Moduł elektroniczny może być umieszczony w dowolnym miejscu wygodnym dla użytkownika. "W testach mobilnych moduł znajdował się na plecach użytkownika w specjalnej kieszonce, aby nie krępować ruchów" - opisuje Sybilska.
+
+Dane są następnie analizowane przez sieci neuronowe, czyli służące do prowadzenia obliczeń matematyczne modele opierające się na idei sztucznego neuronu. Jak tłumaczy Agnieszka Sybilska, analizując sygnał psychofizjologiczny, czy to reakcję skórno-galwaniczną, czy zmienność rytmu serca, sieci neuronowe szukają w nim zależności i wzorów bazując na tzw. deskryptorach (inaczej cechach) sygnału. Cechy te mówią np. o tym, jak szybko nasze ciało reaguje na bodźce z zewnątrz, jak silna jest ta reakcja oraz jak szybko (lub jak wolno) wracamy po wystąpieniu bodźca do poziomu wyjściowego.
+
+"W uproszczeniu sieć dostaje przykłady danych wraz z informacją +to jest strach+ czy też +to jest relaks+ i obejrzawszy ich odpowiednio dużo jest potem w stanie oglądając zupełnie nowe dane (bez żadnej podpowiedzi) dobrze je sklasyfikować. Nasze reakcje są bardzo różne i zależą od wielu czynników, predyspozycji. W skrajnych przypadkach zapis sygnału relaksu dla jednej osoby może przypominać zapis stresu dla drugiej. Dlatego ważna jest +kalibracja+ sieci dla konkretnego użytkownika w celu uzyskania optymalnych rezultatów" - zaznacza.
+
+Lech Starczak, prezes STAR-PROJEKT w przesłanym komunikacie prasowym przekonuje, że urządzenie jest lekkie, ergonomiczne w codziennym użytkowaniu, a niski pobór prądu w połączeniu ze stabilną transmisją bezprzewodową pozwala na długi czas mobilnej pracy. "Parametry, które udało nam się osiągnąć, do tej pory były dostępne tylko dla stacjonarnych urządzeń pomiarowych" - mówi.

@@ -1,0 +1,29 @@
+Inżynierowie z Politechniki Gdańskiej stworzyli system, który identyfikuje ludzi po układzie naczyń krwionośnych dłoni, kształcie twarzy, głosie i podpisie. System wiosną przetestuje na 100 stanowiskach bank, który zainwestował w przedsięwzięcie naukowców.
+      
+            Projekt realizuje zespół naukowców z Katedry Systemów Multimedialnych Wydziału Elektroniki Telekomunikacji i Informatyki PG, kierowany przez prof. Andrzeja Czyżewskiego.
+
+Na system składa się zestaw specjalnych czujników, skanerów i mikrofonów itp., których pracą sterują przygotowane przez naukowców aplikacje komputerowe. Jak wyjaśnił w rozmowie z PAP prof. Czyżewski, całość została zamknięta w nieco większym niż duży laptop urządzeniu, które można montować jako nadstawkę na stanowiskach obsługi klienta.
+
+System jest w stanie weryfikować układ naczyń krwionośnych dłoni, kształt twarzy, głos i podpis danej osoby. Do sprawdzania podpisu służy, połączony z urządzeniem, specjalny długopis, który zweryfikuje nie tylko kształt nanoszonych liter, ale też m.in. siłę ścisku (sprawdzają ją specjalne czujniki), szybkość, z jaką pracuje długopis (sprawdzają to akcelerometry) czy nachylenie długopisu (służą temu miniżyroskopy). System dopełnia skaner dokumentów tożsamości, który sprawdza ich autentyczność.
+
+Zdaniem Czyżewskiego tak bogaty zestaw danych, które mają służyć identyfikacji, zapewni skuteczność systemu. Naukowiec wyjaśnił, że stosowana dotąd -identyfikacja biometryczna oparta o jedną konkretną metodę (np. odcisk palca, elektroniczny podpis czy skan twarzy) może być nieskuteczna. "Komuś może trząść się danego dnia ręka, ktoś inny może mieć chrypę albo zarost. Nasz system dokonuje identyfikacji w oparciu o kilka źródeł danych, więc w wypadku jakichś wątpliwości dotyczących danych z jednego źródła, można będzie oprzeć się na pozostałych danych" - wyjaśnił profesor.
+
+Według niego tylko biometria wielomodalna, czyli opierająca się na wielu źródłach danych, może być skuteczna. "Uważamy, że w przyszłości biometria będzie wielomodalna: człowiek będzie reprezentowany wszystkim tym, co posiada" - powiedział PAP Czyżewski.
+
+Zdaniem naukowca biometryczny system identyfikacji opracowany przez zespół pod jego kierownictwem jest pierwszym wykorzystującym tak wiele źródeł danych, który będzie poddany testom na dużą skalę.
+
+Testy systemu przeprowadzi bank PKO BP, który jest partnerem projektu. "Bank jest też zainteresowany praktycznym wykorzystaniem systemu w przyszłości" - zaznaczył Czyżewski. Wiosną tego roku w 60 oddziałach banku stanie 100 urządzeń, które będą testowane przez około pół roku.
+
+Prof. Czyżewski wyjaśnił, że testy prowadzone będą z pomocą grupy klientów banku, która wyrazi zgodę na udział w badaniach. "Bank zaoferuje im jakąś zachętę w postaci np. biometrycznej lokaty oprocentowanej wyżej niż standardowe" - sprecyzował naukowiec.
+
+Dodał, że klienci zostaną poddani krótkiej procedurze, w ramach której pracownicy banku zeskanują twarz i dłonie oraz pobiorą próbkę głosu i pisma klienta. Dane te zostaną dołączone do informacji, które wcześniej służyły bankowi do identyfikacji klienta.
+
+Czyżewski poinformował, że - w ramach półrocznych testów - naukowcy chcą przebadać, które kombinacje zaproponowanych przez nich modalności biometrycznych sprawdzają się najlepiej w identyfikacji. "Stworzymy definicję uniwersalnego stanowiska bankowego służącego do wygodnej, szybkiej, niezawodnej biometrii bankowej" - wyjaśnił Czyżewski.
+
+Projekt "Multimodalny biometryczny system weryfikacji tożsamości" dofinansowało Narodowe Centrum Badań i Rozwoju (NCBR). Realizacja projektu rozpoczęła się w 2015 roku i potrwa do wiosny 2018 roku. Całe przedsięwzięcie warte jest prawie 10 mln zł. Na sumę tę składają się środki wyasygnowane przez NCBR oraz PKO BP i sopocką firmę Microsystem, która chce produkować urządzenia skonstruowane przez inżynierów.
+
+W ubiegłym roku projekt został wyróżniony w zorganizowanym przez Federację Stowarzyszeń Naukowo-Technicznych NOT konkursie Laur Innowacyjności 2016.
+
+Biometryczny system identyfikujący to nie pierwsze wyjątkowe urządzenie opracowane przez zespół pracowników Politechniki Gdańskiej pod kierownictwem prof. Czyżewskiego. Od 2008 do 2013 r. zespół pracował nad systemem CyberOko, który umożliwia sparaliżowanym osobom komunikowanie się ze światem, a w przypadku osób w śpiączce może służyć jako narzędzie do oceny poziomu ich świadomości oraz ćwiczeń w ramach rehabilitacji neurologicznej.
+
+Na CyberOko składa się kamera i komputer z monitorem, w który wmontowane zostały urządzenia emitujące podczerwień. Taki zestaw, wyposażony w odpowiednie oprogramowanie, pozwala na śledzenie ruchu gałek ocznych pacjenta. Zastosowanie kolejnych aplikacji sprawia, że - kierując wzrok w odpowiedni punkt monitora - pacjent może np. pisać, korzystać z internetu itp. System został już wprowadzony na rynek (rynkowa nazwa urządzenia to C-Eye): jest wielokrotnie tańszy od podobnych stosowanych na świecie.

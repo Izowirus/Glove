@@ -1,0 +1,33 @@
+Technologię wytwarzania osłonowych materiałów kompozytowych, które zabezpieczają przewody elektryczne podczas pożaru, opracowali naukowcy z Politechniki Łódzkiej we współpracy ze specjalistami z AGH i Instytutu IMPiB.
+      
+            Tworząca się pod wpływem ognia i wysokiej temperatury powłoka ceramiczna umożliwia działanie instalacji elektrycznej w trakcie pożaru, a tym samym pozwala zwiększyć bezpieczeństwo i skuteczność akcji gaśniczych.
+
+Obecnie łódzcy naukowcy pracują nad zastosowaniem tej technologii do zabezpieczania przewodów dla górnictwa, ale także elementów dla budownictwa, chodzi m.in. o okna, podłogi, panele czy drzwi wykonane z PCW (polichlorku winylu), z których podczas pożaru ulatnia się toksyczny chlorowodór.
+
+„Mamy nadzieję, że zastosowanie naszego rozwiązania przynajmniej zmniejszy emisję chlorowodoru z rozkładających się pod wpływem ciepła czy ognia takich materiałów i w ten sposób zabezpieczy mieszkańców przed ewentualnym zatruciem” - mówił PAP prodziekan Wydziału Chemicznego PŁ ds. nauki i innowacji, prof. Dariusz Bieliński.
+
+Podczas akcji gaśniczych w obiektach dopływ prądu najczęściej jest odcinany, aby umożliwić gaszenie ognia bez narażenia na porażenie prądem; zapobiega to także kolejnym zwarciom instalacji elektrycznej. Jednak funkcjonowanie np. wind czy monitoringu podczas pożaru umożliwia sprawniejszą ewakuację i akcję gaśniczą.
+
+Naukowcy z Instytutu Technologii Polimerów i Barwników PŁ, we współpracy z krakowską Akademią Górniczo-Hutniczą oraz Instytutem Inżynierii Materiałów Polimerowych i Barwników w Toruniu opracowali kompozyty ceramizujące na osłony z kauczuku silikonowego. W temperaturze pokojowej są one elastyczne, ale pod wpływem ognia i wysokiej temperatury tworzą strukturę ceramiczną chroniącą miedziane przewody instalacji elektrycznej.
+
+„Ideą naszego projektu było wytworzenie materiałów na osłony kabli elektrycznych, które pod wpływem wysokiej temperatury i ognia ulegają ceramizacji. Tworzy się wówczas warstwa porowatej ceramiki przypominającej pumeks, która izoluje wewnętrzną żyłę miedzianą kabla przed nagrzewaniem się. Jednocześnie nie pozwala ona lotnym produktom degradacji polimeru wydostawać się na zewnątrz, gdzie pełnią one rolę paliwa dla pożaru, a dodatkowo mogą być też toksyczne” - wyjaśnił prof. Bieliński.
+
+Ceramiczna warstwa ochronna charakteryzuje się wysoką wytrzymałością mechaniczną oraz odpornością na temperaturę rzędu 1100 stopni C. Aby uzyskać taki efekt naukowcy wykorzystują substancje zwane topnikami, które łączą ze sobą produkty degradacji polimeru, w tym przypadku kauczuków silikonowych oraz napełniacze odporne na wysoką temperaturę. Topniki pełnią rolę swoistego kleju wiążącego te dwie substancje. „W wyniku podwyższonej temperatury w czasie pożaru, taki produkt nie rozpada się na proszek, tylko powstaje ceramika” - wyjaśnił szef zespołu.
+
+Kabel w takiej osłonie ceramicznej pozwala zapewnić integralność obwodu elektrycznego i funkcjonowanie instalacji w budynku nawet do 1,5 godziny od wybuchu pożaru; później także ulegnie spaleniu „To umożliwia ewakuację ludzi lub cennych zasobów np. dzieł sztuki czy archiwów” - podkreślił naukowiec.
+
+Takie materiały – zgodnie z unijnymi wymaganiami – od kilku lat muszą być stosowane w instalacjach w budynkach użyteczności publicznej, m.in. w supermarketach, teatrach, kinach czy w muzeach.
+
+
+
+Specjaliści z PŁ idą jednak krok dalej i chcą zastosować podobne rozwiązanie w przypadku kabli elektrycznych w osłonie z polichlorku winylu (PCW) wykorzystywanych w górnictwie. Prace w tym zakresie prowadzone są wspólnie z Głównym Instytutem Górnictwa i firmą ANWIL, w ramach Programu Operacyjnego Inteligentny Rozwój na lata 2014-2020.
+
+„Chcemy zastosować metodę hybrydową – powiązać zjawisko ceramizacji z najnowocześniejszymi środkami służącymi uniepalnianiu materiałów polimerowych m.in. z PCW” - podkreślił prof. Bieliński.
+
+Zdaniem naukowca, rozwiązanie to może zostać zastosowane nie tylko w górnictwie, czy w przemyśle kablowym, ale również w ogólnie pojętym budownictwie, w którym stosowane są np. ramy okienne, podłogi, panele czy drzwi wykonane z oklein z polichlorku winylu.
+
+„To wszystko w momencie pożaru stwarza zagrożenie zatruciem chlorowodorem, który wydziela się podczas rozkładu termicznego polichlorku winylu. Mamy nadzieję, że zastosowanie naszego rozwiązania przynajmniej zmniejszy emisję chlorowodoru z rozkładających się pod wpływem wysokich temperatur materiałów z PCW” - ocenił szef projektu.
+
+Badania w tym zakresie mają się zakończyć za 2-3 lata, ale naukowcy przypuszczają, że już za rok będzie wiadomo czy ta idea jest słuszna i znajdzie zastosowanie w budownictwie.
+
+Specjaliści z PŁ prowadzą także dalsze intensywne badania nad poprawą właściwości wytrzymałościowych kompozytów z kauczuku silikonowego, które zostały opatentowane, w tym patentem europejskim. „Proponowane przez nas rozwiązania są co najmniej porównywalne, a w niektórych aspektach nawet lepsze niż oferowane przez firmy zachodnie” - ocenił prof. Bieliński.

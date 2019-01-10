@@ -1,0 +1,19 @@
+Genetycznie zmodyfikowane rośliny doniczkowe mogłyby oczyszczać powietrze w naszych domach - informuje pismo “Environmental Science & Technology”.
+      
+            Choć domy wydają się nam najbezpieczniejszymi miejscami, z badań wynika, że domowe powietrze zawiera więcej szkodliwych substancji od powietrza w szkołach czy biurach.
+
+W rezultacie dzieci oraz osoby pracujące w domu są narażone na wyższe dawki rakotwórczych związków w porównaniu z resztą populacji.
+
+Naukowcom udało się jednak tak zmodyfikować roślinę domową, że potrafi skutecznie usuwać z powietrza co najmniej dwie toksyny.
+
+Powietrze w pomieszczeniach często zawiera lotne związki organiczne, takie jak formaldehyd, benzen i chloroform. Toksyny uwalniają się na przykład z mebli, podczas gotowania, korzystania z prysznica czy palenia.
+
+Rośliny domowe mogą usuwać niektóre toksyny z powietrza, ale nie są zbyt wydajne. Jak oceniają naukowcy, do usunięcia formaldehydu z typowego pokoju potrzebnych byłoby ponad 20 roślin doniczkowych.
+
+Prof. Stuart E. Strand i jego współpracownicy z University of Washington postanowili sprawdzić, czy wprowadzenie króliczego genu o nazwie CYP2E1 do pospolitej rośliny doniczkowej, epipremnum złocistego (Epipremnum aureum), zwiększyłoby jej potencjał detoksykujący.
+
+Gen CYP2E1 koduje cytochrom P450 2E1, enzym rozkładający szeroki zakres lotnych związków organicznych występujących w domach.
+
+Zespół naukowców wprowadził króliczy CYP2E1 do genomu epipremnum, a następnie wstrzyknął benzen lub chloroform do zamkniętych pojemników zawierających żywe rośliny. Po 3 dniach stężenia tych związków w pojemnikach znacznie spadły, a po 8 dniach chloroform ledwie dawało się wykryć. Natomiast stężenia szkodliwych związków w pojemnikach zawierających niemodyfikowane epipremnum nie zmieniły się.
+
+Naukowcy szacują, że hipotetyczny biofiltr wytworzony z genetycznie modyfikowanych roślin oczyszczałby powietrze w tempie porównywalnym z komercyjnymi filtrami cząstek stałych.

@@ -1,0 +1,19 @@
+Polskie pojazdy elektryczne Triggo łączyć mają cechy motocykla i samochodu. Zamykana kabina sprawi, że kierowcy będzie wygodnie w każdą pogodę. A zsuwane koła przydadzą się przy parkowaniu i omijaniu najgorszych korków. Pierwsze Triggo w ciągu kilku lat mogą trafić na polskie ulice.
+      
+            Triggo - tak jak samochód - będzie miał cztery koła, zamykaną kabinę, kierownicę, klimatyzację, fotele z oparciem, pasy, a nawet poduszkę bezpieczeństwa. Jednocześnie jednak pojazd podczas pokonywania zakrętów pochyla się na boki, dzięki czemu kierowca może poczuć się jak na motorze. Triggo jest też lekki, wąski i zmieści się tam, gdzie motocykl.
+
+"Sensem naszego rozwiązania było udostępnienie nam wszystkim, którzy posiadamy prawo jazdy kategorii B, (...) możliwości poruszania się tak zwinnie i tak skutecznie, jak jednośladem, przy zachowaniu bezpieczeństwa i komfortu, do którego jesteśmy przyzwyczajeni w samochodzie" - powiedział w rozmowie z PAP Rafał Budweil z Triggo.
+
+Pojazd Triggo otrzymał w tym roku tytuł Polskiego Produktu Przyszłości. Na razie gotowy jest prototyp badawczy urządzenia, testowany w warszawskim Przemysłowym Instytucie Motoryzacji (PIMOT). Prototypy przedprodukcyjne wyjechać ma na polskie ulice w lecie tego roku, a debiut rynkowy przewidziany jest na 2019-2020 roku. Praca nad projektem była możliwa m.in. dzięki trzem grantom z Narodowego Centrum Badań i Rozwoju.
+
+"Kluczem do naszej konstrukcji jest mechanizm zmiany geometrii podwozia. Do poruszania się z większymi prędkościami 25-90 km/godz. Triggo rozkłada przednie zawieszenie" - opowiada Rawał Budweil. Dodaje, że dzięki temu zapewniona ma być jak największa stateczność pojazdu przy wiekszych prędkościach. "Natomiast przy prędkościach poniżej 25 km/godz. Triggo składa swoje zawieszenie i w takiej konfiguracji jest węższy od wielu motocykli" - dodaje. Dzięki temu nowatorskiemu mechanizmowi pojazd nie zajmuje dużo miejsca na drodze - i może zgrabnie przeciskać się między samochodami w korkach. A kiedy parkuje, wystarczy mu nawet jedna piąta bądź jedna szósta przestrzeni potrzebnej do zaparkowania samochodu.
+
+
+
+"Triggo nie będzie można kupić, natomiast każdy będzie mógł go wynająć" - mówi Rafał Budweil. I wyjaśnia, że Triggo przygotowywany jest z myślą o platformach "mobility as a service". Tak więc jak w ramach ekonomii współdzielenia można wypożyczyć rower miejski na minuty lub w firmie car-sharingowej - samochód na godziny, tak można też będzie i wynająć Triggo.
+
+Choć Triggo jest pojazdem elektrycznym, to użytkownik nie będzie musiał troszczyć o podłączanie go do gniazdka - tłumaczy Maciej Pełka z Triggo. Aby naładować baterię, przejeżdżać się będzie przez specjalną stację. Obsługa otworzy luk, wymieni baterię na naładowaną i użytkownik będzie mógł kontynuować jazdę. Ma to potrwać nie dłużej niż tradycyjna wizyta na stacji benzynowej.
+
+W Triggo wykorzystano znany z zastosowań w lotnictwie układ sterowania drive-by-wire. A to de facto oznacza, że pojazdem steruje się za pośrednictwem komputerów. Budweil uważa, że jeśli systemy autonomicznego sterowania na świecie już się odpowiednio rozwiną, Triggo będzie można łatwo przerobić na pojazd autonomiczny. "Procedura dodania autonomii do Triggo to tak naprawdę włączenie do istniejącej sieci jednego dodatkowego systemu informatycznego" - uważa Budweil. A wtedy Triggo mógłby na żądanie użytkownika dojechać w dowolne miejsce miasta.
+
+"Naszą ambicją jest to, by Triggo stało się polskim szlagierem eksportowym" - mówi Budweil.

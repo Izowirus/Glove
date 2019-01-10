@@ -1,0 +1,13 @@
+W trakcie badań nad chorobą genetyczną naukowcy przypadkowo odkryli mechanizm odpowiadający za siwienie i utratę włosów - informuje czasopismo "Genes and Development".
+      
+            Pracownicy Uniwersytetu Południowo-zachodniego Teksasu (USA) prowadzili badania nad procesami prowadzącymi do powstawania guzów w zaburzeniu zwanym nerwiakowłókniakowatością typu 1 (NF1). Nie osiągnęli zamierzonych celów, ale niechcący zidentyfikowali czynniki biorące udział w zachowaniu naturalnego koloru włosów oraz zapobiegające łysieniu.
+
+Podczas eksperymentów na myszach badacze zaobserwowali, że w trakcie tworzenia się włosa z komórek macierzystych występujących u nasady mieszka włosowego, aktywowane jest białko KROX20 (czynnik transkrypcyjny z motywem palca cynkowego), które pobudza komórki progenitorowe (stanowiące stadium pośrednie pomiędzy komórką macierzystą a komórką w pełni zróżnicowaną) do produkcji SCF - czynnika wzrostu komórek macierzystych.
+
+Jak wykazano, czynnik wzrostu komórek macierzystych (SCF) jest powiązany z pigmentacją włosów, gdyż wraz z białkiem KROX20 pośredniczy w procesie komunikacji pomiędzy komórkami skóry a melanocytami - komórkami wytwarzającymi melaninę nadającą kolor skórze, włosom i oczom.
+
+Naukowcy ustalili, że u myszy pozbawionych SCF zaczynają rosnąć siwe włosy, które wraz z upływem czasu przybierają białą barwę. U myszy pozbawionych białka KROX20 włosy w ogóle przestają rosnąć.
+
+Specjaliści uważają, że za siwienie i łysienie odpowiadają nieprawidłowości w funkcjonowaniu czynników SCF i KROX20, a wyniki ich badania mogą pomóc w opracowaniu skuteczniejszych metod zapobiegania tym zjawiskom. Rezultaty badania muszą jednak zostać potwierdzone u ludzi.
+
+"Chociaż przystąpiliśmy do projektu z nadzieją na zrozumienie procesu powstawania guzów, skończyliśmy z wiedzą na temat przyczyn siwienia włosów oraz czynników bezpośrednio związanych z ich wzrostem. Liczymy na to, że ta wiedza pozwoli w przyszłości stworzyć związek, który dostarczy do mieszków włosowych gen umożliwiający rozwiązanie tego typu problemów kosmetycznych" - mówi jeden z badaczy dr Lu Le.

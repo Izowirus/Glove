@@ -1,0 +1,26 @@
+Sztuczna inteligencja (AI), która śledzi zachowanie internautów i przewiduje trendy świąteczne, może być pomocna w wyborze prezentów. Zdanie się na nią może jednak oznaczać, że wszyscy będą dostawać bardzo podobne upominki – mówi PAP dr Artur Modliński z Uniwersytetu Łódzkiego.
+      
+            
+
+Co roku przed świętami Bożego Narodzenia konsumenci stają przed podobnymi dylematami: jaki prezent kupić najbliższym? Przewidywanie na podstawie własnych gustów czasami kończy się fiaskiem i zwrotami prezentów.
+
+Próbując przewidywać, co najbliżsi chcą dostać pod choinkę - ludzie coraz częściej wykorzystują nowe technologie - zauważa dr Artur Modliński z Katedry Zarządzania Uniwersytetu Łódzkiego. Chodzi o aplikacje - czy sztuczną inteligencję, która dzięki zaawansowanym algorytmom przewiduje najgorętsze trendy świąteczne. 
+
+Jednocześnie portale zakupowe często wykorzystują sztuczną inteligencję do śledzenia zachowań internautów; obserwują, jakich produktów oni poszukują, w co najczęściej klikają, jaką tematykę i kategorie wyszukują - i co kupują. "Ta sztuczna inteligencja po prostu sprawdza i uczy się tego, w jaki sposób postępujemy i co nas interesuje" - mówi.
+
+W efekcie algorytmy potrafią proponować artykuły dopasowane do konkretnego użytkownika internetu, a coraz więcej konsumentów deklaruje, iż przed świętami korzysta z kont najbliższych na różnych portalach, aby zobaczyć kupione i rekomendowane dla nich produkty. Uważają, że w tej sytuacji unikną dublowania prezentów i dokonają bardziej trafnego wyboru - zwrócił uwagę ekspert.
+
+Naukowiec wspomina o IBM Watson Trend – superkomputerze analizującym miliony postów w mediach społecznościowych, fora internetowe, opinie użytkowników, by stworzyć listę najbardziej pożądanych prezentów w danej kategorii. Popularne stają się także tzw. Christmas List - aplikacje, dzięki którym konsumenci tworzą listę prezentów, które chcieliby otrzymać, i dzielą się nią ze znajomymi. Ci zaznaczają, która pozycja będzie przez nich zakupiona, a informacja trafia także do innych osób dodanych do sieci autora listy.
+
+Takie działania nie zawsze jednak spotykają się z uznaniem konsumentów - zauważa dr Modliński. "Przede wszystkim chodzi o to, że dostajemy prezenty tak naprawdę zmasowane. Bardzo często obserwując trendy w danych kategoriach podejmujemy decyzję o zakupie np. książki czy sprzętu elektronicznego - a potem okazuje się, że wszyscy konsumenci otrzymują podobne prezenty" - mówi.
+
+Coraz więcej konsumentów - prócz takich materialnych produktów - chce otrzymać na święta doświadczenia i emocje - odtwarzać tradycje, smaki, muzykę i klimat, który towarzyszył ich wspomnieniom. Zdaniem eksperta w czasach, gdy możemy więcej finansowo, wracamy sentymentalnie do przeszłości starając się jeszcze raz przeżyć dobre chwile. Zamiast gromadzić dobra, coraz częściej chcemy wyjść np. na wymarzony koncert czy do teatru.
+
+"Nasi najbliżsi przede wszystkim oczekują, że będziemy obserwować, co lubią, w jaki sposób spędzają z nami czas - i na tej podstawie dobierać prezenty. W momencie, kiedy okazuje się, że jest to coś bardzo masowego, bardzo zgodnego z trendami, a niezgodnego z naszymi własnymi emocjami i oczekiwaniami doświadczeń - to również okazuje się, że te prezenty są nie do końca trafione" - ocenił dr Modliński.
+
+Innym ograniczeniem dotyczącym nowych trendów i AI jest tzw. bańka filtrująca. Na jej podstawie konsument kupuje produkty, które algorytm dla niego przygotował. Jednocześnie zamyka się on na inne doświadczenia, które być może by mu pasowały, ale prawdopodobnie nie będzie miał możliwości skorzystania z nich, bo nie zostały mu zasugerowane przez algorytm.
+
+"Tak więc sztuczna inteligencja pozwala zwiększyć naszą satysfakcję z używanych produktów i usług, ale z drugiej strony zamyka nas na doświadczenia, które być może byłyby dla nas jeszcze lepsze, ale nie mamy bądź nie będziemy mieć w przyszłości możliwości z nich skorzystać" - podkreślił dr Artur Modliński.
+Jego zdaniem poszukując prezentów, najlepiej jest bazować przede wszystkim na indywidualnych obserwacjach, a nie tylko na nowych technologiach.
+
+"Dlatego, że nasz mózg działa bardziej sprawnie, jesteśmy w stanie lepiej określić preferencje naszych najbliższych i cały czas te nasze indywidualne decyzje zakupowe wydają się być trafniejsze, niż te na podstawie zaprojektowanych algorytmów" - podsumował ekspert z UŁ.

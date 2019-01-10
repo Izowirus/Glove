@@ -1,0 +1,11 @@
+Komputerowy system rozpoznawania twarzy pomoże naukowcom monitorować populacje lemurów na Madagaskarze. Badacze mają nadzieję, że nowa metoda umożliwi lepszą ochronę tych zagrożonych wyginięciem zwierząt i ułatwi badania nad nimi.
+      
+            Zespół amerykańskich naukowców zmodyfikował istniejący biometryczny system identyfikacji ludzkich twarzy i stworzył LemurFaceID, pierwszy program rozpoznający poszczególne lemury na podstawie ich wyglądu.
+
+"Lemury mają unikalne cechy pyszczka, które zostają zidentyfikowane przez program – tłumaczy ekspert od biometryki prof. Anil Jain z Uniwersytetu Stanowego Michigan, jeden z autorów badania. - Po zoptymalizowaniu LemurFaceID może wspomagać długookresowe badania nad zagrożonymi gatunkami, zapewniając szybką, tanią i niezawodną metodę rozpoznawania zwierząt”.
+
+Program przetestowano na zdjęciach lemurów czerwonobrzuchych (Eulemur rubriventer), wykonanych w Parku Narodowym Ranomafana na Madagaskarze. Okazało się, że system rozpoznaje konkretne osobniki z prawie 99-procentową dokładnością.
+
+Jak czytamy w serwisie naukowym EurekAlert, głównym celem biologów jest stworzenie bazy danych dla długookresowych badań nad lemurami. Pozwolą one odpowiedzieć na najistotniejsze pytania: jak długo żyją zwierzęta na wolności, jak często się rozmnażają, jaka jest śmiertelność na różnych etapach życia i jak zmienia się liczebność populacji.
+
+ Międzynarodowa Unia Ochrony Przyrody (IUCN) uznała w 2012 roku lemury za najbardziej zagrożoną wyginięciem grupę ssaków na świecie. Naukowcy mają nadzieję, że stworzony przez nich program komputerowy pomoże je ocalić, nie tylko przez badania naukowe, ale również poprzez umożliwienie identyfikacji osobników, które padają ofiarą kłusowników czy nielegalnego handlu zwierzętami.

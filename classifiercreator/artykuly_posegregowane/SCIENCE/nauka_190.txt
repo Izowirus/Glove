@@ -1,0 +1,16 @@
+Szczecin, 09.01.2015. Nietoperz zaprezentowany podczas "Nocy biologów" na Wydziale Biologii Uniwersytetu Szczecińskiego.  Archiwum fot. PAP © 2018 / Marcin Bielecki
+                                        
+
+            Ruchy palców na ekranie smartfona mogą służyć do śledzenia użytkowników tych urządzeń - twierdzi zespół naukowców z Australii i Wielkiej Brytanii. Ich zdaniem analiza sposobu dotykania ekranu na telefonie może nawet pozwolić na identyfikację konkretnych osób.
+      
+            Swoje badania naukowcy zaprezentowali podczas zakończonego w ubiegłym tygodniu w Barcelonie sympozjum Privacy Enhancing Technologies.
+
+W ramach eksperymentu, dzięki specjalnie przygotowanej aplikacji na telefony z Androidem, eksperci zebrali dane o pociągnięciach i gestach, jakie codziennie wykonują na swoich urządzeniach posiadacze smartfonów z ekranem dotykowym. W wyniku analizy naukowcy doszli do wniosku, że w połączeniu z informacjami o tym, co użytkownik wpisuje na klawiaturze, ruchy wykonywane na telefonie mogą go zidentyfikować z dokładnością 98,5 proc.
+
+Analiza samych ruchów palców na ekranie telefonu pozwala natomiast zdaniem ekspertów potwierdzić tożsamość badanej osoby z dokładnością do 68,6 proc.
+
+Wedlug niezależnego doradcy i eksperta w dziedzinie prywatności i cyberbezpieczeństwa dr Łukasza Olejnika, badania te wpisują się w szerszy kontekst śledzenia i profilowania za pomocą cech behawioralnych, takich jak sposoby korzystania ze sprzętu i usług. "To analiza zachowań użytkowników, która jest podobna do tej wykorzystywanej w biometrycznych technikach monitoringu" - tłumaczy dr Olejnik.
+
+Zdaniem naukowców, którzy przeprowadzili eksperyment, śledzenie użytkowników za pomocą dotyku i wykonywanych gestów może być używane do gromadzenia danych o czynnościach wykonywanych przez daną osobę na wielu urządzeniach. Dzięki tej technice można również - jak twierdzą badacze - gromadzić informacje o wielu użytkownikach pojedynczego urządzenia.
+
+Coraz więcej aplikacji zbiera informacje o ruchach i gestach, jakich użytkownicy urządzeń mobilnych używają do obsługi swoich gadżetów. Jak zauważa dr Olejnik, "jest to o tyle ciekawe, że podmioty przetwarzające dane mogą nieświadomie zacząć gromadzić i pracować na danych wrażliwych, co mogłoby wiązać się z konsekwencjami wynikającymi ze stosowania RODO", Ogólnego Rozporządzenia o Ochronie Danych Osobowych.

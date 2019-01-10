@@ -1,0 +1,19 @@
+Grę rehabilitacyjną opartą na wirtualnej rzeczywistości chcą stworzyć naukowcy z Uniwersytetu Śląskiego w Katowicach. Opracowali oni już swój własny system umieszczanych na ciele czujników, które pozwalają odwzorowywać na komputerze ruch ciała osoby ćwiczącej.
+      
+            Lider projektu dr Paweł Janik z Instytutu Informatyki na Wydziale Informatyki i Nauki o Materiałach Uniwersytetu Śląskiego w Katowicach tłumaczył PAP, że jest to rozwiązanie typu ubieralnego – urządzenia tego typu to ubrania lub akcesoria zawierające w sobie zwykle zaawansowane technologie elektroniczne. Dzięki temu system jest mobilny – można go wykorzystywać np. w domu, ale też w dowolnym innym miejscu.
+
+W tym przypadku będzie to możliwe dzięki sensorom, które zakłada się m.in. na głowę, ręce i brzuch, i które reagują na ruch człowieka. "Ten ruch transmitowany jest za pomocą standardowej sieci wifi (…), a następnie te dane są przekształcane chociażby na zmianę ruchu postaci, którą wyświetlamy np. na ekranie komputera" – mówił Janik.
+
+W ten sposób powstał (choć jest wciąż rozwijany) zaawansowany system sensorowy np. do wspierania rehabilitacji osób zmagających się z różnymi schorzeniami układu ruchu.
+
+Docelowo, dzięki odzwierciedlonemu na ekranie monitora komputerowemu modelowi ciała osoby ćwiczącej, osoba ta będzie mogła wykonywać ćwiczenia zaprogramowane i dostosowane do fizjoterapeutycznego planu pacjenta. System precyzyjnie odwzoruje bowiem ruch ciała, a osoba ćwicząca w czasie rzeczywistym otrzyma informację zwrotną, czy ćwiczy prawidłowo. Dane te będą też zapisywane w pamięci komputera, dzięki czemu np. rehabilitant będzie miał wgląd w postępy pacjenta.
+
+Ponadto, naukowcy z UŚ chcą na tej podstawie stworzyć grę rehabilitacyjną, przeznaczoną przede wszystkim dla młodych pacjentów np. ze schorzeniami typu neurologicznego.
+
+
+
+Jak tłumaczył doktorant i architekt systemu Michał Pielka, obecnie na rynku wiele typu tego systemów już powstało i charakteryzują się one wykorzystaniem standardowej infrastruktury sieci wifi. "(Oznacza to, że) wszelkie sensory łączą się do jednego wspólnego punktu dostępowego, zwykle jest to standardowy router, który większość z nas ma w domach" – mówił Pielka.
+
+"Nasz system jednak charakteryzuje się tym, że w jego konstrukcji nie zastosowaliśmy dodatkowego mikrokontrolera, który przetwarza dane. Zwykle systemy konkurencji zbudowane są w taki sposób, że wszystkie dane z sensora przesyłane są do głównego mikrokontrolera, który przetwarza te dane i dopiero przekazuje je do interfejsu radiowego. Natomiast my zadaliśmy sobie trud, bo wykorzystaliśmy mikrokontroler dostępny w module systemu radiowego. Dzięki temu udało nam się zmniejszyć zarówno rozmiar sensora, jego zapotrzebowanie na energię i uprościć budowę, co także zmniejsza koszty" – mówił doktorant.
+
+Z kolei dr Janik dopowiedział, że obecnie naukowcy opracowali część techniczną tego rozwiązania. "Liczymy teraz na dynamiczną współpracę z zespołami lekarskimi, ponieważ jesteśmy już gotowi do tego, żeby implementować to rozwiązanie właśnie pod kątem typowych gier rehabilitacyjnych" – podkreślił.

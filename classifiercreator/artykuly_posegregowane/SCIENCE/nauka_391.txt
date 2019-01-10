@@ -1,0 +1,27 @@
+Studenci Politechniki Wrocławskiej zbadają, czy możliwe jest wykorzystanie w kosmosie uniwersalnego chwytaka, dostosowującego się do kształtu przedmiotu. Ich eksperyment zakwalifikował się do europejskiego programu Rexus/Bexus i ma znaleźć się na rakiecie wystrzelonej w jego ramach.
+      
+            Zdaniem Aleksandra Gorgolewskiego, członka zespołu projektowego "Space is More", który działa w Centrum Wiedzy i Informacji Naukowo-Technicznej PWr, chwytanie różnego rodzaju przedmiotów w kosmosie to wciąż duży problem i trwają prace nad nowymi sposobami ich przenoszenia. Kłopotem jest głównie chwytanie przedmiotów, które są delikatne czy mają różne kształty, bowiem obecne chwytaki nie są aż tak uniwersalne.
+
+Projekt TRACZ (Testing Robotic Application For Cathing in Zero-G) ma za zadanie przetestować technologię tzw. jamming grippera, czyli uniwersalnego chwytaka skonstruowanego z membrany wypełnionej granulatem. Zdaniem studentów, taki chwytak jest dużo bardziej uniwersalny.
+
+Poprzez manipulację różnicą ciśnień, chwytak dostosowuje się do kształtu przedmiotu, zaciska się na nim i dzięki temu można go przenieść - powiedział PAP Aleksander Gorgolewski.
+
+Jak będzie przebiegał proces chwytania przedmiotu w warunkach kosmicznych? W chwytaku granulat jest ciasno ściśnięty membraną, w której, po wypełnieniu powietrzem, powstaje nieznaczne nadciśnienie. Po dosunięciu chwytaka membrana obejmuje przedmiot. "Wtedy następuje wypuszczenie powietrza z membrany do próżni, granulat twardnieje i przedmiot zostaje chwycony" - wyjaśnił Gorgolewski, student Wydziału Mechaniczno-Energetycznego PWr.
+
+
+
+Jak podkreślił, studencki eksperyment to demonstrator technologii, który ma za zadanie sprawdzić czy taki chwyt będzie efektywny w warunkach mikrograwitacji i próżni. "Skupiamy się głównie na wykonaniu eksperymentu, który zmierzy siłę, z jaką chwytak będzie w stanie ten przedmiot chwycić i utrzymać" - zaznaczył.
+
+"Nasz chwytak ma tę zaletę, że jest w stanie chwycić przedmioty o różnych kształtach i wykonane z różnych materiałów. Jego zaletą jest także to, że jest on prosty w budowie. Jest to tak naprawdę membrana, podobna do zwykłego balonu, która wypełniona będzie prawdopodobnie zmieloną kawą, świetnie nadającą się do użycia w takich chwytakach" - wyjaśnił Gorgolewski.
+
+Jak ocenił, w przyszłości tego typu chwytaki mogą znaleźć zastosowanie w różnego rodzaju zdalnie sterowanych i autonomicznych systemach.
+
+Eksperyment zostanie przeprowadzany w ramach szwedzko-niemieckiego programu Rexus/Bexus realizowanego przez Niemiecką Agencję Kosmiczną (DLR) oraz Szwedzką Agencję Kosmiczną (SNSB), przy udziale Europejskiej Agencji Kosmicznej (ESA). Program zakłada wyposażenie rakiety kosmicznej i gondoli balonu w aparatury badawcze przygotowane przez wybrane studenckie zespoły z całej Europy.
+
+Projekt wrocławskich studentów znaleźć się ma na pokładzie jednej z dwóch rakiet Rexus, które w marcu 2019 r. zostaną wystrzelone w kosmos. Do połowy czerwca ma być gotowa dokumentacja projektowa eksperymentu, a prawdopodobnie w sierpniu rozpoczną się testy w ośrodkach autoryzowanych przez ESA. Projekt realizowany jest m.in. dzięki dofinansowaniu Ministerstwa Nauki i Szkolnictwa Wyższego w ramach grantu "Najlepsi z najlepszych 2.0".
+
+Uczestniczący w projekcie TRACZ Aleksander Sil z Koła Naukowego Robotyków "KoNaR" podkreśla, że celem studentów jest przyczynienie się do rozwoju technologii kosmicznych i robotycznych.
+
+"Przede wszystkim chcielibyśmy również zobaczyć, jak od podstaw wygląda tworzenie projektu w przemyśle kosmicznym i wykształcić się w tym kierunku, żeby może w przyszłości również móc pracować w tej dziedzinie" - dodał Sil.
+
+To kolejny "kosmiczny" projekt wrocławskich studentów. W marcu 2017 roku w kosmos poleciała wiertarka zespołu DREAM, który badał jak wygląda proces wiercenia w warunkach mikrograwitacji.

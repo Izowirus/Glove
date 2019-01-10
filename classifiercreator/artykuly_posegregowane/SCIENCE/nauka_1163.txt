@@ -1,0 +1,27 @@
+Naukowcy z Politechniki Łódzkiej opatentowali technologię, która umożliwia tworzenie papieru o strukturze będącej jednocześnie nośnikiem informacji. Dzięki temu każda kartka papieru może posiadać rodzaj wewnętrznego, unikalnego kodu paskowego i tym samym praktycznie będzie niemożliwa do sfałszowania.
+      
+            Wprowadzenie takiego papieru na rynek umożliwi m.in. lepsze zabezpieczanie dokumentów i opakowań, śledzenie obiegu dokumentów, a technika ta może być wykorzystywana także do przesyłania informacji poufnych – powiedział PAP dr hab. inż. Konrad Olejnik, autor opracowania i dyrektor Instytutu Papiernictwa i Poligrafii PŁ.
+
+Impulsem do badań były częste zapytania kierowane do specjalistów z Instytutu o stwierdzenie autentyczności różnego rodzaju dokumentów np. umów. Zweryfikowanie autentyczności zwykłego papieru, na którym została zapisana umowa, jest bardzo trudne, a często po prostu niemożliwe. „Stąd narodził się pomysł, aby stworzyć papier, który ma w swojej strukturze zapisaną informację, pozwalającą na jednoznaczną identyfikację takiego materiału” - zaznaczył naukowiec.
+
+Jak przekonuje, papier do tego celu nadaje się doskonale, bowiem jest wytwarzany z włókien, które w trakcie formowania wstęgi papierniczej mogą układać się w określonym kierunku.
+
+„Nasze wstępne badania wykonane przy użyciu znaczników włókien luminescencyjnych pokazują, że zmieniając pewne parametry wytwarzania papieru, możemy kontrolować i regulować sposób ułożenia włókien. I to zrodziło pomysł, żeby wykorzystać włókna w papierze również jako nośnik informacji. Zmieniając szybko ich ułożenie można uzyskać coś w postaci kodu paskowego, czyli fragmenty o różnym ukierunkowaniu włókien, które później można odczytać” - wyjaśnił dr Olejnik.
+
+Jego zdaniem ta technologia ma duży potencjał, bowiem nośnikiem informacji będą te same włókna, które tworzą strukturę papieru – brak jest dodatku innych materiałów. „Nie dodajemy żadnych obcych dodatków, więc osoba postronna nie ma możliwości stwierdzić, które włókna odpowiadają za przenoszenie informacji. I to jest cała siła tego pomysłu” - ocenił.
+
+
+
+Metoda ta ma pozwolić na jednoznaczne zidentyfikowanie materiału, a każda kartka papieru będzie niepowtarzalna. „Sfałszowanie takiego papieru będzie praktycznie możliwe tylko drogą jego produkcji w fabryce. Jednakże technologia będzie na tyle skomplikowana, że nakłady, które trzeba by ponieść, byłyby niewspółmierne do korzyści” - podkreślił naukowiec.
+
+Wśród korzyści, które mogą pojawić wraz z wprowadzeniem takiego produktu na rynek, szef Instytutu wymienił przede wszystkim możliwość zabezpieczania dokumentów czy opakowań metodą o wiele tańszą, niż metody klasyczne zawierające wiele dodatków. „Taki +kodowany+ papier umożliwiłby także śledzenia obiegu dokumentów, a także można by go wykorzystać do przesyłania informacji poufnych” - podkreślił.
+
+Projekt został sprawdzony na razie w skali laboratoryjnej. „Wstępnie uzyskaliśmy pewne zmiany w papierze, które dały podstawy do opatentowania tej techniki, niemniej jednak, żeby wyjść poza laboratorium, potrzebne są dalsze fundusze, o które się staramy” - przyznał dr Olejnik.
+
+Przed komercjalizacją wynalazku łódzcy naukowcy chcą zbudować aparaturę do formowania papieru w skali półtechnicznej oraz kluczowe dla tego projektu urządzenie do szybkiego odczytywania informacji ze struktury papieru. Nawiązali w tym zakresie współpracę z Wydziałem Fizyki Technicznej, Informatyki i Matematyki Stosowanej oraz Katedrą Włókien Sztucznych Wydziału Technologii Materiałowych i Wzornictwa Tekstyliów PŁ.
+
+"Nasi koledzy stwierdzili, że są w stanie opracować odpowiednie algorytmy matematyczne do czytania i interpretacji tej struktury, a także podstawy do stworzenia takiego czytnika” - zapewnił.
+
+Ponieważ jest to rozwiązanie nowatorskie to – jak przyznał naukowiec - przed ostatecznym jego wdrożeniem konieczne będzie jeszcze określenie wielu czynników, m.in. maksymalnej pojemności informacyjnej tworzonej struktury włóknistej, czy odporności zawartej w papierze informacji na drukowanie, pisanie czy zginanie.
+
+Zdaniem dra Olejnika, jeśli udałoby się pozyskać fundusze na dalsze badania i potwierdziłyby się wszystkie przewidywania, to w ciągu 3 lat możliwe byłoby opracowanie technologii w skali umożliwiającej komercjalizację tego nowatorskiego rozwiązania.

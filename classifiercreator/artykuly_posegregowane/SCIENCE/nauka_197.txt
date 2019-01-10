@@ -1,0 +1,18 @@
+Jeszcze w 2018 roku na orbitę okołoziemską zostanie wyniesiony pierwszy polsko-fiński satelita obserwacyjny - zapowiedzieli w poniedziałek w Warszawie przedstawiciele firm Creotech Instruments i ICEYE. Będzie on częścią konstelacji 18 współpracujących satelitów.
+
+      
+            Komercyjny satelita o nazwie ICEYE-X2 będzie ważył ok. 85 kg i zaopatrzony zostanie w - stworzony przez polsko-fińską firmę ICEYE - radar SAR (radar z tzw. syntetyczną aperturą), który umożliwi prowadzenie obserwacji powierzchni Ziemi niezależnie od warunków pogodowych. Złe warunki atmosferyczne, np. zachmurzenie, stanowią bowiem przeszkodę nie do przejścia dla satelitów z aparaturą optyczną.
+
+Prace nad urządzeniem trwały trzy lata, zaś jego integracja prowadzona była w czasie ostatnich sześciu miesięcy w Finlandii i Polsce. Firma Creotech Instruments odpowiadała za budowę wybranych komponentów satelity i prace związane z jego integracją.
+
+Podczas poniedziałkowej konferencji prasowej, która odbyła się w Warszawie, obie firmy podpisały także list intencyjny, zakładający, że w ciągu najbliższych pięciu lat Creotech Instruments przeprowadzi integrację nawet 18 satelitów z docelowej konstelacji ICEYE. Kiedy wszystkie satelity znajdą się na orbicie, czas rewizyty - czyli powrotu nad ten sam obszar jednego z satelitów konstelacji - ma wynosić poniżej trzech godzin.
+
+"Będziemy w stanie wykonać np. zdjęcie Warszawy, co trzy godziny" - podkreślił Rafał Modrzewski, prezes firmy ICEYE. "Niezależnie od warunków pogodowych - czy to jest deszcz, czy zachmurzenie, czy jest ciemno - jesteśmy wtedy w stanie uzyskać bardzo podobne zdjęcie i zanalizować je komputerowo".
+
+"Tak naprawdę największą zaletą małych satelitów jest rozdzielczość czasowa, czyli jak szybko jesteśmy w stanie odpowiedzieć na jakiś problem" - mówił Modrzewski. "Jeżeli pojawia się gdzieś katastrofa naturalna, to jesteśmy w stanie odpowiedzieć na tę katastrofę w ciągu trzech godzin. Dla porównania: satelita pojedynczy jest w stanie odpowiedzieć na to w ciągu 24 do 48 godzin" - dodał.
+
+Oprócz możliwości monitorowania klęsk żywiołowych, sieć małych satelitów może posłużyć również m.in. do wykrywania wycieków ropy naftowej, monitorowania stref przybrzeżnych czy infrastruktury. "Co ciekawe, jako że nie było takich małych satelitów, nie mamy dostępu do takiego typu informacji, nie ma obrazowań radarowych z tego samego miejsca, które były wykonane w ciągu kilku godzin, więc nie jest nam łatwo stwierdzić, jakie będą wszystkie zastosowania" - stwierdził Modrzewski.
+
+Za obsługę satelitów konstelacji odpowiadać będzie Centrum Operacji Satelitarnych, które zlokalizowane zostało w polskiej siedzibie ICEYE w Warszawie.
+
+Współpraca ICEYE z Creotech Instruments rozpoczęła się w 2016 roku, kiedy polska firma otrzymała zlecenie na montaż elementów elektroniki na potrzeby prototypowego satelity ICEYE-X1, który został wyniesiony na ziemską orbitę na początku 2018 roku.

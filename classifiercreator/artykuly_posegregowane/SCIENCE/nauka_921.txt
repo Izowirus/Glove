@@ -1,0 +1,17 @@
+System, który wykryje nadlatującego drona i nie pozwoli mu wlecieć na chroniony teren, opracowała polska firma Advanced Protection Systems. SafeSky potrafi wykryć drona nawet z odległości kilometra.
+      
+            Drony - bezzałogowe urządzenia latające - są od kilku lat powszechnie dostępne na rynku. Nie można wykluczyć, że takie urządzenia będą wykorzystywać terroryści, np. do przenoszenia ładunków wybuchowych czy broni. Poza tym drony są w stanie - ponad murami więzienia - przenosić np. telefony komórkowe czy narkotyki. Te bezzałogowe maszyny mogą też ułatwiać pracę hakerom przy włamaniach do sieci teleinformatycznych. Co więcej, dron może np. wlecieć na teren wojskowy i zdobyć poufne informacje albo podlecieć do okna i sfilmować kogoś w prywatnej sytuacji.
+
+Takim zdarzeniom mógłby zapobiec system SafeSky opracowany przez polską firmę Advanced Protection Systems. "Zastosowanie czterech różnych czujników pozwala nam na skuteczne wykrywanie dronów z bardzo dużej odległości – nawet tysiąca metrów" - opowiada dr Radosław Piesiewicz z Advanced Protection Systems. System jest wyposażony w kamery, które zobaczą drona, w macierz akustyczną, która drona usłyszy, w radary, które drona wykryją, a także w detektory, które usłyszą transmisję sygnałów między dronem a operatorem.
+
+"Po wykryciu drona skutecznie go neutralizujemy – to znaczy albo zmuszamy do powrotu do operatora, albo do wylądowania. Czyli nie pozwalamy mu wlecieć w strefę chronioną" - tłumaczy dr Piesiewicz.
+
+
+
+"Można sobie wyobrazić, że jakby rozwijamy parasol nad danym obiektem" - opisuje. Podkreśla, że dron nie może się niepostrzeżenie przedrzeć na chroniony teren z żadnej strony. "My go zawsze wykryjemy" - zapewnia rozmówca PAP. Dodaje, że system działa w każdych warunkach - również w nocy i w niepogodę.
+
+Według Piesiewicza z rozwiązania mogą korzystać nie tylko lotniska, rafinerie, duże zakłady chemiczne, obiekty rządowe, bazy wojskowe, ale i prywatni odbiorcy.
+
+"My w zasadzie rynek współtworzymy z tylko kilkoma firmami na świecie" - zaznacza dr Piesiewicz i dodaje, że polski system jest tańszy niż rozwiązania zagraniczne, a jest co najmniej tak skuteczny, jak one.
+
+Rozwiązanie prezentowane było na polskim stoisku narodowym podczas targów Hannover Messe 2017. Prace nad systemem dofinansowane były ze środków Narodowego Centrum Badań i Rozwoju.
