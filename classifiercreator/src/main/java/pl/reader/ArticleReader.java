@@ -1,9 +1,8 @@
 package pl.reader;
 
 import pl.model.Article;
-import pl.model.TopicLabel;
+import pl.model.Category;
 
-import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -23,7 +22,7 @@ public class ArticleReader {
     }
 
     private void readArticles(Path articleDirectory) {
-        final Collection<String> allowedTopics = TopicLabel.topicNames();
+        final Collection<String> allowedTopics = Category.categoriesNames();
         final File articles = new File(articleDirectory.toUri());
         final List<File> categories = Arrays.stream(articles.listFiles())
                 .filter(File::isDirectory)

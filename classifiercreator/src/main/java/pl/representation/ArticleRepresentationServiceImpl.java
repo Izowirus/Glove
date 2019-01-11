@@ -1,28 +1,30 @@
 package pl.representation;
 
+import lombok.Setter;
 import pl.model.Article;
 import pl.model.ArticleRepresentation;
-import pl.model.TopicLabel;
+import pl.model.Category;
 
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+@Setter
 public class ArticleRepresentationServiceImpl implements ArticleRepresentationService {
 
     private final Map<String, List<Double>> globalVectors;
-    private final ContentSanitizer contentSanitizer;
+    private final ContentFormatter contentFormatter;
 
     public ArticleRepresentationServiceImpl(Map<String, List<Double>> globalVectors,
-                                            ContentSanitizer contentSanitizer) {
+                                            ContentFormatter contentFormatter) {
         this.globalVectors = globalVectors;
-        this.contentSanitizer = contentSanitizer;
+        this.contentFormatter = contentFormatter;
     }
 
     @Override
     public ArticleRepresentation createRepresentation(Article article) {
-        final String text = contentSanitizer.sanitize(article.getContent());
-        final Integer label = TopicLabel.valueOf(article.getTopic()).getLabel();
+        final String text = contentFormatter.format(article.getContent());
+        final Integer label = Category.valueOfString(article.getCategoryLabel()).getIntValue();
         final String title = article.getTitle();
         final List<Double> vector = createVector(text);
         return new ArticleRepresentation(label, vector, title);

@@ -3,7 +3,6 @@ package pl.classification;
 import org.apache.commons.lang3.ArrayUtils;
 import pl.model.ArticleRepresentation;
 import smile.classification.KNN;
-import smile.classification.NeuralNetwork;
 
 import java.util.Collection;
 import java.util.List;
