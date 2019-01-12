@@ -31,11 +31,20 @@ public class ArticleRepresentationServiceImpl implements ArticleRepresentationSe
     }
 
     private List<Double> createVector(String text) {
-        return Arrays.stream(text.split("[ ]+"))
+        List<List<Double>> vectors = Arrays.stream(text.split("[ ]+"))
                 .map(globalVectors::get)
                 .filter(Objects::nonNull)
+                .collect(Collectors.toList());
+
+
+        double size = (double) vectors.size();
+
+        return vectors.stream()
                 .reduce(this::reduceVectors)
-                .orElseGet(Collections::emptyList);
+                .orElseGet(Collections::emptyList)
+                .stream()
+                .map(d -> d/size)
+                .collect(Collectors.toList());
     }
 
     private List<Double> reduceVectors(List<Double> a, List<Double> b) {

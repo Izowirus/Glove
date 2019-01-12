@@ -2,14 +2,15 @@ package pl.classification;
 
 import org.apache.commons.lang3.ArrayUtils;
 import pl.model.ArticleRepresentation;
+import smile.classification.Classifier;
 import smile.classification.KNN;
 
 
-public class KNNClassificationModel implements ClassificationModel<ArticleRepresentation> {
+class ArticleClassificationModel implements ClassificationModel<ArticleRepresentation> {
 
-    private final KNN<double[]> model;
+    private final Classifier<double[]> model;
 
-    public KNNClassificationModel(KNN<double[]> model) {
+    public ArticleClassificationModel(Classifier<double[]> model) {
         this.model = model;
     }
 

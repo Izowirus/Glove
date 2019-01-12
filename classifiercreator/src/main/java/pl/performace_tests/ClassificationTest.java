@@ -17,15 +17,26 @@ import java.util.stream.IntStream;
 @Slf4j
 public class ClassificationTest {
 
-    private Classificator classificator;
+    private Classificator<ArticleRepresentation> classificator;
     List<ArticleRepresentation> trainArticleRepresentations = new ArrayList<>();
     List<ArticleRepresentation> testArticleRepresentations =  new ArrayList<>();
+    private boolean verbose;
 
-
-    public ClassificationTest(Classificator classificator, ArticleRepresentationService representationCreator, List<Article> articles) {
+    public ClassificationTest(Classificator<ArticleRepresentation> classificator,
+                              ArticleRepresentationService representationCreator,
+                              List<Article> articles,
+                              boolean verbose) {
         this.classificator = classificator;
+        this.verbose = verbose;
         List<ArticleRepresentation>  articleRepresentations = representationCreator.crateRepresentation(articles);
         divideForTrainAndTest(articleRepresentations);
+    }
+
+
+    public ClassificationTest(Classificator<ArticleRepresentation> classificator,
+                              ArticleRepresentationService representationCreator,
+                              List<Article> articles) {
+        this(classificator, representationCreator, articles, true);
     }
 
     public void checkClassificationAccuracy() {
@@ -46,8 +57,10 @@ public class ClassificationTest {
             if (prediction == properLabelValue) {
                 catArticlesProperClassifiesNums[properLabelValue] += 1;
             }
-            printProgress(index + 1, allArticlesNo);
-            printPrediction(articleRepresentation, prediction);
+            if(verbose) {
+                printProgress(index + 1, allArticlesNo);
+                printPrediction(articleRepresentation, prediction);
+            }
         });
 
         printClassicationResults(catArticlesNums, catArticlesProperClassifiesNums);
@@ -65,35 +78,37 @@ public class ClassificationTest {
         });
     }
 
-    private static void printClassicationResults(int[] catArticlesNum, int[] catArticlesProperClassifiesNum) {
-        List<String> categoriesNames = Category.categoriesNames();
-        Arrays.asList(Category.values()).forEach(topicLabel -> {
-            int catIdx = topicLabel.getLabel();
-            int allFromCategory = catArticlesNum[catIdx];
-            int properlyClassified = catArticlesProperClassifiesNum[catIdx];
-            float categoryAccuracy = getAccuracy(properlyClassified, allFromCategory);
-            String categoryAccuracyFormat = "Category %s result: %d/%d = %.2f%% %n";
-            System.out.printf(categoryAccuracyFormat,
-                    categoriesNames.get(catIdx),
-                    properlyClassified,
-                    allFromCategory,
-                    categoryAccuracy);
-        });
+    private void printClassicationResults(int[] catArticlesNum, int[] catArticlesProperClassifiesNum) {
+        if(verbose) {
+            List<String> categoriesNames = Category.categoriesNames();
+            Arrays.asList(Category.values()).forEach(topicLabel -> {
+                int catIdx = topicLabel.getLabel();
+                int allFromCategory = catArticlesNum[catIdx];
+                int properlyClassified = catArticlesProperClassifiesNum[catIdx];
+                float categoryAccuracy = getAccuracy(properlyClassified, allFromCategory);
+                String categoryAccuracyFormat = "Category %s result: %d/%d = %.2f%% %n";
+                System.out.printf(categoryAccuracyFormat,
+                        categoriesNames.get(catIdx),
+                        properlyClassified,
+                        allFromCategory,
+                        categoryAccuracy);
+            });
+        }
 
         int allGoodPredictions = IntStream.of(catArticlesProperClassifiesNum).sum();
         int allPredictions = IntStream.of(catArticlesNum).sum();
         float overallAccuracy = getAccuracy(allGoodPredictions, allPredictions);
-        System.out.printf("Overall accuracy: %d/%d = %.2f%%",
+        System.out.printf("Overall accuracy: %d/%d = %.2f%% %n%n",
                 allGoodPredictions,
                 allPredictions,
                 overallAccuracy);
     }
 
-    private static float getAccuracy(float allGoodPredictions, float allPredictions) {
+    private float getAccuracy(float allGoodPredictions, float allPredictions) {
         return allGoodPredictions / allPredictions * 100F;
     }
 
-    private static void printPrediction(ArticleRepresentation articleRepresentation, Integer label) {
+    private void printPrediction(ArticleRepresentation articleRepresentation, Integer label) {
         final Category category = Category.valueOfInt(articleRepresentation.getLabel());
         final Category prediction = Category.valueOfInt(label);
         System.out.printf("Article tile: %s, article topic %s, prediction %s, correctness %b %n",
@@ -103,7 +118,7 @@ public class ClassificationTest {
                 category == prediction);
     }
 
-    private static void printProgress(int currentNo, int allNo) {
+    private void printProgress(int currentNo, int allNo) {
         System.out.printf("%d/%d ", currentNo, allNo);
     }
 
