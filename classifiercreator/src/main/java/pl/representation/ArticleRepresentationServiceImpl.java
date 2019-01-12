@@ -24,7 +24,7 @@ public class ArticleRepresentationServiceImpl implements ArticleRepresentationSe
     @Override
     public ArticleRepresentation createRepresentation(Article article) {
         final String text = contentFormatter.format(article.getContent());
-        final Integer label = Category.valueOfString(article.getCategoryLabel()).getIntValue();
+        final Integer label = Category.valueOfString(article.getCategoryLabel()).getLabel();
         final String title = article.getTitle();
         final List<Double> vector = createVector(text);
         return new ArticleRepresentation(label, vector, title);

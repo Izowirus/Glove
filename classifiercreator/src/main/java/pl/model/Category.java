@@ -14,26 +14,26 @@ public enum Category {
     SPORT(6),
     WORLD(7);
 
-    private int intValue;
+    private int label;
 
     Category(int intLabelValue){
-        this.intValue = intLabelValue;
+        this.label = intLabelValue;
     }
 
-    public int getIntValue() {
-        return intValue;
+    public int getLabel() {
+        return label;
     }
 
     public static Category valueOfInt(int label){
        return Arrays.stream(Category.values())
-                .filter(category -> category.getIntValue() == label)
+                .filter(category -> category.getLabel() == label)
                 .findAny()
                 .orElse(null);
     }
 
-    public static Category valueOfString(String label){
+    public static Category valueOfString(String categoryName){
         return Arrays.stream(Category.values())
-                .filter(category -> category.name().equals(label))
+                .filter(category -> category.name().equals(categoryName))
                 .findAny()
                 .orElse(null);
     }
