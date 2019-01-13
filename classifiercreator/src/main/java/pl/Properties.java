@@ -18,22 +18,22 @@ public class Properties {
     }
 
     public static boolean boolValue(String property){
-        if(property == null) init();
+        if(properties == null) init();
         return Boolean.valueOf(properties.getProperty(property));
     }
 
     public static String stringValue(String property){
-        if(property == null) init();
+        if(properties == null) init();
         return properties.getProperty(property);
     }
 
     public static double doubleValue(String property){
-        if(property == null) init();
+        if(properties == null) init();
         return Double.valueOf(properties.getProperty(property));
     }
 
     public static int intValue(String property){
-        if(property == null) init();
+        if(properties == null) init();
         return Integer.valueOf(properties.getProperty(property));
     }
 

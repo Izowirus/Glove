@@ -20,11 +20,6 @@ import java.util.stream.Stream;
 public class App {
 
     public static void main(String[] args) throws IOException {
-        if (args.length == 0) {
-            System.out.println("Prosze podać ścieżkę do pliku z vectorami");
-            System.exit(0);
-        }
-
 
         final String vectorFileName = Properties.stringValue("vectorsFile");
         final String articleDirectory = Properties.stringValue("articlesDirectory");
