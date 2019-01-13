@@ -4,3 +4,4 @@ useStopList=true
 stopListSize=60
 normalize=true
 average=true
+crossValidationBatchesNo=4

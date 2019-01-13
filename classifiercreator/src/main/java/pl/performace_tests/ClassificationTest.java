@@ -1,5 +1,7 @@
 package pl.performace_tests;
 
+import lombok.AllArgsConstructor;
+import lombok.Getter;
 import pl.classification.ClassificationModel;
 import pl.classification.Classificator;
 import pl.model.Article;
@@ -16,8 +18,7 @@ import java.util.stream.IntStream;
 public class ClassificationTest {
 
     private Classificator<ArticleRepresentation> classificator;
-    List<ArticleRepresentation> trainArticleRepresentations = new ArrayList<>();
-    List<ArticleRepresentation> testArticleRepresentations =  new ArrayList<>();
+    List<ArticleRepresentation> articleRepresentations;
     private boolean verbose;
 
     public ClassificationTest(Classificator<ArticleRepresentation> classificator,
@@ -26,27 +27,45 @@ public class ClassificationTest {
                               boolean verbose) {
         this.classificator = classificator;
         this.verbose = verbose;
-        List<ArticleRepresentation>  articleRepresentations = representationCreator.crateRepresentation(articles);
-        divideForTrainAndTest(articleRepresentations);
+        this.articleRepresentations = representationCreator.crateRepresentation(articles);
     }
 
 
     public ClassificationTest(Classificator<ArticleRepresentation> classificator,
-                              List<ArticleRepresentation>  articleRepresentations,
+                              List<ArticleRepresentation> articleRepresentations,
                               boolean verbose) {
         this.classificator = classificator;
         this.verbose = verbose;
-        divideForTrainAndTest(articleRepresentations);
+        this.articleRepresentations = articleRepresentations;
     }
 
-    public ClassificationTest(Classificator<ArticleRepresentation> classificator,
-                              ArticleRepresentationService representationCreator,
-                              List<Article> articles) {
-        this(classificator, representationCreator, articles, true);
+    public void crossValidationTest(int batchNo) {
+        int categotiesNo = Category.values().length;
+        int[] allCatArticlesNums = new int[categotiesNo];
+        int[] allCatArticlesProperClassifiesNums = new int[categotiesNo];
+        List<List<ArticleRepresentation>> batches = divideWholeSetForBatches(articleRepresentations, batchNo);
+        IntStream.range(0, batchNo).forEach(idx -> {
+            List<ArticleRepresentation> testArticleRepresentations = new ArrayList<>(batches.get(idx));
+            List<ArticleRepresentation> trainArticleRepresentations = new ArrayList<>(articleRepresentations);
+            trainArticleRepresentations.removeAll(testArticleRepresentations);
+
+            ClassificationResults classificationResults = checkClassificationAccuracy(trainArticleRepresentations, testArticleRepresentations);
+            int[] catArticlesNums = classificationResults.getCatArticlesNums();
+            int[] catArticlesProperClassifiesNums = classificationResults.getCatArticlesProperClassifiesNums();
+            ClassificationTestLogger.printBatchResults(catArticlesNums, catArticlesProperClassifiesNums);
+
+            IntStream.range(0, categotiesNo).forEach(catIdx -> {
+                allCatArticlesNums[catIdx] += catArticlesNums[catIdx];
+                allCatArticlesProperClassifiesNums[catIdx] += catArticlesProperClassifiesNums[catIdx];
+            });
+
+        });
+        ClassificationTestLogger.printCategoriesStats(allCatArticlesNums, allCatArticlesProperClassifiesNums);
+        ClassificationTestLogger.printClassificationResults(allCatArticlesNums, allCatArticlesProperClassifiesNums);
     }
 
 
-    public void checkClassificationAccuracy() {
+    private ClassificationResults checkClassificationAccuracy(List<ArticleRepresentation> trainArticleRepresentations, List<ArticleRepresentation> testArticleRepresentations) {
 
         List<Category> allCategories = new ArrayList<>(Arrays.asList(Category.values()));
         ClassificationModel<ArticleRepresentation> model = classificator.trainModel(trainArticleRepresentations);
@@ -64,69 +83,62 @@ public class ClassificationTest {
             if (prediction == properLabelValue) {
                 catArticlesProperClassifiesNums[properLabelValue] += 1;
             }
-            if(verbose) {
-                printProgress(index + 1, allArticlesNo);
-                printPrediction(articleRepresentation, prediction);
+            if (verbose) {
+                ClassificationTestLogger.printProgress(index + 1, allArticlesNo);
+                ClassificationTestLogger.printPrediction(articleRepresentation, prediction);
             }
         });
-
-        printClassicationResults(catArticlesNums, catArticlesProperClassifiesNums);
+        return new ClassificationResults(catArticlesNums, catArticlesProperClassifiesNums);
     }
 
-    private void divideForTrainAndTest(List<ArticleRepresentation> articleRepresentations) {
-        Arrays.asList(Category.values()).forEach(category ->{
-            List<ArticleRepresentation> categoryArticleRepresentations = articleRepresentations.stream()
-                    .filter(articleRepresentation -> category.getLabel() == articleRepresentation.getLabel())
-                    .collect(Collectors.toList());
-            int categoryArticlesNo = categoryArticleRepresentations.size();
-            int middleIdx = 3*categoryArticlesNo/4 + 1;
-            trainArticleRepresentations.addAll(categoryArticleRepresentations.subList(0, middleIdx));
-            testArticleRepresentations.addAll(categoryArticleRepresentations.subList(middleIdx, categoryArticlesNo));
-        });
-    }
+    private List<List<ArticleRepresentation>> divideWholeSetForBatches(List<ArticleRepresentation> articleRepresentations, int batchNo) {
+        List<List<ArticleRepresentation>> batches = new ArrayList<>();
 
-    private void printClassicationResults(int[] catArticlesNum, int[] catArticlesProperClassifiesNum) {
-        if(verbose) {
-            List<String> categoriesNames = Category.categoriesNames();
-            Arrays.asList(Category.values()).forEach(topicLabel -> {
-                int catIdx = topicLabel.getLabel();
-                int allFromCategory = catArticlesNum[catIdx];
-                int properlyClassified = catArticlesProperClassifiesNum[catIdx];
-                float categoryAccuracy = getAccuracy(properlyClassified, allFromCategory);
-                String categoryAccuracyFormat = "Category %s result: %d/%d = %.2f%% %n";
-                System.out.printf(categoryAccuracyFormat,
-                        categoriesNames.get(catIdx),
-                        properlyClassified,
-                        allFromCategory,
-                        categoryAccuracy);
+        IntStream.range(0, Category.values().length).forEach(idx ->
+                batches.add(new ArrayList<>())
+        );
+
+        Arrays.asList(Category.values()).forEach(category -> {
+            List<ArticleRepresentation> categoryArticleRepresentations = getCategoryArticlesRepresentations(articleRepresentations, category);
+            List<List<ArticleRepresentation>> categoryBatches = divideForBatches(categoryArticleRepresentations, batchNo);
+
+            IntStream.range(0, categoryBatches.size()).forEach(idx -> {
+                List<ArticleRepresentation> batch = batches.get(idx);
+                batch.addAll(categoryBatches.get(idx));
             });
+        });
+        return batches;
+    }
+
+    private List<ArticleRepresentation> getCategoryArticlesRepresentations(List<ArticleRepresentation> articleRepresentations, Category category) {
+        return articleRepresentations.stream()
+                .filter(articleRepresentation -> category.getLabel() == articleRepresentation.getLabel())
+                .collect(Collectors.toList());
+    }
+
+    private List<List<ArticleRepresentation>> divideForBatches(List<ArticleRepresentation> articleRepresentations, int batchesNo) {
+        List<List<ArticleRepresentation>> batches = new ArrayList<>();
+        List<Integer> batchEdgeIdxs = linearlyDivideSpace(0, articleRepresentations.size(), batchesNo);
+        IntStream.range(1, batchEdgeIdxs.size()).forEach(idx ->
+                batches.add(articleRepresentations.subList(batchEdgeIdxs.get(idx - 1), batchEdgeIdxs.get(idx))));
+        return batches;
+    }
+
+    private static List<Integer> linearlyDivideSpace(int startInclusive, int endInclusive, int segmentNo) {
+        List<Integer> points = new ArrayList<>();
+        int segmentSize = (endInclusive - startInclusive) / segmentNo;
+        for (int point = startInclusive; point <= endInclusive - segmentSize; point += segmentSize) {
+            points.add(point);
         }
-
-        int allGoodPredictions = IntStream.of(catArticlesProperClassifiesNum).sum();
-        int allPredictions = IntStream.of(catArticlesNum).sum();
-        float overallAccuracy = getAccuracy(allGoodPredictions, allPredictions);
-        System.out.printf("Overall accuracy: %d/%d = %.2f%% %n%n",
-                allGoodPredictions,
-                allPredictions,
-                overallAccuracy);
+        points.add(endInclusive);
+        return points;
     }
 
-    private float getAccuracy(float allGoodPredictions, float allPredictions) {
-        return allGoodPredictions / allPredictions * 100F;
-    }
-
-    private void printPrediction(ArticleRepresentation articleRepresentation, Integer label) {
-        final Category category = Category.valueOfInt(articleRepresentation.getLabel());
-        final Category prediction = Category.valueOfInt(label);
-        System.out.printf("Article tile: %s, article topic %s, prediction %s, correctness %b %n",
-                articleRepresentation.getTitle(),
-                category,
-                prediction,
-                category == prediction);
-    }
-
-    private void printProgress(int currentNo, int allNo) {
-        System.out.printf("%d/%d ", currentNo, allNo);
+    @AllArgsConstructor
+    @Getter
+    class ClassificationResults {
+        int[] catArticlesNums;
+        int[] catArticlesProperClassifiesNums;
     }
 
 

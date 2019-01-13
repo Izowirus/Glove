@@ -2,7 +2,6 @@ package pl;
 
 import pl.classification.Classificator;
 import pl.classification.KNNClassificator;
-import pl.classification.NeuralNetworkClassificator;
 import pl.classification.SVMClassificator;
 import pl.model.Article;
 import pl.model.ArticleRepresentation;
@@ -26,6 +25,7 @@ public class App {
         final boolean useStopList = Properties.boolValue("useStopList");
         final boolean normalize = Properties.boolValue("normalize");
         final int stopListSize = Properties.intValue("stopListSize");
+        final int crossValidationBatchesNo = Properties.intValue("crossValidationBatchesNo");
 
         final VectorsReader vectorsReader;
         if (useStopList) {
@@ -49,18 +49,9 @@ public class App {
 
         Stream.<Classificator<ArticleRepresentation>>of(
                 new KNNClassificator(15),
-                new KNNClassificator(21),
-                new KNNClassificator(25),
-                new SVMClassificator(1, 30),
-                new SVMClassificator(1, 50),
-                new SVMClassificator(0.5, 20),
-                new SVMClassificator(0.5, 10),
-                new SVMClassificator(0.5, 5),
-                new NeuralNetworkClassificator(300, 50, 50, 8),
-                new NeuralNetworkClassificator(300, 50, 65, 8),
-                new NeuralNetworkClassificator(300, 50, 80, 8)
+                new SVMClassificator(1, 50)
         ).peek(System.out::println)
                 .map(classificator -> new ClassificationTest(classificator, articleRepresentations, false))
-                .forEach(ClassificationTest::checkClassificationAccuracy);
+                .forEach(classificationTest -> classificationTest.crossValidationTest(crossValidationBatchesNo));
     }
 }
