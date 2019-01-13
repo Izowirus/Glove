@@ -2,3 +2,5 @@ articlesDirectory=artykuly_posegregowane
 vectorsFile=vectors.txt
 useStopList=true
 stopListSize=60
+normalize=true
+average=true

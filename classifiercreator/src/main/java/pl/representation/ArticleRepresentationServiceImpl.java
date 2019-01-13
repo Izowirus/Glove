@@ -1,6 +1,7 @@
 package pl.representation;
 
 import lombok.Setter;
+import pl.Properties;
 import pl.model.Article;
 import pl.model.ArticleRepresentation;
 import pl.model.Category;
@@ -39,12 +40,18 @@ public class ArticleRepresentationServiceImpl implements ArticleRepresentationSe
 
         double size = (double) vectors.size();
 
-        return vectors.stream()
+        List<Double> vector = vectors.stream()
                 .reduce(this::reduceVectors)
-                .orElseGet(Collections::emptyList)
-                .stream()
-                .map(d -> d/size)
-                .collect(Collectors.toList());
+                .orElseGet(Collections::emptyList);
+
+        if (Properties.boolValue("average")) {
+            return vector.stream()
+                    .map(d -> d / size)
+                    .collect(Collectors.toList());
+        } else {
+            return vector;
+        }
+
     }
 
     private List<Double> reduceVectors(List<Double> a, List<Double> b) {

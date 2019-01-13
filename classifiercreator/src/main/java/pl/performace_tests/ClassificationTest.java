@@ -1,6 +1,5 @@
 package pl.performace_tests;
 
-import lombok.extern.slf4j.Slf4j;
 import pl.classification.ClassificationModel;
 import pl.classification.Classificator;
 import pl.model.Article;
@@ -14,7 +13,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-@Slf4j
 public class ClassificationTest {
 
     private Classificator<ArticleRepresentation> classificator;
@@ -81,7 +79,7 @@ public class ClassificationTest {
                     .filter(articleRepresentation -> category.getLabel() == articleRepresentation.getLabel())
                     .collect(Collectors.toList());
             int categoryArticlesNo = categoryArticleRepresentations.size();
-            int middleIdx = categoryArticlesNo/2 + 1;
+            int middleIdx = 3*categoryArticlesNo/4 + 1;
             trainArticleRepresentations.addAll(categoryArticleRepresentations.subList(0, middleIdx));
             testArticleRepresentations.addAll(categoryArticleRepresentations.subList(middleIdx, categoryArticlesNo));
         });
