@@ -14,10 +14,12 @@ import pl.representation.ArticleRepresentationServiceImpl;
 import pl.representation.ContentFormatter;
 import pl.representation.ContentFormatterImpl;
 
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.List;
 import java.util.Map;
+import java.util.Properties;
 import java.util.stream.Stream;
 
 public class App {
@@ -27,11 +29,23 @@ public class App {
             System.out.println("Prosze podać ścieżkę do pliku z vectorami");
             System.exit(0);
         }
-        final String vectorFileName = args[0];
-        final String articleDirectory = args[1];
 
+        Properties properties = new Properties();
+        FileInputStream propertiesInputStream = new FileInputStream("properties.txt");
+        properties.load(propertiesInputStream);
 
-        final VectorsReader vectorsReader = new VectorsReader(Paths.get(vectorFileName), 60);
+        final String vectorFileName = properties.getProperty("vectorsFile");
+        final String articleDirectory = properties.getProperty("articlesDirectory");
+        final Boolean useStopList = Boolean.valueOf(properties.getProperty("useStopList"));
+        final Integer stopListSize = Integer.valueOf(properties.getProperty("stopListSize"));
+
+        final VectorsReader vectorsReader;
+        if(useStopList) {
+            vectorsReader = new VectorsReader(Paths.get(vectorFileName), stopListSize);
+        }
+        else {
+            vectorsReader = new VectorsReader(Paths.get(vectorFileName));
+        }
         final Map<String, List<Double>> globalVectors = vectorsReader.getGlobalVectors();
 
         System.out.println("Vectors read");
@@ -52,9 +66,9 @@ public class App {
                 new SVMClassificator(0.5, 20),
                 new SVMClassificator(0.5, 10),
                 new SVMClassificator(0.5, 5),
-                new NeuralNetworkClassificator(600, 50, 50, 8),
-                new NeuralNetworkClassificator(600, 50, 65, 8),
-                new NeuralNetworkClassificator(600, 50, 80, 8)
+                new NeuralNetworkClassificator(300, 50, 50, 8),
+                new NeuralNetworkClassificator(300, 50, 65, 8),
+                new NeuralNetworkClassificator(300, 50, 80, 8)
         ).peek(System.out::println)
                 .map(classificator -> new ClassificationTest(classificator, articleRepresentations, false))
                 .forEach(ClassificationTest::checkClassificationAccuracy);
