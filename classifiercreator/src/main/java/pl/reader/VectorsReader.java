@@ -19,13 +19,29 @@ public class VectorsReader {
         readVectorsFile(vectorsPath);
     }
 
+    public VectorsReader(Path vectorsPath, int stopListSize) throws IOException {
+        readVectorsWithoutStoplist(vectorsPath, stopListSize);
+    }
+
     private void readVectorsFile(Path vectorsPath) throws IOException {
-            Files.readAllLines(vectorsPath).forEach(line -> {
-                List<String> parsedLine = Arrays.asList(line.split(SPACE));
-                String word = parsedLine.get(0);
-                List<Double> vector = parsedLine.subList(1, parsedLine.size()).stream().map(Double::valueOf).collect(Collectors.toList());
-                globalVectors.put(word, vector);
-            });
+            Files.readAllLines(vectorsPath).forEach(this::processLine);
+    }
+
+    private void readVectorsWithoutStoplist(Path vectorsPath, int stopListSize) throws IOException {
+        int i = 0;
+       for(String line : Files.readAllLines(vectorsPath)){
+           if(i >= stopListSize){
+               processLine(line);
+           }
+           i++;
+       }
+    }
+
+    private void processLine(String line) {
+        List<String> parsedLine = Arrays.asList(line.split(SPACE));
+        String word = parsedLine.get(0);
+        List<Double> vector = parsedLine.subList(1, parsedLine.size()).stream().map(Double::valueOf).collect(Collectors.toList());
+        globalVectors.put(word, vector);
     }
 
     public Map<String, List<Double>> getGlobalVectors() {

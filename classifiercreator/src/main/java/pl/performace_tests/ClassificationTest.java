@@ -34,10 +34,19 @@ public class ClassificationTest {
 
 
     public ClassificationTest(Classificator<ArticleRepresentation> classificator,
+                              List<ArticleRepresentation>  articleRepresentations,
+                              boolean verbose) {
+        this.classificator = classificator;
+        this.verbose = verbose;
+        divideForTrainAndTest(articleRepresentations);
+    }
+
+    public ClassificationTest(Classificator<ArticleRepresentation> classificator,
                               ArticleRepresentationService representationCreator,
                               List<Article> articles) {
         this(classificator, representationCreator, articles, true);
     }
+
 
     public void checkClassificationAccuracy() {
 
