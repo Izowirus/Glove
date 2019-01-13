@@ -1,5 +1,7 @@
 package pl.reader;
 
+import lombok.Getter;
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -11,6 +13,7 @@ import java.util.stream.Collectors;
 
 import static org.apache.commons.lang3.StringUtils.SPACE;
 
+@Getter
 public class VectorsReader {
 
     private Map<String, List<Double>> globalVectors = new HashMap<>();
@@ -42,9 +45,5 @@ public class VectorsReader {
         String word = parsedLine.get(0);
         List<Double> vector = parsedLine.subList(1, parsedLine.size()).stream().map(Double::valueOf).collect(Collectors.toList());
         globalVectors.put(word, vector);
-    }
-
-    public Map<String, List<Double>> getGlobalVectors() {
-        return globalVectors;
     }
 }

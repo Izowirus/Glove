@@ -5,14 +5,14 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public enum Category {
-    COUNTRY(7),
+    COUNTRY(0),
     CULTURE(1),
     CURIOSITIES(2),
     ECONOMY(3),
     HEALTH(4),
     SCIENCE(5),
     SPORT(6),
-    WORLD(0);
+    WORLD(7);
 
     private int label;
 

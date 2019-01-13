@@ -9,10 +9,7 @@ import pl.model.ArticleRepresentation;
 import pl.performace_tests.ClassificationTest;
 import pl.reader.ArticleReader;
 import pl.reader.VectorsReader;
-import pl.representation.ArticleRepresentationService;
-import pl.representation.ArticleRepresentationServiceImpl;
-import pl.representation.ContentFormatter;
-import pl.representation.ContentFormatterImpl;
+import pl.representation.*;
 
 import java.io.IOException;
 import java.nio.file.Paths;
@@ -42,6 +39,7 @@ public class App {
         final ContentFormatter contentFormatter = new ContentFormatterImpl();
         final ArticleRepresentationService articleRepresentationService = new ArticleRepresentationServiceImpl(globalVectors, contentFormatter);
         final List<ArticleRepresentation> articleRepresentations = articleRepresentationService.crateRepresentation(articles);
+        new VectorNormalizer().minMaxNormalize(articleRepresentations);
 
         Stream.<Classificator<ArticleRepresentation>>of(
                 new KNNClassificator(15),
