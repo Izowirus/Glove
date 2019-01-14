@@ -94,7 +94,7 @@ public class ClassificationTest {
     private List<List<ArticleRepresentation>> divideWholeSetForBatches(List<ArticleRepresentation> articleRepresentations, int batchNo) {
         List<List<ArticleRepresentation>> batches = new ArrayList<>();
 
-        IntStream.range(0, Category.values().length).forEach(idx ->
+        IntStream.range(0, batchNo).forEach(idx ->
                 batches.add(new ArrayList<>())
         );
 
