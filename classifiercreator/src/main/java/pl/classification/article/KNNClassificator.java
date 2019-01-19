@@ -1,20 +1,17 @@
-package pl.classification;
+package pl.classification.article;
 
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+import pl.classification.ClassificationModel;
 import pl.model.ArticleRepresentation;
 import smile.classification.KNN;
 
 
-public class KNNClassificator extends ArticleRepresentationClassificator {
+@AllArgsConstructor
+@NoArgsConstructor
+class KNNClassificator extends ArticleRepresentationClassificator {
 
     int k = 1;
-
-    public KNNClassificator(int k) {
-        this.k = k;
-    }
-
-    public KNNClassificator() {
-
-    }
 
     @Override
     protected ClassificationModel<ArticleRepresentation> train(double[][] vectors, int[] labels) {

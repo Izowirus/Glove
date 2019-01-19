@@ -1,6 +1,8 @@
-package pl.classification;
+package pl.classification.article;
 
 import org.apache.commons.lang3.ArrayUtils;
+import pl.classification.ClassificationModel;
+import pl.classification.Classificator;
 import pl.model.ArticleRepresentation;
 
 import java.util.Collection;

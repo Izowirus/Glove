@@ -1,9 +1,9 @@
-package pl.classification;
+package pl.classification.article;
 
 import org.apache.commons.lang3.ArrayUtils;
+import pl.classification.ClassificationModel;
 import pl.model.ArticleRepresentation;
 import smile.classification.Classifier;
-import smile.classification.KNN;
 
 
 class ArticleClassificationModel implements ClassificationModel<ArticleRepresentation> {

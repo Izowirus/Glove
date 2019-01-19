@@ -1,10 +1,11 @@
-package pl.classification;
+package pl.classification.article;
 
+import pl.classification.ClassificationModel;
 import pl.model.ArticleRepresentation;
 import smile.classification.SVM;
 import smile.math.kernel.GaussianKernel;
 
-public class SVMClassificator extends  ArticleRepresentationClassificator {
+class SVMClassificator extends  ArticleRepresentationClassificator {
 
     private SVM.Trainer<double[]> trainer;
 

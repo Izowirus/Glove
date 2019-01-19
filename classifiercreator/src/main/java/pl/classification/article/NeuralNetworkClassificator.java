@@ -1,10 +1,11 @@
-package pl.classification;
+package pl.classification.article;
 
+import pl.classification.ClassificationModel;
 import pl.model.ArticleRepresentation;
 import smile.classification.NeuralNetwork;
 
 
-public class NeuralNetworkClassificator extends ArticleRepresentationClassificator {
+class NeuralNetworkClassificator extends ArticleRepresentationClassificator {
 
     private NeuralNetwork.Trainer trainer;
 

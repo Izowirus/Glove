@@ -1,11 +1,14 @@
 package pl;
 
+import akka.actor.ActorRef;
+import akka.actor.ActorSystem;
 import pl.classification.Classificator;
-import pl.classification.KNNClassificator;
-import pl.classification.SVMClassificator;
+import pl.classification.article.ArticleRepresentationClassificatorFactory;
 import pl.model.Article;
 import pl.model.ArticleRepresentation;
 import pl.performace_tests.ClassificationTest;
+import pl.performace_tests.actor.CrossValidationActor;
+import pl.performace_tests.actor.message.CrossTestClassificatorMessage;
 import pl.reader.ArticleReader;
 import pl.reader.VectorsReader;
 import pl.representation.*;
@@ -46,12 +49,22 @@ public class App {
         if (normalize) {
             new VectorNormalizer().minMaxNormalize(articleRepresentations);
         }
+        final ArticleRepresentationClassificatorFactory factory = new ArticleRepresentationClassificatorFactory();
 
-        Stream.<Classificator<ArticleRepresentation>>of(
-                new KNNClassificator(15),
-                new SVMClassificator(1, 50)
-        ).peek(System.out::println)
-                .map(classificator -> new ClassificationTest(classificator, articleRepresentations, false))
-                .forEach(classificationTest -> classificationTest.crossValidationTest(crossValidationBatchesNo));
+        ActorSystem test = ActorSystem.create("TEST");
+
+        try {
+            ActorRef supervisor = test.actorOf(CrossValidationActor.props(factory.KNNClassificator(15)), "CrossValidator");
+            supervisor.tell(CrossTestClassificatorMessage.of(articleRepresentations), ActorRef.noSender());
+
+
+            System.out.println("Press ENTER to exit the system");
+            System.in.read();
+        } finally {
+            test.terminate();
+        }
+
+
     }
+
 }

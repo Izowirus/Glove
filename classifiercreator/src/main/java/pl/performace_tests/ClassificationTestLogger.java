@@ -9,10 +9,10 @@ import java.util.stream.IntStream;
 
 public class ClassificationTestLogger {
 
-    static void printBatchResults(int[] catArticlesNum, int[] catArticlesProperClassifiesNum) {
+    public static void printBatchResults(ClassificationResults results) {
 
-        int allGoodPredictions = IntStream.of(catArticlesProperClassifiesNum).sum();
-        int allPredictions = IntStream.of(catArticlesNum).sum();
+        int allGoodPredictions = IntStream.of(results.catArticlesProperClassifiesNums).sum();
+        int allPredictions = IntStream.of(results.catArticlesNums).sum();
         float overallAccuracy = getAccuracy(allGoodPredictions, allPredictions);
         System.out.printf("Batch accuracy: %d/%d = %.2f%% %n%n",
                 allGoodPredictions,
@@ -20,10 +20,10 @@ public class ClassificationTestLogger {
                 overallAccuracy);
     }
 
-    static void printClassificationResults(int[] catArticlesNum, int[] catArticlesProperClassifiesNum) {
+    public static void printClassificationResults(ClassificationResults results) {
 
-        int allGoodPredictions = IntStream.of(catArticlesProperClassifiesNum).sum();
-        int allPredictions = IntStream.of(catArticlesNum).sum();
+        int allGoodPredictions = IntStream.of(results.catArticlesProperClassifiesNums).sum();
+        int allPredictions = IntStream.of(results.catArticlesNums).sum();
         float overallAccuracy = getAccuracy(allGoodPredictions, allPredictions);
         System.out.printf("Overall accuracy: %d/%d = %.2f%% %n%n",
                 allGoodPredictions,
@@ -31,12 +31,12 @@ public class ClassificationTestLogger {
                 overallAccuracy);
     }
 
-    static void printCategoriesStats(int[] catArticlesNum, int[] catArticlesProperClassifiesNum) {
+    public static void printCategoriesStats(ClassificationResults results) {
         List<String> categoriesNames = Category.categoriesNames();
         Arrays.asList(Category.values()).forEach(topicLabel -> {
             int catIdx = topicLabel.getLabel();
-            int allFromCategory = catArticlesNum[catIdx];
-            int properlyClassified = catArticlesProperClassifiesNum[catIdx];
+            int allFromCategory = results.catArticlesNums[catIdx];
+            int properlyClassified = results.catArticlesProperClassifiesNums[catIdx];
             float categoryAccuracy = getAccuracy(properlyClassified, allFromCategory);
             String categoryAccuracyFormat = "Category %s result: %d/%d = %.2f%% %n";
             System.out.printf(categoryAccuracyFormat,
@@ -47,7 +47,7 @@ public class ClassificationTestLogger {
         });
     }
 
-    static void printPrediction(ArticleRepresentation articleRepresentation, Integer label) {
+    public static void printPrediction(ArticleRepresentation articleRepresentation, Integer label) {
         final Category category = Category.valueOfInt(articleRepresentation.getLabel());
         final Category prediction = Category.valueOfInt(label);
         System.out.printf("Article tile: %s, article topic %s, prediction %s, correctness %b %n",
