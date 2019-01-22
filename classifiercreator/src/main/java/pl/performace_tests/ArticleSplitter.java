@@ -24,7 +24,7 @@ public class ArticleSplitter {
 
         Arrays.stream(Category.values())
             .map(category -> getCategoryArticlesRepresentations(articleRepresentations, category))
-            .map(articles -> ListUtils.partition(articles, batchNo))
+            .map(articles -> ListUtils.partition(articles, articles.size()/batchNo))
             .forEach(categoryBatches ->
                 IntStream.range(0, batchNo).forEach(idx -> {
                     List<ArticleRepresentation> batch = batches.get(idx);
