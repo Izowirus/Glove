@@ -3,11 +3,12 @@ package pl.classification.actor;
 import akka.actor.AbstractActor;
 import akka.actor.Props;
 import lombok.AllArgsConstructor;
+import pl.LoggerActor;
 import pl.classification.ClassificationModel;
 import pl.classification.Classificator;
 
 @AllArgsConstructor
-public class ClassificatorActor<T> extends AbstractActor {
+public class ClassificatorActor<T> extends LoggerActor {
 
     private Classificator<T> classificator;
 

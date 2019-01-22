@@ -13,25 +13,22 @@ import java.util.stream.IntStream;
 @Setter
 public class ArticleRepresentationServiceImpl implements ArticleRepresentationService {
 
-    private final Map<String, List<Double>> globalVectors;
     private final ContentFormatter contentFormatter;
 
-    public ArticleRepresentationServiceImpl(Map<String, List<Double>> globalVectors,
-                                            ContentFormatter contentFormatter) {
-        this.globalVectors = globalVectors;
+    public ArticleRepresentationServiceImpl(ContentFormatter contentFormatter) {
         this.contentFormatter = contentFormatter;
     }
 
     @Override
-    public ArticleRepresentation createRepresentation(Article article) {
+    public ArticleRepresentation createRepresentation(Article article,  Map<String, List<Double>> globalVectors) {
         final String text = contentFormatter.format(article.getContent());
         final Integer label = Category.valueOfString(article.getCategoryLabel()).getLabel();
         final String title = article.getTitle();
-        final List<Double> vector = createVector(text);
+        final List<Double> vector = createVector(text, globalVectors);
         return new ArticleRepresentation(label, vector, title);
     }
 
-    private List<Double> createVector(String text) {
+    private List<Double> createVector(String text, Map<String, List<Double>> globalVectors) {
         List<List<Double>> vectors = Arrays.stream(text.split("[ ]+"))
                 .map(globalVectors::get)
                 .filter(Objects::nonNull)
@@ -61,9 +58,9 @@ public class ArticleRepresentationServiceImpl implements ArticleRepresentationSe
     }
 
     @Override
-    public List<ArticleRepresentation> crateRepresentation(Collection<Article> articles) {
+    public List<ArticleRepresentation> createRepresentation(Collection<Article> articles,  Map<String, List<Double>> globalVectors) {
         return articles.stream()
-                .map(this::createRepresentation)
+                .map(article -> createRepresentation(article, globalVectors))
                 .collect(Collectors.toList());
     }
 }

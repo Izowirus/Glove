@@ -8,6 +8,7 @@ import akka.util.Timeout;
 import lombok.AllArgsConstructor;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.tuple.Pair;
+import pl.LoggerActor;
 import pl.classification.Classificator;
 import pl.model.ArticleRepresentation;
 import pl.model.Category;
@@ -27,17 +28,12 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 @AllArgsConstructor
-public class CrossValidationActor extends AbstractActor {
+public class CrossValidationActor extends LoggerActor {
 
     private Classificator<ArticleRepresentation> classificator;
 
     public static Props props(Classificator<ArticleRepresentation> classificator) {
         return Props.create(CrossValidationActor.class, () -> new CrossValidationActor(classificator));
-    }
-
-    @Override
-    public void preStart() {
-        System.out.println("CrossValidationActor started");
     }
 
     @Override

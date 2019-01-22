@@ -3,13 +3,12 @@ package pl.representation;
 import pl.model.Article;
 import pl.model.ArticleRepresentation;
 
-import java.util.Collection;
-import java.util.List;
+import java.util.*;
 
 public interface ArticleRepresentationService {
 
-    ArticleRepresentation createRepresentation(Article article);
+    ArticleRepresentation createRepresentation(Article article, Map<String, List<Double>> globalVectors);
 
-    List<ArticleRepresentation> crateRepresentation(Collection<Article> articles);
+    List<ArticleRepresentation> createRepresentation(Collection<Article> articles,  Map<String, List<Double>> globalVectors);
 
 }
