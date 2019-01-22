@@ -9,13 +9,13 @@ class NeuralNetworkClassificator extends ArticleRepresentationClassificator {
 
     private NeuralNetwork.Trainer trainer;
 
-    public NeuralNetworkClassificator(int epochs, int... neuronInLayers){
+    public NeuralNetworkClassificator(int epochs, double eta, int... neuronInLayers){
         trainer = new NeuralNetwork.Trainer(
                 NeuralNetwork.ErrorFunction.CROSS_ENTROPY,
                 NeuralNetwork.ActivationFunction.SOFTMAX,
                 neuronInLayers)
                 .setNumEpochs(epochs)
-                .setLearningRate(0.5);
+                .setLearningRate(eta);
     }
 
     @Override

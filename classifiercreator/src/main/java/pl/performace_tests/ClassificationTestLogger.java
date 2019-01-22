@@ -9,12 +9,26 @@ import java.util.stream.IntStream;
 
 public class ClassificationTestLogger {
 
-    public static void printBatchResults(ClassificationResults results) {
+    public static void printBatchResults(ClassificationResults results, int batchId) {
 
         int allGoodPredictions = IntStream.of(results.catArticlesProperClassifiesNums).sum();
         int allPredictions = IntStream.of(results.catArticlesNums).sum();
         float overallAccuracy = getAccuracy(allGoodPredictions, allPredictions);
-        System.out.printf("Batch accuracy: %d/%d = %.2f%% %n%n",
+        System.out.printf("Batch Id: %d - accuracy: %d/%d = %.2f%% %n",
+                batchId,
+                allGoodPredictions,
+                allPredictions,
+                overallAccuracy);
+    }
+
+    public static void printAgregatedResults(ClassificationResults results, int agregatedBatches, int allBatches) {
+
+        int allGoodPredictions = IntStream.of(results.catArticlesProperClassifiesNums).sum();
+        int allPredictions = IntStream.of(results.catArticlesNums).sum();
+        float overallAccuracy = getAccuracy(allGoodPredictions, allPredictions);
+        System.out.printf("Batches %d/%d agregated accuracy: %d/%d = %.2f%% %n%n",
+                agregatedBatches,
+                allBatches,
                 allGoodPredictions,
                 allPredictions,
                 overallAccuracy);
@@ -50,6 +64,7 @@ public class ClassificationTestLogger {
     public static void printPrediction(ArticleRepresentation articleRepresentation, Integer label) {
         final Category category = Category.valueOfInt(articleRepresentation.getLabel());
         final Category prediction = Category.valueOfInt(label);
+        System.out.println("Categories stats:");
         System.out.printf("Article tile: %s, article topic %s, prediction %s, correctness %b %n",
                 articleRepresentation.getTitle(),
                 category,

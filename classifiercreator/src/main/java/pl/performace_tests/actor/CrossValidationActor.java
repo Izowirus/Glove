@@ -1,11 +1,8 @@
 package pl.performace_tests.actor;
 
-import akka.actor.AbstractActor;
 import akka.actor.ActorRef;
 import akka.actor.Props;
-import akka.pattern.Patterns;
-import akka.util.Timeout;
-import lombok.AllArgsConstructor;
+import akka.actor.Status;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.tuple.Pair;
 import pl.LoggerActor;
@@ -14,26 +11,37 @@ import pl.model.ArticleRepresentation;
 import pl.model.Category;
 import pl.performace_tests.ClassificationResults;
 import pl.performace_tests.ClassificationTestLogger;
-import pl.performace_tests.actor.message.SplitRequestMessage;
-import pl.performace_tests.actor.message.SplitResponseMessage;
-import pl.performace_tests.actor.message.CrossTestClassificatorMessage;
-import pl.performace_tests.actor.message.TestClassificatorMessage;
-import scala.concurrent.Future;
+import pl.performace_tests.actor.message.*;
 
-import java.time.Duration;
-import java.util.*;
-import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.CompletionStage;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-@AllArgsConstructor
 public class CrossValidationActor extends LoggerActor {
 
     private Classificator<ArticleRepresentation> classificator;
+    private ClassificationResults classificationResults;
+    private int allBatches;
+    private int aggregatedBatches;
 
     public static Props props(Classificator<ArticleRepresentation> classificator) {
         return Props.create(CrossValidationActor.class, () -> new CrossValidationActor(classificator));
+    }
+
+    public CrossValidationActor(Classificator<ArticleRepresentation> classificator) {
+        this.classificator = classificator;
+        int categoriesNo = Category.values().length;
+        int[] allArticlesNums = new int[categoriesNo];
+        int[] allArticlesProperClassifiesNums = new int[categoriesNo];
+        classificationResults = new ClassificationResults(allArticlesNums, allArticlesProperClassifiesNums);
+
+    }
+
+    @Override
+    public void preStart() {
+        System.out.println("CrossValidationActor started");
     }
 
     @Override
@@ -41,58 +49,30 @@ public class CrossValidationActor extends LoggerActor {
         return receiveBuilder()
                 .match(CrossTestClassificatorMessage.class, this::requestSplitting)
                 .match(SplitResponseMessage.class, this::requestValidation)
+                .match(ClassifiactionResultsMessage.class, this::receiveBatchResults)
+                .match(FailureClassificationMessage.class, this::handleFailure)
                 .build();
     }
 
     private void requestValidation(SplitResponseMessage response) {
         List<List<ArticleRepresentation>> splitedData = response.splitedData;
+        allBatches = response.splitedData.size();
         Collection<ArticleRepresentation> data = new ArrayList<>(response.data);
 
-        List<CompletionStage<Object>> stages = splitedData.stream()
+        List<Pair> pairs = splitedData
+                .stream()
                 .map(test -> {
                     Collection<ArticleRepresentation> train = CollectionUtils.disjunction(data, test);
                     return Pair.of(train, test);
                 })
-                .map(pair -> {
-                    ActorRef actorRef = getContext().actorOf(ValidatorActor.props(classificator));
-                    return Patterns.ask(actorRef,
-                            TestClassificatorMessage.of(pair.getLeft(), pair.getRight()),
-                            Duration.ofMinutes(10));
-                }).collect(Collectors.toList());
-
-
-        List<ClassificationResults> results = stages.stream()
-                .map(CompletionStage::toCompletableFuture)
-                .map(this::getFromFuture)
                 .collect(Collectors.toList());
 
+        IntStream.range(0, pairs.size()).forEach(idx -> {
+            Pair<List<ArticleRepresentation>, List<ArticleRepresentation>> pair = pairs.get(idx);
+            ActorRef actorRef = getContext().actorOf(ValidatorActor.props(classificator));
+            actorRef.tell(TestClassificatorMessage.of(pair.getLeft(), pair.getRight(), idx), getSelf());
+        });
 
-        results.forEach(ClassificationTestLogger::printBatchResults);
-        ClassificationResults result = sumResults(results);
-        ClassificationTestLogger.printCategoriesStats(result);
-        ClassificationTestLogger.printClassificationResults(result);
-
-    }
-
-    private ClassificationResults sumResults(Collection<ClassificationResults> results) {
-        int categotiesNo = Category.values().length;
-        int[] allArticlesNums = new int[categotiesNo];
-        int[] allArticlesProperClassifiesNums = new int[categotiesNo];
-        results.forEach(result ->
-                IntStream.range(0, categotiesNo).forEach(catIdx -> {
-                    allArticlesNums[catIdx] += result.catArticlesNums[catIdx];
-                    allArticlesProperClassifiesNums[catIdx] += result.catArticlesProperClassifiesNums[catIdx];
-                })
-        );
-        return new ClassificationResults(allArticlesNums, allArticlesProperClassifiesNums);
-    }
-
-    private ClassificationResults getFromFuture(CompletableFuture<Object> future) {
-        try {
-            return (ClassificationResults) future.get();
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        }
     }
 
     private void requestSplitting(CrossTestClassificatorMessage message) {
@@ -100,5 +80,31 @@ public class CrossValidationActor extends LoggerActor {
         int batchNo = message.batchNo;
         ActorRef ref = getContext().actorOf(ArticleSplitterActor.props());
         ref.tell(SplitRequestMessage.of(data, batchNo), getSelf());
+    }
+
+    private void receiveBatchResults(ClassifiactionResultsMessage message) {
+        aggregatedBatches += 1;
+        agregateResults(message.classificationResults);
+        ClassificationTestLogger.printBatchResults(message.classificationResults, message.batchId);
+        if (aggregatedBatches == allBatches) {
+            ClassificationTestLogger.printClassificationResults(classificationResults);
+            ClassificationTestLogger.printCategoriesStats(classificationResults);
+        } else {
+            ClassificationTestLogger.printAgregatedResults(classificationResults, aggregatedBatches, allBatches);
+        }
+    }
+
+    private void agregateResults(ClassificationResults results) {
+        IntStream.range(0, Category.values().length).forEach(catIdx -> {
+            classificationResults.catArticlesNums[catIdx] += results.catArticlesNums[catIdx];
+            classificationResults.catArticlesProperClassifiesNums[catIdx] += results.catArticlesProperClassifiesNums[catIdx];
+        });
+    }
+
+    private void handleFailure(FailureClassificationMessage failure){
+        System.out.printf("Batch with id %d processing failed, cause: %s", failure.testClassificatorMessage.batchId, failure.failureCause);
+        System.out.println("Retrying...");
+        ActorRef actorRef = getContext().actorOf(ValidatorActor.props(classificator));
+        actorRef.tell(failure.testClassificatorMessage, getSelf());
     }
 }

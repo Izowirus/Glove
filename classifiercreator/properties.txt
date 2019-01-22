@@ -5,3 +5,5 @@ stopListSize=60
 normalize=true
 average=true
 crossValidationBatchesNo=10
+simulateFailures=true
+modelProcessWaitMinutes=1

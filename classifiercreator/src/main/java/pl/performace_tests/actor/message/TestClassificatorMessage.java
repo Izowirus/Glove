@@ -10,10 +10,11 @@ import java.util.Collections;
 public class TestClassificatorMessage {
     public final Collection<ArticleRepresentation> train;
     public final Collection<ArticleRepresentation> test;
+    public final int batchId;
 
     public static TestClassificatorMessage of(Collection<ArticleRepresentation> train,
-                                              Collection<ArticleRepresentation> test) {
+                                              Collection<ArticleRepresentation> test, int batchId) {
         return new TestClassificatorMessage(Collections.unmodifiableCollection(train),
-                Collections.unmodifiableCollection(test));
+                Collections.unmodifiableCollection(test), batchId);
     }
 }

@@ -1,8 +1,6 @@
 package pl.performace_tests.actor;
 
-import akka.actor.AbstractActor;
 import akka.actor.Props;
-import akka.pattern.AskableActorRef;
 import pl.LoggerActor;
 import pl.model.ArticleRepresentation;
 import pl.performace_tests.ArticleSplitter;

@@ -2,17 +2,12 @@ package pl;
 
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
-import pl.classification.article.ArticleRepresentationClassificatorFactory;
-import pl.model.ArticleRepresentation;
-import pl.performace_tests.actor.CrossValidationActor;
-import pl.performace_tests.actor.message.CrossTestClassificatorMessage;
 import pl.reader.actor.ArticleReaderActor;
 import pl.reader.actor.VectorsReaderActor;
 import pl.representation.*;
 import pl.representation.actor.ArticleRepresentationActor;
 
 import java.io.IOException;
-import java.util.List;
 
 public class App {
 

@@ -26,11 +26,11 @@ public class ArticleRepresentationClassificatorFactory{
     }
 
     public Classificator<ArticleRepresentation> NNClassificator(int... layes){
-        return new NeuralNetworkClassificator(200, layes);
+        return new NeuralNetworkClassificator(200, 0.05, layes);
     }
 
     public Classificator<ArticleRepresentation> NNClassificator(int epochs, int... layes){
-        return new NeuralNetworkClassificator(epochs, layes);
+        return new NeuralNetworkClassificator(epochs, 0.05, layes);
     }
 
 
