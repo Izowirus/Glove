@@ -40,11 +40,6 @@ public class CrossValidationActor extends LoggerActor {
     }
 
     @Override
-    public void preStart() {
-        System.out.println("CrossValidationActor started");
-    }
-
-    @Override
     public Receive createReceive() {
         return receiveBuilder()
                 .match(CrossTestClassificatorMessage.class, this::requestSplitting)
